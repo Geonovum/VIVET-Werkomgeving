@@ -6,7 +6,7 @@ In deze repository komen de bestanden te staan die horen bij VIVET gerelateerde 
 Hieronder een lijstje:
 
 | Projectnaam | Omschrijving                                     | Werkmap       | Rapport                      |
-|=============|==================================================|===============|==============================|
+|-------------|--------------------------------------------------|---------------|------------------------------|
 | VIMET-I     | Verkenning Informatiermodel Energie-Installaties | VIMET-I       |                              |
 |             |                                                  |               |                              |
 |             |                                                  |               |                              |

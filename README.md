@@ -7,7 +7,7 @@ Hieronder een lijstje:
 
 | Projectnaam | Omschrijving                                     | Werkmap       | Rapport                      |
 |-------------|--------------------------------------------------|---------------|------------------------------|
-| VIMET-I     | Verkenning Informatiermodel Energie-Installaties | [VIMET-I](https:https://github.com/Geonovum/VIVET-Werkomgeving/tree/master/VIMET-I/) | [VIMET-I](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-I/) |
+| VIMET-I     | Verkenning Informatiermodel Energie-Installaties | [VIMET-I](https://github.com/Geonovum/VIVET-Werkomgeving/tree/master/VIMET-I/) | [VIMET-I](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-I/) |
 |             |                                                  |               |                              |
 |             |                                                  |               |                              |
 |             |                                                  |               |                              |

@@ -61,7 +61,7 @@ var respecConfig =
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
   issueBase: "https://github.com/geonovum/VIVET-Werkomgeving/issues",
   //-- edDraftURI: de URI van de werkversie van het document
-  edDraftURI: "https://github/geonovum/VIVET-Werkomgeving/VIMET-I",
+  edDraftURI: "https://github/geonovum/VIVET-Werkomgeving",
   //-- de namen van de Editor(s) ------------------------------------------------------
   //-- vul in: per Editor: name:, company:, companyURL: -------------------------------
   editors: 

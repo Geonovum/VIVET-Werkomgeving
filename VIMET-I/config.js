@@ -46,22 +46,22 @@ var respecConfig =
   //-- specType is verplicht! (activeer 1 van de volgende) ----------------------------
   //specType: "NO",                   // Norm
   //specType: "ST",                   // Standaard
-  specType: "IM",                   // Informatie Model
-  //specType: "PR",                     // Praktijkrichtlijn
-  //specType: "HR",                   // HandReiking
+  //specType: "IM",                   // Informatie Model
+  //specType: "PR",                   // Praktijkrichtlijn
+  specType: "HR",                   // HandReiking
   //specType: "WA",                   // Werkafspraak
-  //specType: "BD",                     // Beheer Documentatie
+  //specType: "BD",                   // Beheer Documentatie
   //-- format is verplicht! -----------------------------------------------------------
   format: "markdown",                 // altijd "markdown"     
   //-- publishDate is verplicht -------------------------------------------------------
   //-- NB: in de werkversie uitzetten, want dan pakt Respec de pushdate ---------------
   //publishDate: "2019-10-08",  	    // Format is "YYYY-MM-DD"
   //-- Repositorynaam op GitHub -------------------------------------------------------
-  github: "https://github.com/geonovum/VIVET-I",
+  github: "https://github.com/geonovum/VIVET-Werkomgeving",
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
-  issueBase: "https://github.com/geonovum/VIVET-I/issues",
+  issueBase: "https://github.com/geonovum/VIVET-Werkomgeving/issues",
   //-- edDraftURI: de URI van de werkversie van het document
-  edDraftURI: "https://github/geonovum/VIVET-I/",
+  edDraftURI: "https://github/geonovum/VIVET-Werkomgeving/VIMET-I",
   //-- de namen van de Editor(s) ------------------------------------------------------
   //-- vul in: per Editor: name:, company:, companyURL: -------------------------------
   editors: 
@@ -71,11 +71,6 @@ var respecConfig =
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     }, 
-//    {
-//      name:       "Editor-2",
-//      company:    "Geonovum",
-//      companyURL: "https://www.geonovum.nl"
-//    }, 
   ],
   //-- de namen van de Author(s) ------------------------------------------------------
   //-- vul in: per Author: name:, company:, companyURL: -------------------------------

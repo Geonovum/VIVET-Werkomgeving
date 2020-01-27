@@ -1,6 +1,6 @@
 ## Inleiding
 
-Voor u ligt het ....
+Voor u ligt de ....
 
 *Generieke tekst over de energietransitie* 
 

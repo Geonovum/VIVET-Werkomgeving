@@ -1,10 +1,3 @@
 # VIVET-Werkomgeving - Modellen
-Werkomgeving voor het VIVET team
 
-In deze map komt informatie te staan van bestaande modellen
-
-Hieronder een lijstje:
-
-| Modelnaam   | Omschrijving | 
-|-------------|--------------| 
-|             |              |                                 
+In deze map komen beschrijvingen en voorbeelden van reken- en/of datamodellen te staan die we hebben geinventariseerd

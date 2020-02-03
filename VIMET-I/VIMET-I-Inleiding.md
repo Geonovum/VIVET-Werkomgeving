@@ -1,7 +1,6 @@
 Inleiding
 ---------
 
-<<<<<<< HEAD
 Met de energietransitie en de klimaatafspraken van Parijs staat Nederland voor
 een grote opgave. In Nederland werken veel partijen samen om klimaat- en
 energieafspraken na te komen. Voor de onderbouwing en uitvoering van alle
@@ -50,21 +49,6 @@ centraal register met alle energie installaties; dus zowel *alle energiebronnen*
 conversie als opslag).
 
 Het doel van het installatieregister is vierledig:
-=======
-Het eerste VIVET-werkplan constateert onder meer dat een centraal overzicht van installaties voor de 
-energievoorziening nog niet is georganiseerd. We weten dat informatie deels niet beschikbaar is, deels niet 
-vindbaar, deels niet ontsloten of niet koppelbaar. Dat betekent dat optimale besluitvorming voor de regionale
-energie strategieën en de transitievisie warmte thans niet goed mogelijk is.
-Om na te gaan wat nodig is om te komen tot zo’n overzicht, zijn twee deelprojecten gestart. 
-Als eerste een inventarisatie van bestaande informatiebronnen. En daarnaast  een verkenning van een informatiemodel, 
-dat Geonovum uitvoert in opdracht van RVO. 
-
-### Toepassingsgebied
-
-Dit kortlopende onderzoek moet resulteren in een voorstel hoe een 
-breed gedragen informatiemodel voor energie-installaties tot stand kan komen. Daarnaast wordt een eerste versie van 
-een informatiemodel opgeleverd waarmee verschillende VIVET-usecases kunnen worden beproefd. 
->>>>>>> 9350e1d22780db439afc97c7091858be4029017c
 
 1.  met een accuraat plaatje van energieaanbod, - vraag, -conversie en -opslag
     is het mogelijk om scenario’s goed door te rekenen;
@@ -131,48 +115,6 @@ installatieregister:
 -   financieel: wat kost de bouw van een installatieregister, welke
     beheerskosten zijn ermee gemoeid en hoe zou de financiering georganiseerd
     kunnen worden?
-
-### Opzet van de verkenning
-
-De verkenning bestaat uit drie delen:
-
--   A. Inzicht in informatiemodel
-
--   B. Inzicht in ICT architectuur
-
--   C. Proof of Concept
-
-Ad A. Inzicht in informatiemodel
-
-1) Voorstel schrijven op welke wijze een breed gedragen informatiemodel voor
-energie-installaties tot stand kan komen om de huidige en toekomstige
-informatie-uitwisseling te faciliteren voor versnelling van de energietransitie.
-
-2) Draagvlak creëren bij de belangrijkste stakeholders om tot een
-gemeenschappelijk informatiemodel te komen.
-
-3) Concreet informatiemodel om een POC uit te voeren. De scope hiervan beperkt
-zich tot de door VIVET aangedragen Use Cases, maar met de potentie om uit te
-bouwen tot een breder model binnen het energie domein (installaties / gebouwen /
-netwerk / energie).
-
-Ad B. Inzicht in ICT-architectuur
-
-1) Voorstel schrijven op welke wijze een breed gedragen ICT architectuur voor
-energie-installaties tot stand kan komen om de huidige en toekomstige
-informatie-uitwisseling te faciliteren voor versnelling van de energietransitie.
-
-2) Draagvlak creëren bij de belangrijkste stakeholders om tot een
-ICT-architectuur te komen.
-
-3) Concrete-ICT architectuur om een POC uit te voeren. De scope hiervan beperkt
-zich tot de door VIVET aangedragen Use Cases, maar met de potentie om uit te
-bouwen tot een breder model binnen het energiedomein (installaties / gebouwen /
-netwerk / energie).
-
-Ad C. Proof of Concept
-
-[PM]
 
 ### Doelgroep
 

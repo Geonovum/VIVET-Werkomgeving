@@ -1,6 +1,7 @@
 Inleiding
 ---------
 
+<<<<<<< HEAD
 Met de energietransitie en de klimaatafspraken van Parijs staat Nederland voor
 een grote opgave. In Nederland werken veel partijen samen om klimaat- en
 energieafspraken na te komen. Voor de onderbouwing en uitvoering van alle
@@ -49,6 +50,21 @@ centraal register met alle energie installaties; dus zowel *alle energiebronnen*
 conversie als opslag).
 
 Het doel van het installatieregister is vierledig:
+=======
+Het eerste VIVET-werkplan constateert onder meer dat een centraal overzicht van installaties voor de 
+energievoorziening nog niet is georganiseerd. We weten dat informatie deels niet beschikbaar is, deels niet 
+vindbaar, deels niet ontsloten of niet koppelbaar. Dat betekent dat optimale besluitvorming voor de regionale
+energie strategieën en de transitievisie warmte thans niet goed mogelijk is.
+Om na te gaan wat nodig is om te komen tot zo’n overzicht, zijn twee deelprojecten gestart. 
+Als eerste een inventarisatie van bestaande informatiebronnen. En daarnaast  een verkenning van een informatiemodel, 
+dat Geonovum uitvoert in opdracht van RVO. 
+
+### Toepassingsgebied
+
+Dit kortlopende onderzoek moet resulteren in een voorstel hoe een 
+breed gedragen informatiemodel voor energie-installaties tot stand kan komen. Daarnaast wordt een eerste versie van 
+een informatiemodel opgeleverd waarmee verschillende VIVET-usecases kunnen worden beproefd. 
+>>>>>>> 9350e1d22780db439afc97c7091858be4029017c
 
 1.  met een accuraat plaatje van energieaanbod, - vraag, -conversie en -opslag
     is het mogelijk om scenario’s goed door te rekenen;

@@ -1,6 +1,8 @@
 Inleiding
 ---------
 
+[ hier hieft geen tekst meer voor]
+
 Met de energietransitie en de klimaatafspraken van Parijs staat Nederland voor
 een grote opgave. In Nederland werken veel partijen samen om klimaat- en
 energieafspraken na te komen. Voor de onderbouwing en uitvoering van alle

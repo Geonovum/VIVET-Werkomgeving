@@ -1,7 +1,9 @@
 Bijlagen
 --------
 
-### Bijlage 1 – Open BIM-standaarden
+### Bijlage 1
+
+**Open BIM-standaarden**
 
 **Indeling naar typen standaarden: Uitwisseling / Semantiek / Proces**
 
@@ -21,7 +23,9 @@ Sectoren: Burgerlijke en Utiliteitsbouw / Grond, Weg en Waterbouw, Geo-domein)
 
 ![](media/cbb88545424412018f64eb82d4536490.png)
 
-### Bijlage 2 - Afsprakenstelsel
+### Bijlage 2
+
+**Afsprakenstelsel**
 
 **Samenwerkingsverbanden**
 
@@ -31,7 +35,7 @@ Sectoren: Burgerlijke en Utiliteitsbouw / Grond, Weg en Waterbouw, Geo-domein)
 
 ![](media/13deca386095b552f9ba632c5f962a82.png)
 
-Bouwstenen
+**Bouwstenen**
 
 ![](media/869adb654d0e8259190ae45b5f720e4a.png)
 
@@ -42,7 +46,8 @@ Bouwstenen
 Toepassing: concept voor afsprakenstelsel voor marktfacilitering (klantgegevens,
 meetdata, facturering); opgesteld door Netbeheer NL, Energie NL en Min EZK.
 
-Twee sheets uit presentatie 13 dec 2019.
+Twee sheets uit presentatie 13 dec 2019 (‘Presentatie toekomstige inrichting van
+uitwisseling en governance energiedata 191213.pdf’)
 
 Sheet 4:
 
@@ -50,7 +55,7 @@ Sheet 4:
 
 Sheet 27:
 
-### [./media/image10.png](./media/image10.png)
+![](media/ca96bb2087c193e0475fa7034b35a983.png)
 
 ### Bijlage 3A - ESDL (Energy System Description Language)
 

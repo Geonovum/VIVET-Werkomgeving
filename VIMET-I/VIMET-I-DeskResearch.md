@@ -178,7 +178,7 @@ het BIMLoket zijn deze met elkaar in verband gebracht en zijn de
 standaarden/taxonomieën beschreven in de [Atlas van open
 BIM-standaarden](https://www.bimloket.nl/Atlasvan-open-BIM-standaarden).
 
-Zie ook [Bijlage 1]((8.1%20Bijlage%201%20–%20Open%20BIM-standaarden)).
+Zie ook [Bijlage 1]((8.1%20Bijlage%201)). Testje [Bijlage 1]((Bijlage%201)).
 
 NB: Voorlopig is dat in dit document ondergebracht onder het kopje
 ‘Taxonomieën/classificaties’ en niet onder ‘Standaarden’.

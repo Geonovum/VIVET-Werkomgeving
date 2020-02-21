@@ -57,7 +57,9 @@ Sheet 27:
 
 ![](media/ca96bb2087c193e0475fa7034b35a983.png)
 
-### Bijlage 3A - ESDL (Energy System Description Language)
+### Bijlage 3A
+
+**ESDL (Energy System Description Language)**
 
 **Illustratie van beschrijving van een energiesysteem met ESDL-componenten:**
 
@@ -71,15 +73,17 @@ NB: In Bijlage 4 is een tabel opgenomen met het aantal voorkomens van de
 verschillende energiecapabilities (production, consumption, etc.) dat
 resulteerde uit de behoefte-analyse van 49 brondocumenten.
 
-### Bijlage 3B – Standaarden energiedomein
+### Bijlage 3B
 
-#### –Standaarden energiedomein
+**Standaarden energiedomein**
 
 ![](media/92194bb47a3bdbe6ea1c2cfdeb6f597f.png)
 
 ![](media/c2d313301334085c41c5656212dbaad9.png)
 
-### Bijlage 4 – ANALYSE INFORMATIEBEHOEFTEN
+### Bijlage 4
+
+**Analyse informatiebehoeften**
 
 Bron: Informatiebehoeften Installaties JanB fits.docx (Jan Bruinenberg)
 
@@ -108,189 +112,168 @@ energie-capabilities:
 
 ### Bijlage 5 – Specificatie installaties door EG-ETRM
 
-*NB: Formattering van de tabellen in deze bijlage moet nog aangepast!!*
-
 Door enkele deelnemers aan de **ExpertGroep EnergieTransitieRekenModellen** is
-een inventarisatie gemaakt van component van energiesystemen. Dit betreft:
+een inventarisatie gemaakt van componenten van energiesystemen en eigenschappen.
+
+De volledige opsomming is te vinden in ModelParametersEnergieTransitie.xlsx
+
+Dit betreft:
 
 -   typen installaties & netten per doel (reductie, conversie, etc.);
 
 -   de bij de typen installaties en netten behorende parameters
 
--   de parameters van gebouwen & kassen
+-   de parameters van gebouwen / kassen / schuren
 
-Bij deze componenten en parameters is aangegeven op welk ruimtelijk schaalniveau
-(van pand tot provincie) informatie gewenst is.
+Hierbij is aangegeven op welk ruimtelijk schaalniveau (van pand tot provincie)
+informatie gewenst is.
 
 Het betreft de volgende schaalniveaus:
 
-\| **Schaal** \| **Schaal 1** \| **Schaal 2** \| **Schaal 3** \| **Schaal 4** \|
-\| \| **Pand Modellen** \| **Buurt Modellen** \| **RES-regio Modellen** \|
-**Provincie Modellen** \|
-\|------------\|---------------------------------\|---------------------------------------------------------\|--------------------------------------------------------------------------------------------------\|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\|
-\| **Type** \| \| Warmteplannen Gemeente per Buurt -(leidraad ECW -Vesta) \| RES
--Regionale Energie Strategieën \| Systeemplannen - Provincies \| \| **Doel** \|
-Verduurzaming Gebouw/Kas/Schuur \| Verwarmen woonwijk + bijbehorende net
-infrastructuur \| 1. Locaties voor Productie duurzame elektriciteit en \|
-Toekomstige net-infrastructuur tbv leveringszekerheid, congestie management en
-verduurzaming energievragers (gebouwen, glastuinbouw, landbouw, veeteelt,
-industrie, vervoer) \| \| \| \| \| 2. Verduurzaming verwarmen gebouwde omgeving
-\| \|
-
-De volledige opsomming is te vinden in ModelParametersEnergieTransitie.xlsx
+| Schaal        | Type                          | Doel                                                                           |
+|---------------|-------------------------------|--------------------------------------------------------------------------------|
+| 1 – Pand      | Woningeigenaren / gebruikers  | Verduurzaming gebouw / kas / schuur                                            |
+| 2 – Buurt     | Gemeente per Buurt            | Verwarmen woonwijk en bijbehorende netinfra                                    |
+| 3 – RES-regio | Regionale Energie-Strategieën | Locaties Productie duurzame energie Verduurzaming verwarming gebouwde omgeving |
+| 4 - Provincie | Systeemplannen Provincies     | Net-infra tbv leveringszekerheid, congestiemgmt, verduurzaming energievragers  |
 
 Ter illustratie zijn hieronder enkele (extracten uit) de tabellen overgenomen.
 
-| **Parameters behorende bij elk type installatie of net-infra.**  |                                  |         |                                              |
-|------------------------------------------------------------------|----------------------------------|---------|----------------------------------------------|
-| Type                                                             |                                  |         |                                              |
-| VestNr                                                           |                                  |         |                                              |
-| KvKnr                                                            |                                  |         |                                              |
-| Sector                                                           |                                  |         |                                              |
-| Naam                                                             |                                  |         |                                              |
-| Plaats                                                           |                                  |         |                                              |
-| Status                                                           |                                  |         |                                              |
-| lat                                                              |                                  |         |                                              |
-| lng                                                              |                                  |         |                                              |
-| wkt                                                              |                                  |         |                                              |
-| InstallatieJaar                                                  |                                  |         |                                              |
-| doeltype \>woning/ubouw/kas/schuur                               |                                  |         |                                              |
-| m2 doel oppervlak                                                |                                  |         |                                              |
-| DiepteHoogteLengte_m                                             |                                  |         |                                              |
-| Debiet (m3/h)                                                    |                                  |         |                                              |
-| Druk_Pa                                                          |                                  |         |                                              |
-| Spanning_V                                                       |                                  |         |                                              |
-| Temperatuur_C                                                    |                                  |         |                                              |
-| Vermogen_MW                                                      |                                  |         |                                              |
-| VollastUren                                                      |                                  |         |                                              |
-| Capaciteit_MWh/eenheid                                           |                                  |         |                                              |
-| Eenheid                                                          |                                  |         |                                              |
-| Aantal aansluitingen                                             |                                  |         |                                              |
-| Gelijktijdigheidsfactor                                          |                                  |         |                                              |
-| efficientie/SPF/COP/isolatiewaarde                               |                                  |         |                                              |
-| Aantal onderstations                                             |                                  |         |                                              |
-| CO2_ktpj_vermeden                                                |                                  |         |                                              |
-| uur_profiel                                                      |                                  |         |                                              |
-| dag profiel                                                      |                                  |         |                                              |
-| jaar profiel                                                     |                                  |         |                                              |
-| investering_mlnEU                                                |                                  |         |                                              |
-| jaarlijkse kosten                                                |                                  |         |                                              |
-| Doel                                                             |                                  |         |                                              |
-| In_1                                                             |                                  |         |                                              |
-| In_2                                                             |                                  |         |                                              |
-| Uit_1                                                            |                                  |         |                                              |
-| Uit_2                                                            |                                  |         |                                              |
-| Energie_In_1                                                     |                                  |         |                                              |
-| Energie_In_2                                                     |                                  |         |                                              |
-| Energie_Uit_1                                                    |                                  |         |                                              |
-| Energie_Uit_2                                                    |                                  |         |                                              |
-| **Type installaties en netten van het duurzame energie systeem** |                                  |         |                                              |
-| **Doel**                                                         | **Typen installaties en netten** |         |                                              |
-| ProductieDuurzameEnergie                                         | bioProductie                     |         |                                              |
-| ProductieDuurzameEnergie                                         | bioVergasser                     |         |                                              |
-| ProductieDuurzameEnergie                                         | bioVergister                     |         |                                              |
-| ProductieDuurzameEnergie                                         | bioWarmte                        |         |                                              |
-| ProductieDuurzameEnergie                                         | bio-WKK                          |         |                                              |
-| ProductieDuurzameEnergie                                         | waterKracht                      |         |                                              |
-| ProductieDuurzameEnergie                                         | windStroom                       |         |                                              |
-| ProductieDuurzameEnergie                                         | zonneStroom                      |         |                                              |
-| ProductieDuurzameEnergie                                         | zonneWarmte                      |         |                                              |
-| ProductieDuurzameEnergie                                         | aerothermie                      |         |                                              |
-| ProductieDuurzameEnergie                                         | hydrothermie                     |         |                                              |
-| ProductieDuurzameEnergie                                         | aquathermie                      |         |                                              |
-| ProductieDuurzameEnergie                                         | riothermie                       |         |                                              |
-| ProductieDuurzameEnergie                                         | bodemenergie                     |         |                                              |
-| ProductieDuurzameEnergie                                         | MDG-aardWarmte                   |         |                                              |
-| ProductieDuurzameEnergie                                         | ODG-aardWarmte                   |         |                                              |
-| ProductieDuurzameEnergie                                         | UDG-aardWarmte                   |         |                                              |
-| EnergieOpslag                                                    | batterij-opslag                  |         |                                              |
-| EnergieOpslag                                                    | buffer-vat                       |         |                                              |
-| EnergieOpslag                                                    | HTW-opslag                       |         |                                              |
-| EnergieOpslag                                                    | MTW-opslag                       |         |                                              |
-| EnergieOpslag                                                    | PCM-opslag                       |         |                                              |
-| EnergieOpslag                                                    | power2H2-opslag                  |         |                                              |
-| EnergieOpslag                                                    | power2NH3-opslag                 |         |                                              |
-| EnergieOpslag                                                    | vliegwiel-opslag                 |         |                                              |
-| EnergieOpslag                                                    | WKO-opslag                       |         |                                              |
-| Opslag                                                           | CO2-opslag                       |         |                                              |
-| AanpassingNetten                                                 | CO2-net                          |         |                                              |
-| AanpassingNetten                                                 | E-net                            |         |                                              |
-| AanpassingNetten                                                 | GroenGas-net                     |         |                                              |
-| AanpassingNetten                                                 | Gas-net                          |         |                                              |
-| AanpassingNetten                                                 | H2-net                           |         |                                              |
-| AanpassingNetten                                                 | LTW-net                          |         |                                              |
-| AanpassingNetten                                                 | HTW-net                          |         |                                              |
-| AanpassingNetten                                                 | stoom-net                        |         |                                              |
-| ReductieCO2eqEndOfPipe                                           | CO2-afvang                       |         |                                              |
-| Installatie                                                      | Turbine                          |         |                                              |
-| Installatie                                                      | WKK                              |         |                                              |
-| Installatie                                                      | Fornuis                          |         |                                              |
-| Installatie                                                      | Ketel                            |         |                                              |
-| Installatie                                                      | HR-Ketel                         |         |                                              |
-| Installatie                                                      | Condensatie-Ketel                |         |                                              |
-| Installatie                                                      | ORC                              |         |                                              |
-| Installatie                                                      | WP                               |         |                                              |
-| Installatie                                                      | bodemwarmtepomp                  |         |                                              |
-| Installatie                                                      | luchtwarmtepomp                  |         |                                              |
-| Installatie                                                      | hybride warmtepomp               |         |                                              |
-| Installatie                                                      | HT-WP                            |         |                                              |
-| Installatie                                                      | WW                               |         |                                              |
-| Installatie                                                      | Station                          |         |                                              |
-| Installatie                                                      | Pelletkachel                     |         |                                              |
-| Installatie                                                      | Waterstof-ketel                  |         |                                              |
-| **Parameters Gebouwen en Kassen**                                |                                  |         |                                              |
-| Gebouwen/Kas/                                                    | Kenmerken                        |         | Postcode6                                    |
-| Schuur                                                           |                                  |         |                                              |
-|                                                                  |                                  |         | BAG ID                                       |
-|                                                                  |                                  |         | Huisnr                                       |
-|                                                                  |                                  |         | Straat                                       |
-|                                                                  |                                  |         | Buurt                                        |
-|                                                                  |                                  |         | Gemeente                                     |
-|                                                                  |                                  |         | Grond Oppervlakte                            |
-|                                                                  |                                  |         | Gebruiks Oppervlakte                         |
-|                                                                  |                                  |         | Omtrek                                       |
-|                                                                  |                                  |         | Hoogte                                       |
-|                                                                  |                                  |         | Gebouw functie                               |
-|                                                                  |                                  |         | Bouwjaar                                     |
-|                                                                  |                                  |         | Verdiepingen                                 |
-|                                                                  |                                  |         | Hoogte per verdiep (m)                       |
-|                                                                  |                                  |         | Hoek gebouw tov Zuiden                       |
-|                                                                  |                                  |         | Helling dak                                  |
-|                                                                  |                                  |         | EnergieLabel                                 |
-| Gebouwen/Kas/                                                    | Bestaand                         | Schil   | glasoppervlak                                |
-| Schuur                                                           |                                  |         |                                              |
-|                                                                  |                                  |         | isolatiewaarde vloer                         |
-|                                                                  |                                  |         | isolatiewaarde gevel                         |
-|                                                                  |                                  |         | isolatiewaarde dak                           |
-|                                                                  |                                  |         | U-waarde glas                                |
-|                                                                  |                                  |         | schillabel                                   |
-| Gebouwen/Kas/                                                    | Bestaand                         | Gebruik | binnentemperatuur                            |
-| Schuur                                                           |                                  |         |                                              |
-|                                                                  |                                  |         | η warmterugwinning                           |
-|                                                                  |                                  |         | infiltratievoud (1)                          |
-|                                                                  |                                  |         | aantal bewoners                              |
-|                                                                  |                                  |         | electriciteitsgebruik                        |
-|                                                                  |                                  |         | gebruik van energie voor verwarming          |
-|                                                                  |                                  |         | gebruik van energie voor koeling             |
-|                                                                  |                                  |         | gasgebruik                                   |
-|                                                                  |                                  |         | productie duurzame elektriciteit             |
-|                                                                  |                                  |         | productie duurzame warmte                    |
-|                                                                  |                                  |         | warm water gebruik                           |
-|                                                                  |                                  |         | huidig type kook installatie                 |
-|                                                                  |                                  |         | huidig type verwarmings installatie          |
-|                                                                  |                                  |         | vermogen verwarmings installatie             |
-|                                                                  |                                  |         | huidige type koel installatie                |
-|                                                                  |                                  |         | huidige boiler vat (liter)                   |
-|                                                                  |                                  |         | Productie Vermogen zonneStroom panelen       |
-|                                                                  |                                  |         | Productie Vermogen zonneWarmte               |
-|                                                                  |                                  |         | Aantal elektrische auto's                    |
-|                                                                  |                                  |         | Aansluiting op het warmtenet (≥ 70°C)        |
-|                                                                  |                                  |         | Aansluiting op het warmtenet (circa 50°C)    |
-|                                                                  |                                  |         | Aansluiting op het warmtenet (circa 30°C)    |
-|                                                                  |                                  |         | Aansluiting op het warmtenet (circa 15°C)    |
-|                                                                  |                                  |         | Warmtebron voeding warmtenet per aansluiting |
+**Parameters behorende bij elk type installatie of net-infra**
 
-### Bijlage 6 – Informatiemodel EBIF
+| Parameter                          | Voorbeelden/Toelichting                                                                         |
+|------------------------------------|-------------------------------------------------------------------------------------------------|
+| Type installatie                   | zie blad typeInstallaties&netten                                                                |
+| VestNr                             | Vestigingsnummer                                                                                |
+| KvKnr                              |                                                                                                 |
+| Sector                             | SBI code; woningen, utiliteitsbouw, glastuinbouw, veeteelt, landbouw, industrie, energie, afval |
+| Naam                               |                                                                                                 |
+| Plaats                             |                                                                                                 |
+| Status                             | potentie, plan, besluit(investerings besluit of bestuurlijk besluit), ingebruik, buitengebruik  |
+| Lat                                | latitude                                                                                        |
+| Lng                                | longitude                                                                                       |
+| Wkt                                | de hele geometry in wkt, gml, shape, ...formaat                                                 |
+| InstallatieJaar                    |                                                                                                 |
+| Doeltype                           | \>woning/ubouw/kas/schuur                                                                       |
+| M2 doel oppervlak                  | voor verwarmings installatie of verlichtingsinstallatie of productie of opslag installatie      |
+| DiepteHoogteLengte_m               | diepte voor ondergrondse, hoogte voor wind, lengte voor net-infrastructuur                      |
+| Debiet (m3/h)                      | aardwarmte, bodemenergie en netten                                                              |
+| Druk_Pa                            |                                                                                                 |
+| Spanning_V                         |                                                                                                 |
+| Temperatuur_C                      |                                                                                                 |
+| Vermogen_MW                        |                                                                                                 |
+| VollastUren                        |                                                                                                 |
+| Capaciteit_MWh/eenheid             | max opslag, conversie, productie of vraag                                                       |
+| Eenheid                            |                                                                                                 |
+| Aantal aansluitingen               | netten                                                                                          |
+| Gelijktijdigheidsfactor            | netten                                                                                          |
+| efficientie/SPF/COP/isolatiewaarde | netten, aardwarmte, wko..                                                                       |
+| Aantal onderstations               | netten                                                                                          |
+| CO2_ktpj_vermeden                  | CO2 opslag/reductie door efficientie/reductie door verduurzaming etc                            |
+| Uur_profiel                        |                                                                                                 |
+| Dag profiel                        | productie, levering, opslag of gebruiks- profiel                                                |
+| Jaar profiel                       | productie, levering, opslag of gebruiks- profiel                                                |
+| Investering_mlnEU                  | CAPEX                                                                                           |
+| Jaarlijkse kosten                  | OPEX                                                                                            |
+| Doel                               | zie blad typeInstallaties&netten                                                                |
+| In_1                               | energiedrager                                                                                   |
+| In_2                               | energiedrager                                                                                   |
+| Uit_1                              | energiedrager                                                                                   |
+| Uit_2                              | energiedrager                                                                                   |
+| Energie_In_1                       | Wh/jaar                                                                                         |
+| Energie_In_2                       | Wh/jaar                                                                                         |
+| Energie_Uit_1                      | Wh/jaar                                                                                         |
+| Energie_Uit_2                      | Wh/jaar                                                                                         |
+
+**Type installaties en netten van het duurzame-energiesysteem**
+
+| **Doel**                 | **Typen installaties en netten** |
+|--------------------------|----------------------------------|
+| ProductieDuurzameEnergie | bioProductie                     |
+| ProductieDuurzameEnergie | bioVergasser                     |
+| ProductieDuurzameEnergie | bioVergister                     |
+| ProductieDuurzameEnergie | bioWarmte                        |
+| ProductieDuurzameEnergie | bio-WKK                          |
+| ProductieDuurzameEnergie | waterKracht                      |
+| ProductieDuurzameEnergie | windStroom                       |
+| ProductieDuurzameEnergie | zonneStroom                      |
+| ProductieDuurzameEnergie | zonneWarmte                      |
+| ProductieDuurzameEnergie | aerothermie                      |
+| ProductieDuurzameEnergie | hydrothermie                     |
+| ProductieDuurzameEnergie | aquathermie                      |
+| ProductieDuurzameEnergie | riothermie                       |
+| ProductieDuurzameEnergie | bodemenergie                     |
+| ProductieDuurzameEnergie | MDG-aardWarmte                   |
+| ProductieDuurzameEnergie | ODG-aardWarmte                   |
+| ProductieDuurzameEnergie | UDG-aardWarmte                   |
+| EnergieOpslag            | batterij-opslag                  |
+| EnergieOpslag            | buffer-vat                       |
+| EnergieOpslag            | HTW-opslag                       |
+| EnergieOpslag            | MTW-opslag                       |
+| EnergieOpslag            | PCM-opslag                       |
+| EnergieOpslag            | power2H2-opslag                  |
+| EnergieOpslag            | power2NH3-opslag                 |
+| EnergieOpslag            | vliegwiel-opslag                 |
+| EnergieOpslag            | WKO-opslag                       |
+| Opslag                   | CO2-opslag                       |
+| AanpassingNetten         | CO2-net                          |
+| AanpassingNetten         | E-net                            |
+| AanpassingNetten         | GroenGas-net                     |
+| AanpassingNetten         | Gas-net                          |
+| AanpassingNetten         | H2-net                           |
+| AanpassingNetten         | LTW-net                          |
+| AanpassingNetten         | HTW-net                          |
+| AanpassingNetten         | stoom-net                        |
+| ReductieCO2eqEndOfPipe   | CO2-afvang                       |
+| Installatie              | Turbine                          |
+| Installatie              | WKK                              |
+| Installatie              | Fornuis                          |
+| Installatie              | Ketel                            |
+| Installatie              | HR-Ketel                         |
+| Installatie              | Condensatie-Ketel                |
+| Installatie              | ORC                              |
+| Installatie              | WP                               |
+| Installatie              | bodemwarmtepomp                  |
+| Installatie              | luchtwarmtepomp                  |
+| Installatie              | hybride warmtepomp               |
+| Installatie              | HT-WP                            |
+| Installatie              | WW                               |
+| Installatie              | Station                          |
+| Installatie              | Pelletkachel                     |
+| Installatie              | Waterstof-ketel                  |
+
+**Parameters Gebouwen / Kassen / Schuren**
+
+| Algemeen                  | Schil                | Gebruik                                      |
+|---------------------------|----------------------|----------------------------------------------|
+| Postcode 6                | Glasoppervlak        | Binnentemperatuur                            |
+| BAG ID                    | Isolatiewaarde vloer | η Warmterugwinning                           |
+| Huisnr                    | Isolatiewaarde gevel | Infiltratievoud (1)                          |
+| Straat                    | Isolatiewaarde dak   | Aantal bewoners                              |
+| Buurt                     | U-waarde glas        | Elektriciteitsgebruik                        |
+| Gemeente                  | Schillabel           | Gebruik van energie voor verwarming          |
+| Grond Oppervlakte         |                      | Gebruik van energie voor koeling             |
+| Gebruiks Oppervlakte      |                      | Gasgebruik                                   |
+| Omtrek                    |                      | Productie duurzame elektriciteit             |
+| Hoogte                    |                      | Productie duurzame warmte                    |
+| Gebouw functie            |                      | Warm water gebruik                           |
+| Bouwjaar                  |                      | Huidig type kookinstallatie                  |
+| Verdiepingen              |                      | Huidig type verwarmingsinstallatie           |
+| Hoogte per verdieping (m) |                      | Vermogen verwarmingsinstallatie              |
+| Hoek gebouw tov Zuiden    |                      | Huidige type koelinstallatie                 |
+| Helling dak               |                      | Huidige boilervat (liter)                    |
+| EnergieLabel              |                      | Productie Vermogen zonnestroom panelen       |
+|                           |                      | Productie Vermogen zonnewarmte               |
+|                           |                      | Aantal elektrische auto's                    |
+|                           |                      | Aansluiting op het warmtenet (≥ 70°C)        |
+|                           |                      | Aansluiting op het warmtenet (circa 50°C)    |
+|                           |                      | Aansluiting op het warmtenet (circa 30°C)    |
+|                           |                      | Aansluiting op het warmtenet (circa 15°C)    |
+|                           |                      | Warmtebron voeding warmtenet per aansluiting |
+
+### Bijlage 6
+
+**Informatiemodel EBIF**
 
 Bron: [Documentatie Project CERISE-SG](https://www.geonovum.nl/themas/energie)
 op site van Geonovum.

@@ -57,7 +57,7 @@ Sheet 27:
 
 ![](media/ca96bb2087c193e0475fa7034b35a983.png)
 
-### Bijlage 3A
+### Bijlage 3
 
 **ESDL (Energy System Description Language)**
 
@@ -72,8 +72,6 @@ Sheet 27:
 NB: In Bijlage 4 is een tabel opgenomen met het aantal voorkomens van de
 verschillende energiecapabilities (production, consumption, etc.) dat
 resulteerde uit de behoefte-analyse van 49 brondocumenten.
-
-### Bijlage 3B
 
 **Standaarden energiedomein**
 
@@ -110,14 +108,16 @@ energie-capabilities:
 
 ![](media/388ec36ab5ff0565711fe518f2e616bc.png)
 
-### Bijlage 5 – Specificatie installaties door EG-ETRM
+### Bijlage 5
+
+**Specificatie installaties door EG-ETRM**
 
 Door enkele deelnemers aan de **ExpertGroep EnergieTransitieRekenModellen** is
 een inventarisatie gemaakt van componenten van energiesystemen en eigenschappen.
 
 De volledige opsomming is te vinden in ModelParametersEnergieTransitie.xlsx
 
-Dit betreft:
+Het betreft:
 
 -   typen installaties & netten per doel (reductie, conversie, etc.);
 

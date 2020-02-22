@@ -291,3 +291,9 @@ berichtenverkeer voor een EBIF worden gedefinieerd.
 ![](media/87ba8079b203a853aabef43251f6d813.png)
 
 ![](media/38023d45b45a6a8b29a108e91be27b0c.png)
+
+### Bijlage 7
+
+**Installatie- en keuringenregister**
+
+![](media/40679eb571a511b9a3ac43374f911b06.png)

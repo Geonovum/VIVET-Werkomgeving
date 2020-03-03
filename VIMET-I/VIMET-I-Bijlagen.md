@@ -120,18 +120,18 @@ deze bijlage is daar een extract uit weergegeven.
 
 Het betreft:
 
+-   een uitputtende lijst van parameters, die te gebruiken zijn als parameters
+    bij de verschillende typen installaties en netten;
+
 -   een overzicht van typen installaties & netten per doel (bijv.
     ProductieDuurzame Energie, EnergieOpslag, CO2-Opslag, CO2-Reductie,
     AanpassingNetten), en een lijst van Installaties voor energieconversie;
-
--   een uitputtende lijst van parameters, die te gebruiken zijn als parameters
-    bij de verschillende typen installaties en netten;
 
 -   een opsomming van te gebruiken parameters van gebouwen (inclusief kassen &
     schuren), onderscheiden in drie categorieën: algemeen, schil en
     energiegebruik.
 
-Voor elk van de parameters en installaties/netten is in genoemdespreadsheet
+Voor elk van de parameters en installaties/netten is in genoemde spreadsheet
 aangegeven op welk ruimtelijk schaalniveau (van pand tot provincie) welke
 informatie gewenst is.
 
@@ -142,12 +142,17 @@ Het betreft de volgende schaalniveaus en de op dat schaalniveau beoogde doelen:
 | 1 – Pand      | Woningeigenaren / gebruikers  | Verduurzaming gebouw / kas / schuur                                            |
 | 2 – Buurt     | Gemeente per Buurt            | Verwarmen woonwijk en bijbehorende netinfra                                    |
 | 3 – RES-regio | Regionale Energie-Strategieën | Locaties Productie duurzame energie Verduurzaming verwarming gebouwde omgeving |
-| 4 - Provincie | Systeemplannen Provincies     | Net-infra tbv leveringszekerheid, congestiemgmt, verduurzaming energievragers  |
+| 4 – Provincie | Systeemplannen Provincies     | Net-infra tbv leveringszekerheid, congestiemgmt, verduurzaming energievragers  |
 
 Ter illustratie zijn hieronder de geïnventariseerde typen installatie en
 parameters in tabelvorm weergegeven.
 
 **Parameters behorende bij elk type installatie of net-infra**
+
+Hieronder volgt een uitputtende lijst van parameters, die te gebruiken zijn als
+parameters bij de verschillende typen installaties en netten. Uiteraard hangt
+het af van het type installatie en het type net welke parameters van toepassing
+zijn.
 
 | Parameter                          | Voorbeelden/Toelichting                                                                         |
 |------------------------------------|-------------------------------------------------------------------------------------------------|
@@ -160,7 +165,7 @@ parameters in tabelvorm weergegeven.
 | Status                             | potentie, plan, besluit (investeringsbesluit of bestuurlijk besluit), in gebruik, buitengebruik |
 | Lat                                | latitude                                                                                        |
 | Lng                                | longitude                                                                                       |
-| Wkt                                | de hele geometry in wkt, gml, shape, ...formaat                                                 |
+| Wkt                                | de hele geometry in wkt-, gml-, shape-, ...formaat                                              |
 | InstallatieJaar                    |                                                                                                 |
 | Doeltype                           | \>woning/ubouw/kas/schuur                                                                       |
 | M2 doel oppervlak                  | voor verwarmingsinstallatie of verlichtingsinstallatie of productie of opslag installatie       |
@@ -194,6 +199,10 @@ parameters in tabelvorm weergegeven.
 | Energie_Uit_2                      | Wh/jaar                                                                                         |
 
 **Type installaties en netten van het duurzame-energiesysteem**
+
+Hieronder is weergegeven welk type installatie en net van toepassing is bij
+bepaalde energiedoelen. De lijst wordt aangevuld met een lijst van type
+installaties voor energieconversie.
 
 | **Doel**                 | **Typen installaties en netten** |
 |--------------------------|----------------------------------|
@@ -251,6 +260,12 @@ parameters in tabelvorm weergegeven.
 | Installatie              | Waterstof-ketel                  |
 
 **Parameters Gebouwen / Kassen / Schuren**
+
+Hieronder volgt een opsomming van de door rekenmodellen te gebruiken parameters
+van gebouwen (inclusief kassen & schuren), onderscheiden in drie categorieën:
+algemeen, de schil van het gebouw en het energiegebruik in het gebouw. In
+genoemd spreadsheet is per parameter nog onderscheiden of deze van toepassing is
+voor een vbo (verblijfsobject, bijv. appartement) of voor een pand (flatgebouw).
 
 | Algemeen                  | Schil                | Gebruik                                      |
 |---------------------------|----------------------|----------------------------------------------|

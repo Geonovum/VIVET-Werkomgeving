@@ -115,20 +115,27 @@ energie-capabilities:
 Door enkele deelnemers aan de **ExpertGroep EnergieTransitieRekenModellen** is
 een inventarisatie gemaakt van componenten van energiesystemen en eigenschappen.
 
-De volledige opsomming is te vinden in ModelParametersEnergieTransitie.xlsx
+De volledige opsomming is te vinden in ModelParametersEnergieTransitie.xlsx. In
+deze bijlage is daar een extract uit weergegeven.
 
 Het betreft:
 
--   typen installaties & netten per doel (reductie, conversie, etc.);
+-   een overzicht van typen installaties & netten per doel (bijv.
+    ProductieDuurzame Energie, EnergieOpslag, CO2-Opslag, CO2-Reductie,
+    AanpassingNetten), en een lijst van Installaties voor energieconversie;
 
--   de bij de typen installaties en netten behorende parameters
+-   een uitputtende lijst van parameters, die te gebruiken zijn als parameters
+    bij de verschillende typen installaties en netten;
 
--   de parameters van gebouwen / kassen / schuren
+-   een opsomming van te gebruiken parameters van gebouwen (inclusief kassen &
+    schuren), onderscheiden in drie categorieën: algemeen, schil en
+    energiegebruik.
 
-Hierbij is aangegeven op welk ruimtelijk schaalniveau (van pand tot provincie)
+Voor elk van de parameters en installaties/netten is in genoemdespreadsheet
+aangegeven op welk ruimtelijk schaalniveau (van pand tot provincie) welke
 informatie gewenst is.
 
-Het betreft de volgende schaalniveaus:
+Het betreft de volgende schaalniveaus en de op dat schaalniveau beoogde doelen:
 
 | Schaal        | Type                          | Doel                                                                           |
 |---------------|-------------------------------|--------------------------------------------------------------------------------|
@@ -137,7 +144,8 @@ Het betreft de volgende schaalniveaus:
 | 3 – RES-regio | Regionale Energie-Strategieën | Locaties Productie duurzame energie Verduurzaming verwarming gebouwde omgeving |
 | 4 - Provincie | Systeemplannen Provincies     | Net-infra tbv leveringszekerheid, congestiemgmt, verduurzaming energievragers  |
 
-Ter illustratie zijn hieronder enkele (extracten uit) de tabellen overgenomen.
+Ter illustratie zijn hieronder de geïnventariseerde typen installatie en
+parameters in tabelvorm weergegeven.
 
 **Parameters behorende bij elk type installatie of net-infra**
 
@@ -149,13 +157,13 @@ Ter illustratie zijn hieronder enkele (extracten uit) de tabellen overgenomen.
 | Sector                             | SBI code; woningen, utiliteitsbouw, glastuinbouw, veeteelt, landbouw, industrie, energie, afval |
 | Naam                               |                                                                                                 |
 | Plaats                             |                                                                                                 |
-| Status                             | potentie, plan, besluit(investerings besluit of bestuurlijk besluit), ingebruik, buitengebruik  |
+| Status                             | potentie, plan, besluit (investeringsbesluit of bestuurlijk besluit), in gebruik, buitengebruik |
 | Lat                                | latitude                                                                                        |
 | Lng                                | longitude                                                                                       |
 | Wkt                                | de hele geometry in wkt, gml, shape, ...formaat                                                 |
 | InstallatieJaar                    |                                                                                                 |
 | Doeltype                           | \>woning/ubouw/kas/schuur                                                                       |
-| M2 doel oppervlak                  | voor verwarmings installatie of verlichtingsinstallatie of productie of opslag installatie      |
+| M2 doel oppervlak                  | voor verwarmingsinstallatie of verlichtingsinstallatie of productie of opslag installatie       |
 | DiepteHoogteLengte_m               | diepte voor ondergrondse, hoogte voor wind, lengte voor net-infrastructuur                      |
 | Debiet (m3/h)                      | aardwarmte, bodemenergie en netten                                                              |
 | Druk_Pa                            |                                                                                                 |
@@ -169,7 +177,7 @@ Ter illustratie zijn hieronder enkele (extracten uit) de tabellen overgenomen.
 | Gelijktijdigheidsfactor            | netten                                                                                          |
 | efficientie/SPF/COP/isolatiewaarde | netten, aardwarmte, wko..                                                                       |
 | Aantal onderstations               | netten                                                                                          |
-| CO2_ktpj_vermeden                  | CO2 opslag/reductie door efficientie/reductie door verduurzaming etc                            |
+| CO2_ktpj_vermeden                  | CO2 opslag/reductie door efficiëntie / reductie door verduurzaming etc.                         |
 | Uur_profiel                        |                                                                                                 |
 | Dag profiel                        | productie, levering, opslag of gebruiks- profiel                                                |
 | Jaar profiel                       | productie, levering, opslag of gebruiks- profiel                                                |

@@ -164,6 +164,7 @@ wijze daar een relatie mee?
 | BGT                                                       |         |           |          |           |           | IMGEO, BGT  |
 | Top10NL                                                   |         |           |          |           |           | IMTOP       |
 | NHR                                                       |         |           |          |           |           | IMHR        |
+| BRO                                                       |         |           |          |           |           | IMBOR        |
 | **Databronnen energie-installaties**                      |         |           |          |           |           |             |             |
 | Aansluitingen (C-AR, EDSN)                                |    ?    |           |          |           |           |             |             |
 | Kabels en Leidingen (Assetmanagement Netbeheerders)       |         |           |          |           |           |             |

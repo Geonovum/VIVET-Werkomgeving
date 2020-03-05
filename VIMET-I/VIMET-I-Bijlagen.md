@@ -115,31 +115,44 @@ energie-capabilities:
 Door enkele deelnemers aan de **ExpertGroep EnergieTransitieRekenModellen** is
 een inventarisatie gemaakt van componenten van energiesystemen en eigenschappen.
 
-De volledige opsomming is te vinden in ModelParametersEnergieTransitie.xlsx
+De volledige opsomming is te vinden in ModelParametersEnergieTransitie.xlsx. In
+deze bijlage is daar een extract uit weergegeven.
 
 Het betreft:
 
--   typen installaties & netten per doel (reductie, conversie, etc.);
+-   een uitputtende lijst van parameters, die te gebruiken zijn als parameters
+    bij de verschillende typen installaties en netten;
 
--   de bij de typen installaties en netten behorende parameters
+-   een overzicht van typen installaties & netten per doel (bijv.
+    ProductieDuurzame Energie, EnergieOpslag, CO2-Opslag, CO2-Reductie,
+    AanpassingNetten), en een lijst van Installaties voor energieconversie;
 
--   de parameters van gebouwen / kassen / schuren
+-   een opsomming van te gebruiken parameters van gebouwen (inclusief kassen &
+    schuren), onderscheiden in drie categorieën: algemeen, schil en
+    energiegebruik.
 
-Hierbij is aangegeven op welk ruimtelijk schaalniveau (van pand tot provincie)
+Voor elk van de parameters en installaties/netten is in genoemde spreadsheet
+aangegeven op welk ruimtelijk schaalniveau (van pand tot provincie) welke
 informatie gewenst is.
 
-Het betreft de volgende schaalniveaus:
+Het betreft de volgende schaalniveaus en de op dat schaalniveau beoogde doelen:
 
 | Schaal        | Type                          | Doel                                                                           |
 |---------------|-------------------------------|--------------------------------------------------------------------------------|
 | 1 – Pand      | Woningeigenaren / gebruikers  | Verduurzaming gebouw / kas / schuur                                            |
 | 2 – Buurt     | Gemeente per Buurt            | Verwarmen woonwijk en bijbehorende netinfra                                    |
 | 3 – RES-regio | Regionale Energie-Strategieën | Locaties Productie duurzame energie Verduurzaming verwarming gebouwde omgeving |
-| 4 - Provincie | Systeemplannen Provincies     | Net-infra tbv leveringszekerheid, congestiemgmt, verduurzaming energievragers  |
+| 4 – Provincie | Systeemplannen Provincies     | Net-infra tbv leveringszekerheid, congestiemgmt, verduurzaming energievragers  |
 
-Ter illustratie zijn hieronder enkele (extracten uit) de tabellen overgenomen.
+Ter illustratie zijn hieronder de geïnventariseerde typen installatie en
+parameters in tabelvorm weergegeven.
 
 **Parameters behorende bij elk type installatie of net-infra**
+
+Hieronder volgt een uitputtende lijst van parameters, die te gebruiken zijn als
+parameters bij de verschillende typen installaties en netten. Uiteraard hangt
+het af van het type installatie en het type net welke parameters van toepassing
+zijn.
 
 | Parameter                          | Voorbeelden/Toelichting                                                                         |
 |------------------------------------|-------------------------------------------------------------------------------------------------|
@@ -149,13 +162,13 @@ Ter illustratie zijn hieronder enkele (extracten uit) de tabellen overgenomen.
 | Sector                             | SBI code; woningen, utiliteitsbouw, glastuinbouw, veeteelt, landbouw, industrie, energie, afval |
 | Naam                               |                                                                                                 |
 | Plaats                             |                                                                                                 |
-| Status                             | potentie, plan, besluit(investerings besluit of bestuurlijk besluit), ingebruik, buitengebruik  |
+| Status                             | potentie, plan, besluit (investeringsbesluit of bestuurlijk besluit), in gebruik, buitengebruik |
 | Lat                                | latitude                                                                                        |
 | Lng                                | longitude                                                                                       |
-| Wkt                                | de hele geometry in wkt, gml, shape, ...formaat                                                 |
+| Wkt                                | de hele geometry in wkt-, gml-, shape-, ...formaat                                              |
 | InstallatieJaar                    |                                                                                                 |
 | Doeltype                           | \>woning/ubouw/kas/schuur                                                                       |
-| M2 doel oppervlak                  | voor verwarmings installatie of verlichtingsinstallatie of productie of opslag installatie      |
+| M2 doel oppervlak                  | voor verwarmingsinstallatie of verlichtingsinstallatie of productie of opslag installatie       |
 | DiepteHoogteLengte_m               | diepte voor ondergrondse, hoogte voor wind, lengte voor net-infrastructuur                      |
 | Debiet (m3/h)                      | aardwarmte, bodemenergie en netten                                                              |
 | Druk_Pa                            |                                                                                                 |
@@ -169,7 +182,7 @@ Ter illustratie zijn hieronder enkele (extracten uit) de tabellen overgenomen.
 | Gelijktijdigheidsfactor            | netten                                                                                          |
 | efficientie/SPF/COP/isolatiewaarde | netten, aardwarmte, wko..                                                                       |
 | Aantal onderstations               | netten                                                                                          |
-| CO2_ktpj_vermeden                  | CO2 opslag/reductie door efficientie/reductie door verduurzaming etc                            |
+| CO2_ktpj_vermeden                  | CO2 opslag/reductie door efficiëntie / reductie door verduurzaming etc.                         |
 | Uur_profiel                        |                                                                                                 |
 | Dag profiel                        | productie, levering, opslag of gebruiks- profiel                                                |
 | Jaar profiel                       | productie, levering, opslag of gebruiks- profiel                                                |
@@ -186,6 +199,10 @@ Ter illustratie zijn hieronder enkele (extracten uit) de tabellen overgenomen.
 | Energie_Uit_2                      | Wh/jaar                                                                                         |
 
 **Type installaties en netten van het duurzame-energiesysteem**
+
+Hieronder is weergegeven welk type installatie en net van toepassing is bij
+bepaalde energiedoelen. De lijst wordt aangevuld met een lijst van type
+installaties voor energieconversie.
 
 | **Doel**                 | **Typen installaties en netten** |
 |--------------------------|----------------------------------|
@@ -243,6 +260,12 @@ Ter illustratie zijn hieronder enkele (extracten uit) de tabellen overgenomen.
 | Installatie              | Waterstof-ketel                  |
 
 **Parameters Gebouwen / Kassen / Schuren**
+
+Hieronder volgt een opsomming van de door rekenmodellen te gebruiken parameters
+van gebouwen (inclusief kassen & schuren), onderscheiden in drie categorieën:
+algemeen, de schil van het gebouw en het energiegebruik in het gebouw. In
+genoemd spreadsheet is per parameter nog onderscheiden of deze van toepassing is
+voor een vbo (verblijfsobject, bijv. appartement) of voor een pand (flatgebouw).
 
 | Algemeen                  | Schil                | Gebruik                                      |
 |---------------------------|----------------------|----------------------------------------------|

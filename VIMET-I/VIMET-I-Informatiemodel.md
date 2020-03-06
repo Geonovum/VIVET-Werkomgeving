@@ -72,7 +72,8 @@ met CIM.
 Voor het ESDL is er onderstaand een gesimplificeerde subset opgenomen.
 
 ![](media/ESDL_placeholder_objecttypen.png)
-
+  
+  
 Mapping op IMEnergie
 ![](media/IMEnergie_en_ESDL.png)
 

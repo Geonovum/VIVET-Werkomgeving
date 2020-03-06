@@ -67,13 +67,15 @@ adres en persoon is er een koppeling naar de BAG en de NHR.
 Voor harmonisatie met andere energiemodellen is er een mapping met het ESDL en
 met CIM.
 
-### Mapping op ESDL.
+### ESDL mapping op IMEnergie.
 
 Voor het ESDL is er onderstaand een gesimplificeerde subset opgenomen.
 
 ![](media/ESDL_placeholder_objecttypen.png)
+
+Mapping op IMEnergie
 ![](media/IMEnergie_en_ESDL.png)
 
-### Mapping op CIM.
+### CIM mapping op IMEnergie.
 
 ![](media/IMEnergie_en_CIM.png)

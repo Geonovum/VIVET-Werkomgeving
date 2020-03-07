@@ -135,20 +135,8 @@ onderzoek en dat is in de bijlagen opgenomen.
 
 ### Samenvatting
 
-### Het proces / methode van onderzoek
-
-### Analyse
-
-#### Desk-research
-
-#### Standaarden
-
-#### Stakeholdersessies
-
-### Bevindingen
+#### Proces/methode van onderzoek
 
 ### Conclusies
 
 ### Aanbevelingen
-
-### Bijlagen

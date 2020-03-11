@@ -197,7 +197,7 @@ betekenisvol zijn.
 |                                                                                                                                                                            |                                                                                  |                   | [Bijlage 3](#bijlage-3) bevat voorbeeld                                           |
 | [NEN 2660:1996/C1:1996 nl](https://www.nen.nl/NEN-Shop/Norm/NEN-26601996C11996-nl.htm)                                                                                     | Ordeningsregels voor gegevens in de bouw - Termen, definities en algemene regels | Bouw              |                                                                                   |
 | Sales Unifeed                                                                                                                                                              | Standaard berichtensets                                                          | Bouw Installaties | Met deze berichtensets kan informatie uit UOB en ETIM worden ontsloten.           |
-|                                                                                                                                                                            |                                                                                  |                   |                                                                                   |
+| IEC 61970 /IEC 61968 / IEC 62325   | Set aan standaarden rondom IEC CIM   | Elektriciteit                  | Standaard voor informatie uitwisseling in het elektriciteitsdomein.                                                                             |
 
 #### Taxonomieën / classificaties
 

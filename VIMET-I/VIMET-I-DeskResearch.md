@@ -30,7 +30,7 @@ Aandachtspunten:
 #### Gebruikt materiaal
 
 -   Een uitgebreide inventarisatie van Jeroen Baltussen, RVO/Geonovum, genaamd
-    ‘Speelveld installatieregister energie-installaties ‘was de start van dit
+    ‘Speelveld installatieregister energie-installaties' was de start van dit
     document;
 
 -   De in die inventarisatie opgenomen informatiebehoeften van

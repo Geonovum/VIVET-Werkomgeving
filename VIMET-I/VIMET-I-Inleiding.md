@@ -1,7 +1,6 @@
 Inleiding
 ---------
 
-[ hier hoeft geen tekst meer voor]
 
 Met de energietransitie en de klimaatafspraken van Parijs staat Nederland voor
 een grote opgave. In Nederland werken veel partijen samen om klimaat- en
@@ -133,24 +132,11 @@ X), de inhoudelijke analyse (H. X), een samenvatting van de bevindingen, de
 conclusies en aanbevelingen. Er is veel informatie verzameld gedurende het
 onderzoek en dat is in de bijlagen opgenomen.
 
-Voorlopige inhoudsopgave:
 
 ### Samenvatting
 
-### Het proces / methode van onderzoek
-
-### Analyse
-
-#### Desk-research
-
-#### Standaarden
-
-#### Stakeholdersessies
-
-### Bevindingen
+#### Proces/methode van onderzoek
 
 ### Conclusies
 
 ### Aanbevelingen
-
-### Bijlagen

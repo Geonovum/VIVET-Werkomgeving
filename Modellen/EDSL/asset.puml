@@ -1,0 +1,28 @@
+@startuml
+
+class Asset {
+}
+
+Asset <|-- EnergyAsset
+EnergyAsset *-- "0..*" Port
+together {
+  class InPort
+  class OutPort
+}
+Port <|-- InPort
+Port <|-- OutPort
+
+InPort "*" - "*" OutPort : connectedTo
+
+Asset *-- "0..1" Geometry
+Geometry <|-- Point
+Geometry <|-- Line
+Geometry <|-- Polygon
+
+Asset *-- "0..1" CostInformation
+
+AbstractBuilding <|-- Building
+AbstractBuilding <|-- BuildingUnit
+AbstractBuilding <|-- AggregatedBuilding
+ 
+@enduml

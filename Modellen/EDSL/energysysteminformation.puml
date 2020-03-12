@@ -1,0 +1,13 @@
+@startuml
+
+EnergySystem *-- "0..1" EnergySystemInformation
+
+EnergySystemInformation *-- "0..1" QuantityAndUnits
+EnergySystemInformation *-- "0..1" MobilityFuelInformation
+EnergySystemInformation *-- "0..1" BuildingUsageInformation
+EnergySystemInformation *-- "0..1" DataSources
+EnergySystemInformation *-- "0..1" Profiles
+EnergySystemInformation *-- "0..1" Carriers
+EnergySystemInformation *-- "0..1" Sectors
+
+@enduml

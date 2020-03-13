@@ -1,0 +1,20 @@
+@startuml
+
+class Asset {
+}
+
+Asset <|-- EnergyAsset
+EnergyAsset *-- "0..*" Port
+together {
+  class InPort
+  class OutPort
+}
+Port <|-- InPort
+Port <|-- OutPort
+
+InPort "*" - "*" OutPort : connectedTo
+
+Port *-- Carrier
+Port *-- "0..*" GenericProfile
+ 
+@enduml

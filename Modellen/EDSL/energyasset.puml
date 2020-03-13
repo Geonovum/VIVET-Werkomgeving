@@ -1,0 +1,24 @@
+@startuml
+
+EnergyAsset <|-- Producer
+EnergyAsset <|-- Consumer
+EnergyAsset <|-- Storage
+EnergyAsset <|-- Conversion
+EnergyAsset <|-- Transport
+
+Producer <|-- WindTurbine
+Producer <|-- GeothermalSource
+
+Consumer <|-- ElectricityDemand
+Consumer <|-- HeatingDemand
+
+Storage <|-- Battery
+Storage <|-- CCS
+
+Conversion <|-- PowerPlant
+Conversion <|-- HeatPump
+
+Transport <|-- ElectricityNetwork
+Transport <|-- Pipe
+ 
+@enduml

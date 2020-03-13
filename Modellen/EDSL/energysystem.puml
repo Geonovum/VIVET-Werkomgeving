@@ -1,0 +1,17 @@
+@startuml
+
+EnergySystem *-- "0..*" Instance
+Instance *-- "0..1" Area
+Area *-- "0..*" Area
+Area *-- "0..*" Asset
+Area *-- "0..*" Potential
+Area *-- "0..*" KPIs
+
+EnergySystem *-- "0..1" EnergySystemInformation
+EnergySystem *-- "0..1" Services
+EnergySystem *-- "0..1" Measures
+EnergySystem *-- "0..1" Parties
+
+Instance *-- "0..1" AbstractInstanceData : date
+
+@enduml

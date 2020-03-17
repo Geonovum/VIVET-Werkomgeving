@@ -132,6 +132,24 @@ X), de inhoudelijke analyse (H. X), een samenvatting van de bevindingen, de
 conclusies en aanbevelingen. Er is veel informatie verzameld gedurende het
 onderzoek en dat is in de bijlagen opgenomen.
 
+/ 
+
+Om het speelveld inzichtelijk te maken, is een indeling gemaakt van relevante
+ontwikkelingen in verschillende categorieën: *Afsprakenstelsels* /*Datasets* /
+*Informatiemodellen* / *Taxonomieën* / *Standaarden&normen*. Deze indeling is in
+zekere zin arbitrair: het verschil tussen standaarden en taxonomieën is niet
+altijd event scherp, maar voor deze beschrijving goed genoeg. Bovenstaande
+categorieën betreffen resultaten/producten, waarin de weerslag van
+ontwikkelingen is vastgelegd. Daarnaast is er ook een lijst gemaakt van
+*Projecten* die hier betrekking op hebben.
+
+In de opsommingen is waar mogelijk ook aangeven op welk *Domein* het betrekking
+heeft. Dit is niet altijd eenduidig vast te stellen, maar er ligt bijv. de keuze
+onder dat het domein Installatie vooral betrekking heeft op objecten die
+verbonden zijn aan de (energie)infrastructuur en dat geldt in veel mindere mate
+voor het domein Bouw.
+
+Elke opsomming in dit document wordt voorafgegaan door een toelichtende tekst.
 
 ### Management samenvatting
 

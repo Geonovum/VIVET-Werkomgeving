@@ -1,12 +1,10 @@
 Desk Research
 -------------
 
-### VIMET-I – Ordening Speelveld
 
-Een overzicht van de elementen van het Speelveld, een aanzet tot ordening  
-versie 19 februari 2020
+Dit hoofdstuk is in ontwikkeling.
 
-#### Inleiding
+### Inleiding
 
 Dit document is een aanzet tot ordening van wat er gebeurt op het gebied van
 afsprakenstelsels / standaarden / informatiemodellen / taxonomieën in het
@@ -27,7 +25,7 @@ Aandachtspunten:
 -   kunnen we de methodiek MHM (Model Harmonisatie Methodiek) van het
     LinkED-project gebruiken?
 
-#### Gebruikt materiaal
+Gebruikt materiaal
 
 -   Een uitgebreide inventarisatie van Jeroen Baltussen, RVO/Geonovum, genaamd
     ‘Speelveld installatieregister energie-installaties' was de start van dit
@@ -43,47 +41,15 @@ Aandachtspunten:
 -   Uit bouw- en installatiewereld: documenten van Techniek Nederland, de Atlas
     van Open BIM Standaarden 1.3.
 
-#### Indeling
+### Stakeholders
 
-Om het speelveld inzichtelijk te maken, is een indeling gemaakt van relevante
-ontwikkelingen in verschillende categorieën: *Afsprakenstelsels* /*Datasets* /
-*Informatiemodellen* / *Taxonomieën* / *Standaarden&normen*. Deze indeling is in
-zekere zin arbitrair: het verschil tussen standaarden en taxonomieën is niet
-altijd event scherp, maar voor deze beschrijving goed genoeg. Bovenstaande
-categorieën betreffen resultaten/producten, waarin de weerslag van
-ontwikkelingen is vastgelegd. Daarnaast is er ook een lijst gemaakt van
-*Projecten* die hier betrekking op hebben.
 
-In de opsommingen is waar mogelijk ook aangeven op welk *Domein* het betrekking
-heeft. Dit is niet altijd eenduidig vast te stellen, maar er ligt bijv. de keuze
-onder dat het domein Installatie vooral betrekking heeft op objecten die
-verbonden zijn aan de (energie)infrastructuur en dat geldt in veel mindere mate
-voor het domein Bouw.
 
-Elke opsomming in dit document wordt voorafgegaan door een toelichtende tekst.
+### Relevante registraties en afsprakenstelsels
 
-#### Beperkingen / issues / randvoorwaarden
 
-Tijdens de ontwikkeling van dit document zijn er door diverse betrokkenen de
-volgende opmerkingen gemaakt, die het waard zijn om hier te benoemen en t.z.t.
-op te pakken. Deze zijn opgenomen in de teksten per categorie; hieronder volgen
-enkele generieke opmerkingen, die in willekeurige volgorde zijn opgesomd.
 
--   *Processen* zijn nu in de inventarisatie niet meegenomen. Door deze wel te
-    beschouwen zou (de beschrijving van) het speelveld wijzigen. Bijvoorbeeld
-    het aanleggen van aansluitingen gebeurt vaak in multi-utility-verband
-    (telecom, water) en heeft betrekking op andere wetgeving (vergunningen,
-    omgevingswet).
-
--   Deze beschrijving/indeling roept de vraag op, of er bij installatieregister
-    en informatiemodel ook aandacht moet zijn voor het temporele aspect
-    (verleden / heden / toekomst).
-
--   De term ‘installatieregister’ roept de gedachte op van één grote database
-    met alle informatie, maar dit register zal toch eerder bestaan door het
-    verbinden van datasets dan door het verzamelen van concrete data.
-
-#### Afsprakenstelsels
+#### Afsprakenstelsel 
 
 De overheid is actief op het gebied van digitalisering ([NL
 DIGIbeter](https://www.digitaleoverheid.nl/nldigibeter/), [NL
@@ -169,7 +135,7 @@ NB’s:
 | [Factsheets TNO](http://www.energy.nl/en/search/?fwp_content_type=factsheets)                                                        | Samenvatting van onderliggende datasets en input voor rekenmodellen                                                                                                         | Energie                                                                               |                                                                                                                                                                                                                       |
 |                                                                                                                                      |                                                                                                                                                                             |                                                                                       |                                                                                                                                                                                                                       |
 
-#### Informatiemodellen
+### Relevante informatiemodellen
 
 -   definitie informatiemodellen
 
@@ -187,7 +153,9 @@ betekenisvol zijn.
 |                                 | Informatie-model Smart Grids voor energiebalancering                     |                                |                                                                                                                                                                                    |
 |                                 |                                                                          |                                |                                                                                                                                                                                    |
 
-#### Standaarden / Normen
+#### Relevante standaarden en taxonomieën
+
+#### Standaarden
 
 \*\* Definitie standaarden, normen
 
@@ -233,7 +201,10 @@ RVO.
 | [Entso-e codelist](https://docstore.entsoe.eu/Documents/EDI/Library/Core/entso-e-code-list-v29r0.pdf) Paragraaf 3.2
 )    | Lijst met de codes voor productie installaties zoals gebruik in GLDPM.                                                                                                              | Elektriciteit  | Binnen de Ensto-e gestandaardiseerd   |
 
-#### Relevante projecten
+### Relevante rekenmodellen
+
+
+### Relevante projecten
 
 Afspraken zijn hier cruciaal, maar het beperkt zich niet tot het verbinden van
 informatiemodellen / metadata.
@@ -246,3 +217,6 @@ informatiemodellen / metadata.
 | Gebouwen en installaties tbv rekenmodellen                           | Een inventarisatie door EG-ETRM (ExpertGroep EnergieTransitieRekenModellen)    | Energie                                           | Installatietypen, parameters, verschillende ruimtelijke schaalniveaus. Zie [Bijlage 5](#bijlage-5)                                                     |
 | EGO Datavoorziening Energietransitie Gebouwde Omgeving               | Een hulpmiddel voor gemeenten om deTransitieVisie Warmte op te kunnen stellen. | Energie Bouw                                      | Initiator: [Programma Aardgasvrije wijken](https://www.aardgasvrijewijken.nl/).                                                                        |
 | PoC voor centraal, geaggregeerd Installatie-Register                 | Installatieregister                                                            | Installaties                                      | Initiator: Techniek NL                                                                                                                                 |
+
+### Relevante documentatie
+

@@ -1,4 +1,4 @@
-Analyse
+Analyse/inhoudelijke keuzes
 -------
 
 Hoofdstuk 1: Dit is meer een landschapsverkenning/omgevingsanalyse. -
@@ -13,31 +13,35 @@ Lorem ipsum dolor.
 
 ### Scope installaties
 
-Lorem ipsum dolor.
+Herschrijven (is verplaatste tekst):
+Beperkingen / issues / randvoorwaarden
 
-### Werkproces
+Tijdens de ontwikkeling van dit document zijn er door diverse betrokkenen de
+volgende opmerkingen gemaakt, die het waard zijn om hier te benoemen en t.z.t.
+op te pakken. Deze zijn opgenomen in de teksten per categorie; hieronder volgen
+enkele generieke opmerkingen, die in willekeurige volgorde zijn opgesomd.
 
-Lorem ipsum dolor.
+-   *Processen* zijn nu in de inventarisatie niet meegenomen. Door deze wel te
+    beschouwen zou (de beschrijving van) het speelveld wijzigen. Bijvoorbeeld
+    het aanleggen van aansluitingen gebeurt vaak in multi-utility-verband
+    (telecom, water) en heeft betrekking op andere wetgeving (vergunningen,
+    omgevingswet).
 
-### Stakeholders
+-   Deze beschrijving/indeling roept de vraag op, of er bij installatieregister
+    en informatiemodel ook aandacht moet zijn voor het temporele aspect
+    (verleden / heden / toekomst).
 
-Lorem ipsum dolor. 
+-   De term ‘installatieregister’ roept de gedachte op van één grote database
+    met alle informatie, maar dit register zal toch eerder bestaan door het
+    verbinden van datasets dan door het verzamelen van concrete data.
 
-### Bestaande registraties
+### Criteria en inhoudelijke keuzes
 
-Lorem ipsum dolor.
 
-### Wettelijk kader
 
-Lorem ipsum dolor.
+### Bevindingen landschapsverkenning
 
-### Relevante standaarden en rekenmodellen
 
-Lorem ipsum dolor.
-
-### Relevante documentatie
-
-Lorem ipsum dolor.
 
 ### Bestaande datasets aan elkaar relateren
 
@@ -225,3 +229,5 @@ wijze daar een relatie mee?
 | EP-Online energie-labels (RVO)                            |                 |                   |                       |             |             |
 | E-MJV (milieu-jaar-verslagen) (RIVM)                      |                 |                   |                       |             |             |
 | Energie-audit EED (RVO)                                   |                 |                   |                       |             |             |
+
+### Uitgangspunten informatiemodel

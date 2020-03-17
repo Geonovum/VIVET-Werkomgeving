@@ -133,10 +133,8 @@ conclusies en aanbevelingen. Er is veel informatie verzameld gedurende het
 onderzoek en dat is in de bijlagen opgenomen.
 
 
-### Samenvatting
+### Management samenvatting
 
 #### Proces/methode van onderzoek
 
-### Conclusies
 
-### Aanbevelingen

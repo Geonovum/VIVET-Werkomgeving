@@ -97,9 +97,10 @@ dit model worden netwerkonderdelen waarover informatie bijgehouden wordt
 beschreven als informatiepunten en de bijbehorende informatie wordt beschreven
 in meetwaardes. Een informatiepunt is een schaalbaar begrip gekoppeld aan
 fysieke objecten of andere virtuele eenheden. De meetwaarden zijn getypeerd naar
-energie product. In dit model nog elektriciteit en aardgas. Warmte zal hier ook
-bij moeten. De meetwaarde is ook gespecificeerd per type ‘EnergyCapability’, de
+energie product elektriciteit, aardgas en warmte. De meetwaarde is ook gespecificeerd per type ‘EnergyCapability’, de
 vijf hoofdgoepen productie, consumptive, conversie, opslag en transport.
+
+De volgende belangrijkste objecttypen (of top-entiteiten) worden onderscheiden:
 
 MeasurementInstrument (Meetinstrument)
 
@@ -107,10 +108,10 @@ Meetwaardes ontstaan uit metingen worden gedaan met een meetinstrument. Wanneer
 de eigenschappen van een meetinstrument van belang zijn kunnen deze in de klasse
 Meetinstrument beschreven worden.
 
-PhysicalObject (FysiekObject )
+PhysicalObject (FysiekObject)
 
 Zichtbaar en tastbaar object dat energie produceert, opslaat, converteert of
-gebruikt. Deze objecten zijn wellicht verder te modelleren volgens het PIR
+gebruikt. Een ander mogelijke term is asset of nog beperketre energie-asset. Deze objecten zijn wellicht verder te modelleren volgens het PIR.
 (Product Installatie Register)
 
 Location (Locatie)
@@ -148,6 +149,8 @@ het ESDL is er onderstaand een gesimplificeerde subset opgenomen.
 
 Figuur X: Gesimplificeerd UML diagram van informatiemodel ESDL (Energie System
 Description Language).
+
+Het ESDL zet de objecttypen EnergySystem, EnergyAssets gespecificeerd naar Production, Consumption, Storage, Conversion en Transport centraal. Zij heeft hier mee een meer specifiek model voor het definieren van gegevens per type asset. 
 
 Mapping op IMEnergie
 

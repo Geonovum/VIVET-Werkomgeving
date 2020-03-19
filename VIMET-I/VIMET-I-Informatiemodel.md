@@ -20,33 +20,40 @@ Uitgangspunten bij de modellering:
 van de informatiebehoefte;
 
 \- de informatiebehoefte is gefocused op energiegegevens als afgeleide van een
-energiesysteem of energysystemen. Het is geen model van energysystemen.
+energiesysteem of energiesystemen. Het is geen model van energiesystemen.
 
 \- model is ingebed in Nederlandse informatie architectuur en maakt gebruik van
 bestaande informatiestandaarden en domeinmodellen;
 
 \- …..
 
+Model op hoofdlijn
+
+Als start voor het bepalen van het denkraam van het model is uitgegaan van een
+model voor het uitwisselen van meetgegevens van energie-installaties in een
+netwerk. Het model is relatief eenvoudig en is onafhankelijk van de vaak
+complexe structuur van energiesystemen. In het model staat het informatiepunt
+centraal. Een punt waar je gegevens over vastlegt en opvraagt. In dit geval van
+een energie-installatie. Een energie-installatie is een asset voor productie,
+consumptive, opslag, conversie en of transport. De gegevens die van belang zijn
+hebben betrekking op de producten elektriciteit, gas en warmte. De dimenies
+ruimte en tijd zijn van belang en de relatie met beheer en eigendom. Als we die
+vijf onderdelen met elkaar verbinden krijgen we onderstaand overzicht.
+
+![](media/b90085e632892b2944e058e974353591.png)
+
+Figuur X: Informatie over energie-installaties gaat over het type product, het
+type energieproces en kent een aantal basisgegevens: ruimte, tijd en eigendom.
+
+Op basis van dit diagram is een informatiemodel ontwikkeld.
+
 ### Minimum viable product
 
-Het minimum viable product voor het IMEnergie-installaties ……..
-
-### Aanbevelingen voor doorontwikkeling
-
-TODO
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Aanbevelingen in een mooi tabelletje misschien?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-| Kolom-1 | Kolom-2 | Kolom-3 | Kolom 4 | Kolom-n |
-|---------|---------|---------|---------|---------|
-| Rij-1   |         |         |         |         |
-| Rij-2   |         |         |         |         |
-| Rij-3   |         |         |         |         |
-| Rij-4   |         |         |         |         |
-| Rij-5   |         |         |         |         |
-| Rij-6   |         |         |         |         |
+In deze fase is het informatiemodel nog bedoeld als denkraam voor de verdere
+doorontwikkeling. Het model ondersteund de behoefte om de use case over welke
+informatie van belang is scherper te krijgen. Het model moet verschillende
+bestaande modellen in relatie tot elkaar brengen om een beeld te krijgen waar de
+focus voor hergebruik en doorontwikkeling ligt.
 
 ### UML diagram
 
@@ -54,27 +61,26 @@ Het model is weergegeven in UML een gestandaardiseerde taal voor
 informatiemodellering. In de onderstaande beschrijving worden een aantal
 conventies van UML toegelicht.
 
-Als start voor het bepalen van het denkraam van het model is uitgegaan van een
-model voor het uitwisselen van meetgegevens van energie-installaties in een
-netwerk. Het model is relatief eenvoudig en is onafhankelijk van de vaak
-complexe structuur van energiesystemen. In het model staat het informatiepunt
-centraal. Een punt waar je gegevens over vastlegt en opvraagt. In dit geval van
-een energie-installatie. Een informatiepunt heeft 0 of meer meetwaardes. In het
-model aangegeven met de uitgaande pijl. Gegevens zijn meetwaarden of
-specificaties. Een meetwaarde betreft een waarde van een energieproduct. In het
-model aangegeven met het attribuut productsoort. Bij dat attribuut kan gekozen
-worden uit de lijst Productsoort met de waarden elektricteit, aardgas, warmte.
-Tevens is er een attribuut energyCapability om het energieproces op te nemen
-waar de meetwaarde betrekking op heeft: productie, gebruik, opslag, conversie of
-transport. Het attribuut tijdstip bevat het tijdstip of periode van de
-meetwaarde. De meetwaarde (of specificatie) is van toepassing op 0 of meer
-energie-installaties. Deze is gemodelleerd als een fysiek object van een bepaald
-type. Koppeling met het PIR (Product Installatie Register) kan hier voor een
-nadere invulling zorgen. Dit is nog niet in het model opgenomen. De
-energie-installatie is gerelateerd aan een topografisch object uit de BGT. Via
-adres en persoon is er een koppeling naar de BAG en de NHR. Bij persoon geeft
-een gesloten pijl aan dat NatuurlijkPersoon en NietNatuurlijkPersoon
-verbijzonderingen van Persoon zijn.
+Het model is relatief eenvoudig en is onafhankelijk van de vaak complexe
+structuur van energiesystemen. Een model bestaat uit entiteiten of objecttypen.
+In het diagram aangegeven als \<\<Objectype\>\>. In het model staat het
+informatiepunt centraal. Een punt waar je gegevens over vastlegt en opvraagt. In
+dit geval van een energie-installatie. Een informatiepunt heeft 0 of meer
+meetwaardes. In het model aangegeven met de uitgaande pijl. Gegevens zijn
+meetwaarden of specificaties. Een meetwaarde betreft een waarde van een
+energieproduct. In het model aangegeven met het attribuut productsoort. Bij dat
+attribuut kan gekozen worden uit de lijst Productsoort met de waarden
+elektricteit, aardgas, warmte. Tevens is er een attribuut energyCapability om
+het energieproces op te nemen waar de meetwaarde betrekking op heeft: productie,
+gebruik, opslag, conversie of transport. Het attribuut tijdstip bevat het
+tijdstip of periode van de meetwaarde. De meetwaarde (of specificatie) is van
+toepassing op 0 of meer energie-installaties. Deze is gemodelleerd als een
+fysiek object van een bepaald type. Koppeling met het PIR (Product Installatie
+Register) kan hier voor een nadere invulling zorgen. Dit is nog niet in het
+model opgenomen. De energie-installatie is gerelateerd aan een topografisch
+object uit de BGT. Via adres en persoon is er een koppeling naar de BAG en de
+NHR. Bij persoon geeft een gesloten pijl aan dat NatuurlijkPersoon en
+NietNatuurlijkPersoon verbijzonderingen van Persoon zijn.
 
 ![](media/IMEnergie-installaties.png)
 
@@ -130,17 +136,44 @@ met CIM.
 
 ### ESDL mapping op IMEnergie.
 
-Voor het ESDL is er onderstaand een gesimplificeerde subset opgenomen.
+NOG AANPASSEN
+
+Het ESDL, Energy System Description Language is door TNO ontwikkeld voor het
+standaardiseren van data-uitwisseling voor het toepassen van rekenmodellen op
+energiesystem. Het beschrijft dus het energiesysteem als input voor
+rekenmodellen over onder andere netbelasting, energiebalancering etcetera. Voor
+het ESDL is er onderstaand een gesimplificeerde subset opgenomen.
 
 ![](media/ESDL_placeholder_objecttypen.png)
-Figuur X: Gesimplificeerd UML diagram van informatiemodel ESDL (Energie System Description Language).
+
+Figuur X: Gesimplificeerd UML diagram van informatiemodel ESDL (Energie System
+Description Language).
 
 Mapping op IMEnergie
 
 ![](media/IMEnergie_en_ESDL.png)
+
 Figuur X: ESDL in relatie tot IMEnergie-installaties.
 
 ### CIM mapping op IMEnergie.
 
 ![](media/IMEnergie_en_CIM.png)
+
 Figuur X: CIM in relatie tot IMEnergie-installaties.
+
+### Aanbevelingen voor doorontwikkeling
+
+TODO
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Aanbevelingen in een mooi tabelletje misschien?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| Kolom-1 | Kolom-2 | Kolom-3 | Kolom 4 | Kolom-n |
+|---------|---------|---------|---------|---------|
+| Rij-1   |         |         |         |         |
+| Rij-2   |         |         |         |         |
+| Rij-3   |         |         |         |         |
+| Rij-4   |         |         |         |         |
+| Rij-5   |         |         |         |         |
+| Rij-6   |         |         |         |         |

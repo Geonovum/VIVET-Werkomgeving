@@ -87,7 +87,7 @@ NietNatuurlijkPersoon verbijzonderingen van Persoon zijn.
 Figuur X: UML diagram van informatiemodel ‘energie-installaties’. Dit is een
 startmodel om de denkrichting te bepalen voor doorontwikkeling.
 
-Van het model worden de onderdelen als volgt beschreven:
+De volgende belangrijkste objecttypen (of top-entiteiten) worden onderscheiden:
 
 InformationPoint en Measurement value (Informatiepunt en Meetwaarde)
 
@@ -100,7 +100,6 @@ fysieke objecten of andere virtuele eenheden. De meetwaarden zijn getypeerd naar
 energie product elektriciteit, aardgas en warmte. De meetwaarde is ook gespecificeerd per type ‘EnergyCapability’, de
 vijf hoofdgoepen productie, consumptive, conversie, opslag en transport.
 
-De volgende belangrijkste objecttypen (of top-entiteiten) worden onderscheiden:
 
 MeasurementInstrument (Meetinstrument)
 

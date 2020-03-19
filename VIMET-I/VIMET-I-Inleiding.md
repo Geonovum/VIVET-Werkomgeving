@@ -153,6 +153,6 @@ Elke opsomming in dit document wordt voorafgegaan door een toelichtende tekst.
 
 ### Management samenvatting
 
-#### Proces/methode van onderzoek
+### Proces/methode van onderzoek
 
 

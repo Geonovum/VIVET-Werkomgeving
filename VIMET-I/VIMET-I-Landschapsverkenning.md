@@ -1,6 +1,4 @@
-Desk Research
--------------
-
+## Landschapsverkenning
 
 Dit hoofdstuk is in ontwikkeling.
 

@@ -50,19 +50,80 @@ Aanbevelingen in een mooi tabelletje misschien?
 
 ### UML diagram
 
+Het model is weergegeven in UML een gestandaardiseerde taal voor
+informatiemodellering. In de onderstaande beschrijving worden een aantal
+conventies van UML toegelicht.
+
 Als start voor het bepalen van het denkraam van het model is uitgegaan van een
-model voor het uitwisselen van meetgegevens in een netwerk genomen. Het model is
-relatief eenvoudig en is onafhankelijk van de vaak complexe structuur van
-energiesystemen. In het model staat het informatiepunt centraal. Een punt waar
-je gegevens over vastlegt en opvraagd. Gegevens zijn meetwaarden. Meetwaarden
-betreffen een waarde van een energieproduct, een energieproces (productie,
-gebruik, opslag, conversie of transport) en gelden op een tijdstip. De
-meetwaarde (of specificatie) is van toepassing op een energie-installatie. Deze
-is gemodelleerd als een fysiek object van een bepaald type. De
+model voor het uitwisselen van meetgegevens van energie-installaties in een
+netwerk. Het model is relatief eenvoudig en is onafhankelijk van de vaak
+complexe structuur van energiesystemen. In het model staat het informatiepunt
+centraal. Een punt waar je gegevens over vastlegt en opvraagt. In dit geval van
+een energie-installatie. Een informatiepunt heeft 0 of meer meetwaardes. In het
+model aangegeven met de uitgaande pijl. Gegevens zijn meetwaarden of
+specificaties. Een meetwaarde betreft een waarde van een energieproduct. In het
+model aangegeven met het attribuut productsoort. Bij dat attribuut kan gekozen
+worden uit de lijst Productsoort met de waarden elektricteit, aardgas, warmte.
+Tevens is er een attribuut energyCapability om het energieproces op te nemen
+waar de meetwaarde betrekking op heeft: productie, gebruik, opslag, conversie of
+transport. Het attribuut tijdstip bevat het tijdstip of periode van de
+meetwaarde. De meetwaarde (of specificatie) is van toepassing op 0 of meer
+energie-installaties. Deze is gemodelleerd als een fysiek object van een bepaald
+type. Koppeling met het PIR (Product Installatie Register) kan hier voor een
+nadere invulling zorgen. Dit is nog niet in het model opgenomen. De
 energie-installatie is gerelateerd aan een topografisch object uit de BGT. Via
-adres en persoon is er een koppeling naar de BAG en de NHR.
+adres en persoon is er een koppeling naar de BAG en de NHR. Bij persoon geeft
+een gesloten pijl aan dat NatuurlijkPersoon en NietNatuurlijkPersoon
+verbijzonderingen van Persoon zijn.
 
 ![](media/IMEnergie-installaties.png)
+
+Figuur X: UML diagram van informatiemodel ‘energie-installaties’. Dit is een
+startmodel om de denkrichting te bepalen voor doorontwikkeling.
+
+Van het model worden de onderdelen als volgt beschreven:
+
+InformationPoint en Measurement value (Informatiepunt en Meetwaarde)
+
+Voor het bepalen van energie gerelateerde capaciteit in relatie tot productie en
+opslag is veel informatie nodig van vele onderdelen van een energiesysteem. In
+dit model worden netwerkonderdelen waarover informatie bijgehouden wordt
+beschreven als informatiepunten en de bijbehorende informatie wordt beschreven
+in meetwaardes. Een informatiepunt is een schaalbaar begrip gekoppeld aan
+fysieke objecten of andere virtuele eenheden. De meetwaarden zijn getypeerd naar
+energie product. In dit model nog elektriciteit en aardgas. Warmte zal hier ook
+bij moeten. De meetwaarde is ook gespecificeerd per type ‘EnergyCapability’, de
+vijf hoofdgoepen productie, consumptive, conversie, opslag en transport.
+
+MeasurementInstrument (Meetinstrument)
+
+Meetwaardes ontstaan uit metingen worden gedaan met een meetinstrument. Wanneer
+de eigenschappen van een meetinstrument van belang zijn kunnen deze in de klasse
+Meetinstrument beschreven worden.
+
+PhysicalObject (FysiekObject )
+
+Zichtbaar en tastbaar object dat energie produceert, opslaat, converteert of
+gebruikt. Deze objecten zijn wellicht verder te modelleren volgens het PIR
+(Product Installatie Register)
+
+Location (Locatie)
+
+Van veel objecten is de locatie van belang. Deze kan op twee manieren beschreven
+zijn: : (1) Als coordinaten in een bekend referentiestelsel. (2) Als
+(post)-adres uit de BAG.
+
+Dataset
+
+Niet als objecttype voorkomend in het model. Een Dataset zal bestaan uit de
+Meetwaardes behorend bij een collectie informatiepunten.
+
+TransferPoint (Overdrachtspunt)
+
+Overdrachtspunten vormen de link met het fysieke netwerk: Informatiepunten
+worden volledig losstaand van het bestaande netwerk beschreven, wanneer de
+plaatsing in het fysieke netwerk van belang is kan een informatiepunt middels
+een overdrachtspunt gekoppeld worden aan fysieke netwerklocatie.
 
 Voor harmonisatie met andere energiemodellen is er een mapping met het ESDL en
 met CIM.
@@ -72,11 +133,14 @@ met CIM.
 Voor het ESDL is er onderstaand een gesimplificeerde subset opgenomen.
 
 ![](media/ESDL_placeholder_objecttypen.png)
-  
-  
+Figuur X: Gesimplificeerd UML diagram van informatiemodel ESDL (Energie System Description Language).
+
 Mapping op IMEnergie
+
 ![](media/IMEnergie_en_ESDL.png)
+Figuur X: ESDL in relatie tot IMEnergie-installaties.
 
 ### CIM mapping op IMEnergie.
 
 ![](media/IMEnergie_en_CIM.png)
+Figuur X: CIM in relatie tot IMEnergie-installaties.

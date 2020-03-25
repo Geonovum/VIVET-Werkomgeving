@@ -1,10 +1,24 @@
 Analyse/inhoudelijke keuzes
 ---------------------------
 
-Hoofdstuk 1: Dit is meer een landschapsverkenning/omgevingsanalyse. -
-Beschrijving VIVET & VIMET-I & Scope installaties - Het (keten)werkproces waarin
-de informatie (over installaties) wordt geproduceerd - Stakeholders - Bestaande
-registraties - Wettelijk kader  
+Zoals aangegeven in hoofdstuk 1 kan het karakter van dit onderzoek worden
+gekenschetst als een landschapsverkenning/omgevingsanalyse en veel minder als
+een ontwerp-proces. Dit hoofdstuk beschrijft kort de project-context (VIVET &
+VIMET-I).
+
+Nog doen: Iets over de paragraaf Scope installaties / Criteria en inhoudelijke
+keuzes / Bevindingen landschapsverkenning.
+
+Nog doen: laatste paragraaf: Uitgangspunten informatiemodel.
+
+Aan een deel van de inventarisatie van losse elementen die in de
+landschapsverkenning heeft plaatsgevonden, is vervolgens enige structuur
+gegeven. Dat is gebeurd door de geïdentificeerde datasets in tabelvorm te
+verbinden met resp. infotools, Informatiemodellen en kernentiteiten.
+
+Klopt dit nog? Nog doen: Iets over Het (keten)werkproces waarin de informatie
+(over installaties) wordt geproduceerd - Stakeholders - Bestaande registraties -
+Wettelijk kader  
 - Relevante standaarden en rekenmodellen - Relevante documentatie
 
 ### Beschrijving VIVET & VIMET-I
@@ -75,14 +89,12 @@ Instandhouding/Assetmanagement.
 
 Het bouwproces is voor het energieveld vergelijkbaar maar de processen voor
 instandhouding/assetmanagement nog toegevoegd moeten worden, en daarvoor zal de
-juiste indeling gezocht moeten worden. De processen van netbeheer (Jannen?) en
-marktfacilitering (Yun?) kunnen die input leveren. Alliander heeft een indeling
-analoog aan het
+juiste indeling gezocht moeten worden. Procesbeschrijvingen van netbeheer (NB
+NL) en marktfacilitering (EDSN) kunnen die input leveren. Alliander heeft een
+indeling analoog aan het
 <https://en.wikipedia.org/wiki/Business_Process_Framework_(eTOM)>; het heeft de
 voorkeur om een framework te hanteren dat herkenbaar is voor verschillende
 partijen.
-
-In de wereld van CIM zal er wel ergens zoiets te vinden zijn.
 
 NB: De kleuren geven de intensiteit van het gebruik aan:
 
@@ -94,17 +106,20 @@ NB: De kleuren geven de intensiteit van het gebruik aan:
 
 ![](media/249a1c4dc1037b33f5a0b3c129f06459.png)
 
-#### Soorten afspraken over informatie (en sectoren)
+##### Soorten afspraken over informatie (en sectoren)
 
-Een indeling naar afspraken over informatie kan ook inzicht bieden. De indeling
-in de sectoren in de bouwwereld zal in het energieveld anders zijn, maar of een
-indeling in sectoren üerhaupt zin heeft, is nog nader te bezien. De Atlas van
-Open BIM-standaarden geeft deze indeling:
+Maar een andere indeling, die naar afspraken over informatie, kan ook inzicht
+bieden. De indeling in de sectoren in de bouwwereld zal in het energieveld
+anders zijn. De Atlas van Open BIM-standaarden geeft deze indeling:
 
 ![](media/84e185cb2598d6d1abe4a06f3f915b1a.png)
 
-De standaarden etc. van het energieveld kunnen ook gemapt worden op ‘soorten
-afspraken over informatie’.
+Evenzo kunnen ook de standaarden etc. van het energieveld gemapt worden op
+‘soorten afspraken over informatie’.
+
+Overigens zijn bovenstaande schema’s overgenomen uit de BIM-atlasversie 1.3; een
+actuele beschrijving van de Open BIM Standaarden bevindt zich hier:
+<https://www.bimloket.nl/p/144/Atlas-van-open-BIM-standaarden>
 
 #### Tabel Datasets en infotools
 
@@ -233,7 +248,28 @@ en zijn er datasets met *gerelateerde informatie* over energie-installaties
 
 #### Tabel Datasets en kernentiteiten
 
-\*\* toelichting
+Het onderzoek VIMET-I richt zich op energie-installaties, omdat voor sturing en
+monitoring van de energietransitie inzicht gewenst is in eigenschappen van
+energie-installaties (vermogen, productie, ouderdom, efficiency, etc.). Door
+middel van use cases wordt een afbakening gemaakt van de scope van de te
+onderzoeken data van‘energie-installaties’.  
+Dit is een valide use case/gebruikersvraag. en evanals deze use case zijn er in
+de loop van de tijd tal van use cases geweest, zoals marktfacilitering,
+monitoring van graafwerkzaamheden, load flow berekeningen, etc. De daarvoor
+benodigde informatiesystemen zijn doorgaans ‘in splendid isolation’ ontworpen en
+dus niet op elkaar afgestemd. Een verbinding met bestaande datasets, met goed
+afgestemde definities/informatiemodellen is een verstandiger aanpak dan het
+ontwerp van een nieuw informatiesysteem voor energie-installaties. Daartoe is
+inzicht nodig in welke kernentiteiten onderdeel uitmaken van welke datasets. En
+dat is in onderstaande tabel beschreven.
+
+De datasets zijn hier – evenals in bovenstaande tabellen - geordend naar de
+relaties met het begrip ‘energie-installaties’. Zo bieden de *basisregistraties*
+de context van energie-installaties (locatie, eigenaar), zijn installaties
+(deels) geregistreerd in de *databronnen energie-installaties’*, bestaan er
+datasets waarin *deelverzamelingen* van een type installaties is geregistreerd
+en zijn er datasets met *gerelateerde informatie* over energie-installaties
+(subsidies, verslaggeving).
 
 | **Generieke datasets**                                    | **Aansluiting** | **Kabel/leiding** | **Productie-eenheid** | **Afnemer** | **Overige** |
 |-----------------------------------------------------------|-----------------|-------------------|-----------------------|-------------|-------------|

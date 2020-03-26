@@ -253,7 +253,7 @@ monitoring van de energietransitie inzicht gewenst is in eigenschappen van
 energie-installaties (vermogen, productie, ouderdom, efficiency, etc.). Door
 middel van use cases wordt een afbakening gemaakt van de scope van de te
 onderzoeken data van‘energie-installaties’.  
-Dit is een valide use case/gebruikersvraag. en evanals deze use case zijn er in
+Dit is een valide use case/gebruikersvraag en evanals deze use case zijn er in
 de loop van de tijd tal van use cases geweest, zoals marktfacilitering,
 monitoring van graafwerkzaamheden, load flow berekeningen, etc. De daarvoor
 benodigde informatiesystemen zijn doorgaans ‘in splendid isolation’ ontworpen en
@@ -300,5 +300,21 @@ en zijn er datasets met *gerelateerde informatie* over energie-installaties
 | EP-Online energie-labels (RVO)                            |                 |                   |                       |             |             |
 | E-MJV (milieu-jaar-verslagen) (RIVM)                      |                 |                   |                       |             |             |
 | Energie-audit EED (RVO)                                   |                 |                   |                       |             |             |
+
+#### Tabel projecten en kernentiteiten
+
+| **Projecten**                                             | **Installatie** | **Gebouw**        | **Persoon/Bedrijf**   | **Meetwaarde** |
+|-----------------------------------------------------------|-----------------|-------------------|-----------------------|-------------|
+| Datastelsel Utiliteitsbouw                                |        x        |       x           |           x           |       x     |             
+| Consumenten dossier                                       |        x        |       x           |           x           |             |             
+| Digitaal Gebouwdossier                                    |                 |       x           |                       |             |             
+| Document-analyse                                          |        x        |       x           |           x           |       x     |             
+| Rekenmodellen                                             |        x        |       x           |                       |             |             
+| EGO Datavoorziening                                       |        x        |       x           |                       |             |
+| PoC Installatie Register (onderhoud)                      |        x        |       x           |           x           |       x     |
+| LinkED                                                    |                 |                   |                       |             |
+| UOI: Unieke Object Identificatie                          |                 |       x           |                       |             |
+|                                                           |                 |                   |                       |             |
+|                                                           |                 |                   |                       |             |
 
 ### Uitgangspunten informatiemodel

@@ -5,7 +5,7 @@ Dit hoofdstuk is in ontwikkeling.
 ### Inleiding
 
 Dit document is een aanzet tot ordening van wat er gebeurt op het gebied van
-lsels / standaarden / informatiemodellen / taxonomieën in het
+afsprakenstelsels / projecten / data / standaarden / informatiemodellen / taxonomieën in het
 energiedomein en in aanpalende domeinen, daar waar een verbinding bestaat met
 installaties in het energiedomein. De afbakening is gebaseerd op ‘common sense’,
 getoetst in de kick-off workshop bij Geonovum op 10 februari 2020 en door de
@@ -43,11 +43,11 @@ Gebruikt materiaal
 
 
 
-### Relevante registraties en afsprakenstelsels
+### Relevante afsprakenstelsels en projecten
 
 
 
-#### Afsprakenstelsel 
+#### Afsprakenstelsels 
 
 De overheid is actief op het gebied van digitalisering ([NL
 DIGIbeter](https://www.digitaleoverheid.nl/nldigibeter/), [NL
@@ -62,11 +62,11 @@ andere domeinen. Datadeel-initiatieven bij voorkeur ontwikkelen per sector, maar
 zodanig dat je ze kunt verbinden met andere sectoren omdat dit nieuwe use cases
 oplevert, bijv. Energie & Bouw/Installatie, Energie en Mobiliteit. Er wordt dan
 ook wel gesproken over een datastelsel. Veel ervaring over bouw van
-datadeel-initiatieven MKB (rapport Innopay).
+datadeel-initiatieven MKB (rapport Generiek afsprakenstelsel voor
+datadeelinitiatieven als basis van
+de digitale economie in opdracht van Ministerie van EZK).
 
-Noodzakelijk: kennisuitwisseling, generiek afsprakenstelsel met 9 bouwstenen
-voor datadeelcoalitie. Bouwsteen 7: interoperabiliteit van metadata (p.81 en
-p.84-90 vv. in rapport Innopay).
+Noodzakelijk: kennisuitwisseling, generiek afsprakenstelsel met 9 bouwstenen voor datadeelcoalitie. Bouwsteen 7: interoperabiliteit van metadata (p.81 en p.84-90 vv. in rapport ( Generiek afsprakenstelsel voor datadeelinitiatieven als basis van de digitale economie).
 
 Kenmerken van afsprakenstelsel: p. 103-105, ontwikkelingsrichtlijnen: p. 106.
 
@@ -85,8 +85,25 @@ door Energie-NL en Netbeheer NL (\@Check: is dit de goede link?)
 | BIM -Afspraken                                                                                   | Gefaciliteerd door BIM-Loket                                                                                                                                                                                              |                   |                                                                                                                                                                                                                                         |
 | [DiS Geo](https://www.geobasisregistraties.nl/basisregistraties/doorontwikkeling-in-samenhang)   | Samenhangende objectenregistraties in Stelsel van Basisregistraties                                                                                                                                                       | Bouw              | Doorontwikkeling in samenhang is initiatief van BZK om de basisregistraties onderling te gaan verbinden en als een stelsel te laten werken                                                                                                                                      |
 
+#### Relevante projecten
 
-#### Relevante datasets
+Afspraken zijn hier cruciaal, maar het beperkt zich niet tot het verbinden van
+informatiemodellen / metadata.
+
+| Naam                                                                 | Beschrijving                                                                   | Domein                                            | Opmerking                                                                                                                                              |
+|----------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Datastelsel Utiliteitsbouw                           | Energiedossier per gebouw, verbinden EAN/BAG/BRK / benchmarks / gebouwkenmerken / maatregelen   | Energie Bouw   | Doelgroep: gebouweigenaren, omg.diensten, diensten-leveranciers (software). Door RVO in opdr. van BZK via Platform Duurzame Huisvesting; 1e helft 2020 |
+| Digitale dossiers i.k.v. WKB (Wet kwaliteitsborging voor het bouwen) | Realiseren uniforme dossiervorming van opgeleverde bouwwerken                  | Bouw Installaties                                              | “Ten minste voor dossier bevoegd gezag en consumentendossier” Bron: notitie Begeleidingsgroep 19 dec 2019                                              |
+| Consumentendossier | Dosier dat aanemer overhandigt met volledig inzicht in het bouwwerk en bijbehorende installaties  | Bouw Installaties | Verplicht in het kader van de WKB |
+| Digitaal Gebouwdossier | Uitwerken concept digitaal gebouwdossier in een startarchitectuur | Gebouw | BZK initiatef adhv 3 use cases: consumentendossier, dossier bevoegd gezag, het vernieuwde energielabel en het platform verbeterjehuis.nl |
+| Informatie-behoefte dmv document-analyse                             | Analyse van 49 brondocumenten naar informatiebehoeften                         | Energie Installaties Bebouw                      | door Jan Bruinenberg (Alliander / Netbeheer NL) Resultaat: bijna 3000 informatievragen Zie [Bijlage 4](#bijlage-4) voor de onderkende installatietypen |
+| Gebouwen en installaties tbv rekenmodellen                           | Een inventarisatie door EG-ETRM (ExpertGroep EnergieTransitieRekenModellen)    | Energie Installaties Bouw                       | Installatietypen, parameters, verschillende ruimtelijke schaalniveaus. Zie [Bijlage 5](#bijlage-5)                                                     |
+| EGO Datavoorziening Energietransitie Gebouwde Omgeving               | Een hulpmiddel voor gemeenten om deTransitieVisie Warmte op te kunnen stellen. | Energie Bouw                                      | Initiator: [Programma Aardgasvrije wijken](https://www.aardgasvrijewijken.nl/).                                                                        |
+| PoC voor centraal, geaggregeerd Installatie-Register                 | Installatieregister                                                            | Installaties                                      | Initiator: Techniek NL                                                                                                                                 |
+| TKI Linked energy data (LinkED)   | Het ontwikkelen van een methode voor het komen tot gemeenschappelijke informatiestandaarden en informatiesystemen | Energie | Resultaat (gereed) Model Harmonisatie Methodiek (MHM). Initiatief van Netbeheerders en TNO | 
+| UOI: Unieke Object Identificatie | Internationale koppeling voor gebouwregistraties                                                                                                                                                       | Bouw              |  BZK initiatief binnen DisGEO en gerelateerd aan WKB verplichtingen (Wet Kwaliteitsborging voor Bouwen)                                                                                                                                  |
+
+#### Relevante registraties
 
 De inventarisatie van installatieregisters vindt plaats in het andere
 deelproject van project VIVET-E en behoort strikt genomen niet bij dit onderzoek
@@ -204,23 +221,6 @@ RVO.
 ### Relevante rekenmodellen
 
 
-### Relevante projecten
-
-Afspraken zijn hier cruciaal, maar het beperkt zich niet tot het verbinden van
-informatiemodellen / metadata.
-
-| Naam                                                                 | Beschrijving                                                                   | Domein                                            | Opmerking                                                                                                                                              |
-|----------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Datastelsel Utiliteitsbouw                           | Energiedossier per gebouw, verbinden EAN/BAG/BRK / benchmarks / gebouwkenmerken / maatregelen   | Energie Bouw   | Doelgroep: gebouweigenaren, omg.diensten, diensten-leveranciers (software). Door RVO in opdr. van BZK via Platform Duurzame Huisvesting; 1e helft 2020 |
-| Digitale dossiers i.k.v. WKB (Wet kwaliteitsborging voor het bouwen) | Realiseren uniforme dossiervorming van opgeleverde bouwwerken                  | Bouw Installaties                                              | “Ten minste voor dossier bevoegd gezag en consumentendossier” Bron: notitie Begeleidingsgroep 19 dec 2019                                              |
-| Consumentendossier | Dosier dat aanemer overhandigt met volledig inzicht in het bouwwerk en bijbehorende installaties  | Bouw Installaties | Verplicht in het kader van de WKB |
-| Digitaal Gebouwdossier | Uitwerken concept digitaal gebouwdossier in een startarchitectuur | Gebouw | BZK initiatef adhv 3 use cases: consumentendossier, dossier bevoegd gezag, het vernieuwde energielabel en het platform verbeterjehuis.nl |
-| Informatie-behoefte dmv document-analyse                             | Analyse van 49 brondocumenten naar informatiebehoeften                         | Energie Installaties Bebouw                      | door Jan Bruinenberg (Alliander / Netbeheer NL) Resultaat: bijna 3000 informatievragen Zie [Bijlage 4](#bijlage-4) voor de onderkende installatietypen |
-| Gebouwen en installaties tbv rekenmodellen                           | Een inventarisatie door EG-ETRM (ExpertGroep EnergieTransitieRekenModellen)    | Energie Installaties Bouw                       | Installatietypen, parameters, verschillende ruimtelijke schaalniveaus. Zie [Bijlage 5](#bijlage-5)                                                     |
-| EGO Datavoorziening Energietransitie Gebouwde Omgeving               | Een hulpmiddel voor gemeenten om deTransitieVisie Warmte op te kunnen stellen. | Energie Bouw                                      | Initiator: [Programma Aardgasvrije wijken](https://www.aardgasvrijewijken.nl/).                                                                        |
-| PoC voor centraal, geaggregeerd Installatie-Register                 | Installatieregister                                                            | Installaties                                      | Initiator: Techniek NL                                                                                                                                 |
-| TKI Linked energy data (LinkED)   | Het ontwikkelen van een methode voor het komen tot gemeenschappelijke informatiestandaarden en informatiesystemen | Energie | Resultaat (gereed) Model Harmonisatie Methodiek (MHM). Initiatief van Netbeheerders en TNO | 
-| UOI: Unieke Object Identificatie | Internationale koppeling voor gebouwregistraties                                                                                                                                                       | Bouw              |  BZK initiatief binnen DisGEO en gerelateerd aan WKB verplichtingen (Wet Kwaliteitsborging voor Bouwen)                                                                                                                                  |
 
 ### Relevante documentatie
 

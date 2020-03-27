@@ -52,6 +52,10 @@ enkele generieke opmerkingen, die in willekeurige volgorde zijn opgesomd.
 
 ### Bevindingen landschapsverkenning
 
+concept figuur (nog bijstellen en toelichten)
+
+![](media/projectlandschap.png)
+
 ### Bestaande datasets aan elkaar relateren
 
 #### Infotooling en datasets

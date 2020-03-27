@@ -41,11 +41,7 @@ Gebruikt materiaal
 
 ### Stakeholders
 
-
-
 ### Relevante afsprakenstelsels en projecten
-
-
 
 #### Afsprakenstelsels 
 
@@ -72,8 +68,7 @@ Kenmerken van afsprakenstelsel: p. 103-105, ontwikkelingsrichtlijnen: p. 106.
 
 Zie [Bijlage 2](#bijlage-2) voor enkele schema’s en voor toepassing voor
 energiesector: zie [Presentatie toekomstige inrichting van uitwisseling en
-governance
-energiedata](https://github.com/Geonovum/VIVET-Werkomgeving/blob/master/Dossier/Presentatie%20toekomstige%20inrichting%20van%20uitwisseling%20en%20governance%20energiedata.191213.pdf)
+governance energiedata](https://github.com/Geonovum/VIVET-Werkomgeving/blob/master/Dossier/Presentatie%20toekomstige%20inrichting%20van%20uitwisseling%20en%20governance%20energiedata.191213.pdf)
 door Energie-NL en Netbeheer NL (\@Check: is dit de goede link?)
 
 | Naam                                                                                             | Beschrijving                                                                                                                                                                                                              | Domein            | Opmerking                                                                                                                                                                                                                               |
@@ -85,10 +80,9 @@ door Energie-NL en Netbeheer NL (\@Check: is dit de goede link?)
 | BIM -Afspraken                                                                                   | Gefaciliteerd door BIM-Loket                                                                                                                                                                                              |                   |                                                                                                                                                                                                                                         |
 | [DiS Geo](https://www.geobasisregistraties.nl/basisregistraties/doorontwikkeling-in-samenhang)   | Samenhangende objectenregistraties in Stelsel van Basisregistraties                                                                                                                                                       | Bouw              | Doorontwikkeling in samenhang is initiatief van BZK om de basisregistraties onderling te gaan verbinden en als een stelsel te laten werken                                                                                                                                      |
 
-#### Relevante projecten
+### Relevante projecten
 
-Afspraken zijn hier cruciaal, maar het beperkt zich niet tot het verbinden van
-informatiemodellen / metadata.
+In het kader van de energietransitie zijn er veel initiatieven. Energieinstallaties staan daarbij niet los in het energie-informatielandschap. Installaties staan in gebouwen en gebruiken energie of wekken die juist op. Onderstaande projecten hebben directe relatie met energieinstallaties of daaraan verbonden (informatie) objecten. In [In de paragraaf Bevindingen landschapsverkenning](##bevindingen-landschapsverkenning) wordt een analyse gedaan hoe deze zich verhouden en meegenomen moeten worden om  te komen tot een informatiemodel voor energieinstallaties.
 
 | Naam                                                                 | Beschrijving                                                                   | Domein                                            | Opmerking                                                                                                                                              |
 |----------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -103,13 +97,11 @@ informatiemodellen / metadata.
 | TKI Linked energy data (LinkED)   | Het ontwikkelen van een methode voor het komen tot gemeenschappelijke informatiestandaarden en informatiesystemen | Energie | Resultaat (gereed) Model Harmonisatie Methodiek (MHM). Initiatief van Netbeheerders en TNO | 
 | UOI: Unieke Object Identificatie | Internationale koppeling voor gebouwregistraties                                                                                                                                                       | Bouw              |  BZK initiatief binnen DisGEO en gerelateerd aan WKB verplichtingen (Wet Kwaliteitsborging voor Bouwen)                                                                                                                                  |
 
-#### Relevante registraties
+### Relevante datasets / registraties
 
 De inventarisatie van installatieregisters vindt plaats in het andere
 deelproject van project VIVET-E en behoort strikt genomen niet bij dit onderzoek
-naar de haalbaarheid van een informatiemodel. Om toch enige context te bieden
-volgt hier een opsomming van enkele relevante datasets, waarin data is verzameld
-die direct of indirect betrekking heeft op installaties.
+naar de haalbaarheid van een informatiemodel. Deze datasets geven weer waar en door wie de belangrijk gegevensverzamelingen worden bijgehouden. Door deze datasets inhoudelijk te bekijken ontstaat er ook inzicht in de belangrijkste entiteiten waarover informatie wordt verzameld.
 
 NB’s:
 

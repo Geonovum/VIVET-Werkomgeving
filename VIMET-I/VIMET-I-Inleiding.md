@@ -1,7 +1,6 @@
 Inleiding
 ---------
 
-
 Met de energietransitie en de klimaatafspraken van Parijs staat Nederland voor
 een grote opgave. In Nederland werken veel partijen samen om klimaat- en
 energieafspraken na te komen. Voor de onderbouwing en uitvoering van alle
@@ -42,7 +41,8 @@ Dit rapport bevat het onderzoeksverslag van de voorstudie als bedoeld in E.2.
 
 Voor lokale overheden en netbeheerders is er onvoldoende zicht op installaties
 voor opwek, conversie en opslag van energie (warmte en elektriciteit) op lokaal
-niveau. Dit is een probleem omdat goede besluitvorming in de RES en TVW, de
+niveau. Dit is een probleem omdat goede besluitvorming in de Regionale
+Energiestrategieën (hierna: RES) en Transitievisies Warmte (hierna: TVW), de
 systeemintegratie, systeemstudies en energie hoofdinfrastructuur nu niet
 mogelijk is. Deelproject E betreft de verkenning van de haalbaarheid van een
 centraal register met alle energie installaties; dus zowel *alle energiebronnen*
@@ -73,7 +73,7 @@ Het doel van het installatieregister is vierledig:
 Om dit doel te bereiken, worden twee sporen uitgezet:
 
 -   (E1) een verkenning naar de mogelijkheden om installatieregisters samen te
-    voegen, bijvoorkeur tot één microdatabestand, dat gebruikt kan worden voor
+    voegen, bij voorkeur tot één microdatabestand, dat gebruikt kan worden voor
     analyses en voor en laag-regionale statistieken. Dit project brengt de
     koppelbaarheid van bestaande registers (zonproductie, warmtepompen,
     pelletkachels) in beeld, en betrekt gebruikers (netbeheer, provincies,
@@ -132,27 +132,6 @@ X), de inhoudelijke analyse (H. X), een samenvatting van de bevindingen, de
 conclusies en aanbevelingen. Er is veel informatie verzameld gedurende het
 onderzoek en dat is in de bijlagen opgenomen.
 
-/ 
-
-Om het speelveld inzichtelijk te maken, is een indeling gemaakt van relevante
-ontwikkelingen in verschillende categorieën: *Afsprakenstelsels* /*Datasets* /
-*Informatiemodellen* / *Taxonomieën* / *Standaarden&normen*. Deze indeling is in
-zekere zin arbitrair: het verschil tussen standaarden en taxonomieën is niet
-altijd event scherp, maar voor deze beschrijving goed genoeg. Bovenstaande
-categorieën betreffen resultaten/producten, waarin de weerslag van
-ontwikkelingen is vastgelegd. Daarnaast is er ook een lijst gemaakt van
-*Projecten* die hier betrekking op hebben.
-
-In de opsommingen is waar mogelijk ook aangeven op welk *Domein* het betrekking
-heeft. Dit is niet altijd eenduidig vast te stellen, maar er ligt bijv. de keuze
-onder dat het domein Installatie vooral betrekking heeft op objecten die
-verbonden zijn aan de (energie)infrastructuur en dat geldt in veel mindere mate
-voor het domein Bouw.
-
-Elke opsomming in dit document wordt voorafgegaan door een toelichtende tekst.
-
 ### Management samenvatting
 
 ### Proces/methode van onderzoek
-
-

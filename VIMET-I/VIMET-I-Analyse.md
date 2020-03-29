@@ -54,7 +54,7 @@ enkele generieke opmerkingen, die in willekeurige volgorde zijn opgesomd.
 
 concept figuur (nog bijstellen en toelichten)
 
-![](media/projectlandschap.png)
+![](media/000aa3bde71f595a8bac0b71cb4ed2fa.png)
 
 ### Bestaande datasets aan elkaar relateren
 
@@ -69,11 +69,11 @@ De deskresearch voor VIMET-I is gestart met een inventarisatie van:
 *Afsprakenstelsels* /*Datasets* / *Informatiemodellen* / *Taxonomieën* /
 *Standaarden&normen*.
 
-Deze inventarisatie bestaat it ene opsomming, zonder nadere duiding van
+Deze inventarisatie bestaat uit een opsomming, zonder nadere duiding van
 verbanden. In dit document wordt hier een aanzet toe gegeven.
 
 Als eerste volgt een opsomming van mogelijk indelingen, gevolgd door de
-toepassing van (enkele va ndie) indelingen op dat wat geïnventariseerd is.
+toepassing van (enkele van die) indelingen op dat wat geïnventariseerd is.
 
 #### Mogelijke indelingen
 
@@ -307,18 +307,18 @@ en zijn er datasets met *gerelateerde informatie* over energie-installaties
 
 #### Tabel projecten en kernentiteiten
 
-| **Projecten**                                             | **Installatie** | **Gebouw**        | **Persoon/Bedrijf**   | **Meetwaarde** |
-|-----------------------------------------------------------|-----------------|-------------------|-----------------------|-------------|
-| Datastelsel Utiliteitsbouw                                |        x        |       x           |           x           |       x     |             
-| Consumenten dossier                                       |        x        |       x           |           x           |             |             
-| Digitaal Gebouwdossier                                    |                 |       x           |                       |             |             
-| Document-analyse                                          |        x        |       x           |           x           |       x     |             
-| Rekenmodellen                                             |        x        |       x           |                       |             |             
-| EGO Datavoorziening                                       |        x        |       x           |                       |             |
-| PoC Installatie Register (onderhoud)                      |        x        |       x           |           x           |       x     |
-| LinkED                                                    |                 |                   |                       |             |
-| UOI: Unieke Object Identificatie                          |                 |       x           |                       |             |
-|                                                           |                 |                   |                       |             |
-|                                                           |                 |                   |                       |             |
+| **Projecten**                        | **Installatie** | **Gebouw** | **Persoon/Bedrijf** | **Meetwaarde** |
+|--------------------------------------|-----------------|------------|---------------------|----------------|
+| Datastelsel Utiliteitsbouw           | x               | x          | x                   | x              |
+| Consumenten dossier                  | x               | x          | x                   |                |
+| Digitaal Gebouwdossier               |                 | x          |                     |                |
+| Document-analyse                     | x               | x          | x                   | x              |
+| Rekenmodellen                        | x               | x          |                     |                |
+| EGO Datavoorziening                  | x               | x          |                     |                |
+| PoC Installatie Register (onderhoud) | x               | x          | x                   | x              |
+| LinkED                               |                 |            |                     |                |
+| UOI: Unieke Object Identificatie     |                 | x          |                     |                |
+|                                      |                 |            |                     |                |
+|                                      |                 |            |                     |                |
 
 ### Uitgangspunten informatiemodel

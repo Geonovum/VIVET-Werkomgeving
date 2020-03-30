@@ -61,23 +61,23 @@ Het initiatief om te komen tot een afsprakenstelsel voor een betere marktfaciler
 
 ![](media/vimetlandschap.png)
 
-afkortingen:
-DigiDealGO = DigiDealGO is een overeenkomst tussen de overheid, de brancheverenigingen van de bouw, de installatiesector en de toeleverende industrie, ondersteund door de 
-  BIR (Bouw Informatie Raad) het 
-  BIM Loket en de 
-  DSBI (Digitaal Stelsel Bouw en Installatie ).
-DSGO =  Digitaal Stelsel voor de Gebouwde Omgeving
-DBR = Bouw Digitaliserings Raad
-UOB = Uniforme Obejcten Bibliotheek
-DiS Geo = Doorontwikkeling in Samenhang van de basisregistraties
-UOI = Unieke Object Identificate
-WKB = wet kwaliteitsborging voor het bouwen met derde begeleidingsgroep; digitale dossiers. 
-EGO = datavoorziening energietransitie Gebouwde Omgeving door PAW en VNG 
-EAN = European Article Numbering voor een leveringspunt voor gas of elektriciteit te identificeren
-Topsector Energie
-  TEI = Toegankelijke Energie Informatie (Enexis , TNO, KPN)
-  LinkED = Linked Energie Data (TNO, Alliander en Enexis) wat oa  MHM (Model Harmonisatie Methodiek) introduceert
-Digitaal Gebouwdosier = BZK project met uses cases consumentendossier, dossier bevoegd gezag, het vernieuwde energielabel en het platform verbeterjehuis.nl voor ogen.
+**Afkortingen**:\
+DigiDealGO = DigiDealGO is een overeenkomst tussen de overheid, de brancheverenigingen van de bouw, de installatiesector en de toeleverende industrie, ondersteund door de \
+  BIR (Bouw Informatie Raad) het \
+  BIM Loket en de \
+  DSBI (Digitaal Stelsel Bouw en Installatie ).\
+DSGO =  Digitaal Stelsel voor de Gebouwde Omgeving\
+DBR = Bouw Digitaliserings Raad\
+UOB = Uniforme Obejcten Bibliotheek\
+DiS Geo = Doorontwikkeling in Samenhang van de basisregistraties\
+UOI = Unieke Object Identificate\
+WKB = wet kwaliteitsborging voor het bouwen met derde begeleidingsgroep; digitale dossiers. \
+EGO = datavoorziening energietransitie Gebouwde Omgeving door PAW en VNG \
+EAN = European Article Numbering voor een leveringspunt voor gas of elektriciteit te identificeren\
+Topsector Energie\
+  TEI = Toegankelijke Energie Informatie (Enexis , TNO, KPN)\
+  LinkED = Linked Energie Data (TNO, Alliander en Enexis) wat oa  MHM (Model Harmonisatie Methodiek) introduceert\
+Digitaal Gebouwdosier = BZK project met uses cases consumentendossier, dossier bevoegd gezag, het vernieuwde energielabel en het platform verbeterjehuis.nl voor ogen.\
 
 ### Bestaande datasets aan elkaar relateren
 

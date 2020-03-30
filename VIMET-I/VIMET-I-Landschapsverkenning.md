@@ -58,15 +58,13 @@ schaal *gestructureerd datadelen*; bouwstenen; sectorale focus en verbinding met
 andere domeinen. Datadeel-initiatieven bij voorkeur ontwikkelen per sector, maar
 zodanig dat je ze kunt verbinden met andere sectoren omdat dit nieuwe use cases
 oplevert, bijv. Energie & Bouw/Installatie, Energie en Mobiliteit. Er wordt dan
-ook wel gesproken over een datastelsel. Veel ervaring over bouw van
-datadeel-initiatieven MKB (rapport Generiek afsprakenstelsel voor
-datadeelinitiatieven als basis van de digitale economie in opdracht van
-Ministerie van EZK).
-
+ook wel gesproken over een datastelsel zoals uitgewerkt in het rapport over
+datadeel-initiatieven voor de MKB [rapport Generiek afsprakenstelsel voor
+datadeelinitiatieven als basis van de digitale economie](https://www.rijksoverheid.nl/documenten/rapporten/2018/12/30/generiek-afsprakenstelsel-voor-datadeelinitiatieven-als-basis-van-de-digitale-economie) in opdracht van
+Ministerie van EZK.
 Noodzakelijk: kennisuitwisseling, generiek afsprakenstelsel met 9 bouwstenen
 voor datadeelcoalitie. Bouwsteen 7: interoperabiliteit van metadata (p.81 en
-p.84-90 vv. in rapport ( Generiek afsprakenstelsel voor datadeelinitiatieven als
-basis van de digitale economie).
+p.84-90 vv.
 
 Kenmerken van afsprakenstelsel: p. 103-105, ontwikkelingsrichtlijnen: p. 106.
 
@@ -74,7 +72,7 @@ Zie [Bijlage 2](#bijlage-2) voor enkele schema’s en voor toepassing voor
 energiesector: zie [Presentatie toekomstige inrichting van uitwisseling en
 governance
 energiedata](https://github.com/Geonovum/VIVET-Werkomgeving/blob/master/Dossier/Presentatie%20toekomstige%20inrichting%20van%20uitwisseling%20en%20governance%20energiedata.191213.pdf)
-door Energie-NL en Netbeheer NL (\@Check: is dit de goede link?)
+door Energie-NL en Netbeheer NL.
 
 | Naam                                                                                             | Beschrijving                                                                                                                                                                                                              | Domein            | Opmerking                                                                                                                                                                                                                               |
 |--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -85,7 +83,7 @@ door Energie-NL en Netbeheer NL (\@Check: is dit de goede link?)
 | BIM -Afspraken                                                                                   | Gefaciliteerd door BIM-Loket                                                                                                                                                                                              |                   |                                                                                                                                                                                                                                         |
 | [DiS Geo](https://www.geobasisregistraties.nl/basisregistraties/doorontwikkeling-in-samenhang)   | Samenhangende objectenregistraties in Stelsel van Basisregistraties                                                                                                                                                       | Bouw              | Doorontwikkeling in samenhang is initiatief van BZK om de basisregistraties onderling te gaan verbinden en als een stelsel te laten werken                                                                                              |
 
-### Relevante projecten
+#### Relevante projecten
 
 In het kader van de energietransitie zijn er veel initiatieven.
 Energieinstallaties staan daarbij niet los in het energie-informatielandschap.

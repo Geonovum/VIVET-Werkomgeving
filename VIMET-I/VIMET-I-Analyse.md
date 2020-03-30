@@ -52,9 +52,32 @@ enkele generieke opmerkingen, die in willekeurige volgorde zijn opgesomd.
 
 ### Bevindingen landschapsverkenning
 
-concept figuur (nog bijstellen en toelichten)
+In Nederland is door de op gang gekomen energietransitie en de hiermee verwante digitalisering van de bouw een groot aantal programma's, projecten en initiatieven ontstaan die met elkaar verbonden moeten worden. Vanuit informatiekunidg oogpunt gaan ze deels over  gemeenschappelijke informatieobjecten (zie [Tabel projecten en kernentiteiten](#Tabel projecten en kernentiteiten), waarvan we vanuit gaan dat deze data uitgewisseld kan worden. Dit is echter geen vanzelfsprekendheid, omdat er op de samenhang maar beperkt regie wordt gevoerd. 
+De Topsector energie kent een thema [digitalisering](https://www.topsectorenergie.nl/digitalisering), maar stuurt niet intergraal over alle projecten op verduurzaming van de informatieuitwisseling.
+De DigitDeal Gebouwde Omgeving richt zich op digitalisering en standaadisatie in de bouw. Hier is wel enige afstemming met het de Wet Kwaliteitsborging en realiseren van uniek ojbect identificatie van gebouwen. Succes is echter ook afhankelijk van automatische koppeling van (energie)aansluitinformatie met de BAG wat binnen Vivet en NetbeheerNL op de agenda is geplaatst. 
+Vanuit het perspectief 'installatieregister' is het TechniekNL voortvarend bezig om informaite over alle in onderhoud zijn installaties te kunnen verbinden onder andere voor de uitvoering van de WKB verplichtingen. Deze landsdekkende informatie is nog niet betrokken bij bv de CBS statistiek en hiermee niet beschikbaar voor NPRES plannen en energiemodellen.
+Deze plaat laat hiermee duidelijk het cross sectorale karakter zien (bouw, energie, installatie onderhoud, assetmanagement, basisregistraties) van de problematiek rond de energie-installaties en hiermee verbonden omgeving.
+Het initiatief om te komen tot een afsprakenstelsel voor een betere marktfacilering is een mooi voorbeeld om de informatie te laten stromen en vernieuwing en innovatie te stimuleren. Dit heeft nog wel een bilaterale scope van NetbeheerNL(transport) en Energie Nederland (opwek) .
 
-![](media/000aa3bde71f595a8bac0b71cb4ed2fa.png)
+![](media/vimetlandschap.png)
+
+afkortingen:
+DigiDealGO = DigiDealGO is een overeenkomst tussen de overheid, de brancheverenigingen van de bouw, de installatiesector en de toeleverende industrie, ondersteund door de 
+  BIR (Bouw Informatie Raad) het 
+  BIM Loket en de 
+  DSBI (Digitaal Stelsel Bouw en Installatie ).
+DSGO =  Digitaal Stelsel voor de Gebouwde Omgeving
+DBR = Bouw Digitaliserings Raad
+UOB = Uniforme Obejcten Bibliotheek
+DiS Geo = Doorontwikkeling in Samenhang van de basisregistraties
+UOI = Unieke Object Identificate
+WKB = wet kwaliteitsborging voor het bouwen met derde begeleidingsgroep; digitale dossiers. 
+EGO = datavoorziening energietransitie Gebouwde Omgeving door PAW en VNG 
+EAN = European Article Numbering voor een leveringspunt voor gas of elektriciteit te identificeren
+Topsector Energie
+  TEI = Toegankelijke Energie Informatie (Enexis , TNO, KPN)
+  LinkED = Linked Energie Data (TNO, Alliander en Enexis) wat oa  MHM (Model Harmonisatie Methodiek) introduceert
+Digitaal Gebouwdosier = BZK project met uses cases consumentendossier, dossier bevoegd gezag, het vernieuwde energielabel en het platform verbeterjehuis.nl voor ogen.
 
 ### Bestaande datasets aan elkaar relateren
 

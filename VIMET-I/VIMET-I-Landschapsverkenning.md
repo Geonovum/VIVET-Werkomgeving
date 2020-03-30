@@ -48,7 +48,7 @@ Gebruikt materiaal
 
 De overheid is actief op het gebied van digitalisering ([NL
 DIGIbeter](https://www.digitaleoverheid.nl/nldigibeter/), [NL
-Digitaal](https://www.rijksoverheid.nl/onderwerpen/digitale-overheid/nieuws/2019/03/21/nederland-digitaal-afspraken-voor-betere-samenwerking-digitalisering)).
+Digitaal](https://www.rijksoverheid.nl/onderwerpen/digitale-overheid/nieuws/2019/03/21/nederland-digitaal-afspraken-voor-betere-samenwerking-digitalisering)). Hierin is ook opgenomen een deze zomer op te stellen [standaardisatieagenda](https://www.digitaleoverheid.nl/actielijn/standaardisatieagenda/).
 In de [Nederlandse
 Digitaliseringsstrategie](https://www.rijksoverheid.nl/documenten/rapporten/2018/06/01/nederlandse-digitaliseringsstrategie)
 worden cross-sectorale afsprakenstelsels verkend.

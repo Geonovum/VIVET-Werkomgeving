@@ -4,7 +4,7 @@ Landschapsverkenning
 Dit hoofdstuk is in ontwikkeling.
 
 ### Inleiding
-
+<r>Leen, meer logische maken</r>
 Dit document is een aanzet tot ordening van wat er gebeurt op het gebied van
 afsprakenstelsels / projecten / data / standaarden / informatiemodellen /
 taxonomieën in het energiedomein en in aanpalende domeinen, daar waar een
@@ -41,6 +41,8 @@ Gebruikt materiaal
     van Open BIM Standaarden 1.3.
 
 ### Stakeholders
+
+<r>hier een tabel met de aanwezigen van de kickoff workshop</r>
 
 ### Relevante afsprakenstelsels en projecten
 
@@ -86,6 +88,8 @@ door Energie-NL en Netbeheer NL.
 | [DiS Geo](https://www.geobasisregistraties.nl/basisregistraties/doorontwikkeling-in-samenhang)   | Samenhangende objectenregistraties in Stelsel van Basisregistraties                                                                                                                                                       | Bouw              | Doorontwikkeling in samenhang is initiatief van BZK om de basisregistraties onderling te gaan verbinden en als een stelsel te laten werken                                                                                              |
 
 #### Relevante projecten
+
+<r>Jeroen: nog even naar de links kijken</r>
 
 In het kader van de energietransitie zijn er veel initiatieven.
 Energieinstallaties staan daarbij niet los in het energie-informatielandschap.

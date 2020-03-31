@@ -2,12 +2,12 @@ Inleiding
 ---------
 
 <r>Dit hoofstuk omschrijven
-Toepassingsgebied wordt OPDRACHT
-3 onderdelen:
-- tekst uit de offerte
-- stakeholders organiseren
-- voorstel vooor een vervolgopdracht - vingeroefening
-Actie: Jeroen</r>
+Toepassingsgebied wordt OPDRACHT</r>
+<r>3 onderdelen:</r>
+<r> - tekst uit de offerte</r>
+<r> - stakeholders organiseren</r>
+<r> - voorstel vooor een vervolgopdracht - vingeroefening</r>
+<r> Actie: Jeroen</r>
 
 Met de energietransitie en de klimaatafspraken van Parijs staat Nederland voor
 een grote opgave. In Nederland werken veel partijen samen om klimaat- en

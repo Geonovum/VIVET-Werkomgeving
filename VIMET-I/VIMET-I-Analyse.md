@@ -25,7 +25,12 @@ Wettelijk kader
 
 Lorem ipsum dolor.
 
+<r>Moet deze paragraaf niet gewoon weg, want het staat toch hierboven?</r>
+
 ### Scope installaties
+
+<r>Jeroen: tekstvoorstel doen voor het toepassingsgebied waar wij ons op richten</r>
+<r>Jeroen: iets met inhoudelijke scoping en iets met institutionele scoping</r>
 
 Herschrijven (is verplaatste tekst): Beperkingen / issues / randvoorwaarden
 
@@ -48,8 +53,6 @@ enkele generieke opmerkingen, die in willekeurige volgorde zijn opgesomd.
     met alle informatie, maar dit register zal toch eerder bestaan door het
     verbinden van datasets dan door het verzamelen van concrete data.
 
-### Criteria en inhoudelijke keuzes
-
 ### Bevindingen landschapsverkenning
 
 In Nederland is door de op gang gekomen energietransitie en de hiermee verwante digitalisering van de bouw een groot aantal programma's, projecten en initiatieven ontstaan die met elkaar verbonden moeten worden. Vanuit informatiekunidg oogpunt gaan ze deels over  gemeenschappelijke informatieobjecten (zie [Tabel projecten en kernentiteiten](#Tabel projecten en kernentiteiten), waarvan we vanuit gaan dat deze data uitgewisseld kan worden. Dit is echter geen vanzelfsprekendheid, omdat er op de samenhang maar beperkt regie wordt gevoerd. 
@@ -59,8 +62,8 @@ Vanuit het perspectief 'installatieregister' is het TechniekNL voortvarend bezig
 Deze plaat laat hiermee duidelijk het cross sectorale karakter zien (bouw, energie, installatie onderhoud, assetmanagement, basisregistraties) van de problematiek rond de energie-installaties en hiermee verbonden omgeving.
 Het initiatief om te komen tot een afsprakenstelsel voor een betere marktfacilering is een mooi voorbeeld om de informatie te laten stromen en vernieuwing en innovatie te stimuleren. Dit heeft nog wel een bilaterale scope van NetbeheerNL(transport) en Energie Nederland (opwek) .
 
-![](https://github.com/Geonovum/VIVET-Werkomgeving/blob/master/VIMET-I/media/vimetlandschap.PNG)
-
+<r>Jan: kijken waarom het plaatje er niet is</r>
+![](media/vimetlandschap.png)
 
 **Afkortingen**:\
 DigiDealGO = DigiDealGO is een overeenkomst tussen de overheid, de brancheverenigingen van de bouw, de installatiesector en de toeleverende industrie, ondersteund door de \
@@ -98,56 +101,6 @@ verbanden. In dit document wordt hier een aanzet toe gegeven.
 
 Als eerste volgt een opsomming van mogelijk indelingen, gevolgd door de
 toepassing van (enkele van die) indelingen op dat wat geïnventariseerd is.
-
-#### Mogelijke indelingen
-
-Inspiratie is geput uit de [Atlas van Open BIM Standaarden
-1.3](https://www.bimloket.nl/upload/documents/downloads/Standaarden/Atlas%20Open%20BIM%20Standaarden%20v1.3.pdf),
-die als doel heeft om een afstemmingsagenda voor standaarden in het BIM-domein
-te maken.
-
-##### Processen als leidraad
-
-Analoog aan de indeling van BIM-standaarden lenen ook energie-installaties zich
-voor het beschouwen met een procesbenadering.
-
-Ter illustratie volgt hieronder een plaat met de toepassing van standaarden in
-Het Digitale Bouwproces. Dit bouwproces bevindt zich tussen
-Instandhouding/Assetmanagement.
-
-Het bouwproces is voor het energieveld vergelijkbaar maar de processen voor
-instandhouding/assetmanagement nog toegevoegd moeten worden, en daarvoor zal de
-juiste indeling gezocht moeten worden. Procesbeschrijvingen van netbeheer (NB
-NL) en marktfacilitering (EDSN) kunnen die input leveren. Alliander heeft een
-indeling analoog aan het
-<https://en.wikipedia.org/wiki/Business_Process_Framework_(eTOM)>; het heeft de
-voorkeur om een framework te hanteren dat herkenbaar is voor verschillende
-partijen.
-
-NB: De kleuren geven de intensiteit van het gebruik aan:
-
--   daar waar de kleur in een balk het donkerst is, ligt het zwaartepunt van de
-    toepassing
-
--   daar waar de kleur in een balk het lichtst is, wordt de standaard het minst
-    toegepast
-
-![](media/249a1c4dc1037b33f5a0b3c129f06459.png)
-
-##### Soorten afspraken over informatie (en sectoren)
-
-Maar een andere indeling, die naar afspraken over informatie, kan ook inzicht
-bieden. De indeling in de sectoren in de bouwwereld zal in het energieveld
-anders zijn. De Atlas van Open BIM-standaarden geeft deze indeling:
-
-![](media/84e185cb2598d6d1abe4a06f3f915b1a.png)
-
-Evenzo kunnen ook de standaarden etc. van het energieveld gemapt worden op
-‘soorten afspraken over informatie’.
-
-Overigens zijn bovenstaande schema’s overgenomen uit de BIM-atlasversie 1.3; een
-actuele beschrijving van de Open BIM Standaarden bevindt zich hier:
-<https://www.bimloket.nl/p/144/Atlas-van-open-BIM-standaarden>
 
 #### Tabel Datasets en infotools
 

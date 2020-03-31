@@ -140,9 +140,9 @@ rekenmodellen over onder andere netbelasting, energiebalancering. Het model onde
 
 ![](media/Energiebalans.png)
 
-![](media/Solar)
+![](media/Solar.png)
 
-Figuur X: Twee voorbeelden van informatieverstreeking via ESDL.
+Figuur X: Twee voorbeelden van informatieverstrekking via ESDL.
 
 
 Van het ESDL informatiemodel is er onderstaand een gesimplificeerde subset opgenomen.
@@ -156,11 +156,13 @@ Het ESDL zet de objecttypen EnergySystem, EnergyAssets gespecificeerd naar Produ
 
 Mapping op IMEnergie.
 
-In onderstaand diagram zijn de belangrijkste objecttypen van ESDL in relatie tot en startmodel gebracht.
+In onderstaand diagram zijn de belangrijkste objecttypen van ESDL in relatie tot het startmodel gebracht.
 
 ![](media/IMEnergie_en_ESDL.png)
 
 Figuur X: ESDL in relatie tot IMEnergie-installaties.
+
+Een EnergySystem 
 
 ### CIM mapping op IMEnergie.
 

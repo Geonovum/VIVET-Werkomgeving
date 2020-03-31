@@ -183,6 +183,7 @@ betekenisvol zijn.
 
 #### Relevante standaarden en taxonomieën
 
+<r>Paul: inleidende tekst, ook in de subhoofdstukken</r>
 #### Standaarden
 
 \*\* Definitie standaarden, normen
@@ -231,6 +232,8 @@ RVO.
 
 ### Relevante rekenmodellen
 
+<r>Leen: stukje van bijlage 5 verplaatsen naar dit hoofdstuk</r>
+
 Zoals hierboven aangegeven is door enkele deelnemers aan de ExpertGroep
 EnergieTransitieRekenModellen een inventarisatie gedaan naar de gewenste
 informatie betreffende energie-installaties (opgenomen in [Bijlage
@@ -244,6 +247,5 @@ gebouwde omgeving (Vesta-MAIS) wordt gevisualiseerd (PICO). De datastromen
 tussen de modellen worden gemodelleerd met ESDL.
 
 Voor een projectbeschrijving:
-<https://projecten.topsectorenergie.nl/projecten/models-and-data-interface-for-energy-20-00031738>
+[link](https://projecten.topsectorenergie.nl/projecten/models-and-data-interface-for-energy-20-00031738)
 
-### Relevante documentatie

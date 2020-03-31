@@ -158,6 +158,8 @@ verslaggeving).
 | E-MJV (milieu-jaar-verslagen) (RIVM)                      |                         | Lijst energiedragers RVO - IPCC https://www.e-mjv.nl/onderwerpen/rie-en-ippc en https://www.infomil.nl/onderwerpen/duurzaamheid-energie/beste-beschikbare/bbt/wettelijk-aangewezen/            |                               | E-PRTR                       |                   |
 | Energie-audit EED (RVO)                                   |                         | RVO EML( Erkende Maatregel Lijst) https://www.rvo.nl/onderwerpen/duurzaam-ondernemen/energie-besparen/informatieplicht-energiebesparing/bedrijven-en-instellingen/erkende-maatregelenlijsten   |                               |                              |                   |
 
+
+<r>Jan: hier groene note van maken</r>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Beschreven met informatiemodel …** (CIM, IFC, COINS, IM-SG, IM-KL)  
 **Productclassificatie Bouw- en installatie** (NL-SfB, ETIM, FGO, Productdata, UOB, CB-NL, Stabu, BS&I)   
@@ -192,6 +194,8 @@ datasets waarin *deelverzamelingen* van een type installaties is geregistreerd
 en zijn er datasets met *gerelateerde informatie* over energie-installaties
 (subsidies, verslaggeving).
 
+<r>Leen: uitleggen wat deze tabel betekent->geen datamodellen?</r>
+
 | **Generieke datasets**                                    | **CIM**          | **IMKL** | **ESDL** | **ETIM** | **CB-NL** | **Overige**     |
 |-----------------------------------------------------------|------------------|----------|----------|----------|-----------|-----------------|
 | **Basisregistraties:**                                    |                  |          |          |          |           |                 |
@@ -208,7 +212,7 @@ en zijn er datasets met *gerelateerde informatie* over energie-installaties
 | CERES/PIR(EDSN)                                           | X                |          |          |          |           |                 |
 | Laadpalen (eco-movement)                                  |                  |          |          |          |           |                 |
 | Energie Management Systemen (Netbeheerders)               |                  |          |          |          |           |                 |
-| Stoominstallaties (SCIOS)                                 |                  |          |          |          |           |                 |
+| Stookinstallaties (SCIOS)                                 |                  |          |          |          |           |                 |
 | Installatieregister?                                      |                  |          |          | X        |           | NL-Sfb?         |
 | (zie schema Bijlage7)                                     |                  |          |          |          |           |                 |
 | Keuringenregisters: OK-CV, OK-WP? Airco                   |                  |          |          |          |           |                 |
@@ -252,7 +256,7 @@ datasets waarin *deelverzamelingen* van een type installaties is geregistreerd
 en zijn er datasets met *gerelateerde informatie* over energie-installaties
 (subsidies, verslaggeving).
 
-| **Generieke datasets**                                    | **Aansluiting** | **Kabel/leiding** | **Productie-eenheid** | **Afnemer** | **Overige** |
+| **Generieke datasets**                                    | **Installatie** | **Gebouw** | **Persoon/Bedrijf** | **EnergieWaarde** | **Overige** |
 |-----------------------------------------------------------|-----------------|-------------------|-----------------------|-------------|-------------|
 | Basisregistraties:                                        |                 |                   |                       |             |             |
 | BAG, BGT, Top10NL, LIV, NHR                               |                 |                   |                       |             |             |

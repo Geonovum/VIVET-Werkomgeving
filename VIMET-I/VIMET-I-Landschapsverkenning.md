@@ -48,7 +48,9 @@ Gebruikt materiaal
 
 De overheid is actief op het gebied van digitalisering ([NL
 DIGIbeter](https://www.digitaleoverheid.nl/nldigibeter/), [NL
-Digitaal](https://www.rijksoverheid.nl/onderwerpen/digitale-overheid/nieuws/2019/03/21/nederland-digitaal-afspraken-voor-betere-samenwerking-digitalisering)). Hierin is ook opgenomen een deze zomer op te stellen [standaardisatieagenda](https://www.digitaleoverheid.nl/actielijn/standaardisatieagenda/).
+Digitaal](https://www.rijksoverheid.nl/onderwerpen/digitale-overheid/nieuws/2019/03/21/nederland-digitaal-afspraken-voor-betere-samenwerking-digitalisering)).
+Hierin is ook opgenomen een deze zomer op te stellen
+[standaardisatieagenda](https://www.digitaleoverheid.nl/actielijn/standaardisatieagenda/).
 In de [Nederlandse
 Digitaliseringsstrategie](https://www.rijksoverheid.nl/documenten/rapporten/2018/06/01/nederlandse-digitaliseringsstrategie)
 worden cross-sectorale afsprakenstelsels verkend.
@@ -60,11 +62,11 @@ zodanig dat je ze kunt verbinden met andere sectoren omdat dit nieuwe use cases
 oplevert, bijv. Energie & Bouw/Installatie, Energie en Mobiliteit. Er wordt dan
 ook wel gesproken over een datastelsel zoals uitgewerkt in het rapport over
 datadeel-initiatieven voor de MKB [rapport Generiek afsprakenstelsel voor
-datadeelinitiatieven als basis van de digitale economie](https://www.rijksoverheid.nl/documenten/rapporten/2018/12/30/generiek-afsprakenstelsel-voor-datadeelinitiatieven-als-basis-van-de-digitale-economie) in opdracht van
-Ministerie van EZK.
-Noodzakelijk: kennisuitwisseling, generiek afsprakenstelsel met 9 bouwstenen
-voor datadeelcoalitie. Bouwsteen 7: interoperabiliteit van metadata (p.81 en
-p.84-90 vv.
+datadeelinitiatieven als basis van de digitale
+economie](https://www.rijksoverheid.nl/documenten/rapporten/2018/12/30/generiek-afsprakenstelsel-voor-datadeelinitiatieven-als-basis-van-de-digitale-economie)
+in opdracht van Ministerie van EZK. Noodzakelijk: kennisuitwisseling, generiek
+afsprakenstelsel met 9 bouwstenen voor datadeelcoalitie. Bouwsteen 7:
+interoperabiliteit van metadata (p.81 en p.84-90 vv.
 
 Kenmerken van afsprakenstelsel: p. 103-105, ontwikkelingsrichtlijnen: p. 106.
 
@@ -224,5 +226,20 @@ RVO.
 | )                                                                                                                   | Lijst met de codes voor productie installaties zoals gebruik in GLDPM.                                                             | Elektriciteit             | Binnen de Ensto-e gestandaardiseerd                                                                                                                                                                                                                                                                                                                                                                                         |
 
 ### Relevante rekenmodellen
+
+Zoals hierboven aangegeven is door enkele deelnemers aan de ExpertGroep
+EnergieTransitieRekenModellen een inventarisatie gedaan naar de gewenste
+informatie betreffende energie-installaties (opgenomen in [Bijlage
+5](#bijlage-5)). Er heeft in dat gremium geen brede inventarisatie
+plaatsgevonden naar de informatiebehoefte; het verdient aanbeveling om bij hen
+bij het vervolg van dit project wel aandacht aan te geven. Een interessante
+ontwikkeling in dat opzicht is het Mondaine-project (Topsector Energie) waarin
+drie rekenmodellen (ETM van Quintel, Vesta-MAIS van PBL en PICO van Geodan)
+verbonden worden: het modelleren van het systeem (ETM) en de impact op de
+gebouwde omgeving (Vesta-MAIS) wordt gevisualiseerd (PICO). De datastromen
+tussen de modellen worden gemodelleerd met ESDL.
+
+Voor een projectbeschrijving:
+<https://projecten.topsectorenergie.nl/projecten/models-and-data-interface-for-energy-20-00031738>
 
 ### Relevante documentatie

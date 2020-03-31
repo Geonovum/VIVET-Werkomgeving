@@ -1,6 +1,17 @@
 Inleiding
 ---------
 
+<r>
+Dit hoofstuk omschrijven
+Toepassingsgebied wordt OPDRACHT
+3 onderdelen:
+- tekst uit de offerte
+- stakeholders organiseren
+- voorstel vooor een vervolgopdracht - vingeroefening
+
+Actie: Jeroen
+</r>
+
 Met de energietransitie en de klimaatafspraken van Parijs staat Nederland voor
 een grote opgave. In Nederland werken veel partijen samen om klimaat- en
 energieafspraken na te komen. Voor de onderbouwing en uitvoering van alle
@@ -134,4 +145,6 @@ onderzoek en dat is in de bijlagen opgenomen.
 
 ### Management samenvatting
 
-### Proces/methode van onderzoek
+### Aanpak
+
+<r>werkplan erin knippen en plakken</r>

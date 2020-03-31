@@ -140,9 +140,9 @@ rekenmodellen over onder andere netbelasting, energiebalancering. Het model onde
 
 ![](media/Energiebalans.png)
 
-![](media/Solar)
+![](media/Solar.png)
 
-Figuur X: Twee voorbeelden van informatieverstreeking via ESDL.
+Figuur X: Twee voorbeelden van informatieverstrekking via ESDL.
 
 
 Van het ESDL informatiemodel is er onderstaand een gesimplificeerde subset opgenomen.
@@ -152,15 +152,19 @@ Van het ESDL informatiemodel is er onderstaand een gesimplificeerde subset opgen
 Figuur X: Gesimplificeerd UML diagram van informatiemodel ESDL (Energie System
 Description Language).
 
+Een EnergySystem bevat (het dichte wiebertje) EnergySystemInformation. Hierin zitten datasources met gegevens over Assets. Een Asset heeft een Geometry en een Building bevat Assets. Assets zijn EnergyAssets van verschillende typen van Consumer tot Conversion.
+
 Het ESDL zet de objecttypen EnergySystem, EnergyAssets gespecificeerd naar Production, Consumption, Storage, Conversion en Transport centraal. Zij heeft hier mee een meer specifiek model voor het definieren van gegevens per type asset. De uitwerking van type gegevens, enkelvoudig of profielen vian tijdseries is ook gedetailleerd uitgewerkt.
 
 Mapping op IMEnergie.
 
-In onderstaand diagram zijn de belangrijkste objecttypen van ESDL in relatie tot en startmodel gebracht.
+In onderstaand diagram zijn de belangrijkste objecttypen van ESDL in relatie tot het startmodel gebracht.
 
 ![](media/IMEnergie_en_ESDL.png)
 
 Figuur X: ESDL in relatie tot IMEnergie-installaties.
+
+Een EnergySystem 
 
 ### CIM mapping op IMEnergie.
 

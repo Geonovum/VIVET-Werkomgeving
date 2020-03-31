@@ -78,18 +78,18 @@ toepassing op 0 of meer energie-installaties. Deze is gemodelleerd als een
 fysiek object van een bepaald type. Koppeling met het PIR (Product Installatie
 Register) kan hier voor een nadere invulling zorgen. Dit is nog niet in het
 model opgenomen. De energie-installatie is gerelateerd aan een topografisch
-object uit de BGT. Via adres en persoon is er een koppeling naar de BAG en de
-NHR. Bij persoon geeft een gesloten pijl aan dat NatuurlijkPersoon en
-NietNatuurlijkPersoon verbijzonderingen van Persoon zijn.
+object uit de BGT. Via adres en persoon is er een koppeling naar de BAG, de
+NHR en de BRP. Bij persoon geeft een gesloten pijl aan dat NatuurlijkPersoon (BRP) en
+NietNatuurlijkPersoon (NHR) verbijzonderingen van Persoon zijn.
 
 ![](media/IMEnergie-installaties.png)
 
 Figuur X: UML diagram van informatiemodel ‘energie-installaties’. Dit is een
 startmodel om de denkrichting te bepalen voor doorontwikkeling.
 
-De volgende belangrijkste objecttypen (of top-entiteiten) worden onderscheiden:
+De volgende belangrijkste objecttypen (of kern-entiteiten) worden onderscheiden:
 
-InformationPoint en Measurement value (Informatiepunt en Meetwaarde)
+**Informatiepunt en Meetwaarde.**
 
 Voor het bepalen van energie gerelateerde capaciteit in relatie tot productie en
 opslag is veel informatie nodig van vele onderdelen van een energiesysteem. In
@@ -101,30 +101,26 @@ energie product elektriciteit, aardgas en warmte. De meetwaarde is ook gespecifi
 vijf hoofdgoepen productie, consumptive, conversie, opslag en transport.
 
 
-MeasurementInstrument (Meetinstrument)
+**Meetinstrument**
 
 Meetwaardes ontstaan uit metingen worden gedaan met een meetinstrument. Wanneer
 de eigenschappen van een meetinstrument van belang zijn kunnen deze in de klasse
 Meetinstrument beschreven worden.
 
-PhysicalObject (FysiekObject)
+**FysiekObject**
 
 Zichtbaar en tastbaar object dat energie produceert, opslaat, converteert of
 gebruikt. Een ander mogelijke term is asset of nog beperketre energie-asset. Deze objecten zijn wellicht verder te modelleren volgens het PIR.
 (Product Installatie Register)
 
-Location (Locatie)
+**Locatie**
 
 Van veel objecten is de locatie van belang. Deze kan op twee manieren beschreven
 zijn: : (1) Als coordinaten in een bekend referentiestelsel. (2) Als
 (post)-adres uit de BAG.
 
-Dataset
 
-Niet als objecttype voorkomend in het model. Een Dataset zal bestaan uit de
-Meetwaardes behorend bij een collectie informatiepunten.
-
-TransferPoint (Overdrachtspunt)
+**Overdrachtspunt**
 
 Overdrachtspunten vormen de link met het fysieke netwerk: Informatiepunten
 worden volledig losstaand van het bestaande netwerk beschreven, wanneer de
@@ -136,22 +132,31 @@ met CIM.
 
 ### ESDL mapping op IMEnergie.
 
-NOG AANPASSEN
 
 Het ESDL, Energy System Description Language is door TNO ontwikkeld voor het
 standaardiseren van data-uitwisseling voor het toepassen van rekenmodellen op
-energiesystem. Het beschrijft dus het energiesysteem als input voor
-rekenmodellen over onder andere netbelasting, energiebalancering etcetera. Voor
-het ESDL is er onderstaand een gesimplificeerde subset opgenomen.
+energiesystemen https://energytransition.gitbook.io/esdl/. Het beschrijft elementen uit het energiesysteem als input voor
+rekenmodellen over onder andere netbelasting, energiebalancering. Het model ondersteund ruimtelijke en individuele asset selectie en differentiatie op productie, consumptie, conversie, opslag en transport.
+
+![](media/Energiebalans.png)
+
+![](media/Solar)
+
+Figuur X: Twee voorbeelden van informatieverstreeking via ESDL.
+
+
+Van het ESDL informatiemodel is er onderstaand een gesimplificeerde subset opgenomen.
 
 ![](media/ESDL_placeholder_objecttypen.png)
 
 Figuur X: Gesimplificeerd UML diagram van informatiemodel ESDL (Energie System
 Description Language).
 
-Het ESDL zet de objecttypen EnergySystem, EnergyAssets gespecificeerd naar Production, Consumption, Storage, Conversion en Transport centraal. Zij heeft hier mee een meer specifiek model voor het definieren van gegevens per type asset. 
+Het ESDL zet de objecttypen EnergySystem, EnergyAssets gespecificeerd naar Production, Consumption, Storage, Conversion en Transport centraal. Zij heeft hier mee een meer specifiek model voor het definieren van gegevens per type asset. De uitwerking van type gegevens, enkelvoudig of profielen vian tijdseries is ook gedetailleerd uitgewerkt.
 
-Mapping op IMEnergie
+Mapping op IMEnergie.
+
+In onderstaand diagram zijn de belangrijkste objecttypen van ESDL in relatie tot en startmodel gebracht.
 
 ![](media/IMEnergie_en_ESDL.png)
 

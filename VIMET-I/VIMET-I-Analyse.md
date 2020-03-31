@@ -59,7 +59,8 @@ Vanuit het perspectief 'installatieregister' is het TechniekNL voortvarend bezig
 Deze plaat laat hiermee duidelijk het cross sectorale karakter zien (bouw, energie, installatie onderhoud, assetmanagement, basisregistraties) van de problematiek rond de energie-installaties en hiermee verbonden omgeving.
 Het initiatief om te komen tot een afsprakenstelsel voor een betere marktfacilering is een mooi voorbeeld om de informatie te laten stromen en vernieuwing en innovatie te stimuleren. Dit heeft nog wel een bilaterale scope van NetbeheerNL(transport) en Energie Nederland (opwek) .
 
-![](media/vimetlandschap.png)
+![](https://github.com/Geonovum/VIVET-Werkomgeving/blob/master/VIMET-I/media/vimetlandschap.PNG)
+
 
 **Afkortingen**:\
 DigiDealGO = DigiDealGO is een overeenkomst tussen de overheid, de brancheverenigingen van de bouw, de installatiesector en de toeleverende industrie, ondersteund door de \

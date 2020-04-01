@@ -1,57 +1,33 @@
-Analyse/inhoudelijke keuzes
----------------------------
+Analyse
+-------
 
 Zoals aangegeven in hoofdstuk 1 kan het karakter van dit onderzoek worden
 gekenschetst als een landschapsverkenning/omgevingsanalyse en veel minder als
-een ontwerp-proces. Dit hoofdstuk beschrijft kort de project-context (VIVET &
-VIMET-I).
-
-Nog doen: Iets over de paragraaf Scope installaties / Criteria en inhoudelijke
-keuzes / Bevindingen landschapsverkenning.
-
-Nog doen: laatste paragraaf: Uitgangspunten informatiemodel.
+een ontwerp-proces. Door het voortschrijdend inzicht zijn bepaalde elementen weggelaten (zoals scoping door use cases) of juist uitgebreid (zoals afsprakenstelsels, relevante projecten en stakeholder analyse).
 
 Aan een deel van de inventarisatie van losse elementen die in de
-landschapsverkenning heeft plaatsgevonden, is vervolgens enige structuur
-gegeven. Dat is gebeurd door de geïdentificeerde datasets in tabelvorm te
-verbinden met resp. infotools, Informatiemodellen en kernentiteiten.
+landschapsverkenning heeft plaatsgevonden, is tijdens de anlyse structuur
+gegeven, wat de basis is voor analyse en aanbevelingen. 
 
-Klopt dit nog? Nog doen: Iets over Het (keten)werkproces waarin de informatie
-(over installaties) wordt geproduceerd - Stakeholders - Bestaande registraties -
-Wettelijk kader  
-- Relevante standaarden en rekenmodellen - Relevante documentatie
 
-### Beschrijving VIVET & VIMET-I
+### Stakeholderanalyse
+Jeroen: nog doen nav lijst stakeholders in landschapsverkenning
+bv tabel stakeholders versus relevante projecten of versus datasets
 
-Lorem ipsum dolor.
-
-<r>Moet deze paragraaf niet gewoon weg, want het staat toch hierboven?</r>
 
 ### Scope installaties
+Zoals in de volgende paragraaf aangegeven is het landschap cross sectoraal  (bouw, energie, installatie onderhoud, assetmanagement, basisregistraties). De scoping van een 'installatieregister concept' moet vraag gestuurd plaats vinden. Dit was voorzien om aan de hand van use cases met betrokken product owners onderdeln van het informatiemodel verder uit te diepen. De volgende use cases zijn voorbereid, maar nog niet uitgevoerd. In het VIVET programma 2020 worden de use cases verder uitgewerkt, wat tevens het nu meer generieke model moet invullen en specificeren.
+- Case A – Ontsluiten informatie over huidige duurzame productiecapaciteit aan Zon PV uit PIR/CERES
+- Case B – Casus elektrisch laden Smart Zwolle
+- Case C – Warmtepompen (Ingroei Warmtepompen en effectmonitoring)
 
-<r>Jeroen: tekstvoorstel doen voor het toepassingsgebied waar wij ons op richten</r>
-<r>Jeroen: iets met inhoudelijke scoping en iets met institutionele scoping</r>
+Knelpunt bij de uitvoering is dat de totstandkoming van de Use Cases moeizaam gaat. Het beeld dat partijen niet echt bereid zijn om data te delen wordt bevestigd en het kost veel moeite om tot afspraken te komen. Dit is ook deels de conclusie van project E2 en in die zin ook onderdeel van het project. Van belang is dat er d.m.v. het werken aan het informatiemodel partijen dichter tot elkaar komen. Dat doel is bereikt. De Use Cases zijn een mooie manier om te laten zien wat er mogelijk is, maar als ze niet tot stand komen bevestigen ze alleen het probleem van het terughoudend zijn in data delen.
 
-Herschrijven (is verplaatste tekst): Beperkingen / issues / randvoorwaarden
+Het volgende denkmodel is gebruikt tijdens de analyse en het uitwerken van het het eerste informatiemodel. Dit (T-model) is tevens de aanleiding om in het VIVET werkplan 2020 de [datastandaarden](https://github.com/Geonovum/VIVET-Werkomgeving/blob/master/VIMET-I/media/denkmodel-datastandaarden-energietransitie.png) goed te hechten in topmodellen en per toepassing en per domein specifiek uit te werken.
 
-Tijdens de ontwikkeling van dit document zijn er door diverse betrokkenen de
-volgende opmerkingen gemaakt, die het waard zijn om hier te benoemen en t.z.t.
-op te pakken. Deze zijn opgenomen in de teksten per categorie; hieronder volgen
-enkele generieke opmerkingen, die in willekeurige volgorde zijn opgesomd.
+![](media/denkmodel-imet.png)
+Figuur x: Denkmodel Informatiemodel Energie installaties
 
--   *Processen* zijn nu in de inventarisatie niet meegenomen. Door deze wel te
-    beschouwen zou (de beschrijving van) het speelveld wijzigen. Bijvoorbeeld
-    het aanleggen van aansluitingen gebeurt vaak in multi-utility-verband
-    (telecom, water) en heeft betrekking op andere wetgeving (vergunningen,
-    omgevingswet).
-
--   Deze beschrijving/indeling roept de vraag op, of er bij installatieregister
-    en informatiemodel ook aandacht moet zijn voor het temporele aspect
-    (verleden / heden / toekomst).
-
--   De term ‘installatieregister’ roept de gedachte op van één grote database
-    met alle informatie, maar dit register zal toch eerder bestaan door het
-    verbinden van datasets dan door het verzamelen van concrete data.
 
 ### Bevindingen landschapsverkenning
 
@@ -62,8 +38,8 @@ Vanuit het perspectief 'installatieregister' is het TechniekNL voortvarend bezig
 Deze plaat laat hiermee duidelijk het cross sectorale karakter zien (bouw, energie, installatie onderhoud, assetmanagement, basisregistraties) van de problematiek rond de energie-installaties en hiermee verbonden omgeving.
 Het initiatief om te komen tot een afsprakenstelsel voor een betere marktfacilering is een mooi voorbeeld om de informatie te laten stromen en vernieuwing en innovatie te stimuleren. Dit heeft nog wel een bilaterale scope van NetbeheerNL(transport) en Energie Nederland (opwek) .
 
-<r>Jan: kijken waarom het plaatje er niet is</r>
 ![](media/vimetlandschap.png)
+
 
 **Afkortingen**:\
 DigiDealGO = DigiDealGO is een overeenkomst tussen de overheid, de brancheverenigingen van de bouw, de installatiesector en de toeleverende industrie, ondersteund door de \

@@ -1,6 +1,7 @@
 ## Conclusies en aanbevelingen
 
 In dit hoofdstuk worden de belangrijkste conclusies uit de voorgaande hoofdstukken uitgelicht, en wordt een aantal aanbevelingen gedaan voor een eventuele vervolg.
+(todo: Aan de hand van hoofdstuk analyse en informatiemodel) bevindingen nalopen en omzetten in conclusies en aanbevelingen.)
 
 ### Conclusies
 

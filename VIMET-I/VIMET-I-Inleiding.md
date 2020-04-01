@@ -99,7 +99,7 @@ Figuur x: Samenhang projectonderdelen voorstudie centraal installatieregister
 
 
 
-#### verkenning Informatiemodel energie installaties
+#### Verkenning Informatiemodel energie installaties
 #### Doel en resultaat
 RVO wil via deze voorstudie zicht krijgen op welke manier de reeds bestaande informatie over energie
 installaties naar relevante stakeholders (besluitvormers, dataspecialisten e.d.) in de energietransitie

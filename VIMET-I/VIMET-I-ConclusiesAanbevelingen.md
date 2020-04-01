@@ -1,7 +1,8 @@
 ## Conclusies en aanbevelingen
 
 In dit hoofdstuk worden de belangrijkste conclusies uit de voorgaande hoofdstukken uitgelicht, en wordt een aantal aanbevelingen gedaan voor een eventuele vervolg.
-(todo: Aan de hand van hoofdstuk analyse en informatiemodel) bevindingen nalopen en omzetten in conclusies en aanbevelingen.)
+
+<r>(todo: Aan de hand van hoofdstuk analyse en informatiemodel) bevindingen nalopen en omzetten in conclusies en aanbevelingen.)</r>
 
 ### Conclusies
 
@@ -37,6 +38,10 @@ zijn waarschijnlijk geinteresseerd in de vervangingsvraag voor installaties bij 
 kunnen inspelen. Overheidsorganisaties zullen vooral willen weten of zij aan de CO2 doelstellingen voldoen.
 
 ### Aanbevelingen
+
+### Voorstel voor doorontwikkeling informodel energie-installaties
+<r>(Jan todo: Voorstel uitwerken conform werkplan VIII VIVET 2020)
+a) Een voorstel hoe een breed gedragen informatiemodel voor energie-installaties tot stand kan komen om de huidige en toekomstige informatie-uitwisseling te faciliteren voor versnelling van de energietransitie.</r
 
 #### Werk vanuit Use-Cases
 

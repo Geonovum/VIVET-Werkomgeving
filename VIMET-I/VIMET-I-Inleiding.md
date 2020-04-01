@@ -9,6 +9,29 @@ Toepassingsgebied wordt OPDRACHT</r>
 <r> - voorstel vooor een vervolgopdracht - vingeroefening</r>
 <r> Actie: Jeroen</r>
 
+### Context (beknopt)
+Het programma VIVET (Verbetering Informatie Voorziening EnergieTransitie) bevat voorstellen voor de
+verbetering van de informatievoorziening van de energietransitie. Het programma is opgesteld door het
+CBS, het Kadaster, PBL, RVO.nl en Rijkswaterstaat op verzoek van de ministeries van Economische Zaken
+en Klimaat en Binnenlandse Zaken en Koninkrijksrelaties. In het werkplan VIVET t/m maart 2020 is een
+vijftal activiteiten voorzien. Een van die activiteiten is een verkenning van een centraal energieregister
+energie installaties, met als deelstudie een Voorstudie voor een centraal installatieregister.
+Op dit moment ontbreekt het betrokken partijen aan informatie over installaties die energie kunnen
+opwekken, converteren of opslaan. De informatie is deels niet beschikbaar, deels niet vindbaar, deels niet
+ontsloten, en deels niet koppelbaar. Dat betekent dat optimale besluitvorming voor de regionale
+energiestrategieën (RES) en transitievisie warmte (WW), systeemintegratie en de hoofdinfrastructuur
+energie niet goed mogelijk is.
+Uit de voorstudie moet blijken op welke manier de reeds bestaande informatie over energie-installaties
+naar relevante stakeholders (besluitvormers, dataspecialisten e.d.) in de energietransitie ontsloten kan
+worden.
+
+**of**
+### Context Uitgebreid
+
+De opdracht aan Geonovum om een Verkenning Informatiemodel energie installaties uit te voeren valt onder het VIVET programma 
+onderdeel E.2. Voorstudie centraal installatieregister.
+
+#### Conctext VIVET:
 Met de energietransitie en de klimaatafspraken van Parijs staat Nederland voor
 een grote opgave. In Nederland werken veel partijen samen om klimaat- en
 energieafspraken na te komen. Voor de onderbouwing en uitvoering van alle
@@ -38,92 +61,48 @@ D. Afstemming en voeding viewers
 E. Verkenning centraal register energie-installaties, verdeeld in twee
 onderdelen:
 
-E.1. Eerste verkenning van de mogelijkheden om hernieuwbare energie
+E1. Eerste verkenning van de mogelijkheden om hernieuwbare energie
 installatieregisters samen te voegen;
 
-E.2. Voorstudie centraal installatieregister onderzoeken.
+E2. Voorstudie centraal installatieregister onderzoeken.
 
-Dit rapport bevat het onderzoeksverslag van de voorstudie als bedoeld in E.2.
+Dit rapport bevat het onderzoeksverslag van de voorstudie als bedoeld in E2.
 
-### Toepassingsgebied
+#### Voorstudie centraal installatieregister onderzoeken (E2)
 
-Voor lokale overheden en netbeheerders is er onvoldoende zicht op installaties
-voor opwek, conversie en opslag van energie (warmte en elektriciteit) op lokaal
-niveau. Dit is een probleem omdat goede besluitvorming in de Regionale
-Energiestrategieën (hierna: RES) en Transitievisies Warmte (hierna: TVW), de
-systeemintegratie, systeemstudies en energie hoofdinfrastructuur nu niet
-mogelijk is. Deelproject E betreft de verkenning van de haalbaarheid van een
-centraal register met alle energie installaties; dus zowel *alle energiebronnen*
--fossiel, kern, hernieuwbaar, mix - als *alle typen installaties*; productie,
-conversie als opslag).
+*Probleemstelling:*
+Voor lokale overheden en netbeheerders is er onvoldoende zicht op installaties voor opwek, conversie en opslag van energie (warmte en elektriciteit) op lokaal niveau. Dit was een aantal jaar geleden nog niet zo’n groot probleem, maar in de veranderende energiehuishouding neemt lokale opwek een steeds belangrijkere plek in. Zo is er sinds 2015 een sterke groei van zonnestroom en warmtepompen in woningen. Het huidige gebrek aan data hierover zorgt ervoor dat er te weinig bekend is over de lokale/regionale energieproductie – en dus ook de bijhorende energieconsumptie. Dit vertroebelt het totaal beeld van de Nederlandse energiehuishouding en de statistieken op regionaal niveau.
 
-Het doel van het installatieregister is vierledig:
+Dit is een probleem omdat goede besluitvorming in de RES en TVW, de systeemintegratie, systeemstudies en energie hoofdinfrastructuur nu niet mogelijk is. Die besluitvorming heeft namelijk betrekking op het vinden van een juiste balans tussen het beperken van energieconsumptie enerzijds en verduurzamen van energieproductie anderzijds. Ook voor het beheren, managen van congestie en het plannen van energienetwerken is het van belang te weten welke installaties aangesloten zijn. Dit maakt bijvoorbeeld duidelijk wat de huidige en toekomstige belasting van het energiesysteem is tijdens seizoensfluctuaties, piek- en dalfluctuaties. Dit helpt (des)investeringsplannen onderbouwen en leidt tot een efficiënt beheer van energienetwerken, waar iedereen van profiteert. 
 
-1.  met een accuraat plaatje van energieaanbod, - vraag, -conversie en -opslag
-    is het mogelijk om scenario’s goed door te rekenen;
+*Doel: *
 
-2.  het grotere aanbod van fluctuerende energiebronnen noopt tot meer inzicht in
-    de flexibiliteit van het energiesysteem om vragen te kunnen beantwoorden
-    over mogelijkheden om toch aan de energiebehoefte te voldoen: welke
-    conversie-installaties kunnen flexibel schakelen, welke mogelijkheden tot
-    energie-opslag bestaan en welke vragers kunnen snel afschakelen?
+Het gaat om de verkenning van de haalbaarheid van een centraal register met alle energie installaties; dus zowel alle energie bronnen -fossiel, kern, hernieuwbaar, mix - als alle typen installaties; productie, conversie als opslag). 
+Het doel van het register is vierledig:
+1.	Om een goede lokale en regionale afweging te kunnen maken voor een investering in de energietransitie, (zoals infrastructuur, isolatie, opslag) is het noodzakelijk een accuraat plaatje te hebben van de lokale energie vraag, de energie productie en energie conversie mogelijkheden en opslag van alle energiedragers. Zo kunnen verschillende scenario’s goed doorgerekend worden. Bijvoorbeeld voor de warmteplannen gemeentes, RES, omgevingsvisies. Hier spelen vragen als: hoeveel en welke woningen in de wijk hebben reeds een warmtepomp, bioketel, en/of warmtenetaansluiting en kunnen dus van het gas af? Op dit moment kunnen we deze vraag nog niet beantwoorden op basis van de beschikbare informatieproducten. 
+2.	Rekening houdend met het feit dat in 2030, (i) 70% van onze jaarlijkse elektriciteitsvraag uit duurzame elektriciteit zal bestaan en (ii) dat deze elektriciteitsvraag door toename van warmtepompen, elektrisch verwarmen, elektrisch vervoer en elektrificatie van de industrie zal toenemen en (iii) zowel de afname als de productie ervan een grillig patroon zullen hebben is het noodzakelijk goed te weten hoe we deze fluctuatie op kunnen vangen met de bestaande installaties; flexibilisering van het net Hier spelen vragen als: Welke conversie installaties (hybride boilers, wijk ecovaten, elektrolysers, industriële processen) kunnen snel en economisch efficiënt schakelen? Waar, hoe snel, hoeveel kunnen we opslaan en in welke vorm (gas, elektra, warmte)? Welke vragers kunnen tijdelijk snel af of omschakelen (tuinbouw, industrie, koelhuizen)?
+3.	Middels bovenstaande kan beleid beter inzicht krijgen in de consequenties van bestaande en nieuwe marktmechanismen op het energie systeem. Nieuwe marktpartijen kunnen sneller en slimmer inspelen op regionale energetische knelpunten. En de netbeheerder kan betere inschattingen maken voor hun investeringen in verzwaring en nieuwe netten. Zo zou het register goed gebruikt kunnen worden voor de systeemstudies die de provincies en netbeheerder uitvoeren.
+4.	Om nu en in de toekomst een accuraat plaatje van de energiestatistieken op laag regionaal niveau te kunnen maken, is het nodig dat er een overzicht komt van wat er op lokaal niveau aan energie gewonnen en gebruikt wordt. Op dit moment vindt er wat betreft hernieuwbare energie nog veel bijschatting plaats op nationaal niveau. De nationale overheid kan zo probleem regio’s accurater volgen en gerichter ondersteunen. Om nu en in de toekomst aldus een accuraat plaatje van de energiehuishouding te kunnen maken, is het nodig dat er een overzicht komt van wat er op lokaal niveau aan energie gewonnen, gebruikt en opgeslagen wordt. Hiervoor dient informatie over alle energie-installaties in een regio (RES-niveau) bij elkaar gezet te worden en die informatie moet, al dan niet via een intermediair, worden ontsloten voor de belanghebbenden. Belanghebbenden zijn partijen die werken aan RES en TVW, netwerkbeheerders, energieleveranciers en onderzoek/adviesbureaus.
 
-3.  het leidt tot beter inzicht in de consequenties van bestaande en nieuwe
-    marktmechanismen, zodat het leidt tot betere systeemstudeis door
-    beleidsmakers en beter investeringsbeleid van de netbeheerders.
+*Aanpak langs twee sporen:*
+Om het beoogde doel te bereiken dient zich een aanpak aan langs twee sporen:\
+E1. Eerste verkenning van de mogelijkheden om hernieuwbare energie installatieregisters samen te voegen;\
+E2. Voorstudie centraal installatieregister onderzoeken.
 
-4.  het installatieregister is noodzakelijk om een accuraat plaatje van de
-    energie-huishouding op laag regionaal niveau te maken; daarmee is betere
-    besluitvorming mogelijk door belanghebbenden die o.a. werken aan de
-    regionale energiestrategieën, de toekomstvisie warmte en het beheer van de
-    netten beter beslissen.
+### Voorstudie centraal installatieregister
+Het ontbreekt de partijen die bijdragen aan de energietransitie aan informatie over installaties die energie kunnen opwekken of converteren of opslaan. De informatie over de installaties is niet te raadplegen doordat deze niet beschikbaar is, niet vindbaar is, niet ontsloten wordt, niet koppelbaar is of een combinatie van deze factoren. Hierdoor ontbreekt de informatie benodigd voor een optimale besluitvorming voor de RES en TVW, de systeemintegratie, de systeemstudies en de hoofdinfrastructuur energie. 
 
-Om dit doel te bereiken, worden twee sporen uitgezet:
+Uit de verkenning moet blijken op welke manier de reeds bestaande informatie over energieinstallaties naar besluitvormers in de energietransitie ontsloten kan worden. Tevens zal de verkenning een PoC starten om ervaring op te doen. Hiermee creëert het project mogelijkheden om informatie die nu niet vindbaar, niet ontsloten of niet koppelbaar is beschikbaar te krijgen en geeft het advies over de wijze waarop informatie die niet beschikbaar is alsnog beschikbaar kan worden gemaakt.    
 
--   (E1) een verkenning naar de mogelijkheden om installatieregisters samen te
-    voegen, bij voorkeur tot één microdatabestand, dat gebruikt kan worden voor
-    analyses en voor en laag-regionale statistieken. Dit project brengt de
-    koppelbaarheid van bestaande registers (zonproductie, warmtepompen,
-    pelletkachels) in beeld, en betrekt gebruikers (netbeheer, provincies,
-    rijksoverheid) van de data bij het vaststellen van de wensen;
+Het project bestaat uit twee delen. Het inzichtelijke maken van het ‘informatiemodel’ en ‘ICT infrastructuur’ en het uitvoeren van een PoC aan de hand van een aantal Use Cases. De uitkomsten hiervan worden vastgelegd in een Advies.
 
--   (E2) een voorstudie naar een centraal installatieregister ;
+Randvoorwaarden Proof of Concept:
+**(A) Inzicht ‘informatiemodel’** (Dit project): Voor het op een juiste wijze beschikbaar en deelbaar kunnen maken van de data is het van belang een beeld te vormen over het format en de standaardisatie van de informatie met de focus op installaties. Welke verplichtingen en (internationale) formats zijn er en wat is er al door partijen ontwikkeld.
+(B) Inzicht ‘ICT architectuur’: Er is geen architectuur voor het op een juiste wijze verzamelen, koppelen en beschikbaar maken van de benodigde informatie. Om een PoC te kunnen uitvoeren moet er zicht zijn op de wijze waarop de data kan worden georganiseerd. Hierbij speler principes als ‘enkelvoudige opslag, meervoudige gebruik’ of inspiratiebronnen als ‘common grounds’ van VNG en PDOK Next een rol. Tevens ontstaat hier een inzicht in de meest kansrijke dataomgevingen om nog niet ontsloten data in te ontsluiten.
 
-Op dit moment is een centraal overzicht van installaties waarmee energie
-opgeslagen of geproduceerd wordt – en de ontsluiting ervan – nog niet
-georganiseerd. De vraag is wat er nodig is om dat wel te organiseren en welke
-mate van detail en compleetheid -in ruimte en tijd - is daarvoor noodzakelijk.
-Daar zal onderzoek naar worden gedaan.
+## verkenning Informatiemodel energie installaties
 
-In deze voorstudie zal worden ingegaan op de inhoudelijke, juridische,
-institutionele, technische en financiële aspecten van een centraal
-installatieregister:
 
--   inhoudelijk: onderzocht wordt hoe belangrijk een volledig overzicht van
-    installaties is. Op basis van gesprekken met betrokkenen worden de hiaten
-    vastgesteld;
-
--   format en standaardisatie: het installatieregister wordt gevuld en
-    geraadpleegd vanuit andere systemen, en standaardisatie en de juiste formats
-    zijn noodzakelijk om dit efficiënt uit te voeren; waar mogelijk wordt
-    aangesloten gezocht bij bestaande methoden en technieken in het energie- en
-    overheidsdomein;
-
--   juridisch, de wettelijke kaders: moet er een verplichting komen om de
-    registers te vullen? hoe zit het met de toegang, welke eisen stelt de AVG,
-    welke relatie is er met bestaande (deel-)registraties en
-    vergunningenwetgeving?
-
--   institutioneel/governance: hoe wordt de kwaliteit van het register geborgd,
-    hoe wordt het verband met bestaande (deel-)registers en hoe wordt het beheer
-    geregeld?
-
--   technisch: er wordt beschreven welke infrastructuur noodzakelijk is om een
-    installatieregister te vullen, beheren en ontsluiten.
-
--   financieel: wat kost de bouw van een installatieregister, welke
-    beheerskosten zijn ermee gemoeid en hoe zou de financiering georganiseerd
-    kunnen worden?
 
 ### Doelgroep
 

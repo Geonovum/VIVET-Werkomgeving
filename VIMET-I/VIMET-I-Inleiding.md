@@ -18,7 +18,7 @@ naar relevante stakeholders (besluitvormers, dataspecialisten e.d.) in de energi
 worden.
 
 
-### Context uitgebreid
+### Context (uitgebreid)
 
 De opdracht aan Geonovum om een Verkenning Informatiemodel energie installaties uit te voeren valt onder het VIVET programma 
 onderdeel E.2. Voorstudie centraal installatieregister.
@@ -99,7 +99,7 @@ Figuur x: Samenhang projectonderdelen voorstudie centraal installatieregister
 
 
 
-#### Verkenning Informatiemodel energie installaties
+### Verkenning Informatiemodel energie installaties
 #### Doel en resultaat
 RVO wil via deze voorstudie zicht krijgen op welke manier de reeds bestaande informatie over energie
 installaties naar relevante stakeholders (besluitvormers, dataspecialisten e.d.) in de energietransitie

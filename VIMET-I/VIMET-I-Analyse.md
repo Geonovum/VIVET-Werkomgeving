@@ -266,18 +266,18 @@ en zijn er datasets met *gerelateerde informatie* over energie-installaties
 
 Zoals in paragraaf [bevindingen-landschapsverkenning](#bevindingen-landschapsverkenning) is aangegeven is informatie over energieinstallaties verdeeld over verschillende sectoren. Om informatie te laten stromen is  overeenstemming nodig over de semantiek en kwaliteit van de belangrijkste kernentiteiten. De onderstaande tabel geeft beknopt inzicht welke kernentiteiten geraakt worden. Op te merken valt dat voor de entiteiten Gebouw en Persoon/Bedrijf basisregistraties en dus ook gegevenseigenaren zijn. Voor de entiteiten Installatie en Meetwaarde is dit niet geregeld en is er governance nodig om overeenstemming te bereiken over de semantiek, kwaliteit en uitwisselingsafspraken. Om de relaties tussen de entiteiten consistent te houden zijn er ook beheersafspraken en financiering nodig.
 
-| **Projecten**                        | **Installatie** | **Gebouw** | **Persoon/Bedrijf** | **Meetwaarde** |
-|--------------------------------------|-----------------|------------|---------------------|----------------|
-| Datastelsel Utiliteitsbouw           | x               | x          | x                   | x              |
-| Consumenten dossier                  | x               | x          | x                   |                |
-| Digitaal Gebouwdossier               |                 | x          |                     |                |
-| Document-analyse                     | x               | x          | x                   | x              |
-| Rekenmodellen                        | x               | x          |                     |                |
-| EGO Datavoorziening                  | x               | x          |                     |                |
-| PoC Installatie Register (onderhoud) | x               | x          | x                   | x              |
-| LinkED                               |                 |            |                     |                |
-| UOI: Unieke Object Identificatie     |                 | x          |                     |                |
-|                                      |                 |            |                     |                |
-|                                      |                 |            |                     |                |
+| **Projecten**                        | **Installatie** | **Gebouw/locatie** | **Persoon/Bedrijf** | **Meetwaarde** |
+|--------------------------------------|-----------------|--------------------|---------------------|----------------|
+| Datastelsel Utiliteitsbouw           | x               | x                  | x                   | x              |
+| Consumenten dossier                  | x               | x                  | x                   |                |
+| Digitaal Gebouwdossier               |                 | x                  |                     |                |
+| Document-analyse                     | x               | x                  | x                   | x              |
+| Rekenmodellen                        | x               | x                  |                     |                |
+| EGO Datavoorziening                  | x               | x                  |                     |                |
+| PoC Installatie Register (onderhoud) | x               | x                  | x                   | x              |
+| LinkED                               |                 |                    |                     |                |
+| UOI: Unieke Object Identificatie     |                 | x                  |                     |                |
+|                                      |                 |                    |                     |                |
+|                                      |                 |                    |                     |                |
 
 ### Uitgangspunten informatiemodel

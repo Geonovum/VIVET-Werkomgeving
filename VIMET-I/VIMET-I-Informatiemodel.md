@@ -29,8 +29,15 @@ bestaande informatiestandaarden en domeinmodellen;
 
 Model op hoofdlijn
 
-Als start voor het bepalen van het denkraam van het model is uitgegaan van een
-model voor het uitwisselen van meetgegevens van energie-installaties in een
+Als start voor het bepalen van het denkraam van het model is uitgegaan van een aantal kern-entiteiten die centraal staan:
+Energie-installatie
+Energieproduct
+Installatie-eigenschap (verbruik, opwek, opslag e.d.)
+Energie hoeveelheid
+Locatie
+Persoon/bedrijf
+
+Deze kern-entiteiten zijn geprojecteerd op een model voor het uitwisselen van meetgegevens van energie-installaties in een
 netwerk. Het model is relatief eenvoudig en is onafhankelijk van de vaak
 complexe structuur van energiesystemen. In het model staat het informatiepunt
 centraal. Een punt waar je gegevens over vastlegt en opvraagt. In dit geval van
@@ -119,6 +126,8 @@ Van veel objecten is de locatie van belang. Deze kan op twee manieren beschreven
 zijn: : (1) Als coordinaten in een bekend referentiestelsel. (2) Als
 (post)-adres uit de BAG.
 
+**Persoon**
+Persoon vormt de verbinding met personen, natuurlijk of rechtspersonen die een relatie hebben met een informatiepunt in een netwerk..
 
 **Overdrachtspunt**
 
@@ -127,7 +136,7 @@ worden volledig losstaand van het bestaande netwerk beschreven, wanneer de
 plaatsing in het fysieke netwerk van belang is kan een informatiepunt middels
 een overdrachtspunt gekoppeld worden aan fysieke netwerklocatie.
 
-Voor harmonisatie met andere energiemodellen is er een mapping met het ESDL en
+Voor harmonisatie met andere energie-informatiemodellen is er een mapping met het ESDL en
 met CIM.
 
 ### ESDL mapping op IMEnergie.

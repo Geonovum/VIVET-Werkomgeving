@@ -4,13 +4,13 @@ Landschapsverkenning
 Dit hoofdstuk is in ontwikkeling.
 
 ### Inleiding
-<r>Leen, meer logische maken</r>
-Dit document is een aanzet tot ordening van wat er gebeurt op het gebied van
-afsprakenstelsels / projecten / data / standaarden / informatiemodellen /
-taxonomieën in het energiedomein en in aanpalende domeinen, daar waar een
-verbinding bestaat met installaties in het energiedomein. De afbakening is
-gebaseerd op ‘common sense’, getoetst in de kick-off workshop bij Geonovum op 10
-februari 2020 en door de nodige experts te betrekken.
+
+Leen, meer logische maken Dit document is een aanzet tot ordening van wat er
+gebeurt op het gebied van afsprakenstelsels / projecten / data / standaarden /
+informatiemodellen / taxonomieën in het energiedomein en in aanpalende domeinen,
+daar waar een verbinding bestaat met installaties in het energiedomein. De
+afbakening is gebaseerd op ‘common sense’, getoetst in de kick-off workshop bij
+Geonovum op 10 februari 2020 en door de nodige experts te betrekken.
 
 Aandachtspunten:
 
@@ -26,9 +26,9 @@ Aandachtspunten:
 
 Gebruikt materiaal
 
--   Een uitgebreide inventarisatie van Jeroen Baltussen (RVO/Geonovum) en Remco van der Linden (Techniek Nederland), genaamd
-    ‘Speelveld installatieregister energie-installaties' was de start van dit
-    document;
+-   Een uitgebreide inventarisatie van Jeroen Baltussen (RVO/Geonovum) en Remco
+    van der Linden (Techniek Nederland), genaamd ‘Speelveld installatieregister
+    energie-installaties' was de start van dit document;
 
 -   De in die inventarisatie opgenomen informatiebehoeften van
     energie-installaties in beleidstukken (Jan Bruinenberg - Alliander,
@@ -42,7 +42,7 @@ Gebruikt materiaal
 
 ### Stakeholders
 
-<r>hier een tabel met de aanwezigen van de kickoff workshop</r>
+hier een tabel met de aanwezigen van de kickoff workshop
 
 ### Relevante afsprakenstelsels en projecten
 
@@ -89,7 +89,7 @@ door Energie-NL en Netbeheer NL.
 
 #### Relevante projecten
 
-<r>Jeroen: nog even naar de links kijken</r>
+Jeroen: nog even naar de links kijken
 
 In het kader van de energietransitie zijn er veel initiatieven.
 Energieinstallaties staan daarbij niet los in het energie-informatielandschap.
@@ -100,18 +100,18 @@ landschapsverkenning](##bevindingen-landschapsverkenning) wordt een analyse
 gedaan hoe deze zich verhouden en meegenomen moeten worden om te komen tot een
 informatiemodel voor energieinstallaties.
 
-| Naam                                                                 | Beschrijving                                                                                                      | Domein                      | Opmerking                                                                                                                                              |
-|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Datastelsel Utiliteitsbouw](https://www.digidealgo.nl/datastelsel-energieverbruik-utiliteit/)                                          | Energiedossier per gebouw, verbinden EAN/BAG/BRK / benchmarks / gebouwkenmerken / maatregelen                     | Energie Bouw                | Doelgroep: gebouweigenaren, omg.diensten, diensten-leveranciers (software). Door RVO in opdr. van BZK via Platform Duurzame Huisvesting; 1e helft 2020 |
-| Digitale dossiers i.k.v. WKB (Wet kwaliteitsborging voor het bouwen) | Realiseren uniforme dossiervorming van opgeleverde bouwwerken                                                     | Bouw Installaties           | “Ten minste voor dossier bevoegd gezag en consumentendossier” Bron: [notitie Begeleidingsgroep 19 dec 2019](https://github.com/Geonovum/VIVET-Werkomgeving/blob/master/Dossier/BG%20digitale%20dossiers%2020191217.docx)                                              |
-| [Consumentendossier](https://www.rijksoverheid.nl/binaries/rijksoverheid/documenten/kamerstukken/2019/12/09/kamerbrief-over-het-energielabel-en-een-digitaal-woondossier/kamerbrief-over-het-energielabel-en-een-digitaal-woondossier.pdf)                                                   | Dosier dat aanemer overhandigt met volledig inzicht in het bouwwerk en bijbehorende installaties                  | Bouw Installaties           | Verplicht in het kader van de WKB                                                                                                                      |
-| [Digitaal Gebouwdossier](https://www.geobasisregistraties.nl/basisregistraties/doorontwikkeling-in-samenhang)                                               | Uitwerken concept digitaal gebouwdossier in een startarchitectuur                                                 | Gebouw                      | BZK initiatef adhv 3 use cases: consumentendossier, dossier bevoegd gezag, het vernieuwde energielabel en het platform verbeterjehuis.nl               |
-| Informatie-behoefte dmv document-analyse                             | Analyse van 49 brondocumenten naar informatiebehoeften                                                            | Energie Installaties Bebouw | door Jan Bruinenberg (Alliander / Netbeheer NL) Resultaat: bijna 3000 informatievragen Zie [Bijlage 4](#bijlage-4) voor de onderkende installatietypen |
-| Gebouwen en installaties tbv rekenmodellen                           | Een inventarisatie door EG-ETRM (ExpertGroep EnergieTransitieRekenModellen)                                       | Energie Installaties Bouw   | Installatietypen, parameters, verschillende ruimtelijke schaalniveaus. Zie [Bijlage 5](#bijlage-5)                                                     |
-| EGO Datavoorziening Energietransitie Gebouwde Omgeving               | Een hulpmiddel voor gemeenten om deTransitieVisie Warmte op te kunnen stellen.                                    | Energie Bouw                | Initiator: [Programma Aardgasvrije wijken](https://www.aardgasvrijewijken.nl/).                                                                        |
-| PoC voor centraal, geaggregeerd Installatie-Register                 | Installatieregister                                                                                               | Installaties                | Initiator: [Techniek NL](https://www.technieknederland.nl)                                                                                                                                 |
-| TKI Linked energy data [LinkED](https://projecten.topsectorenergie.nl/projecten/linked-energy-data-00027621)                                      | Het ontwikkelen van een methode voor het komen tot gemeenschappelijke informatiestandaarden en informatiesystemen | Energie                     | Resultaat (gereed) Model Harmonisatie Methodiek (MHM). Initiatief van Netbeheerders en TNO                                                             |
-| UOI: [Unieke Object Identificatie](https://www.geobasisregistraties.nl/actueel/nieuws/2020/03/20/onderzoek-fibree---kadaster---bzk-naar-uoi)                                     | Internationale koppeling voor gebouwregistraties                                                                  | Bouw                        | BZK initiatief binnen DisGEO en gerelateerd aan WKB verplichtingen (Wet Kwaliteitsborging voor Bouwen)                                                 |
+| Naam                                                                                                                                                                                                                                       | Beschrijving                                                                                                      | Domein                      | Opmerking                                                                                                                                                                                                                |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Datastelsel Utiliteitsbouw](https://www.digidealgo.nl/datastelsel-energieverbruik-utiliteit/)                                                                                                                                             | Energiedossier per gebouw, verbinden EAN/BAG/BRK / benchmarks / gebouwkenmerken / maatregelen                     | Energie Bouw                | Doelgroep: gebouweigenaren, omg.diensten, diensten-leveranciers (software). Door RVO in opdr. van BZK via Platform Duurzame Huisvesting; 1e helft 2020                                                                   |
+| Digitale dossiers i.k.v. WKB (Wet kwaliteitsborging voor het bouwen)                                                                                                                                                                       | Realiseren uniforme dossiervorming van opgeleverde bouwwerken                                                     | Bouw Installaties           | “Ten minste voor dossier bevoegd gezag en consumentendossier” Bron: [notitie Begeleidingsgroep 19 dec 2019](https://github.com/Geonovum/VIVET-Werkomgeving/blob/master/Dossier/BG%20digitale%20dossiers%2020191217.docx) |
+| [Consumentendossier](https://www.rijksoverheid.nl/binaries/rijksoverheid/documenten/kamerstukken/2019/12/09/kamerbrief-over-het-energielabel-en-een-digitaal-woondossier/kamerbrief-over-het-energielabel-en-een-digitaal-woondossier.pdf) | Dosier dat aanemer overhandigt met volledig inzicht in het bouwwerk en bijbehorende installaties                  | Bouw Installaties           | Verplicht in het kader van de WKB                                                                                                                                                                                        |
+| [Digitaal Gebouwdossier](https://www.geobasisregistraties.nl/basisregistraties/doorontwikkeling-in-samenhang)                                                                                                                              | Uitwerken concept digitaal gebouwdossier in een startarchitectuur                                                 | Gebouw                      | BZK initiatef adhv 3 use cases: consumentendossier, dossier bevoegd gezag, het vernieuwde energielabel en het platform verbeterjehuis.nl                                                                                 |
+| Informatie-behoefte dmv document-analyse                                                                                                                                                                                                   | Analyse van 49 brondocumenten naar informatiebehoeften                                                            | Energie Installaties Bebouw | door Jan Bruinenberg (Alliander / Netbeheer NL) Resultaat: bijna 3000 informatievragen Zie [Bijlage 4](#bijlage-4) voor de onderkende installatietypen                                                                   |
+| Gebouwen en installaties tbv rekenmodellen                                                                                                                                                                                                 | Een inventarisatie door EG-ETRM (ExpertGroep EnergieTransitieRekenModellen)                                       | Energie Installaties Bouw   | Installatietypen, parameters, verschillende ruimtelijke schaalniveaus. Zie [Bijlage 5](#bijlage-5)                                                                                                                       |
+| EGO Datavoorziening Energietransitie Gebouwde Omgeving                                                                                                                                                                                     | Een hulpmiddel voor gemeenten om deTransitieVisie Warmte op te kunnen stellen.                                    | Energie Bouw                | Initiator: [Programma Aardgasvrije wijken](https://www.aardgasvrijewijken.nl/).                                                                                                                                          |
+| PoC voor centraal, geaggregeerd Installatie-Register                                                                                                                                                                                       | Installatieregister                                                                                               | Installaties                | Initiator: [Techniek NL](https://www.technieknederland.nl)                                                                                                                                                               |
+| TKI Linked energy data [LinkED](https://projecten.topsectorenergie.nl/projecten/linked-energy-data-00027621)                                                                                                                               | Het ontwikkelen van een methode voor het komen tot gemeenschappelijke informatiestandaarden en informatiesystemen | Energie                     | Resultaat (gereed) Model Harmonisatie Methodiek (MHM). Initiatief van Netbeheerders en TNO                                                                                                                               |
+| UOI: [Unieke Object Identificatie](https://www.geobasisregistraties.nl/actueel/nieuws/2020/03/20/onderzoek-fibree---kadaster---bzk-naar-uoi)                                                                                               | Internationale koppeling voor gebouwregistraties                                                                  | Bouw                        | BZK initiatief binnen DisGEO en gerelateerd aan WKB verplichtingen (Wet Kwaliteitsborging voor Bouwen)                                                                                                                   |
 
 ### Relevante datasets / registraties
 
@@ -165,19 +165,31 @@ NB’s:
 
 ### Relevante taxonomieën en informatiemodellen
 
-Een taxonomieën is geordende classificaties van begrippen in een toepassingsdomein. Een taxonomie focused op een systematiek en hierarchie in begrippen/concepten en vormt een begrippenkader. Moderne toepassingen hiervan vinden hun weergave in linked data vocabulaires.
+Een taxonomieën is geordende classificaties van begrippen in een
+toepassingsdomein. Een taxonomie focused op een systematiek en hierarchie in
+begrippen/concepten en vormt een begrippenkader. Moderne toepassingen hiervan
+vinden hun weergave in linked data vocabulaires.
 
-Informatiemodellen zijn gefocused op beschrijving van gegevens in een datastructuur. Het basismodel geo-informatie (NEN 3610) definieert informatiemodel als een formele definitie van objecten, attributen, relaties en regels in een bepaald domein (https://definities.geostandaarden.nl/nen3610/doc/begrip/Informatiemodel).
+Informatiemodellen zijn gefocused op beschrijving van gegevens in een
+datastructuur. Het basismodel geo-informatie (NEN 3610) definieert
+informatiemodel als een formele definitie van objecten, attributen, relaties en
+regels in een bepaald domein
+(https://definities.geostandaarden.nl/nen3610/doc/begrip/Informatiemodel).
 
-Door middel van een informatiemodel wordt een informatiekundige beschrijving gegeven van data binnen een toepassingsdomein die in een digitale omgeving via berichtenverkeer beschikbaar en aan- of uitgeleverd kan worden.
+Door middel van een informatiemodel wordt een informatiekundige beschrijving
+gegeven van data binnen een toepassingsdomein die in een digitale omgeving via
+berichtenverkeer beschikbaar en aan- of uitgeleverd kan worden.
 
-Taxonomieën en informatiemodellen kunnen op diverse schaalniveaus worden toegepast. Voor deze verkenning zijn we geinteresseerd in standaarden op nationaal niveau met een informatiedetail dat niet te hoog is maar wel nog betekenisvol voor operationele toepassing. Internationale standaarden spelen ook een rol maar vooral daar waar ze al toegepast worden in nationale afspraken.
+Taxonomieën en informatiemodellen kunnen op diverse schaalniveaus worden
+toegepast. Voor deze verkenning zijn we geinteresseerd in standaarden op
+nationaal niveau met een informatiedetail dat niet te hoog is maar wel nog
+betekenisvol voor operationele toepassing. Internationale standaarden spelen ook
+een rol maar vooral daar waar ze al toegepast worden in nationale afspraken.
 
-In de volgdende paragrafen zijn de relevante taxonomien en informatiemodellen opgenomen. Niet alle zijn operationele standaarden.
+In de volgdende paragrafen zijn de relevante taxonomien en informatiemodellen
+opgenomen. Niet alle zijn operationele standaarden.
 
 #### Taxonomieën / vocabulaires
-
-\*\* Definities opnemen
 
 In de bouw-sector zijn veel standaarden die een relatie met elkaar hebben. Door
 het BIMLoket zijn deze met elkaar in verband gebracht en zijn de
@@ -207,39 +219,27 @@ RVO.
 | [UOB](http://www.openuob.nl) Uniforme objecten bibliotheek Technische installatieproducten o.b.v. ETIM-MC           | Een openbare, niet-merkgebonden online bibliotheek van geometrische modellen, waaraan alle fabrikanten producten kunnen toevoegen. | Bouw Installatie          | Wordt beheerd door [2BA](http://www.2ba.nl), dé neutrale datapool van handels- en productgegevens in de installatiebranche. Elk installatiebedrijf kan onafhankelijk van de eigen software de objecten uit de bibliotheek gebruiken voor het ontwerpen van gebouwinstallaties. Met één uniform informatiemodel wisselen de CAD-systemen productinformatie snel en nauwkeurig uit, in elke fase van het bouw- en BIM-proces. |
 | [IP 2020](https://www.rvo.nl/onderwerpen/duurzaam-ondernemen/energie-besparen/informatieplicht-energiebesparing)    | Informatieplicht energiebesparing Beheer: RVO                                                                                      | Energie Bouw Installaties | Overzicht [erkende maatregelen](https://www.rvo.nl/onderwerpen/duurzaam-ondernemen/energie-besparen/informatieplicht-energiebesparing/bedrijven-en-instellingen/erkende-maatregelenlijsten)                                                                                                                                                                                                                                 |
 | [Entso-e codelist](https://docstore.entsoe.eu/Documents/EDI/Library/Core/entso-e-code-list-v29r0.pdf) Paragraaf 3.2 |                                                                                                                                    |                           |                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| )                                                                                                                   | Lijst met de codes voor productie installaties zoals gebruik in GLDPM.                                                             | Elektriciteit             | Binnen de Ensto-e gestandaardiseerd                                                                                                                                                                                                                                                                                                                            
+| )                                                                                                                   | Lijst met de codes voor productie installaties zoals gebruik in GLDPM.                                                             | Elektriciteit             | Binnen de Ensto-e gestandaardiseerd                                                                                                                                                                                                                                                                                                                                                                                         |
+
 #### Informatiemodellen
 
-| Naam                                | Beschrijving                                                             | Domein                         | Opmerking                                                                                                                                                                                    |
-|-------------------------------------|--------------------------------------------------------------------------|--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| IEC CIM (Common Information Model ) | IM voor het elektriciteitsdomein (van assets tot marktmechanismen, etc.) | Energiesysteem (elektriciteit) | Wereldwijd toegepast, alleen elektriciteit als energiedrager. Doel: informatie-uitwissleing over elektriciteitssysteem. https://en.wikipedia.org/wiki/Common_Information_Model_(electricity) |
-| BIM                                 | Bouw Uniformatie Model                                                   | Bouw Installatie               | verschillende definities van BIM: een werkmethodiek, een digitale representatie van alle fysieke en functionele kenmerken van een gebouw.                                                    |
-| IFC Industry Foundation Classes     | Beschrijft data voor architectuur en bouw                                | Bouw                           | Zie verder: [en.wikipedia.org/wiki/Industry_Foundation_Classes](https://en.wikipedia.org/wiki/Industry_Foundation_Classes) - relatie met BM                                                  |
-| COINS                               | Semantisch datamodel en uitwisselingsformat                              | Bouw                           | Gebruikt voor o.m. BIM-data, GIS-data, SE-data (Systems Engineering). Uitwisseling semantisch BIM (OWL)                                                                                      |
-| CERISE-SG                           | IM-SG                                                                    | Energie Bouw Geo               | Zie [Bijlage 6](#bijlage-6)                                                                                                                                                                  |
-|                                     | Informatie-model Smart Grids voor energiebalancering                     |                                |                                                                                                                                                                                              |
-|                                     |                                                                          |                                |                                                                                                                                                                                              |
-
-#### Relevante standaarden en taxonomieën
-
-<r>Paul: inleidende tekst, ook in de subhoofdstukken</r>
-#### Standaarden
-
-\*\* Definitie standaarden, normen
-
-| Naam                                                                                                                                                                       | Beschrijving                                                                     | Domein            | Opmerking                                                               |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|-------------------|-------------------------------------------------------------------------|
-| ESDL [TNO](https://www.tno.nl/nl/aandachtsgebieden/informatie-communicatie-technologie/expertisegroepen/monitoring-control-services/grip-op-de-energietransitie-met-esdl/) | Open-sourcetaal om informatie voor de energietransitie te beschrijven.           | Energiesysteem    | Veelal gebruikt bij energie-rekenmodellen.                              |
-|                                                                                                                                                                            |                                                                                  |                   | [Bijlage 3](#bijlage-3) bevat voorbeeld                                 |
-| [NEN 2660:1996/C1:1996 nl](https://www.nen.nl/NEN-Shop/Norm/NEN-26601996C11996-nl.htm)                                                                                     | Ordeningsregels voor gegevens in de bouw - Termen, definities en algemene regels | Bouw              |                                                                         |
-| Sales Unifeed                                                                                                                                                              | Standaard berichtensets                                                          | Bouw Installaties | Met deze berichtensets kan informatie uit UOB en ETIM worden ontsloten. |
-| IEC 61970 /IEC 61968 / IEC 62325                                                                                                                                           | Set aan standaarden rondom IEC CIM                                               | Elektriciteit     | Standaard voor informatie uitwisseling in het elektriciteitsdomein.     |
-
-                                                             |
+| Naam                                                                                                                                                                       | Beschrijving                                                                     | Domein                         | Opmerking                                                                                                                                                                                    |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|--------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| IEC CIM (Common Information Model )                                                                                                                                        | IM voor het elektriciteitsdomein (van assets tot marktmechanismen, etc.)         | Energiesysteem (elektriciteit) | Wereldwijd toegepast, alleen elektriciteit als energiedrager. Doel: informatie-uitwissleing over elektriciteitssysteem. https://en.wikipedia.org/wiki/Common_Information_Model_(electricity) |
+| BIM                                                                                                                                                                        | Bouw Uniformatie Model                                                           | Bouw Installatie               | verschillende definities van BIM: een werkmethodiek, een digitale representatie van alle fysieke en functionele kenmerken van een gebouw.                                                    |
+| IFC Industry Foundation Classes                                                                                                                                            | Beschrijft data voor architectuur en bouw                                        | Bouw                           | Zie verder: [en.wikipedia.org/wiki/Industry_Foundation_Classes](https://en.wikipedia.org/wiki/Industry_Foundation_Classes) - relatie met BM                                                  |
+| COINS                                                                                                                                                                      | Semantisch datamodel en uitwisselingsformat                                      | Bouw                           | Gebruikt voor o.m. BIM-data, GIS-data, SE-data (Systems Engineering). Uitwisseling semantisch BIM (OWL)                                                                                      |
+| CERISE-SG                                                                                                                                                                  | IM-SG                                                                            | Energie Bouw Geo               | Zie [Bijlage 6](#bijlage-6)                                                                                                                                                                  |
+|                                                                                                                                                                            | Informatie-model Smart Grids voor energiebalancering                             |                                |                                                                                                                                                                                              |
+| ESDL [TNO](https://www.tno.nl/nl/aandachtsgebieden/informatie-communicatie-technologie/expertisegroepen/monitoring-control-services/grip-op-de-energietransitie-met-esdl/) | Open-sourcetaal om informatie voor de energietransitie te beschrijven.           | Energiesysteem                 | Veelal gebruikt bij energie-rekenmodellen.                                                                                                                                                   |
+|                                                                                                                                                                            |                                                                                  |                                | [Bijlage 3](#bijlage-3) bevat voorbeeld                                                                                                                                                      |
+| [NEN 2660:1996/C1:1996 nl](https://www.nen.nl/NEN-Shop/Norm/NEN-26601996C11996-nl.htm)                                                                                     | Ordeningsregels voor gegevens in de bouw - Termen, definities en algemene regels | Bouw                           |                                                                                                                                                                                              |
+| Sales Unifeed                                                                                                                                                              | Standaard berichtensets                                                          | Bouw Installaties              | Met deze berichtensets kan informatie uit UOB en ETIM worden ontsloten.                                                                                                                      |
+| IEC 61970 /IEC 61968 / IEC 62325                                                                                                                                           | Set aan standaarden rondom IEC CIM                                               | Elektriciteit                  | Standaard voor informatie uitwisseling in het elektriciteitsdomein.                                                                                                                          |
 
 ### Relevante rekenmodellen
 
-<r>Leen: stukje van bijlage 5 verplaatsen naar dit hoofdstuk</r>
+Leen: stukje van bijlage 5 verplaatsen naar dit hoofdstuk
 
 Zoals hierboven aangegeven is door enkele deelnemers aan de ExpertGroep
 EnergieTransitieRekenModellen een inventarisatie gedaan naar de gewenste
@@ -255,4 +255,3 @@ tussen de modellen worden gemodelleerd met ESDL.
 
 Voor een projectbeschrijving:
 [link](https://projecten.topsectorenergie.nl/projecten/models-and-data-interface-for-energy-20-00031738)
-

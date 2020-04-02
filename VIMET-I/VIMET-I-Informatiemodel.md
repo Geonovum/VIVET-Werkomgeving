@@ -47,10 +47,14 @@ hebben betrekking op de producten elektriciteit, gas en warmte. De dimenies
 ruimte en tijd zijn van belang en de relatie met beheer en eigendom. Als we die
 vijf onderdelen met elkaar verbinden krijgen we onderstaand overzicht.
 
-![](media/b90085e632892b2944e058e974353591.png)
+<!-- ![](media/b90085e632892b2944e058e974353591.png) -->
+<!-- Figuur X: Informatie over energie-installaties gaat over het type product, het type energieproces en kent een aantal basisgegevens: ruimte, tijd en eigendom. -->
 
-Figuur X: Informatie over energie-installaties gaat over het type product, het
-type energieproces en kent een aantal basisgegevens: ruimte, tijd en eigendom.
+<figure id="basisgegevens">
+    <img src="media/b90085e632892b2944e058e974353591.png" alt="">
+    <figcaption>Informatie over energie-installaties gaat over het type product, het type energieproces en kent een aantal basisgegevens: ruimte, tijd en eigendom.
+    </figcaption>
+</figure>
 
 Op basis van dit diagram is een informatiemodel ontwikkeld.
 
@@ -89,10 +93,14 @@ object uit de BGT. Via adres en persoon is er een koppeling naar de BAG, de
 NHR en de BRP. Bij persoon geeft een gesloten pijl aan dat NatuurlijkPersoon (BRP) en
 NietNatuurlijkPersoon (NHR) verbijzonderingen van Persoon zijn.
 
-![](media/IMEnergie-installaties.png)
+<!-- ![](media/IMEnergie-installaties.png) -->
+<!-- Figuur X: UML diagram van informatiemodel ‘energie-installaties’. Dit is een startmodel om de denkrichting te bepalen voor doorontwikkeling. -->
 
-Figuur X: UML diagram van informatiemodel ‘energie-installaties’. Dit is een
-startmodel om de denkrichting te bepalen voor doorontwikkeling.
+<figure id="startmodel">
+    <img src="media/IMEnergie-installaties.png" alt="">
+    <figcaption>UML diagram van informatiemodel ‘energie-installaties’. Dit is een startmodel om de denkrichting te bepalen voor doorontwikkeling.
+    </figcaption>
+</figure>
 
 De volgende belangrijkste objecttypen (of kern-entiteiten) worden onderscheiden:
 
@@ -149,17 +157,25 @@ rekenmodellen over onder andere netbelasting, energiebalancering. Het model onde
 
 ![](media/Energiebalans.png)
 
-![](media/Solar.png)
+<!-- ![](media/Solar.png) -->
+<!-- Figuur X: Twee voorbeelden van informatieverstrekking via ESDL. -->
 
-Figuur X: Twee voorbeelden van informatieverstrekking via ESDL.
-
+<figure id="ESDL-voorbeelden">
+    <img src="media/Solar.png" alt="">
+    <figcaption>Twee voorbeelden van informatieverstrekking via ESDL.</figcaption>
+</figure>
 
 Van het ESDL informatiemodel is er onderstaand een gesimplificeerde subset opgenomen.
 
-![](media/ESDL_placeholder_objecttypen.png)
+<!-- ![](media/ESDL_placeholder_objecttypen.png) -->
 
-Figuur X: Gesimplificeerd UML diagram van informatiemodel ESDL (Energie System
-Description Language).
+<!-- Figuur X: Gesimplificeerd UML diagram van informatiemodel ESDL (Energie System Description Language). -->
+
+<figure id="ESDL-objecttypen">
+    <img src="media/ESDL_placeholder_objecttypen.png" alt="">
+    <figcaption>Gesimplificeerd UML diagram van informatiemodel ESDL (Energie SystemDescription Language).
+    </figcaption>
+</figure>
 
 Een EnergySystem bevat (het dichte wiebertje) EnergySystemInformation. Hierin zitten datasources met gegevens over Assets. Een Asset heeft een Geometry en een Building bevat Assets. Assets zijn EnergyAssets van verschillende typen van Consumer tot Conversion.
 
@@ -169,17 +185,26 @@ Mapping op IMEnergie.
 
 In onderstaand diagram zijn de belangrijkste objecttypen van ESDL in relatie tot het startmodel gebracht.
 
-![](media/IMEnergie_en_ESDL.png)
+<!-- ![](media/IMEnergie_en_ESDL.png) -->
+<!-- Figuur X: ESDL in relatie tot IMEnergie-installaties. -->
 
-Figuur X: ESDL in relatie tot IMEnergie-installaties.
+<figure id="IMEnergie_en_ESDL">
+    <img src="media/IMEnergie_en_ESDL.png" alt="">
+    <figcaption>ESDL in relatie tot IMEnergie-installaties.</figcaption>
+</figure>
 
 Een EnergySystem 
 
 ### CIM mapping op IMEnergie.
 
-![](media/IMEnergie_en_CIM.png)
+<!-- ![](media/IMEnergie_en_CIM.png) -->
+<!-- Figuur X: CIM in relatie tot IMEnergie-installaties. -->
 
-Figuur X: CIM in relatie tot IMEnergie-installaties.
+<figure id="media/IMEnergie_en_CIM">
+    <img src="media/IMEnergie_en_CIM.png" alt="">
+    <figcaption>CIM in relatie tot IMEnergie-installaties.
+    </figcaption>
+</figure>
 
 ### Aanbevelingen voor doorontwikkeling
 

@@ -6,13 +6,17 @@ In dit hoofdstuk worden de belangrijkste conclusies uit de voorgaande hoofdstukk
 
 ### Conclusies
 
-#### Er is al veel data beschikbaar
+#### Er is al veel data, maar niet beschikbaar
 
-Uit de voorgaande hoofdstukken blijkt dat er al veel data en bijbehorende datamodellen beschikbaar is/zijn. Deze data is en wordt verzameld vanuit verschillende invalshoeken. Zo wordt door de installatiebranche data verzameld die alles te maken heeft met het beheer en onderhoud van installaties bij klanten. Het C-AR (CEntraal aansluitregister) bevat opwek en verbruiksdata op aansluitingen niveau, De Netbeheerder hebben informatie over de netwerken. Er zijn registraties over energielabels van gebouwen, waar zonnepanelen liggen, waar windmolens staan.
+Uit de voorgaande hoofdstukken blijkt dat er al veel data en bijbehorende datamodellen beschikbaar is/zijn. Deze data is en wordt verzameld vanuit verschillende invalshoeken. Zo wordt door de installatiebranche data verzameld die alles te maken heeft met het beheer en onderhoud van installaties bij klanten. Het C-AR (Centraal aansluitregister) bevat opwek en verbruiksdata op aansluitingen niveau, De Netbeheerder hebben informatie over de netwerken. Er zijn registraties over energielabels van gebouwen, waar zonnepanelen liggen, waar windmolens staan.
 
-#### Er zijn veel verschillende partijen betrokken
+#### er ontbreekt ook nog veel data
 
-Uit het hoofstuk Landschapsverkenning blijkt dat er veel verschillende partijen betrokken zijn bij het verzamelen en gebruiken van 
+expliciet warmte data benoemen
+
+#### Er zijn veel verschillende partijen betrokken 
+
+Uit het hoofdstuk Landschapsverkenning blijkt dat er veel verschillende partijen betrokken zijn bij het verzamelen en gebruiken van 
 data en informatie van de waarin een energie-component zit. De verschillende partijen hebben vaak ook een verschillende reden voor het vastleggen en gebruiken van die informatie.  
 
 #### Er zit overlap in de datamodellen

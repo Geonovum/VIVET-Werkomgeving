@@ -1,11 +1,13 @@
 Informatiemodel
 ---------------
 
--   Informatiemodel Energie-installaties
+In dit hoofdstuk wordt het informatiemodel Energie-intsallaties beschreven. De beschrijving is nog op hoofdlijn. Bij de bepaling van het model zijn drie modellen als startpunt genomen:
+- Informatiemodel Energiebalancering
+- Informatiemodel EDSL (Energiesystem Description Language)
+- Informatiemodel CIM-Ceres (Centrale Registratie van Systeemelementen).
 
--   Minimum viable product
+Aan de hand van de inventarisatie beschreven in de voorafgaande hoofdstukken en een aantal expertsessies is een startmodel gemaakt. Het startmodel is de basis voor keuzes voor doorontwikkeling in een volgende fase.
 
--   Aanbevelingen voor doorontwikkeling
 
 ### Informatiemodel Energie-installaties
 
@@ -25,11 +27,10 @@ energiesysteem of energiesystemen. Het is geen model van energiesystemen.
 \- model is ingebed in Nederlandse informatie architectuur en maakt gebruik van
 bestaande informatiestandaarden en domeinmodellen;
 
-\- …..
 
 Model op hoofdlijn
 
-Als start voor het bepalen van het denkraam van het model is uitgegaan van een aantal kern-entiteiten die centraal staan:
+Als start voor het bepalen van het denkraam van het model is uitgegaan van een aantal kern-entiteiten die centraal staan. Paragraaf 4.4.5 beschrijft die als: installatie, gebouw/locatie, persoon/bedrijf en meetwaarde. Voor het informatiemodel zijn die als volgt geformuleerd:
 Energie-installatie
 Energieproduct
 Installatie-eigenschap (verbruik, opwek, opslag e.d.)
@@ -58,11 +59,14 @@ vijf onderdelen met elkaar verbinden krijgen we onderstaand overzicht.
 
 Op basis van dit diagram is een informatiemodel ontwikkeld.
 
+Als start is het informatiemodel voor energie balancering genomen omdat dit het meest globale model is en daarmee het best de eerste globale informatie behoefte en informatiestructuur weergeeft. Informatie elementen uit ESDL en Ceres zijn hier vervolgens aangekoppeld. De samenhang tussen de modellen komt daarmee in beeld.
+
+
 ### Minimum viable product
 
 In deze fase is het informatiemodel nog bedoeld als denkraam voor de verdere
 doorontwikkeling. Het model ondersteund de behoefte om de use case over welke
-informatie van belang is scherper te krijgen. Het model moet verschillende
+informatie van belang is scherper te krijgen. Het model brengt verschillende
 bestaande modellen in relatie tot elkaar brengen om een beeld te krijgen waar de
 focus voor hergebruik en doorontwikkeling ligt.
 
@@ -195,10 +199,12 @@ In onderstaand diagram zijn de belangrijkste objecttypen van ESDL in relatie tot
 
 Een EnergySystem 
 
-### CIM mapping op IMEnergie.
+### CIM-CERES mapping op IMEnergie.
 
-<!-- ![](media/IMEnergie_en_CIM.png) -->
-<!-- Figuur X: CIM in relatie tot IMEnergie-installaties. -->
+Het informatiemodel voor de Centrale Regsitratie van Systeemelementen (Ceres) is ontwikkeld door EDSN en registreert installaties die elektriciteit produceren of verbruiken op het niveau van een aansluiting. Ceres is een toepassing van het internationale IEC/CIM. Bij de ontwikkeling van het IMSG, dat nu als uitgangspunt voor in deze verkenning is genomen, is ook het Ceres model als input gebruikt. Hiermee is ook de relatie met het IEC/CIM gerealiseerd. Onderstaand diagram beschrijft de mapping van informatie-elementen uit Ceres op IMEnergie-installaties. 
+
+<!-- ![](media/IMEnergie_en_CIM_Ceres.png) -->
+<!-- Figuur X: CIM-Ceres in relatie tot IMEnergie-installaties. -->
 
 <figure id="IMEnergie_en_CIM">
     <img src="media/IMEnergie_en_CIM.png" alt="">

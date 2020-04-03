@@ -89,7 +89,7 @@ door Energie-NL en Netbeheer NL.
 
 #### Relevante projecten
 
-Jeroen: nog even naar de links kijken
+<r>Jeroen: nog even naar de links kijken</r>
 
 In het kader van de energietransitie zijn er veel initiatieven.
 Energieinstallaties staan daarbij niet los in het energie-informatielandschap.

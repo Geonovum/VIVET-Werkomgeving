@@ -59,7 +59,7 @@ vijf onderdelen met elkaar verbinden krijgen we onderstaand overzicht.
 
 Op basis van dit diagram is een informatiemodel ontwikkeld.
 
-Als start is het informatiemodel voor energie balancering genomen omdat dit het meest globale model is en daarmee het best de eerste globale informatie behoefte en informatiestructuur weergeeft. Informatie elementen uit ESDL en Ceres zijn hier vervolgens aangekoppeld. De samenhang tussen de modellen komt daarmee in beeld.
+Als start is het informatiemodel voor energie balancering genomen omdat dit het meest globale model is en daarmee het best de eerste globale informatie behoefte en informatiestructuur weergeeft. Informatie elementen uit ESDL en Ceres zijn hier vervolgens aan gekoppeld. De samenhang tussen de modellen komt daarmee in beeld.
 
 
 ### Minimum viable product
@@ -199,32 +199,26 @@ In onderstaand diagram zijn de belangrijkste objecttypen van ESDL in relatie tot
 
 Een EnergySystem 
 
-### CIM-CERES mapping op IMEnergie.
+### CIM-Ceres mapping op IMEnergie.
 
 Het informatiemodel voor de Centrale Regsitratie van Systeemelementen (Ceres) is ontwikkeld door EDSN en registreert installaties die elektriciteit produceren of verbruiken op het niveau van een aansluiting. Ceres is een toepassing van het internationale IEC/CIM. Bij de ontwikkeling van het IMSG, dat nu als uitgangspunt voor in deze verkenning is genomen, is ook het Ceres model als input gebruikt. Hiermee is ook de relatie met het IEC/CIM gerealiseerd. Onderstaand diagram beschrijft de mapping van informatie-elementen uit Ceres op IMEnergie-installaties. 
 
-<!-- ![](media/IMEnergie_en_CIM_Ceres.png) -->
+<!-- ![](media/IMEnergy_en_CIM_Ceres.png) -->
 <!-- Figuur X: CIM-Ceres in relatie tot IMEnergie-installaties. -->
 
 <figure id="IMEnergie_en_CIM">
-    <img src="media/IMEnergie_en_CIM.png" alt="">
+    <img src="media/IMEnergy_en_CIM_Ceres.png" alt="">
     <figcaption>CIM in relatie tot IMEnergie-installaties.
     </figcaption>
 </figure>
 
 ### Aanbevelingen voor doorontwikkeling
 
-TODO
+De volgende observaties en aanbevelingen komen naar voor uit een eerste verkenning naar een informatiemodel.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Aanbevelingen in een mooi tabelletje misschien?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- De drie gebruikte informatiemodel IMSG, ESDL en CIM/Cees zijn op een globaal niveau al best met elkaar vergelijkbaar. Ze hebben ook overlappende use cases;
+- Het nu ontwikkelde IMEnergie-installaties is nog zeer globaal maar stuurt de verdere doorontwikkeling van de use case en de definitie van relevante informatie.
+- De samenhang tussen de betrokken modellen is positief voor het ontwikkelen van een bruikbaar geharmoniseerd model.
+- Het IMEnergie-installatie zal in de doorontwikkeling naar verwachting vervangen worden door delen van het ESDL en/of Ceres.
+- In potentie zou ESDL met een harmonisatie richting CIM-Ceres en harmonisatie met geo-standaarden een kandidaat kunnen zijn voor een informatiemodel dat aan de use case voldoet.
 
-| Kolom-1 | Kolom-2 | Kolom-3 | Kolom 4 | Kolom-n |
-|---------|---------|---------|---------|---------|
-| Rij-1   |         |         |         |         |
-| Rij-2   |         |         |         |         |
-| Rij-3   |         |         |         |         |
-| Rij-4   |         |         |         |         |
-| Rij-5   |         |         |         |         |
-| Rij-6   |         |         |         |         |

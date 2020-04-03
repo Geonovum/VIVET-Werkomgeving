@@ -5,7 +5,7 @@ In dit hoofdstuk worden de belangrijkste conclusies uit de voorgaande
 hoofdstukken uitgelicht, en wordt een aantal aanbevelingen gedaan voor een
 eventueel vervolgproject.
 
-(\@\@\@ todo: Aan de hand van hoofdstuk analyse en informatiemodel) bevindingen
+(\@\@ todo: Aan de hand van hoofdstuk analyse en informatiemodel) bevindingen
 nalopen en omzetten in conclusies en aanbevelingen.)
 
 ### Conclusies
@@ -57,7 +57,7 @@ doelstellingen voldoen.
 
 ### Aanbevelingen
 
-### Voorstel voor doorontwikkeling informatiemodel energie-installaties
+#### Voorstel voor doorontwikkeling informatiemodel energie-installaties
 
 \@\@\@ (Jan todo: Voorstel uitwerken conform werkplan VIII VIVET 2020) a) Een
 voorstel hoe een breed gedragen informatiemodel voor energie-installaties tot
@@ -164,7 +164,7 @@ bij
 
 -   TNO op de site [Energy.nl](https://energy.nl)
 
--   CE Delft: [Warmtetechnieken ](https://www.ce.nl/warmtetechnieken)
+-   CE Delft: [Warmtetechnieken](https://www.ce.nl/warmtetechnieken)
 
 -   Expertise Centrum Warmte:
     [Kennis](https://expertisecentrumwarmte.nl/kennis/factsheets)

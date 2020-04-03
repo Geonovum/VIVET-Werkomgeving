@@ -5,12 +5,12 @@ Landschapsverkenning
 
 ### Inleiding
 
-Leen, meer logische maken Dit document is een aanzet tot ordening van wat er
+<r>Leen, meer logische maken Dit document is een aanzet tot ordening van wat er
 gebeurt op het gebied van afsprakenstelsels / projecten / data / standaarden /
 informatiemodellen / taxonomieën in het energiedomein en in aanpalende domeinen,
 daar waar een verbinding bestaat met installaties in het energiedomein. De
 afbakening is gebaseerd op ‘common sense’, getoetst in de kick-off workshop bij
-Geonovum op 10 februari 2020 en door de nodige experts te betrekken.
+Geonovum op 10 februari 2020 en door de nodige experts te betrekken.</r>
 
 Aandachtspunten:
 

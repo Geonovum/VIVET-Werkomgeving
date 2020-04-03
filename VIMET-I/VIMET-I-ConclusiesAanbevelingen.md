@@ -8,14 +8,12 @@ In dit hoofdstuk worden de belangrijkste conclusies uit de voorgaande hoofdstukk
 
 #### Er is al veel data beschikbaar
 
-Uit de voorgaande hofdstukken blijkt dat er al heel veel data beschikbaar is. Deze data is en wordt verzameld vanuit verschillende invalshoeken. Zo wordt door de installatiebranche data verzameld die alles te maken heeft met het beheer en onderhoud van installaties bij klanten. En wordt vanuit andere organisaties weer 
-met een heel andere bril naar de data gekeken. Er is data over de installaties zelf, maar ook data die meetwaarden bevat
+Uit de voorgaande hoofdstukken blijkt dat er al veel data en bijbehorende datamodellen beschikbaar is/zijn. Deze data is en wordt verzameld vanuit verschillende invalshoeken. Zo wordt door de installatiebranche data verzameld die alles te maken heeft met het beheer en onderhoud van installaties bij klanten. Het C-AR (CEntraal aansluitregister) bevat opwek en verbruiksdata op aansluitingen niveau, De Netbeheerder hebben informatie over de netwerken. Er zijn registraties over energielabels van gebouwen, waar zonnepanelen liggen, waar windmolens staan.
 
 #### Er zijn veel verschillende partijen betrokken
 
 Uit het hoofstuk Landschapsverkenning blijkt dat er veel verschillende partijen betrokken zijn bij het verzamelen en gebruiken van 
-data en informatie van de installaties. Sommige partijen hebben de data nodig voor hun dagelijkse werk, en andere partijen gebruiken 
-de ingewonnen data van andere partijen voor het afleiden van statistieken en trends.
+data en informatie van de waarin een energie-component zit. De verschillende partijen hebben vaak ook een verschillende reden voor het vastleggen en gebruiken van die informatie.  
 
 #### Er zit overlap in de datamodellen
 
@@ -46,10 +44,9 @@ a) Een voorstel hoe een breed gedragen informatiemodel voor energie-installaties
 #### Werk vanuit Use-Cases
 
 Het is belangrijke om de juiste informatievraag te beantwoorden, en werken vanuit een usecase zorgt ervoor 
-dat die inormatievraag helder wordt. Ook wordt de doelgroep voor de informatievraag duidelijk. 
-als ..... - wil ik .... - zodat ik ....
+dat die inormatievraag helder wordt. Ook wordt de doelgroep voor de informatievraag duidelijk. Werken vanuit use-cases zorgt er ook voor dat er vraaggedreven gewerkt in plaats van aanbod gedreven.
 
-#### Harmoniseer de begrippen en datamodellen
+#### Harmoniseer de begrippen
 
 Juist omdat er zoveel partijen betrokken zijn bij de energietransitie, en er zoveel verschillende
 informatievragen zijn, en er al zoveel verschillende data- en uitwissel modellen zijn, is het aan te 
@@ -57,12 +54,12 @@ bevelen om te werken vanuit een centraal begrippenkader, en vanuit een centrale 
 
 #### Maak waar mogelijk gebruik van reeds bestaande registers
 
-Een goede basis om te starten zijn de reeds bestaande registers, en dan meer specifiek, de BAG en de BGT. 
+Een heel belangrijke aanbeveling is om de verschillende datasets en registraties die er al zijn te koppelen aan het stelsel van  basisregistraties zoals BAG en BGT. 
 Door aan te haken en aan te sluiten op die registers, worden de objecten die gerelateerd zijn aan de
 energietransitie meteen voorzien van een goede locatie, een goed adres, en voorzien van een uniek ID. 
 Dit unieke ID wordt ook reeds in andere registraties (bijvoorbeeld bij netbeheerders) gebruikt. Daarmee 
-wordt het mogelijk om de informatie uit die andere registraties meteen te gebruiken. Belangrijk is 
-wel om het juiste object uit BAG/GBT te keizen waarop wordt aangesloten 
+wordt het mogelijk om de informatie uit die andere registraties meteen te gebruiken of aan te koppelen. Belangrijk is 
+wel om het juiste object uit BAG/GBT te kiezen waarop wordt aangesloten 
 (BAG-ID of Pand-ID, ob VerblijfsObject-ID)
 
 #### Maak waar mogelijk gebruik van bestaande interfaces

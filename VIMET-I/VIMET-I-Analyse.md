@@ -51,9 +51,6 @@ Het initiatief om te komen tot een afsprakenstelsel voor een betere marktfaciler
 </figure>
 
 
-
-
-
 **Afkortingen**:\
 DigiDealGO = DigiDealGO is een overeenkomst tussen de overheid, de brancheverenigingen van de bouw, de installatiesector en de toeleverende industrie, ondersteund door de \
   BIR (Bouw Informatie Raad) het \

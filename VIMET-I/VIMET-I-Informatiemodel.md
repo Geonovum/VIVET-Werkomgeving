@@ -1,9 +1,9 @@
 Informatiemodel
 ---------------
 
-In dit hoofdstuk wordt het informatiemodel Energie-intsallaties beschreven. De beschrijving is nog op hoofdlijn. Bij de bepaling van het model zijn drie modellen als startpunt genomen:
+In dit hoofdstuk wordt het informatiemodel Energie-installaties beschreven. De beschrijving is nog op hoofdlijn. Bij de bepaling van het model zijn drie modellen als startpunt genomen:
 - Informatiemodel Energiebalancering
-- Informatiemodel EDSL (Energiesystem Description Language)
+- Informatiemodel EDSL (EnergieSystem Description Language)
 - Informatiemodel CIM-Ceres (Centrale Registratie van Systeemelementen).
 
 Aan de hand van de inventarisatie beschreven in de voorafgaande hoofdstukken en een aantal expertsessies is een startmodel gemaakt. Het startmodel is de basis voor keuzes voor doorontwikkeling in een volgende fase.
@@ -197,7 +197,7 @@ In onderstaand diagram zijn de belangrijkste objecttypen van ESDL in relatie tot
     <figcaption>ESDL in relatie tot IMEnergie-installaties.</figcaption>
 </figure>
 
-Een EnergySystem 
+
 
 ### CIM-Ceres mapping op IMEnergie.
 
@@ -216,9 +216,9 @@ Het informatiemodel voor de Centrale Regsitratie van Systeemelementen (Ceres) is
 
 De volgende observaties en aanbevelingen komen naar voor uit een eerste verkenning naar een informatiemodel.
 
-- De drie gebruikte informatiemodel IMSG, ESDL en CIM/Cees zijn op een globaal niveau al best met elkaar vergelijkbaar. Ze hebben ook overlappende use cases;
-- Het nu ontwikkelde IMEnergie-installaties is nog zeer globaal maar stuurt de verdere doorontwikkeling van de use case en de definitie van relevante informatie.
+- De drie gebruikte informatiemodel IMSG, ESDL en CIM-Ceres zijn op een globaal niveau met elkaar vergelijkbaar. Ze hebben ook overlappende use cases.
+- Het nu ontwikkelde IMEnergie-installaties is nog zeer globaal maar stuurt de verdere doorontwikkeling van de use case en de definitie van relevante informatie
 - De samenhang tussen de betrokken modellen is positief voor het ontwikkelen van een bruikbaar geharmoniseerd model.
-- Het IMEnergie-installatie zal in de doorontwikkeling naar verwachting vervangen worden door delen van het ESDL en/of Ceres.
+- Het IMEnergie-installatie zal in de doorontwikkeling naar verwachting vervangen worden door delen van het ESDL en/of CIM-Ceres.
 - In potentie zou ESDL met een harmonisatie richting CIM-Ceres en harmonisatie met geo-standaarden een kandidaat kunnen zijn voor een informatiemodel dat aan de use case voldoet.
 

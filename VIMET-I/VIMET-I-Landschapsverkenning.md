@@ -1,7 +1,7 @@
 Landschapsverkenning
 --------------------
 
-Dit hoofdstuk is in ontwikkeling.
+<r>Dit hoofdstuk is in ontwikkeling.</r>
 
 ### Inleiding
 
@@ -42,7 +42,7 @@ Gebruikt materiaal
 
 ### Stakeholders
 
-hier een tabel met de aanwezigen van de kickoff workshop
+<r>hier een tabel met de aanwezigen van de kickoff workshop</r>
 
 ### Relevante afsprakenstelsels en projecten
 

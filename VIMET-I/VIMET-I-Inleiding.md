@@ -93,11 +93,14 @@ B) Inzicht ‘ICT architectuur’: Er is geen architectuur voor het op een juist
 C) Proof of Concept:
 - Use Cases: Voor het uitvoeren van de PoC is het nuttig voor VIVET en de partijen in de Energietransitie om te werken met een beperkt aantal cases die ieder een unieke component behelzen (bijvoorbeeld, wel beschikbaar/niet ontsloten, ontsloten/niet koppelbaar). De Use cases worden binnen VIVET aangeleverd. 
 - Inzicht belemmeringen: Naast belemmeringen van technische aard zijn, kunnen er ook juridische, institutionele of financiële belemmeringen zijn voor het niet beschikbaar of niet ontsluitbaar zijn van data. De bevindingen uit de Use Cases zijn weer van belang voor andere VIVET projecten die deze belemmeringen pogen weg te nemen.
-![](media/stroomschema-installatieregister.png)
 
-Figuur x: Samenhang projectonderdelen voorstudie centraal installatieregister
+<!-- ![](media/stroomschema-installatieregister.png)    -->
+<!-- Figuur x: Samenhang projectonderdelen voorstudie centraal installatieregister -->
 
-
+<figure id="stroomschema-installatieregister">
+    <img src="media/stroomschema-installatieregister.png" alt="">
+    <figcaption>Samenhang projectonderdelen voorstudie centraal installatieregister.</figcaption>
+</figure>
 
 ### Verkenning Informatiemodel energie installaties
 #### Doel en resultaat

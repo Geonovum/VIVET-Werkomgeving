@@ -11,8 +11,8 @@ gegeven, wat de basis is voor analyse en aanbevelingen.
 
 
 ### Stakeholderanalyse
-Jeroen: nog doen nav lijst stakeholders in landschapsverkenning
-bv tabel stakeholders versus relevante projecten of versus datasets
+<r>Jeroen: nog doen nav lijst stakeholders in landschapsverkenning
+bv tabel stakeholders versus relevante projecten of versus datasets</r>
 
 
 ### Scope installaties
@@ -25,8 +25,13 @@ Knelpunt bij de uitvoering is dat de totstandkoming van de Use Cases moeizaam ga
 
 Het volgende denkmodel is gebruikt tijdens de analyse en het uitwerken van het het eerste informatiemodel. Dit (T-model) is tevens de aanleiding om in het VIVET werkplan 2020 de [datastandaarden](https://github.com/Geonovum/VIVET-Werkomgeving/blob/master/VIMET-I/media/denkmodel-datastandaarden-energietransitie.png) goed te hechten in topmodellen en per toepassing en per domein specifiek uit te werken.
 
-![](media/denkmodel-imet.png)
-Figuur x: Denkmodel Informatiemodel Energie installaties
+<!-- ![](media/denkmodel-imet.png) -->
+<!-- Figuur x: Denkmodel Informatiemodel Energie installaties -->
+
+<figure id="denkmodel-imet.png">
+    <img src="media/denkmodel-imet.png" alt="">
+    <figcaption>Denkmodel Informatiemodel Energie installaties.</figcaption>
+</figure>
 
 
 ### Bevindingen landschapsverkenning
@@ -38,7 +43,15 @@ Vanuit het perspectief 'installatieregister' is het TechniekNL voortvarend bezig
 Deze plaat laat hiermee duidelijk het cross sectorale karakter zien (bouw, energie, installatie onderhoud, assetmanagement, basisregistraties) van de problematiek rond de energie-installaties en hiermee verbonden omgeving.
 Het initiatief om te komen tot een afsprakenstelsel voor een betere marktfacilering is een mooi voorbeeld om de informatie te laten stromen en vernieuwing en innovatie te stimuleren. Dit heeft nog wel een bilaterale scope van NetbeheerNL(transport) en Energie Nederland (opwek) .
 
-![](media/vimetlandschap.png)
+<!-- ![](media/vimetlandschap.png) -->
+
+<figure id="vimetlandschap.png">
+    <img src="media/vimetlandschap.png" alt="">
+    <figcaption>Het Vimet Landschap.</figcaption>
+</figure>
+
+
+
 
 
 **Afkortingen**:\
@@ -135,12 +148,12 @@ verslaggeving).
 | Energie-audit EED (RVO)                                   |                         | RVO EML( Erkende Maatregel Lijst) https://www.rvo.nl/onderwerpen/duurzaam-ondernemen/energie-besparen/informatieplicht-energiebesparing/bedrijven-en-instellingen/erkende-maatregelenlijsten   |                               |                              |                   |
 
 
-<r>Jan: hier groene note van maken</r>
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-**Beschreven met informatiemodel …** (CIM, IFC, COINS, IM-SG, IM-KL)  
-**Productclassificatie Bouw- en installatie** (NL-SfB, ETIM, FGO, Productdata, UOB, CB-NL, Stabu, BS&I)   
-**Standaarden/normen...** (Sales Unifeed berichtenset, NEN 2660, Lijst energiedragers, ..)  
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<aside class='note'>
+  **Beschreven met informatiemodel …** (CIM, IFC, COINS, IM-SG, IM-KL)  
+  **Productclassificatie Bouw- en installatie** (NL-SfB, ETIM, FGO, Productdata, UOB, CB-NL, Stabu, BS&I)   
+  **Standaarden/normen...** (Sales Unifeed berichtenset, NEN 2660, Lijst energiedragers, ..)  
+</aside>
+
 
 #### Tabel Datasets en informatiemodellen
 

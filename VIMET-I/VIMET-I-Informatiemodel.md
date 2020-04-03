@@ -200,7 +200,7 @@ Een EnergySystem
 <!-- ![](media/IMEnergie_en_CIM.png) -->
 <!-- Figuur X: CIM in relatie tot IMEnergie-installaties. -->
 
-<figure id="media/IMEnergie_en_CIM">
+<figure id="IMEnergie_en_CIM">
     <img src="media/IMEnergie_en_CIM.png" alt="">
     <figcaption>CIM in relatie tot IMEnergie-installaties.
     </figcaption>

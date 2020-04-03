@@ -44,6 +44,30 @@ Gebruikt materiaal
 
 <r>hier een tabel met de aanwezigen van de kickoff workshop</r>
 
+| Naam	                | Organisatie           |  
+|-----------------------|-----------------------|  
+| Bas Zeegers	        | RVO                   |  
+| Gert Nijsink	        | RWS                   |  
+| Gineke van Putten	    | Geonovum	            |  
+| Hanneke de Jong	    | EDSN	                |  
+| Jan Bruinenberg	    | Alliander	            |  
+| Jan van Gelder	    | Geonovum              |   
+| Jeroen Baltussen	    | Geonovum	            |   
+| Jeroen Damhuiser	    | Stedin	            |  
+| Koen Smekens	        | TNO	                |  
+| Leen van Doorn	    | Geonovum	            |  
+| Lydia Dijkshoorn	    | RVO	                |   
+| Margreet van Zanten	| RIVM	                |   
+| Matthieu Zuidema	    | Kadaster	            |   
+| Otto Swertz	        | CBS	                |   
+| Paul Janssen	        | Geonovum	            |   
+| Paul Padding	        | Geonovum	            |   
+| Remco van der Linden	| Techniek Nederland    |  
+| Richard Westerga	    | TNO	                |   
+| Ruud van de Wijgaart	| PBL	                |   
+| Thomas Piessens	    | Techniek Nederland    |  
+| Yun Wu	            | EDSN	                |  
+
 ### Relevante afsprakenstelsels en projecten
 
 #### Afsprakenstelsels

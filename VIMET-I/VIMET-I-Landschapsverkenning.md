@@ -1,30 +1,45 @@
 Landschapsverkenning
 --------------------
 
-<r>Dit hoofdstuk is in ontwikkeling.</r>
-
 ### Inleiding
 
-<r>Leen, meer logische maken Dit document is een aanzet tot ordening van wat er
-gebeurt op het gebied van afsprakenstelsels / projecten / data / standaarden /
-informatiemodellen / taxonomieën in het energiedomein en in aanpalende domeinen,
-daar waar een verbinding bestaat met installaties in het energiedomein. De
-afbakening is gebaseerd op ‘common sense’, getoetst in de kick-off workshop bij
-Geonovum op 10 februari 2020 en door de nodige experts te betrekken.</r>
+\@\@ Leen, meer logische maken
 
-Aandachtspunten:
+Kennis over energie-installaties is van belang voor de energie-installaties. In
+het huidige energiedomein zijn de energienetten een centrale component en daarom
+wordt vaak gesproken in termen van vóór en achter de meter, resp. de wereld van
+netbeheerders en de wereld van de apparaten die energie invoeden op of afnemen
+van het netwerk. Het netwerk maakt het mogelijk dat er een energiemarkt bestaat
+waar energieleveranciers zorgen dat de energie die zij inkopen weer verkocht
+wordt en dat afnemers een leverancier of producent kunnen kiezen. De apparaten
+die verbonden zijn aan het netwerk, staan vaak opgesteld in gebouwen, en hebben
+in ieder geval een locatie.
 
--   hier ook nog opnemen een inventarisatie van informatieportalen (VIVET-D)?
-    Deze hebben vaak ook een relatie met energie-installaties en serveren daar
-    data over. Nog niet opgepakt.
+Ziehier het speelveld: het energiedomein, de bouw- en installatiewereld en de
+basisregistraties (denk aan de BAG). Domeinen waarin veel partijen affiniteit
+hebben met de energietransitie. Domeinen die omvangrijk zijn, in toenemende mate
+internationaal georiënteerd en met complexe informatievraagstukken.
 
--   overzicht RVO ‘Rijksbrede datastromen’ noemt ook nog KvK Handelsregister,
-    TNO Ondergrond, Grondwater, Afval, Dieren, RVO Perceelsdatabase.
+Dit document is een aanzet tot ordening van wat er in die domeinen gebeurt op
+het gebied van afsprakenstelsels / projecten / data / standaarden /
+informatiemodellen / taxonomieën, daar waar een verbinding bestaat met
+installaties in het energiedomein.
 
--   kunnen we de methodiek MHM (Model Harmonisatie Methodiek) van het
-    LinkED-project gebruiken?
+De afbakening en inventarisatie is gebaseerd op ‘common sense’ en op kennis die
+in de context van VIVET is opgedaan en opgehaald. De eerste aanzet tot dit
+speelveld is getoetst, uitgebreid en verdiept in de kick-off workshop met
+experts uit de verschillende domeinen bij Geonovum op 10 februari 2020 en in
+aanvullende workshops waarin is ingezoomd op specifieke onderwerpen.
 
-Gebruikt materiaal
+Tijdens alle workshops bleek dat de aanwezigen de problematiek herkenden, de
+behoefte voelden om met dit werkveld aan de slag te gaan, nieuwsgierig waren
+naar mogelijke verbindingen met andere domeinen, en ook de waarde ervan zagen
+voor de energietransitie. De betrokken partijen hebben aangegeven bij te willen
+dragen aan de concretisering van het informatiemodel energie-installaties ten
+behoeve van de energietransitie.
+
+Voor deze inventarisatie is geput uit onderstaand materiaal, dat grotendeels is
+opgenomen in de bijlagen bij dit document.
 
 -   Een uitgebreide inventarisatie van Jeroen Baltussen (RVO/Geonovum) en Remco
     van der Linden (Techniek Nederland), genaamd ‘Speelveld installatieregister
@@ -42,31 +57,48 @@ Gebruikt materiaal
 
 ### Stakeholders
 
-<r>hier een tabel met de aanwezigen van de kickoff workshop</r>
+Van de volgende organisaties zijn informatie-experts betrokken geweest bij deze
+voorstudie:
 
-| Naam	                | Organisatie           |  
-|-----------------------|-----------------------|  
-| Bas Zeegers	        | RVO                   |  
-| Gert Nijsink	        | RWS                   |  
-| Gineke van Putten	    | Geonovum	            |  
-| Hanneke de Jong	    | EDSN	                |  
-| Jan Bruinenberg	    | Alliander	            |  
-| Jan van Gelder	    | Geonovum              |   
-| Jeroen Baltussen	    | Geonovum	            |   
-| Jeroen Damhuiser	    | Stedin	            |  
-| Koen Smekens	        | TNO	                |  
-| Leen van Doorn	    | Geonovum	            |  
-| Lydia Dijkshoorn	    | RVO	                |   
-| Margreet van Zanten	| RIVM	                |   
-| Matthieu Zuidema	    | Kadaster	            |   
-| Otto Swertz	        | CBS	                |   
-| Paul Janssen	        | Geonovum	            |   
-| Paul Padding	        | Geonovum	            |   
-| Remco van der Linden	| Techniek Nederland    |  
-| Richard Westerga	    | TNO	                |   
-| Ruud van de Wijgaart	| PBL	                |   
-| Thomas Piessens	    | Techniek Nederland    |  
-| Yun Wu	            | EDSN	                |  
+Energiedomein: Alliander, Stedin, EDSN
+
+Overheid: CBS, RVO, RWS Leefomgeving, RIVM, PBL, Geonovum
+
+Kennisinstellingen: TNO
+
+Bouw- en Installatiewereld: Techniek Nederland
+
+Modelbouwers: ExpertGroep EnergieTransitieRekenModellen
+
+\@\@ Jan van G: onderstaande tabel svp naar bijlage X.
+
+Betrokkenen bij deze voorstudie:
+
+| Naam                 | Organisatie        |
+|----------------------|--------------------|
+| Bas Zeegers          | RVO                |
+| Gert Nijsink         | RWS                |
+| Gineke van Putten    | Geonovum           |
+| Hanneke de Jong      | EDSN               |
+| Jan Bruinenberg      | Alliander          |
+| Jan van Gelder       | Geonovum           |
+| Jeroen Baltussen     | Geonovum           |
+| Jeroen Damhuiser     | Stedin             |
+| Koen Smekens         | TNO                |
+| Leen van Doorn       | Geonovum           |
+| Lydia Dijkshoorn     | RVO                |
+| Margreet van Zanten  | RIVM               |
+| Matthieu Zuidema     | Kadaster           |
+| Otto Swertz          | CBS                |
+| Paul Janssen         | Geonovum           |
+| Paul Padding         | Geonovum           |
+| Remco van der Linden | Techniek Nederland |
+| Richard Westerga     | TNO                |
+| Ruud van de Wijgaart | PBL                |
+| Thomas Piessens      | Techniek Nederland |
+| Yun Wu               | EDSN               |
+| Jan de Jong          | EDSN               |
+| Peter Zwakhals       | Techniek Nederland |
 
 ### Relevante afsprakenstelsels en projecten
 
@@ -82,38 +114,41 @@ Digitaliseringsstrategie](https://www.rijksoverheid.nl/documenten/rapporten/2018
 worden cross-sectorale afsprakenstelsels verkend.
 
 Een afsprakenstelsel is een geschikte infrastructuur voor het op de juiste
-schaal *gestructureerd datadelen*; bouwstenen; sectorale focus en verbinding met
-andere domeinen. Datadeel-initiatieven bij voorkeur ontwikkelen per sector, maar
+schaal *gestructureerd datadelen*; is doorgaans opgebouwd uit een aantal
+bouwstenen en kent een sectorale focus en verbinding met andere domeinen.
+Datadeel-initiatieven worden bij voorkeur ontwikkeld per sector, maar wel
 zodanig dat je ze kunt verbinden met andere sectoren omdat dit nieuwe use cases
 oplevert, bijv. Energie & Bouw/Installatie, Energie en Mobiliteit. Er wordt dan
 ook wel gesproken over een datastelsel zoals uitgewerkt in het rapport over
 datadeel-initiatieven voor de MKB [rapport Generiek afsprakenstelsel voor
 datadeelinitiatieven als basis van de digitale
 economie](https://www.rijksoverheid.nl/documenten/rapporten/2018/12/30/generiek-afsprakenstelsel-voor-datadeelinitiatieven-als-basis-van-de-digitale-economie)
-in opdracht van Ministerie van EZK. Noodzakelijk: kennisuitwisseling, generiek
-afsprakenstelsel met 9 bouwstenen voor datadeelcoalitie. Bouwsteen 7:
-interoperabiliteit van metadata (p.81 en p.84-90 vv.
-
-Kenmerken van afsprakenstelsel: p. 103-105, ontwikkelingsrichtlijnen: p. 106.
-
-Zie [Bijlage 2](#bijlage-2) voor enkele schema’s en voor toepassing voor
-energiesector: zie [Presentatie toekomstige inrichting van uitwisseling en
-governance
+dat is opgesteld in opdracht van Ministerie van EZK. Noodzakelijk om dit tot een
+succes te maken is de bereidheid tot kennisuitwisseling. Het afsprakenstelsel
+dat is ontwikkeld bestaat uit 9 bouwstenen die noodzakelijk zijn voor de opzet
+van een datadeelcoalitie. Voor deze voorstudie is vooral bouwsteen 7 van belang:
+interoperabiliteit van metadata (p.81 en p.84-90 vv.).  
+De kenmerken van het afsprakenstelsel zijn beschreven op p. 103-105, en
+ontwikkelingsrichtlijnen op p. 106.  
+Zie [Bijlage 2](#bijlage-2) voor enkele relevante schema’s uit dit
+afsprakenstelsel en voor enkele schema’s uit de toepassing voor de
+energiesector, zoals die is beschreven in [Presentatie toekomstige inrichting
+van uitwisseling en governance
 energiedata](https://github.com/Geonovum/VIVET-Werkomgeving/blob/master/Dossier/Presentatie%20toekomstige%20inrichting%20van%20uitwisseling%20en%20governance%20energiedata.191213.pdf)
 door Energie-NL en Netbeheer NL.
 
-| Naam                                                                                             | Beschrijving                                                                                                                                                                                                              | Domein            | Opmerking                                                                                                                                                                                                                               |
-|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Installatieregister Techniek NL                                                                  | een samenhangend geheel (‘ecosysteem’) van informatie rondom installaties, stelsel van afspraken om informatie uit tal van databronnen te verbinden. Zie ook [Bijlage 7](#bijlage-7) voor een overzicht van de registers. | Bouw Installaties | bron: Memo 8 nov 2019 Remco vd Linden Niet: één database Bron van data: keuringen, inspecties. Verbinden door open standaarden en classificaties. Verbinden met VIVET en Datastelsel ikv Energiewet 1.0 Proof of Concept door Fluxility |
-| Stelsel voor technische producten Bouw en Techniek                                               | ETIM, NL-SfB, Sales en Unifeed bieden een samenhangend stelsel                                                                                                                                                            | Installaties Bouw | sluit aan op bovenstaande                                                                                                                                                                                                               |
-| Afsprakenstelsel marktfacilitering                                                               | Afspraken rond datauitwisseling in het kader van marktfacilitering en energiewet 1.0                                                                                                                                      | Energie           | Initiatief van Netbeheer NL en Energie NL                                                                                                                                                                                               |
-| [DigiDealGO](http://www.digidealgo.nl) omvat ook v/h DSBI (Digitaal Stelsel Bouw en Installatie) | Een overeenkomst tussen de overheid, de brancheverenigingen van de bouw, de installatiesector en de toeleverende industrie, gecoördineerd door de BDR (Bouw Digitaliserings Raad), en ondersteund door het BIM-loket.     |                   | Geeft invulling aan DSGO (Digitaal Stelsel Gebouwde Omgeving); hierop zou Informatiemodel Energie-installaties (en activiteiten ikv Energiewet 1.0) kunnen aansluiten. BDR wordt ondersteund door programmateam ‘Digiteam’.             |
-| BIM -Afspraken                                                                                   | Gefaciliteerd door BIM-Loket                                                                                                                                                                                              |                   |                                                                                                                                                                                                                                         |
-| [DiS Geo](https://www.geobasisregistraties.nl/basisregistraties/doorontwikkeling-in-samenhang)   | Samenhangende objectenregistraties in Stelsel van Basisregistraties                                                                                                                                                       | Bouw              | Doorontwikkeling in samenhang is initiatief van BZK om de basisregistraties onderling te gaan verbinden en als een stelsel te laten werken                                                                                              |
+| Naam                                                                                             | Beschrijving                                                                                                                                                                                                              | Domein            | Opmerking                                                                                                                                                                                                                   |
+|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Installatieregister Techniek NL                                                                  | een samenhangend geheel (‘ecosysteem’) van informatie rondom installaties, stelsel van afspraken om informatie uit tal van databronnen te verbinden. Zie ook [Bijlage 7](#bijlage-7) voor een overzicht van de registers. | Bouw Installaties | Bron van data: keuringen, inspecties. Verbinden door open standaarden en classificaties. Verbinden met VIVET en Datastelsel i.k.v. Energiewet 1.0 Proof of Concept door Fluxility                                           |
+| Stelsel voor technische producten Bouw en Techniek                                               | ETIM, NL-SfB, Sales en Unifeed bieden een samenhangend stelsel                                                                                                                                                            | Installaties Bouw | sluit aan op bovenstaande                                                                                                                                                                                                   |
+| Afsprakenstelsel marktfacilitering                                                               | Afspraken rond datauitwisseling in het kader van marktfacilitering en energiewet 1.0                                                                                                                                      | Energie           | Initiatief van Netbeheer NL en Energie NL                                                                                                                                                                                   |
+| [DigiDealGO](http://www.digidealgo.nl) omvat ook v/h DSBI (Digitaal Stelsel Bouw en Installatie) | Een overeenkomst tussen de overheid, de brancheverenigingen van de bouw, de installatiesector en de toeleverende industrie, gecoördineerd door de BDR (Bouw Digitaliserings Raad), en ondersteund door het BIM-loket.     |                   | Geeft invulling aan DSGO (Digitaal Stelsel Gebouwde Omgeving); hierop zou Informatiemodel Energie-installaties (en activiteiten ikv Energiewet 1.0) kunnen aansluiten. BDR wordt ondersteund door programmateam ‘Digiteam’. |
+| BIM -Afspraken                                                                                   | Gefaciliteerd door BIM-Loket                                                                                                                                                                                              |                   |                                                                                                                                                                                                                             |
+| [DiS Geo](https://www.geobasisregistraties.nl/basisregistraties/doorontwikkeling-in-samenhang)   | Samenhangende objectenregistraties in Stelsel van Basisregistraties                                                                                                                                                       | Bouw              | Doorontwikkeling in samenhang is initiatief van BZK om de basisregistraties onderling te gaan verbinden en als een stelsel te laten werken                                                                                  |
 
 #### Relevante projecten
 
-<r>Jeroen: nog even naar de links kijken</r>
+\@\@ Jeroen: nog even naar de links kijken
 
 In het kader van de energietransitie zijn er veel initiatieven.
 Energieinstallaties staan daarbij niet los in het energie-informatielandschap.
@@ -182,36 +217,32 @@ NB’s:
 | EIA                                                                                                                                  | Energie-investeringsaftrek Beheer: RVO                                                                                                                                      | Energie Bouw Installaties                                                             |                                                                                                                                                                                                                       |
 | EP-online                                                                                                                            | Energielabels Beheer: RVO                                                                                                                                                   | Energie Bouw                                                                          |                                                                                                                                                                                                                       |
 | SDE                                                                                                                                  | Subsidie Stimulering Duurzame Energie Beheer: RVO                                                                                                                           | Energie                                                                               |                                                                                                                                                                                                                       |
-|                                                                                                                                      |                                                                                                                                                                             |                                                                                       |                                                                                                                                                                                                                       |
-| Gerelateerd aan datasets:                                                                                                            |                                                                                                                                                                             |                                                                                       |                                                                                                                                                                                                                       |
-| [Factsheets TNO](http://www.energy.nl/en/search/?fwp_content_type=factsheets)                                                        | Samenvatting van onderliggende datasets en input voor rekenmodellen                                                                                                         | Energie                                                                               |                                                                                                                                                                                                                       |
-|                                                                                                                                      |                                                                                                                                                                             |                                                                                       |                                                                                                                                                                                                                       |
 
 ### Relevante taxonomieën en informatiemodellen
 
-Een taxonomieën is geordende classificaties van begrippen in een
-toepassingsdomein. Een taxonomie focused op een systematiek en hierarchie in
+Een *taxonomie* is een geordende classificaties van begrippen in een
+toepassingsdomein. Een taxonomie focust op een systematiek en hiërarchie in
 begrippen/concepten en vormt een begrippenkader. Moderne toepassingen hiervan
 vinden hun weergave in linked data vocabulaires.
 
-Informatiemodellen zijn gefocused op beschrijving van gegevens in een
-datastructuur. Het basismodel geo-informatie (NEN 3610) definieert
+*Informatiemodellen* zijn gefocust op beschrijving van gegevens in een
+datastructuur. Het basismodel geo-informatie (NEN 3610) definieert een
 informatiemodel als een formele definitie van objecten, attributen, relaties en
 regels in een bepaald domein
 (https://definities.geostandaarden.nl/nen3610/doc/begrip/Informatiemodel).
 
 Door middel van een informatiemodel wordt een informatiekundige beschrijving
 gegeven van data binnen een toepassingsdomein die in een digitale omgeving via
-berichtenverkeer beschikbaar en aan- of uitgeleverd kan worden.
+berichtenverkeer beschikbaar is en aan- of uitgeleverd kan worden.
 
 Taxonomieën en informatiemodellen kunnen op diverse schaalniveaus worden
-toegepast. Voor deze verkenning zijn we geinteresseerd in standaarden op
+toegepast. Voor deze verkenning zijn we geïnteresseerd in standaarden op
 nationaal niveau met een informatiedetail dat niet te hoog is maar wel nog
 betekenisvol voor operationele toepassing. Internationale standaarden spelen ook
 een rol maar vooral daar waar ze al toegepast worden in nationale afspraken.
 
-In de volgdende paragrafen zijn de relevante taxonomien en informatiemodellen
-opgenomen. Niet alle zijn operationele standaarden.
+In de volgende paragrafen zijn de relevante taxonomieën en informatiemodellen
+opgenomen. Niet alle zijn uitgewerkt tot operationele standaarden.
 
 #### Taxonomieën / vocabulaires
 
@@ -243,7 +274,7 @@ RVO.
 | [UOB](http://www.openuob.nl) Uniforme objecten bibliotheek Technische installatieproducten o.b.v. ETIM-MC           | Een openbare, niet-merkgebonden online bibliotheek van geometrische modellen, waaraan alle fabrikanten producten kunnen toevoegen. | Bouw Installatie          | Wordt beheerd door [2BA](http://www.2ba.nl), dé neutrale datapool van handels- en productgegevens in de installatiebranche. Elk installatiebedrijf kan onafhankelijk van de eigen software de objecten uit de bibliotheek gebruiken voor het ontwerpen van gebouwinstallaties. Met één uniform informatiemodel wisselen de CAD-systemen productinformatie snel en nauwkeurig uit, in elke fase van het bouw- en BIM-proces. |
 | [IP 2020](https://www.rvo.nl/onderwerpen/duurzaam-ondernemen/energie-besparen/informatieplicht-energiebesparing)    | Informatieplicht energiebesparing Beheer: RVO                                                                                      | Energie Bouw Installaties | Overzicht [erkende maatregelen](https://www.rvo.nl/onderwerpen/duurzaam-ondernemen/energie-besparen/informatieplicht-energiebesparing/bedrijven-en-instellingen/erkende-maatregelenlijsten)                                                                                                                                                                                                                                 |
 | [Entso-e codelist](https://docstore.entsoe.eu/Documents/EDI/Library/Core/entso-e-code-list-v29r0.pdf) Paragraaf 3.2 |                                                                                                                                    |                           |                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| )                                                                                                                   | Lijst met de codes voor productie installaties zoals gebruik in GLDPM.                                                             | Elektriciteit             | Binnen de Ensto-e gestandaardiseerd                                                                                                                                                                                                                                                                                                                                                                                         |
+| \@\@ ?? )                                                                                                           | Lijst met de codes voor productie installaties zoals gebruik in GLDPM.                                                             | Elektriciteit             | Binnen de Ensto-e gestandaardiseerd                                                                                                                                                                                                                                                                                                                                                                                         |
 
 #### Informatiemodellen
 
@@ -263,19 +294,32 @@ RVO.
 
 ### Relevante rekenmodellen
 
-Leen: stukje van bijlage 5 verplaatsen naar dit hoofdstuk
+Door enkele deelnemers aan de ExpertGroep EnergieTransitieRekenModellen is ten
+behoeve van deze voorstudie een inventarisatie gemaakt van componenten van
+energiesystemen en eigenschappen.
 
-Zoals hierboven aangegeven is door enkele deelnemers aan de ExpertGroep
-EnergieTransitieRekenModellen een inventarisatie gedaan naar de gewenste
-informatie betreffende energie-installaties (opgenomen in [Bijlage
-5](#bijlage-5)). Er heeft in dat gremium geen brede inventarisatie
-plaatsgevonden naar de informatiebehoefte; het verdient aanbeveling om bij hen
-bij het vervolg van dit project wel aandacht aan te geven. Een interessante
-ontwikkeling in dat opzicht is het Mondaine-project (Topsector Energie) waarin
-drie rekenmodellen (ETM van Quintel, Vesta-MAIS van PBL en PICO van Geodan)
-verbonden worden: het modelleren van het systeem (ETM) en de impact op de
-gebouwde omgeving (Vesta-MAIS) wordt gevisualiseerd (PICO). De datastromen
-tussen de modellen worden gemodelleerd met ESDL.
+Het betreft
 
-Voor een projectbeschrijving:
-[link](https://projecten.topsectorenergie.nl/projecten/models-and-data-interface-for-energy-20-00031738)
+-   parameters voor verschillende typen installaties en netten,
+
+-   een overzicht van typen installaties & netten per gebruiksdoel,
+
+-   een lijst van installaties voor energieconversie en
+
+-   een opsomming van te gebruiken parameters van gebouwen (inclusief kassen &
+    schuren), te onderscheiden in drie categorieën: algemeen, schil en
+    energiegebruik.
+
+Voor elk van de parameters en installaties/netten is in genoemde spreadsheet
+aangegeven op welk ruimtelijk schaalniveau (van pand tot provincie) welke
+informatie gewenst is.
+
+De volledige opsomming is te vinden in ModelParametersEnergieTransitie.xlsx. In
+[bijlage 5](#bijlage-5) is daar een extract uit weergegeven.
+
+Een interessante ontwikkeling in dat opzicht is het
+[Mondaine-project](https://projecten.topsectorenergie.nl/projecten/models-and-data-interface-for-energy-20-00031738)
+(Topsector Energie) waarin drie rekenmodellen (ETM van Quintel, Vesta-MAIS van
+PBL en PICO van Geodan) verbonden worden: het modelleren van het systeem (ETM)
+en de impact op de gebouwde omgeving (Vesta-MAIS) wordt gevisualiseerd (PICO).
+De datastromen tussen de modellen worden gemodelleerd met ESDL.

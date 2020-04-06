@@ -16,18 +16,18 @@ gegeven, wat de basis is voor analyse en aanbevelingen.
 \@\@ Jeroen: nog doen n.a.v. lijst stakeholders in landschapsverkenning bijv.
 tabel stakeholders versus relevante projecten of versus datasets.
 
-### Scope installaties
+### Scope van installaties
 
-Zoals in de volgende paragraaf aangegeven is het landschap cross sectoraal
-(bouw, energie, installatie onderhoud, assetmanagement, basisregistraties). De
-scoping van een 'installatieregister concept' moet vraag gestuurd plaats vinden.
-Dit was voorzien om aan de hand van usecases met betrokken product owners
+Zoals in de volgende paragraaf aangegeven is het landschap cross-sectoraal
+(bouw, energie, installatie-onderhoud, assetmanagement, basisregistraties). De
+scoping van een 'installatieregister concept' moet vraaggestuurd plaats vinden.
+Daaro was voorzien om aan de hand van usecases met betrokken product owners
 onderdelen van het informatiemodel verder uit te diepen. De volgende usecases
 zijn voorbereid, maar nog niet uitgevoerd. In het VIVET programma 2020 worden de
 usecases verder uitgewerkt, wat tevens het nu meer generieke model moet invullen
 en specificeren. - Case A – Ontsluiten informatie over huidige duurzame
-productiecapaciteit aan Zon PV uit PIR/CERES - Case B – Casus elektrisch laden
-Smart Zwolle - Case C – Warmtepompen (Ingroei Warmtepompen en effectmonitoring)
+productiecapaciteit aan Zon PV uit PIR/Ceres - Case B – Casus elektrisch laden
+Smart Zwolle - Case C – Warmtepompen (Groei warmtepompen en effectmonitoring)
 
 Knelpunt bij de uitvoering is dat de totstandkoming van de usecases moeizaam
 gaat. Het beeld dat partijen niet echt bereid zijn om data te delen wordt
@@ -35,8 +35,8 @@ bevestigd en het kost veel moeite om tot afspraken te komen. Dit is ook deels de
 conclusie van project E2 en in die zin ook onderdeel van het project. Van belang
 is dat er d.m.v. het werken aan het informatiemodel partijen dichter tot elkaar
 komen. Dat doel is bereikt. De usecases zijn een mooie manier om te laten zien
-wat er mogelijk is, maar als ze niet tot stand komen bevestigen ze alleen het
-probleem van het terughoudend zijn in data delen.
+wat er mogelijk is, maar als ze niet tot stand komen bevestigen ze het probleem
+van het terughoudend zijn in data delen.
 
 Het volgende denkmodel is gebruikt tijdens de analyse en het uitwerken van het
 eerste informatiemodel. Dit (T-model) is tevens de aanleiding om in het VIVET
@@ -50,36 +50,36 @@ werken.
 <figcaption>Denkmodel Informatiemodel Energie installaties.</figcaption>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-### Bevindingen landschapsverkenning
+### Bevindingen van de landschapsverkenning
 
 In Nederland is door de op gang gekomen energietransitie en de hiermee verwante
 digitalisering van de bouw een groot aantal programma's, projecten en
 initiatieven ontstaan die met elkaar verbonden moeten worden. Vanuit
 informatiekundig oogpunt gaan ze deels over gemeenschappelijke
 informatieobjecten (zie [Tabel projecten en
-kernentiteiten](#Tabel%20projecten%20en%20kernentiteiten), waarvan we vanuit
+kernentiteiten](#Tabel%20projecten%20en%20kernentiteiten), waarbij we er vanuit
 gaan dat deze data uitgewisseld kan worden. Dit is echter geen
 vanzelfsprekendheid, omdat er op de samenhang maar beperkt regie wordt gevoerd.
-De Topsector energie kent een thema
+De Topsector Energie kent een thema
 [digitalisering](https://www.topsectorenergie.nl/digitalisering), maar stuurt
 niet integraal over alle projecten op verduurzaming van de
 informatie-uitwisseling. De DigiDeal Gebouwde Omgeving richt zich op
 digitalisering en standaardisatie in de bouw. Hier is wel enige afstemming met
 het de Wet Kwaliteitsborging en realiseren van uniek object identificatie van
-gebouwen. Succes is echter ook afhankelijk van automatische koppeling van
-(energie)aansluitinformatie met de BAG wat binnen VIVET en Netbeheer NL op de
-agenda is geplaatst. Vanuit het perspectief 'installatieregister' is het
-Techniek NL voortvarend bezig om informatie over alle in onderhoud zijn
-installaties te kunnen verbinden onder andere voor de uitvoering van de
-WKB-verplichtingen. Deze landsdekkende informatie is nog niet betrokken bij bv
-de CBS statistiek en hiermee niet beschikbaar voor NPRES-plannen en
-energiemodellen. Deze plaat laat hiermee duidelijk het cross sectorale karakter
-zien (bouw, energie, installatie onderhoud, assetmanagement, basisregistraties)
-van de problematiek rond de energie-installaties en hiermee verbonden omgeving.
-Het initiatief om te komen tot een afsprakenstelsel voor een betere
-marktfacilitering is een mooi voorbeeld om de informatie te laten stromen en
-vernieuwing en innovatie te stimuleren. Dit heeft nog wel een bilaterale scope
-van Netbeheer NL (transport) en Energie Nederland (opwek) .
+gebouwen. Succes is echter ook afhankelijk van de automatische koppeling van
+(energie)aansluitinformatie met de BAG die binnen VIVET en Netbeheer NL op de
+agenda is geplaatst. Vanuit het perspectief 'installatieregister' is Techniek NL
+voortvarend bezig om informatie over alle in onderhoud zijn installaties te
+kunnen verbinden onder andere voor de uitvoering van de WKB-verplichtingen. Deze
+landsdekkende informatie is nog niet betrokken bij bv de CBS statistiek en
+hiermee niet beschikbaar voor NPRES-plannen en energiemodellen. Deze plaat laat
+hiermee duidelijk het cross sectorale karakter zien (bouw, energie,
+installatie-onderhoud, assetmanagement, basisregistraties) van de problematiek
+rond energie-installaties en hiermee verbonden omgeving. Het initiatief om te
+komen tot een afsprakenstelsel voor een betere marktfacilitering is een mooi
+voorbeeld om de informatie te laten stromen en vernieuwing en innovatie te
+stimuleren. Dit heeft nog wel een bilaterale scope van Netbeheer NL (transport)
+en Energie Nederland (opwek) .
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <img src="media/vimetlandschap.png" alt="">
@@ -89,12 +89,12 @@ van Netbeheer NL (transport) en Energie Nederland (opwek) .
 **Afkortingen**:  
 DigiDealGO = DigiDealGO is een overeenkomst tussen de overheid, de
 brancheverenigingen van de bouw, de installatiesector en de toeleverende
-industrie, ondersteund door de  
-BIR (Bouw Informatie Raad) het  
-BIM Loket en de  
-DSBI (Digitaal Stelsel Bouw en Installatie ).  
+industrie, ondersteund door  
+BIR (Bouw Informatie Raad),  
+het BIM Loket en  
+de DSBI (Digitaal Stelsel Bouw en Installatie).  
 DSGO = Digitaal Stelsel voor de Gebouwde Omgeving  
-DBR = Bouw Digitalisering Raad  
+DBR = Bouw Digitaliserings Raad  
 UOB = Uniforme Objecten Bibliotheek  
 DiSGeo = Doorontwikkeling in Samenhang van de basisregistraties  
 UOI = Unieke Object Identificatie  
@@ -105,31 +105,33 @@ EAN = European Article Numbering voor een leveringspunt voor gas of
 elektriciteit te identificeren  
 Topsector Energie  
 TEI = Toegankelijke Energie Informatie (Enexis , TNO, KPN)  
-LinkED = Linked Energie Data (TNO, Alliander en Enexis) wat o.a. MHM (Model
-Harmonisatie Methodiek) introduceert  
+LinkED = Linked Energie Data (TNO, Alliander en Enexis) ee project dat o.a. MHM
+(Model Harmonisatie Methodiek) heeft geïntroduceerd  
 Digitaal Gebouwdossier = BZK project met usecases consumentendossier, dossier
 bevoegd gezag, het vernieuwde energielabel en het platform verbeterjehuis.nl
-voor ogen.  
-\#\#\# Bestaande datasets aan elkaar relateren
+voor ogen.
 
-#### Infotooling en datasets
+#### Infotooling
 
-Een poging om relaties aan te leggen tussen de verschillende onderdelen van het
-informatieveld in de energie- en bouwwereld
-
-Intro
-
-De deskresearch voor VIMET-I is gestart met een inventarisatie van:
+Het voorgaande hoofdstuk – Landschapsverkenning – bevat een inventarisatie van
+de infotools die zijn aangetroffen in de relevantie domeinen:
 *Afsprakenstelsels* /*Datasets* / *Informatiemodellen* / *Taxonomieën* /
 *Standaarden & normen*.
 
-Deze inventarisatie bestaat uit een opsomming, zonder nadere duiding van
-verbanden. In dit document wordt hier een aanzet toe gegeven.
+Waar het landschap nog een opsomming geeft, wordt in dit hoofdstuk verband
+aangelegd tussen de verschillende infotools, waarbij datasets en kernentiteiten
+als insteek zijn gekozen.
 
-Als eerste volgt een opsomming van mogelijk indelingen, gevolgd door de
-toepassing van (enkele van die) indelingen op dat wat geïnventariseerd is.
+Als eerste volgt een opsomming van welke infotools gerelateerd kunnen worden aan
+de geïnventariseerde datasets. Vervolgens worden de verbanden tussen datasets en
+informatiemodellen, en tussen datasets en kernentiteiten weergegeven. Tenslotte
+wordt nog een overzicht gegeven van welke projecten betrekking hebben op welke
+kernentiteiten.
 
-#### Tabel Datasets en infotools
+De kernentiteiten staan vervolgens centraal in het volgende hoofdstuk
+‘Informatiemodel’.
+
+#### Tabel Datasets en Infotools
 
 De geïnventariseerde datasets zijn vaak lang geleden ontstaan voor bepaalde
 doeleinden. Dat is gebeurd in een organisatorische context (vaak het
@@ -191,7 +193,7 @@ UOB, CB-NL, Stabu, BS&I)
 **Standaarden/normen...** (Sales Unifeed berichtenset, NEN 2660, Lijst
 energiedragers, ..)
 
-#### Tabel Datasets en informatiemodellen
+#### Tabel Datasets en Informatiemodellen
 
 In bovenstaande tabel is per dataset aangegeven welke infotools zijn gehanteerd
 om de dataset te beschrijven.
@@ -266,7 +268,7 @@ tot een mapping tussen verschillende infromatiemodellen.
 | E-MJV (milieu-jaar-verslagen) (RIVM)                      |                  |          |          |          |           |                 |
 | Energie-audit EED (RVO)                                   |                  |          |          |          |           |                 |
 
-#### Tabel Datasets en kernentiteiten
+#### Tabel Datasets en Kernentiteiten
 
 Het onderzoek VIMET-I richt zich op energie-installaties, omdat voor sturing en
 monitoring van de energietransitie inzicht gewenst is in eigenschappen van
@@ -321,10 +323,10 @@ en zijn er datasets met *gerelateerde informatie* over energie-installaties
 | E-MJV (milieu-jaar-verslagen) (RIVM)                      |                 |            |                     |                   |             |
 | Energie-audit EED (RVO)                                   |                 |            |                     |                   |             |
 
-#### Tabel projecten en kernentiteiten
+#### Tabel Projecten en Kernentiteiten
 
 Zoals in paragraaf
-[bevindingen-landschapsverkenning](#bevindingen-landschapsverkenning) is
+[bevindingen-landschapsverkenning](#bevindingen-van-de-landschapsverkenning) is
 aangegeven is informatie over energie-installaties verdeeld over verschillende
 sectoren. Om informatie te laten stromen is overeenstemming nodig over de
 semantiek en kwaliteit van de belangrijkste kernentiteiten. De onderstaande
@@ -349,3 +351,113 @@ nodig.
 | UOI: Unieke Object Identificatie     |                 | x                  |                     |                |
 |                                      |                 |                    |                     |                |
 |                                      |                 |                    |                     |                |
+
+### Observaties, suggesties
+
+Tijdens de inventarisatie van het speelveld, de beschrijving van het landschap
+en de analyse daarvan is meer boven water gekomen dan in deze hoofdstukken
+beschreven. Onderstaande aspecten zijn het waard om genoemd te worden, omdat
+deze relevant kunnen zijn bij de verdere uitwerking van het
+IMEnergie-installaties.
+
+#### Warmte
+
+De warmtesector is sterk gefragmenteerde sector, en op dit moment nog
+kleinschalig (5% van woningen). Nu de verduurzaming van het volledige
+woningenbestand wordt aangepakt, komen er nieuwe samenwerkingsverbanden, bijv.
+in kader van MMIP-programma van de TKI Energie: WarmingUP (MMIP4 collectieve
+warmte) en IETBB (MMIP3 en MMIP4 gebouw-gebonden warmte). Hierbij zijn vele
+partijen betrokken uit de hele warmteketen en dat geeft nieuwe mogelijkheden om
+met de warmtesector te werken aan inzicht in de desbetreffende
+informatievoorziening.
+
+Een uitvraag bij de (Vattenfall, HVC, Ennatuurlijk) naar hun gehanteerde
+informatiemodellen zou geïnitieerd kunnen worden en vergelijking ervan kan
+nuttig zijn bij de verdere uitwerking naar een IMEnergie.
+
+De ACM (Autoriteit Consument en Markt)is een andere bron in het warmtedomein.
+ACM vraagt veel informatie op van warmtebedrijven voor handhaving
+reguleringsregime. Dit is uitgewerkt in bijv. het Warmtebesluit
+(<https://wetten.overheid.nl/BWBR0033940/2020-01-01>), waarin gespecificeerd is
+over welke temperatuur- en aansluitcategorieën de warmtebedrijven moeten
+rapporteren. Ook in het Tarievenbesluit Warmte is veel te vinden over de
+informatie-uitvraag door ACM:
+<https://www.acm.nl/sites/default/files/documents/2019-12/tarievenbesluit-warmteleveranciers-2020.pdf>.
+
+Deze classificaties kunnen dienen bij de informatiemodellering van
+warmte-installaties. Dit is overigens een dynamisch veld, omdat de regulering
+van het warmtesysteem de komende jaren zich nog sterk zal ontwikkelen.
+
+#### Energy Data Repository
+
+Informatiemodellen bevatten verwijzingen naar in het universum geaccepteerde
+definities, classificaties e.d. die vastgelegd zijn in thesauri of repositories.
+De taal ESDL is verbonden met een z.g. Energy Data Repository, die nu nog
+slechts verwijzingen bevat naar SBI-codes (CBS) en Energiedragers (RVO). Het
+verdient aanbeveling om dit concept uit te breiden, en de geïnventariseerde
+classificaties in dit onderzoek kunnen daar een goede bron voor zijn. Voor het
+warmtedomein kan hier gedacht worden aan definities voor verschillende typen
+biomassa en biofuels-installaties. Experts van CBS, NVWA, SDE-registratie en het
+Team Biomassa van RVO kunnen hiertoe kennis inbrengen, bij voorkeur gerelateerd
+aan internationale geaccepteerde normen.
+
+Van groot belang is om hier de juiste governance voor te ontwikkelen, zodat
+repositories de noodzakelijke statuur krijgen in het energiedomein.
+
+#### EFI Energy Flexibility Interface
+
+De organisatie FAN (Flexible Power Alliance Network) heeft EFI ontwikkeld, de
+Energy Flexibility Interface. EFI is een communicatieprotocol dat het mogelijk
+maakt voor een eindgebruiker om diverse slimme apparatuur te besturen, zoals
+wasmachines, airco, zonnepanelen, opladen van de auto en daarmee flexibele
+energie te ontsluiten. In dit protocol zijn ook diverse typen
+energie-installaties gedefinieerd. De [specificatie van
+EFI](https://github.com/flexiblepower/efi) is beschikbaar op Github.
+
+#### Internationaal perspectief
+
+Op dit moment wordt uiteraard ook internationaal gewerkt aan
+informatiestandaarden in het energiedomein en open source-ontwikkelingen. De
+inbreng hiervan kan zorgen voor een meer toekomstvaste informatievoorziening.
+Andersom kunnen ontwikkelingen in Nederland (te denken is dan aan ESDL) ook
+internationaal ingebracht worden. Expertise van RVO/ECW, zowel inhoudelijk als
+qua kennis van ontwikkelingen bij de EU kan hier ingezet worden.
+
+#### Invoering begrip Standaardjaarafname (SJA) en Standaardjaarinvoeding (SJI)
+
+Het standaardjaarverbruik (SJV) is een kernvariabele in energiedata. Kort gezegd
+is dat het verbruik van gas door een afnemer, dat is gecorrigeerd voor
+temperatuurseffecten. Het wordt ook gebruikt voor elektriciteit. Het SJV wordt
+gebruikt in verschillende processen in het energiesysteem.
+
+In verband met sterk toenemende situaties waarin invoeding in het net
+plaatsvindt, is besloten om het SJV om te dopen in Standaardjaarafname (SJA) en
+daarnaast het concept Standaardjaarinvoering in te voeren. E.e.a. is uitgebreid
+beschreven in de brief van ACM ‘[Codewijzigingsvoorstel tot invoering van
+standaardjaarinvoeding
+en-afname](https://www.acm.nl/nl/publicaties/codewijzigingsvoorstel-tot-invoering-van-standaardjaarinvoeding-en-afname)’.
+
+Waarom is dit interessant? Omdat de codes (Netcode, Informatiecode, etc.)
+centraal staan in de praktische uitwerking van de regelgeving in het
+energiedomein. Nieuwe datadefinities en wijzigingen van bestaande datadefinities
+beginnen vaak hier, en daarom is dat dé plek om te zorgen dat metadata goed
+wordt geformuleerd zodat deze hanteerbaar is voor informatiestandaarden en
+-modellering.
+
+Betrokkenheid bij de verdere ontwikkeling van deze codes (nationaal én
+internationaal) is daarom van belang voor toekomstvaste informatiemodellering.
+
+#### Factsheets
+
+Een interessante bron van informatie zijn z.g. factsheets over
+installatie-installaties die verschillende organisaties opstellen. Factsheets
+beschrijven de eigenschappen van energie-installaties en zijn bijv. te vinden
+bij
+
+-   TNO:
+    [https://energy.nl](https://energy.nl/en/search/?fwp_content_type=factsheets&fwp_paged=2)
+
+-   CE Delft: <https://www.ce.nl/warmtetechnieken>
+
+-   Expertise Centrum Warmte:
+    [https://expertisecentrumwarmte.nl/kennis/factsheets/](https://expertisecentrumwarmte.nl/kennis/factsheets/default.aspx)

@@ -1,5 +1,36 @@
 ## Conclusies en aanbevelingen
 
+### C&A Jeroen
+
+-
+-
+-
+-
+
+### C&A Leen
+
+-
+-
+-
+-
+
+### C&A Paul
+
+-
+-
+-
+-
+
+### C&A Gineke
+
+-
+-
+-
+-
+
+
+
+
 In dit hoofdstuk worden de belangrijkste conclusies uit de voorgaande
 hoofdstukken uitgelicht, en wordt een aantal aanbevelingen gedaan voor een
 eventuele vervolg.
@@ -13,9 +44,7 @@ en omzetten in conclusies en aanbevelingen.)
 
 ##### Aanwezige data
 
-Uit de [Landschapsverkenning](#landschapsverkenning) en uit de [Analyse](#analyse) blijkt dat er veel verschillende datasets aanwezig zijn. Echter 'aanwezig' betektent niet heyzelfde als 'beschikbaar'. Data is verzameld vanuit de eigen behoefte van partijen. Zo heeft de installatiebranche een 'Installatie- en keuringenregister'opgezet.
-
-die alles te maken heeft met het beheer en onderhoud van installaties bij
+Uit de [Landschapsverkenning](#landschapsverkenning) en uit de [Analyse](#analyse) blijkt dat er veel verschillende datasets aanwezig zijn. Echter 'aanwezig' betektent niet heyzelfde als 'beschikbaar'. Data is verzameld vanuit de eigen behoefte van partijen. Zo heeft de installatiebranche een 'Installatie- en keuringenregister'opgezet [(zie bijlage 7)](#bijlage-7) dat alles te maken heeft met het beheer en onderhoud van installaties bij
 klanten. Het C-AR (Centraal aansluitregister) bevat opwek en verbruiksdata op
 aansluitingen niveau, De Netbeheerder hebben informatie over de netwerken. Er
 zijn registraties over energielabels van gebouwen, waar zonnepanelen liggen,

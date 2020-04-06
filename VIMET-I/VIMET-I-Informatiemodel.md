@@ -4,8 +4,8 @@ In dit hoofdstuk wordt het Informatiemodel Energie-installaties
 (IMEnergie-installaties) beschreven. De beschrijving is nog op hoofdlijnen. Bij
 de bepaling van het model zijn drie modellen als startpunt genomen: (a)
 Informatiemodel Energiebalancering, (b) Informatiemodel EDSL (EnergieSystem
-Description Language) en (c) Informatiemodel CIM-Ceres (Centrale Registratie van
-Systeemelementen).
+Description Language), (c) Informatiemodel CIM-Ceres (Centrale Registratie van
+Systeemelementen) en (d) Model Installatieregister.
 
 Aan de hand van de inventarisatie beschreven in de voorafgaande hoofdstukken en
 een aantal expertsessies is een startmodel gemaakt. Het startmodel is de basis
@@ -207,17 +207,42 @@ IMEnergie-installaties.
 
 <figure id="IMEnergy_en_CIM_Ceres">
     <img src="media/IMEnergy_en_CIM_Ceres.png" alt="">
-    <figcaption>CIM in relatie tot IMEnergie-installaties.</figcaption>
+    <figcaption>CIM_Ceres in relatie tot IMEnergie-installaties.</figcaption>
 </figure>
+
+### Model Installatieregister mapping op IMEnergie.
+
+Het model voor het Installatieregister is ontwikkeld door Techniek Nederland. Het beschrijft de componenten van een installatie binnen een gebouw. In die beschrijving wordt gebruik gemaakt van de NL/SfB classificatie van systeemdelen en gekoppeld aan de ETIM productclassificatie. SALES productgegevens zorgen voor koppeling naar specificaties van specifieke toegepaste producten. Keuring op producten en systeemdelen kunnen worden vastgelegd.
+
+Van het informatiemodel Installatieregister is onderstaand een gesimplificeerde subset
+opgenomen.
+
+<figure id="(placeholder)Installatieregister">
+    <img src="media/(placeholder)Installatieregister.png" alt="">
+    <figcaption>Gesimplificeerd UML diagram van informatiemodel Installatieregister.</figcaption>
+</figure>
+
+In onderstaand diagram zijn de belangrijkste objecttypen van informatiemodel Installatieregister in relatie tot
+het startmodel gebracht.
+
+<figure id="IMEnergie_en_Instalregister">
+    <img src="media/IMEnergie_en_Instalregister.png" alt="">
+    <figcaption>Informatiemodel Installatieregister in relatie tot IMEnergie-installaties.</figcaption>
+</figure>
+
+De informatie uit het Installatieregister is zeer gedetailleerd op delen van assets. Productspecificaties zijn of zijn te relateren aan energiecapaciteit van assets. 
+
 
 ### Aanbevelingen voor doorontwikkeling
 
 De volgende observaties en aanbevelingen komen naar voor uit een eerste
 verkenning naar een informatiemodel.
 
--   De drie gebruikte informatiemodel IMSG, ESDL en CIM-Ceres zijn op een
+-   De vier gebruikte informatiemodel IMSG, ESDL en CIM-Ceres  zijn op een
     globaal niveau met elkaar vergelijkbaar. Ze hebben ook overlappende
     usecases.
+	
+-	Het model voor Installatieregister bevat operationele detailinformatie van onderdelen van energie-assets achter de aansluiting. Gedetailleerde 		productinformatie van ETIM en SALES zijn of zijn te herleiden tot specificaties over energiehoeveelheden.
 
 -   Het nu ontwikkelde IMEnergie-installaties is nog zeer globaal maar stuurt de
     verdere doorontwikkeling van de usecase en de definitie van relevante
@@ -227,7 +252,7 @@ verkenning naar een informatiemodel.
     van een bruikbaar geharmoniseerd model.
 
 -   Het IMEnergie-installatie zal in de doorontwikkeling naar verwachting
-    vervangen worden door delen van het ESDL en/of CIM-Ceres.
+    vervangen worden door delen van het ESDL en/of CIM-Ceres met input van Installatieregister.
 
 -   In potentie zou ESDL met een harmonisatie richting CIM-Ceres en harmonisatie
     met geo-standaarden een kandidaat kunnen zijn voor een informatiemodel dat

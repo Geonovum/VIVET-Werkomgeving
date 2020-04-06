@@ -44,14 +44,17 @@ en omzetten in conclusies en aanbevelingen.)
 
 ##### Aanwezige data
 
-Uit de [Landschapsverkenning](#landschapsverkenning) en uit de [Analyse](#analyse) blijkt dat er veel verschillende datasets aanwezig zijn. Echter 'aanwezig' betekent niet per definitie hetzelfde als 'beschikbaar'. Data is verzameld vanuit de eigen behoefte van partijen. Zo heeft de installatiebranche een 'Installatie- en keuringenregister' opgezet [(zie bijlage 7)](#bijlage-7) vanuit de eigen behoefte, Het C-AR (Centraal aansluitregister) bevat opwek en verbruiksdata op
-aansluitingen niveau, De Netbeheerders hebben informatie over de netwerken. Er
+Uit de [Landschapsverkenning](#landschapsverkenning) en uit de [Analyse](#analyse) blijkt dat er veel verschillende datasets aanwezig zijn. Echter 'aanwezig' betekent niet per definitie hetzelfde als 'beschikbaar'. Data is verzameld vanuit de eigen behoefte van partijen. Zo heeft de installatiebranche een 'Installatie- en keuringenregister' opgezet [(zie bijlage 7)](#bijlage-7) vanuit de eigen behoefte, Het C-AR (Centraal aansluitregister) bevat opwek en verbruiksdata op aansluitingen niveau, De Netbeheerders hebben informatie over de netwerken. Er
 zijn registraties over energielabels van gebouwen, waar zonnepanelen liggen,
 waar windmolens staan.
 
 ##### Ontbrekende data
 
 Opvallend is dat er geen data van warmtenetten wordt genoemd in het overzicht van databronnen. En dat terwijl het onderwerp 'warmte' een belangrijke rol speelt in de energietransitie
+
+De hier boven genoemde constateringen 
+
+
 
 ### Datamodellen
 
@@ -70,6 +73,7 @@ vastleggingsmodellen anders dan de informatiemodellen. Ergens tussen data en
 informatie vindt een bewerking of berekening plaats.
 verschillende datamodellen aanwezig, niet ontwikkeld in samenhang, dus overlap en begripsverwarring
 
+De constateringen met betrekking tot Datamodellen is overigens een bevestiging van het deelproject *Data Standaarden* zoals voorzien in *Project VIII - Data Ontsluiten (backoffice)* uit het *Concept Werkplan 2020* van VIVET
 
 #### Stakeholders
 

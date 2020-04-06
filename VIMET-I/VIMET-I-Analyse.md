@@ -3,73 +3,114 @@ Analyse
 
 Zoals aangegeven in hoofdstuk 1 kan het karakter van dit onderzoek worden
 gekenschetst als een landschapsverkenning/omgevingsanalyse en veel minder als
-een ontwerp-proces. Door het voortschrijdend inzicht zijn bepaalde elementen weggelaten (zoals scoping door use cases) of juist uitgebreid (zoals afsprakenstelsels, relevante projecten en stakeholder analyse).
+een ontwerpproces. Door het voortschrijdend inzicht zijn bepaalde elementen
+weggelaten (zoals scoping door usecases) of juist uitgebreid (zoals
+afsprakenstelsels, relevante projecten en stakeholder analyse).
 
 Aan een deel van de inventarisatie van losse elementen die in de
-landschapsverkenning heeft plaatsgevonden, is tijdens de anlyse structuur
-gegeven, wat de basis is voor analyse en aanbevelingen. 
-
+landschapsverkenning heeft plaatsgevonden, is tijdens de analyse structuur
+gegeven, wat de basis is voor analyse en aanbevelingen.
 
 ### Stakeholderanalyse
-<r>Jeroen: nog doen nav lijst stakeholders in landschapsverkenning
-bv tabel stakeholders versus relevante projecten of versus datasets</r>
 
+\@\@ Jeroen: nog doen n.a.v. lijst stakeholders in landschapsverkenning bijv.
+tabel stakeholders versus relevante projecten of versus datasets.
 
 ### Scope installaties
-Zoals in de volgende paragraaf aangegeven is het landschap cross sectoraal  (bouw, energie, installatie onderhoud, assetmanagement, basisregistraties). De scoping van een 'installatieregister concept' moet vraag gestuurd plaats vinden. Dit was voorzien om aan de hand van use cases met betrokken product owners onderdeln van het informatiemodel verder uit te diepen. De volgende use cases zijn voorbereid, maar nog niet uitgevoerd. In het VIVET programma 2020 worden de use cases verder uitgewerkt, wat tevens het nu meer generieke model moet invullen en specificeren.
-- Case A – Ontsluiten informatie over huidige duurzame productiecapaciteit aan Zon PV uit PIR/CERES
-- Case B – Casus elektrisch laden Smart Zwolle
-- Case C – Warmtepompen (Ingroei Warmtepompen en effectmonitoring)
 
-Knelpunt bij de uitvoering is dat de totstandkoming van de Use Cases moeizaam gaat. Het beeld dat partijen niet echt bereid zijn om data te delen wordt bevestigd en het kost veel moeite om tot afspraken te komen. Dit is ook deels de conclusie van project E2 en in die zin ook onderdeel van het project. Van belang is dat er d.m.v. het werken aan het informatiemodel partijen dichter tot elkaar komen. Dat doel is bereikt. De Use Cases zijn een mooie manier om te laten zien wat er mogelijk is, maar als ze niet tot stand komen bevestigen ze alleen het probleem van het terughoudend zijn in data delen.
+Zoals in de volgende paragraaf aangegeven is het landschap cross sectoraal
+(bouw, energie, installatie onderhoud, assetmanagement, basisregistraties). De
+scoping van een 'installatieregister concept' moet vraag gestuurd plaats vinden.
+Dit was voorzien om aan de hand van usecases met betrokken product owners
+onderdelen van het informatiemodel verder uit te diepen. De volgende usecases
+zijn voorbereid, maar nog niet uitgevoerd. In het VIVET programma 2020 worden de
+usecases verder uitgewerkt, wat tevens het nu meer generieke model moet invullen
+en specificeren. - Case A – Ontsluiten informatie over huidige duurzame
+productiecapaciteit aan Zon PV uit PIR/CERES - Case B – Casus elektrisch laden
+Smart Zwolle - Case C – Warmtepompen (Ingroei Warmtepompen en effectmonitoring)
 
-Het volgende denkmodel is gebruikt tijdens de analyse en het uitwerken van het het eerste informatiemodel. Dit (T-model) is tevens de aanleiding om in het VIVET werkplan 2020 de [datastandaarden](https://github.com/Geonovum/VIVET-Werkomgeving/blob/master/VIMET-I/media/denkmodel-datastandaarden-energietransitie.png) goed te hechten in topmodellen en per toepassing en per domein specifiek uit te werken.
+Knelpunt bij de uitvoering is dat de totstandkoming van de usecases moeizaam
+gaat. Het beeld dat partijen niet echt bereid zijn om data te delen wordt
+bevestigd en het kost veel moeite om tot afspraken te komen. Dit is ook deels de
+conclusie van project E2 en in die zin ook onderdeel van het project. Van belang
+is dat er d.m.v. het werken aan het informatiemodel partijen dichter tot elkaar
+komen. Dat doel is bereikt. De usecases zijn een mooie manier om te laten zien
+wat er mogelijk is, maar als ze niet tot stand komen bevestigen ze alleen het
+probleem van het terughoudend zijn in data delen.
 
-<!-- ![](media/denkmodel-imet.png) -->
-<!-- Figuur x: Denkmodel Informatiemodel Energie installaties -->
+Het volgende denkmodel is gebruikt tijdens de analyse en het uitwerken van het
+eerste informatiemodel. Dit (T-model) is tevens de aanleiding om in het VIVET
+werkplan 2020 de
+[datastandaarden](https://github.com/Geonovum/VIVET-Werkomgeving/blob/master/VIMET-I/media/denkmodel-datastandaarden-energietransitie.png)
+goed te hechten in topmodellen en per toepassing en per domein specifiek uit te
+werken.
 
-<figure id="denkmodel-imet.png">
-    <img src="media/denkmodel-imet.png" alt="">
-    <figcaption>Denkmodel Informatiemodel Energie installaties.</figcaption>
-</figure>
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<img src="media/denkmodel-imet.png" alt="">
+<figcaption>Denkmodel Informatiemodel Energie installaties.</figcaption>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ### Bevindingen landschapsverkenning
 
-In Nederland is door de op gang gekomen energietransitie en de hiermee verwante digitalisering van de bouw een groot aantal programma's, projecten en initiatieven ontstaan die met elkaar verbonden moeten worden. Vanuit informatiekunidg oogpunt gaan ze deels over  gemeenschappelijke informatieobjecten (zie [Tabel projecten en kernentiteiten](#Tabel projecten en kernentiteiten), waarvan we vanuit gaan dat deze data uitgewisseld kan worden. Dit is echter geen vanzelfsprekendheid, omdat er op de samenhang maar beperkt regie wordt gevoerd. 
-De Topsector energie kent een thema [digitalisering](https://www.topsectorenergie.nl/digitalisering), maar stuurt niet intergraal over alle projecten op verduurzaming van de informatieuitwisseling.
-De DigitDeal Gebouwde Omgeving richt zich op digitalisering en standaadisatie in de bouw. Hier is wel enige afstemming met het de Wet Kwaliteitsborging en realiseren van uniek ojbect identificatie van gebouwen. Succes is echter ook afhankelijk van automatische koppeling van (energie)aansluitinformatie met de BAG wat binnen Vivet en NetbeheerNL op de agenda is geplaatst. 
-Vanuit het perspectief 'installatieregister' is het TechniekNL voortvarend bezig om informaite over alle in onderhoud zijn installaties te kunnen verbinden onder andere voor de uitvoering van de WKB verplichtingen. Deze landsdekkende informatie is nog niet betrokken bij bv de CBS statistiek en hiermee niet beschikbaar voor NPRES plannen en energiemodellen.
-Deze plaat laat hiermee duidelijk het cross sectorale karakter zien (bouw, energie, installatie onderhoud, assetmanagement, basisregistraties) van de problematiek rond de energie-installaties en hiermee verbonden omgeving.
-Het initiatief om te komen tot een afsprakenstelsel voor een betere marktfacilering is een mooi voorbeeld om de informatie te laten stromen en vernieuwing en innovatie te stimuleren. Dit heeft nog wel een bilaterale scope van NetbeheerNL(transport) en Energie Nederland (opwek) .
+In Nederland is door de op gang gekomen energietransitie en de hiermee verwante
+digitalisering van de bouw een groot aantal programma's, projecten en
+initiatieven ontstaan die met elkaar verbonden moeten worden. Vanuit
+informatiekundig oogpunt gaan ze deels over gemeenschappelijke
+informatieobjecten (zie [Tabel projecten en
+kernentiteiten](#Tabel%20projecten%20en%20kernentiteiten), waarvan we vanuit
+gaan dat deze data uitgewisseld kan worden. Dit is echter geen
+vanzelfsprekendheid, omdat er op de samenhang maar beperkt regie wordt gevoerd.
+De Topsector energie kent een thema
+[digitalisering](https://www.topsectorenergie.nl/digitalisering), maar stuurt
+niet integraal over alle projecten op verduurzaming van de
+informatie-uitwisseling. De DigiDeal Gebouwde Omgeving richt zich op
+digitalisering en standaardisatie in de bouw. Hier is wel enige afstemming met
+het de Wet Kwaliteitsborging en realiseren van uniek object identificatie van
+gebouwen. Succes is echter ook afhankelijk van automatische koppeling van
+(energie)aansluitinformatie met de BAG wat binnen VIVET en Netbeheer NL op de
+agenda is geplaatst. Vanuit het perspectief 'installatieregister' is het
+Techniek NL voortvarend bezig om informatie over alle in onderhoud zijn
+installaties te kunnen verbinden onder andere voor de uitvoering van de
+WKB-verplichtingen. Deze landsdekkende informatie is nog niet betrokken bij bv
+de CBS statistiek en hiermee niet beschikbaar voor NPRES-plannen en
+energiemodellen. Deze plaat laat hiermee duidelijk het cross sectorale karakter
+zien (bouw, energie, installatie onderhoud, assetmanagement, basisregistraties)
+van de problematiek rond de energie-installaties en hiermee verbonden omgeving.
+Het initiatief om te komen tot een afsprakenstelsel voor een betere
+marktfacilitering is een mooi voorbeeld om de informatie te laten stromen en
+vernieuwing en innovatie te stimuleren. Dit heeft nog wel een bilaterale scope
+van Netbeheer NL (transport) en Energie Nederland (opwek) .
 
-<!-- ![](media/vimetlandschap.png) -->
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<img src="media/vimetlandschap.png" alt="">
+<figcaption>Het Vimet Landschap.</figcaption>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-<figure id="vimetlandschap.png">
-    <img src="media/vimetlandschap.png" alt="">
-    <figcaption>Het Vimet Landschap.</figcaption>
-</figure>
-
-
-**Afkortingen**:\
-DigiDealGO = DigiDealGO is een overeenkomst tussen de overheid, de brancheverenigingen van de bouw, de installatiesector en de toeleverende industrie, ondersteund door de \
-  BIR (Bouw Informatie Raad) het \
-  BIM Loket en de \
-  DSBI (Digitaal Stelsel Bouw en Installatie ).\
-DSGO =  Digitaal Stelsel voor de Gebouwde Omgeving\
-DBR = Bouw Digitaliserings Raad\
-UOB = Uniforme Obejcten Bibliotheek\
-DiS Geo = Doorontwikkeling in Samenhang van de basisregistraties\
-UOI = Unieke Object Identificate\
-WKB = wet kwaliteitsborging voor het bouwen met derde begeleidingsgroep; digitale dossiers. \
-EGO = datavoorziening energietransitie Gebouwde Omgeving door PAW en VNG \
-EAN = European Article Numbering voor een leveringspunt voor gas of elektriciteit te identificeren\
-Topsector Energie\
-  TEI = Toegankelijke Energie Informatie (Enexis , TNO, KPN)\
-  LinkED = Linked Energie Data (TNO, Alliander en Enexis) wat oa  MHM (Model Harmonisatie Methodiek) introduceert\
-Digitaal Gebouwdosier = BZK project met uses cases consumentendossier, dossier bevoegd gezag, het vernieuwde energielabel en het platform verbeterjehuis.nl voor ogen.\
-
-### Bestaande datasets aan elkaar relateren
+**Afkortingen**:  
+DigiDealGO = DigiDealGO is een overeenkomst tussen de overheid, de
+brancheverenigingen van de bouw, de installatiesector en de toeleverende
+industrie, ondersteund door de  
+BIR (Bouw Informatie Raad) het  
+BIM Loket en de  
+DSBI (Digitaal Stelsel Bouw en Installatie ).  
+DSGO = Digitaal Stelsel voor de Gebouwde Omgeving  
+DBR = Bouw Digitalisering Raad  
+UOB = Uniforme Objecten Bibliotheek  
+DiSGeo = Doorontwikkeling in Samenhang van de basisregistraties  
+UOI = Unieke Object Identificatie  
+WKB = wet kwaliteitsborging voor het bouwen met derde begeleidingsgroep;
+digitale dossiers.  
+EGO = datavoorziening energietransitie Gebouwde Omgeving door PAW en VNG  
+EAN = European Article Numbering voor een leveringspunt voor gas of
+elektriciteit te identificeren  
+Topsector Energie  
+TEI = Toegankelijke Energie Informatie (Enexis , TNO, KPN)  
+LinkED = Linked Energie Data (TNO, Alliander en Enexis) wat o.a. MHM (Model
+Harmonisatie Methodiek) introduceert  
+Digitaal Gebouwdossier = BZK project met usecases consumentendossier, dossier
+bevoegd gezag, het vernieuwde energielabel en het platform verbeterjehuis.nl
+voor ogen.  
+\#\#\# Bestaande datasets aan elkaar relateren
 
 #### Infotooling en datasets
 
@@ -80,7 +121,7 @@ Intro
 
 De deskresearch voor VIMET-I is gestart met een inventarisatie van:
 *Afsprakenstelsels* /*Datasets* / *Informatiemodellen* / *Taxonomieën* /
-*Standaarden&normen*.
+*Standaarden & normen*.
 
 Deze inventarisatie bestaat uit een opsomming, zonder nadere duiding van
 verbanden. In dit document wordt hier een aanzet toe gegeven.
@@ -111,46 +152,44 @@ waarin *deelverzamelingen* van een type installaties is geregistreerd en zijn er
 datasets met *gerelateerde informatie* over energie-installaties (subsidies,
 verslaggeving).
 
-| **Generieke datasets**                                    | **Informatiemodel**     | **Productclassificatie Bouw- en installatie**                                                                                                                                                  | **Afsprakenstelsel**          | **Standaarden/normen**       | **Overige**       |
-|-----------------------------------------------------------|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|------------------------------|-------------------|
-| **Basisregistraties**                                     |                         |                                                                                                                                                                                                | Stelsel van Basisregistraties |                              |                   |
-| BAG                                                       | IMGEO, IMBAG            |                                                                                                                                                                                                |                               |                              |                   |
-| BGT                                                       | IMGEO, BGT              |                                                                                                                                                                                                |                               |                              |                   |
-| Top10NL                                                   | IMTOP                   |                                                                                                                                                                                                |                               |                              |                   |
-| NHR                                                       | IMHR                    |                                                                                                                                                                                                |                               |                              |                   |
-| **Databronnen energie-installaties**                      |                         |                                                                                                                                                                                                |                               |                              |                   |
-| Aansluitingen (C-AR, EDSN)                                | ?                       |                                                                                                                                                                                                | Afspraken Marktfacilitering   |                              |                   |
-| Kabels en Leidingen (Assetmanagement Netbeheerders)       | Prorietary              |                                                                                                                                                                                                |                               |                              |                   |
-| Landelijke voorziening kabels en leidingeninformatie      | IMKL                    |                                                                                                                                                                                                | WIBON/KLIC                    |                              |                   |
-| Bestand met energiemeters                                 |                         |                                                                                                                                                                                                | Meetcode (VMNED)              |                              |                   |
-| PIR/CERES (Productie-installaties, EDSN)                  | Deels IEC CIM gebaseerd |                                                                                                                                                                                                |                               |                              |                   |
-| Laadpalen (eco-movement)                                  |                         |                                                                                                                                                                                                |                               |                              |                   |
-| Energie Management Systemen (Netbeheerders)               | IEC CIM of proprietary  |                                                                                                                                                                                                |                               |                              |                   |
-| Stookinstallaties (SCIOS)                                 |                         |                                                                                                                                                                                                |                               |                              |                   |
-| Installatieregister (Techniek NL; zie schema Bijlage 7)   |                         | ETIM, NL-SfB, FGO Onderhoud                                                                                                                                                                    | Beheerd door Techniek NL      |                              |                   |
-| Keuringenregisters: OK-CV, OK-WP? Airco                   |                         | ETIM?                                                                                                                                                                                          | OK-CV, OK-WP                  |                              |                   |
-| (zie schema Bijlage 7)                                    |                         |                                                                                                                                                                                                |                               |                              |                   |
-| **Toepassingen / deelverzamelingen energie-installaties** |                         |                                                                                                                                                                                                |                               |                              |                   |
-| CBS-Datasets: LIV, …                                      | IMVG (BAG,WOZ,HR,BRP)   |                                                                                                                                                                                                |                               |                              |                   |
-| Rijksvastgoed aansluitingen (RVB, RWS)                    |                         |                                                                                                                                                                                                |                               |                              | Relatie met C-AR? |
-| Glastuinbouw (RVO)                                        |                         |                                                                                                                                                                                                |                               |                              |                   |
-| **Gerelateerd aan installaties**                          |                         |                                                                                                                                                                                                |                               |                              |                   |
-| ISDE Investeringssubsidies (RVO)                          |                         | apparatenlijst ISDE RVO (warmtepompen en zonneboilers) https://www.rvo.nl/subsidie-en-financieringswijzer/isde/voorwaarden-apparaten                                                           |                               | Relatie met ETIM onderzoeken |                   |
-| EIA (Energieinvesteringsaftrek) (RVO)                     |                         | RVO energie lijst EIA 2020 https://www.rvo.nl/subsidie-en-financieringswijzer/energie-investeringsaftrek-eia/publicaties-energie-investeringsaftrek-eia                                        |                               |                              |                   |
-| SDE-subsidie (RVO)                                        |                         | RVO SDE++ categorien https://www.rvo.nl/subsidie-en-financieringswijzer/stimulering-duurzame-energieproductie-sde kengetallen en specificaties duurzame opwek met biomassa, water, wind en zon |                               |                              |                   |
-| Informatieplicht grotere gebruikers                       |                         | RVO (EML)nerkende maatregelenlijsten                                                                                                                                                           |                               |                              |                   |
-| **Gerelateerd**                                           |                         |                                                                                                                                                                                                |                               |                              |                   |
-| EP-Online energie-labels (RVO)                            | ..., IMBAG              |                                                                                                                                                                                                |                               |                              |                   |
-| E-MJV (milieu-jaar-verslagen) (RIVM)                      |                         | Lijst energiedragers RVO - IPCC https://www.e-mjv.nl/onderwerpen/rie-en-ippc en https://www.infomil.nl/onderwerpen/duurzaamheid-energie/beste-beschikbare/bbt/wettelijk-aangewezen/            |                               | E-PRTR                       |                   |
-| Energie-audit EED (RVO)                                   |                         | RVO EML( Erkende Maatregel Lijst) https://www.rvo.nl/onderwerpen/duurzaam-ondernemen/energie-besparen/informatieplicht-energiebesparing/bedrijven-en-instellingen/erkende-maatregelenlijsten   |                               |                              |                   |
+| **Generieke datasets**                                    | **Informatiemodel**     | **Productclassificatie Bouw- en installatie**                                                                                                                                                   | **Afsprakenstelsel**          | **Standaarden/normen**       | **Overige**       |
+|-----------------------------------------------------------|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|------------------------------|-------------------|
+| **Basisregistraties**                                     |                         |                                                                                                                                                                                                 | Stelsel van Basisregistraties |                              |                   |
+| BAG                                                       | IMGEO, IMBAG            |                                                                                                                                                                                                 |                               |                              |                   |
+| BGT                                                       | IMGEO, BGT              |                                                                                                                                                                                                 |                               |                              |                   |
+| Top10NL                                                   | IMTOP                   |                                                                                                                                                                                                 |                               |                              |                   |
+| NHR                                                       | IMHR                    |                                                                                                                                                                                                 |                               |                              |                   |
+| **Databronnen energie-installaties**                      |                         |                                                                                                                                                                                                 |                               |                              |                   |
+| Aansluitingen (C-AR, EDSN)                                | ?                       |                                                                                                                                                                                                 | Afspraken Marktfacilitering   |                              |                   |
+| Kabels en Leidingen (Assetmanagement Netbeheerders)       | Proprietary             |                                                                                                                                                                                                 |                               |                              |                   |
+| Landelijke voorziening kabels en leidingeninformatie      | IMKL                    |                                                                                                                                                                                                 | WIBON/KLIC                    |                              |                   |
+| Bestand met energiemeters                                 |                         |                                                                                                                                                                                                 | Meetcode (VMNED)              |                              |                   |
+| PIR/CERES (Productie-installaties, EDSN)                  | Deels IEC CIM gebaseerd |                                                                                                                                                                                                 |                               |                              |                   |
+| Laadpalen (eco-movement)                                  |                         |                                                                                                                                                                                                 |                               |                              |                   |
+| Energie Management Systemen (Netbeheerders)               | IEC CIM of proprietary  |                                                                                                                                                                                                 |                               |                              |                   |
+| Stookinstallaties (SCIOS)                                 |                         |                                                                                                                                                                                                 |                               |                              |                   |
+| Installatieregister (Techniek NL; zie schema Bijlage 7)   |                         | ETIM, NL-SfB, FGO Onderhoud                                                                                                                                                                     | Beheerd door Techniek NL      |                              |                   |
+| Keuringenregisters: OK-CV, OK-WP? Airco                   |                         | ETIM?                                                                                                                                                                                           | OK-CV, OK-WP                  |                              |                   |
+| (zie schema Bijlage 7)                                    |                         |                                                                                                                                                                                                 |                               |                              |                   |
+| **Toepassingen / deelverzamelingen energie-installaties** |                         |                                                                                                                                                                                                 |                               |                              |                   |
+| CBS-Datasets: LIV, …                                      | IMVG (BAG,WOZ,HR,BRP)   |                                                                                                                                                                                                 |                               |                              |                   |
+| Rijksvastgoed aansluitingen (RVB, RWS)                    |                         |                                                                                                                                                                                                 |                               |                              | Relatie met C-AR? |
+| Glastuinbouw (RVO)                                        |                         |                                                                                                                                                                                                 |                               |                              |                   |
+| **Gerelateerd aan installaties**                          |                         |                                                                                                                                                                                                 |                               |                              |                   |
+| ISDE Investeringssubsidies (RVO)                          |                         | apparatenlijst ISDE RVO (warmtepompen en zonneboilers) https://www.rvo.nl/subsidie-en-financieringswijzer/isde/voorwaarden-apparaten                                                            |                               | Relatie met ETIM onderzoeken |                   |
+| EIA (Energieinvesteringsaftrek) (RVO)                     |                         | RVO energie lijst EIA 2020 https://www.rvo.nl/subsidie-en-financieringswijzer/energie-investeringsaftrek-eia/publicaties-energie-investeringsaftrek-eia                                         |                               |                              |                   |
+| SDE-subsidie (RVO)                                        |                         | RVO SDE++ categorieën https://www.rvo.nl/subsidie-en-financieringswijzer/stimulering-duurzame-energieproductie-sde kengetallen en specificaties duurzame opwek met biomassa, water, wind en zon |                               |                              |                   |
+| Informatieplicht grotere gebruikers                       |                         | RVO EML (erkende maatregelenlijsten)                                                                                                                                                            |                               |                              |                   |
+| **Gerelateerd**                                           |                         |                                                                                                                                                                                                 |                               |                              |                   |
+| EP-Online energie-labels (RVO)                            | ..., IMBAG              |                                                                                                                                                                                                 |                               |                              |                   |
+| E-MJV (milieu-jaar-verslagen) (RIVM)                      |                         | Lijst energiedragers RVO - IPCC https://www.e-mjv.nl/onderwerpen/rie-en-ippc en https://www.infomil.nl/onderwerpen/duurzaamheid-energie/beste-beschikbare/bbt/wettelijk-aangewezen/             |                               | E-PRTR                       |                   |
+| Energie-audit EED (RVO)                                   |                         | RVO EML( Erkende Maatregel Lijst) https://www.rvo.nl/onderwerpen/duurzaam-ondernemen/energie-besparen/informatieplicht-energiebesparing/bedrijven-en-instellingen/erkende-maatregelenlijsten    |                               |                              |                   |
 
-
-<aside class='note'>
-  **Beschreven met informatiemodel …** (CIM, IFC, COINS, IM-SG, IM-KL)  
-  **Productclassificatie Bouw- en installatie** (NL-SfB, ETIM, FGO, Productdata, UOB, CB-NL, Stabu, BS&I)   
-  **Standaarden/normen...** (Sales Unifeed berichtenset, NEN 2660, Lijst energiedragers, ..)  
-</aside>
-
+**Beschreven met informatiemodel …** (CIM, IFC, COINS, IM-SG, IM-KL)  
+**Productclassificatie Bouw- en installatie** (NL-SfB, ETIM, FGO, Productdata,
+UOB, CB-NL, Stabu, BS&I)  
+**Standaarden/normen...** (Sales Unifeed berichtenset, NEN 2660, Lijst
+energiedragers, ..)
 
 #### Tabel Datasets en informatiemodellen
 
@@ -180,7 +219,17 @@ datasets waarin *deelverzamelingen* van een type installaties is geregistreerd
 en zijn er datasets met *gerelateerde informatie* over energie-installaties
 (subsidies, verslaggeving).
 
-<r>Leen: uitleggen wat deze tabel betekent->geen datamodellen?</r>
+Het is interessant om te zien of er *generieke informatiemodellen* bestaan,
+d.w.z. informatiemodellen die gehanteerd zijn om een aantal datasets te
+beschrijven. Dat is aangegeven in onderstaande tabel.
+
+De informatiemodellen die hiervoor logischerwijs het meest in aanmerking zouden
+komen, zijn de kolommen opgenomen. De resulterende vrijwel lege tabel, geeft aan
+dat er nog nauwelijks informatiemodellen bestaan die gehanteerd zijn voor de
+beschrijving van meerdere datasets. De implicatie hiervan is dat er niet op
+eenvoudige wijze een relatie gelegd kan worden tussen de verschillende datasets.
+In et volgende hoofdstuk van dit rapport zal een eerste aanzet worden gegeven
+tot een mapping tussen verschillende infromatiemodellen.
 
 | **Generieke datasets**                                    | **CIM**          | **IMKL** | **ESDL** | **ETIM** | **CB-NL** | **Overige**     |
 |-----------------------------------------------------------|------------------|----------|----------|----------|-----------|-----------------|
@@ -222,10 +271,10 @@ en zijn er datasets met *gerelateerde informatie* over energie-installaties
 Het onderzoek VIMET-I richt zich op energie-installaties, omdat voor sturing en
 monitoring van de energietransitie inzicht gewenst is in eigenschappen van
 energie-installaties (vermogen, productie, ouderdom, efficiency, etc.). Door
-middel van use cases wordt een afbakening gemaakt van de scope van de te
-onderzoeken data van‘energie-installaties’.  
-Dit is een valide use case/gebruikersvraag en evanals deze use case zijn er in
-de loop van de tijd tal van use cases geweest, zoals marktfacilitering,
+middel van usecases wordt een afbakening gemaakt van de scope van de te
+onderzoeken data van energie-installaties.  
+Dit is een valide usecase / gebruikersvraag en evenals deze usecase zijn er in
+de loop van de tijd tal van usecases geweest, zoals marktfacilitering,
 monitoring van graafwerkzaamheden, load flow berekeningen, etc. De daarvoor
 benodigde informatiesystemen zijn doorgaans ‘in splendid isolation’ ontworpen en
 dus niet op elkaar afgestemd. Een verbinding met bestaande datasets, met goed
@@ -243,38 +292,49 @@ en zijn er datasets met *gerelateerde informatie* over energie-installaties
 (subsidies, verslaggeving).
 
 | **Generieke datasets**                                    | **Installatie** | **Gebouw** | **Persoon/Bedrijf** | **EnergieWaarde** | **Overige** |
-|-----------------------------------------------------------|-----------------|-------------------|-----------------------|-------------|-------------|
-| Basisregistraties:                                        |                 |                   |                       |             |             |
-| BAG, BGT, Top10NL, LIV, NHR                               |                 |                   |                       |             |             |
-| CBS-Datasets                                              |                 |                   |                       |             |             |
-| **Databronnen energie-installaties**                      |                 |                   |                       |             |             |
-| Aansluitingen (C-AR, EDSN)                                |                 |                   |                       |             |             |
-| Kabels en Leidingen (Assetmanagement Netbeheerders)       |                 |                   |                       |             |             |
-| Landelijke voorziening kabels en leidingeninformatie      |                 |                   |                       |             |             |
-| Meters(Netbeh., meetbedr.)??                              |                 |                   |                       |             |             |
-| CERES(EDSN)                                               |                 |                   |                       |             |             |
-| Laadpalen (eco-movement)                                  |                 |                   |                       |             |             |
-| Energie Management Systemen (Netbeheerders)               |                 |                   |                       |             |             |
-| Stoominstallaties (SCIOS)                                 |                 |                   |                       |             |             |
-| Installatieregister?                                      |                 |                   |                       |             |             |
-| (zie schema Bijlage7)                                     |                 |                   |                       |             |             |
-| Keuringenregisters: OK-CV, OK-WP? Airco                   |                 |                   |                       |             |             |
-| (zie schema Bijlage 7)                                    |                 |                   |                       |             |             |
-| **Toepassingen / deelverzamelingen energie-installaties** |                 |                   |                       |             |             |
-| Rijksvastgoed aansluitingen (RWS)                         |                 |                   |                       |             |             |
-| Glastuinbouw (RVO)                                        |                 |                   |                       |             |             |
-| **Gerelateerd aan installaties**                          |                 |                   |                       |             |             |
-| ISDE Investeringssubsidies (RVO)                          |                 |                   |                       |             |             |
-| Energieinvesteringsaftrek (RVO)                           |                 |                   |                       |             |             |
-| SDE-subsidie (RVO)                                        |                 |                   |                       |             |             |
-| **Gerelateerd**                                           |                 |                   |                       |             |             |
-| EP-Online energie-labels (RVO)                            |                 |                   |                       |             |             |
-| E-MJV (milieu-jaar-verslagen) (RIVM)                      |                 |                   |                       |             |             |
-| Energie-audit EED (RVO)                                   |                 |                   |                       |             |             |
+|-----------------------------------------------------------|-----------------|------------|---------------------|-------------------|-------------|
+| Basisregistraties:                                        |                 |            |                     |                   |             |
+| BAG, BGT, Top10NL, LIV, NHR                               |                 |            |                     |                   |             |
+| CBS-Datasets                                              |                 |            |                     |                   |             |
+| **Databronnen energie-installaties**                      |                 |            |                     |                   |             |
+| Aansluitingen (C-AR, EDSN)                                |                 |            |                     |                   |             |
+| Kabels en Leidingen (Assetmanagement Netbeheerders)       |                 |            |                     |                   |             |
+| Landelijke voorziening kabels en leidingeninformatie      |                 |            |                     |                   |             |
+| Meters (Netbeheer, meetbedrijven)                         |                 |            |                     |                   |             |
+| CERES (EDSN)                                              |                 |            |                     |                   |             |
+| Laadpalen (eco-movement)                                  |                 |            |                     |                   |             |
+| Energie Management Systemen (Netbeheerders)               |                 |            |                     |                   |             |
+| Stoominstallaties (SCIOS)                                 |                 |            |                     |                   |             |
+| Installatieregister?                                      |                 |            |                     |                   |             |
+| (zie schema Bijlage7)                                     |                 |            |                     |                   |             |
+| Keuringenregisters: OK-CV, OK-WP? Airco                   |                 |            |                     |                   |             |
+| (zie schema Bijlage 7)                                    |                 |            |                     |                   |             |
+| **Toepassingen / deelverzamelingen energie-installaties** |                 |            |                     |                   |             |
+| Rijksvastgoed aansluitingen (RWS)                         |                 |            |                     |                   |             |
+| Glastuinbouw (RVO)                                        |                 |            |                     |                   |             |
+| **Gerelateerd aan installaties**                          |                 |            |                     |                   |             |
+| ISDE Investeringssubsidies (RVO)                          |                 |            |                     |                   |             |
+| Energieinvesteringsaftrek (RVO)                           |                 |            |                     |                   |             |
+| SDE-subsidie (RVO)                                        |                 |            |                     |                   |             |
+| **Gerelateerd**                                           |                 |            |                     |                   |             |
+| EP-Online energie-labels (RVO)                            |                 |            |                     |                   |             |
+| E-MJV (milieu-jaar-verslagen) (RIVM)                      |                 |            |                     |                   |             |
+| Energie-audit EED (RVO)                                   |                 |            |                     |                   |             |
 
 #### Tabel projecten en kernentiteiten
 
-Zoals in paragraaf [bevindingen-landschapsverkenning](#bevindingen-landschapsverkenning) is aangegeven is informatie over energieinstallaties verdeeld over verschillende sectoren. Om informatie te laten stromen is  overeenstemming nodig over de semantiek en kwaliteit van de belangrijkste kernentiteiten. De onderstaande tabel geeft beknopt inzicht welke kernentiteiten geraakt worden. Op te merken valt dat voor de entiteiten Gebouw en Persoon/Bedrijf basisregistraties en dus ook gegevenseigenaren zijn. Voor de entiteiten Installatie en Meetwaarde is dit niet geregeld en is er governance nodig om overeenstemming te bereiken over de semantiek, kwaliteit en uitwisselingsafspraken. Om de relaties tussen de entiteiten consistent te houden zijn er ook beheersafspraken en financiering nodig.
+Zoals in paragraaf
+[bevindingen-landschapsverkenning](#bevindingen-landschapsverkenning) is
+aangegeven is informatie over energie-installaties verdeeld over verschillende
+sectoren. Om informatie te laten stromen is overeenstemming nodig over de
+semantiek en kwaliteit van de belangrijkste kernentiteiten. De onderstaande
+tabel geeft beknopt inzicht welke kernentiteiten geraakt worden. Op te merken
+valt dat voor de entiteiten Gebouw en Persoon/Bedrijf basisregistraties en dus
+ook gegevenseigenaren zijn. Voor de entiteiten Installatie en Meetwaarde is dit
+niet geregeld en is er governance nodig om overeenstemming te bereiken over de
+semantiek, kwaliteit en uitwisselingsafspraken. Om de relaties tussen de
+entiteiten consistent te houden zijn er ook beheersafspraken en financiering
+nodig.
 
 | **Projecten**                        | **Installatie** | **Gebouw/locatie** | **Persoon/Bedrijf** | **Meetwaarde** |
 |--------------------------------------|-----------------|--------------------|---------------------|----------------|
@@ -289,5 +349,3 @@ Zoals in paragraaf [bevindingen-landschapsverkenning](#bevindingen-landschapsver
 | UOI: Unieke Object Identificatie     |                 | x                  |                     |                |
 |                                      |                 |                    |                     |                |
 |                                      |                 |                    |                     |                |
-
-### Uitgangspunten informatiemodel

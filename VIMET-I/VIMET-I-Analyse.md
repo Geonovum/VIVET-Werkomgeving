@@ -292,35 +292,36 @@ datasets waarin *deelverzamelingen* van een type installaties is geregistreerd
 en zijn er datasets met *gerelateerde informatie* over energie-installaties
 (subsidies, verslaggeving).
 
+In onderstaande tabel is aangegeven welke kernentiteiten voorkomen in de verschillende datasets. 
+NB: Dit is een voorlopig overzicht; validatie van de benoemde voorkomens moet nog plaatsvinden. 
+
 | **Generieke datasets**                                    | **Installatie** | **Gebouw** | **Persoon/Bedrijf** | **EnergieWaarde** | **Overige** |
 |-----------------------------------------------------------|-----------------|------------|---------------------|-------------------|-------------|
-| Basisregistraties:                                        |                 |            |                     |                   |             |
-| BAG, BGT, Top10NL, LIV, NHR                               |                 |            |                     |                   |             |
-| CBS-Datasets                                              |                 |            |                     |                   |             |
+| **Basisregistraties en CBS**                              |                 |            |                     |                   |             |
+| BAG, BGT, Top10NL, LIV, NHR                               |                 |x           |x                    |                   |             |
+| CBS-Datasets                                              |                 |x           |x                    |x                  |             |
 | **Databronnen energie-installaties**                      |                 |            |                     |                   |             |
-| Aansluitingen (C-AR, EDSN)                                |                 |            |                     |                   |             |
-| Kabels en Leidingen (Assetmanagement Netbeheerders)       |                 |            |                     |                   |             |
+| Aansluitingen (C-AR, EDSN)                                |x                |x           |x                    |x                  |             |
+| Kabels en Leidingen (Assetmanagement Netbeheerders)       |x                |x           |x                    |x                  |             |
 | Landelijke voorziening kabels en leidingeninformatie      |                 |            |                     |                   |             |
-| Meters (Netbeheer, meetbedrijven)                         |                 |            |                     |                   |             |
-| CERES (EDSN)                                              |                 |            |                     |                   |             |
-| Laadpalen (eco-movement)                                  |                 |            |                     |                   |             |
-| Energie Management Systemen (Netbeheerders)               |                 |            |                     |                   |             |
-| Stoominstallaties (SCIOS)                                 |                 |            |                     |                   |             |
-| Installatieregister?                                      |                 |            |                     |                   |             |
-| (zie schema Bijlage7)                                     |                 |            |                     |                   |             |
-| Keuringenregisters: OK-CV, OK-WP? Airco                   |                 |            |                     |                   |             |
-| (zie schema Bijlage 7)                                    |                 |            |                     |                   |             |
+| Meters (Netbeheer, meetbedrijven)                         |                 |x           |                     |                   |             |
+| CERES v/h PIR (EDSN)                                      |x                |x           |x                    |                   |             |
+| Laadpalen (eco-movement)                                  |x                |x           |x                    |x                  |             |
+| EMS EnergieManagementSystemen (Netbeheerders)             |x                |            |                     |x                  |             |
+| Stoominstallaties (SCIOS)                                 |x                |            |                     |                   |             |
+| Installatieregister                                       |x                |x           |                     |                   |             |
+| Keuringenregisters: OK-CV, OK-WP? Airco                   |x                |x           |                     |                   |             |
 | **Toepassingen / deelverzamelingen energie-installaties** |                 |            |                     |                   |             |
-| Rijksvastgoed aansluitingen (RWS)                         |                 |            |                     |                   |             |
-| Glastuinbouw (RVO)                                        |                 |            |                     |                   |             |
+| Rijksvastgoed aansluitingen (RWS)                         |x                |x           |x                    |x                  |             |
+| Glastuinbouw (RVO)                                        |x                |x           |x                    |                   |             |
 | **Gerelateerd aan installaties**                          |                 |            |                     |                   |             |
-| ISDE Investeringssubsidies (RVO)                          |                 |            |                     |                   |             |
-| Energieinvesteringsaftrek (RVO)                           |                 |            |                     |                   |             |
-| SDE-subsidie (RVO)                                        |                 |            |                     |                   |             |
+| ISDE Investeringssubsidies (RVO)                          |x                |x           |x                    |                   |             |
+| Energieinvesteringsaftrek (RVO)                           |x                |x           |x                    |                   |             |
+| SDE-subsidie (RVO)                                        |x                |x           |x                    |                   |             |
 | **Gerelateerd**                                           |                 |            |                     |                   |             |
-| EP-Online energie-labels (RVO)                            |                 |            |                     |                   |             |
-| E-MJV (milieu-jaar-verslagen) (RIVM)                      |                 |            |                     |                   |             |
-| Energie-audit EED (RVO)                                   |                 |            |                     |                   |             |
+| EP-Online energie-labels (RVO)                            |x                |x           |x                    |                   |             |
+| E-MJV (milieu-jaar-verslagen) (RIVM)                      |x                |x           |x                    |x                  |             |
+| Energie-audit EED (RVO)                                   |x                |x           |x                    |x                  |             |
 
 #### Tabel Projecten en Kernentiteiten
 

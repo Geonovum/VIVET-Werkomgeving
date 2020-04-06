@@ -1,5 +1,4 @@
-Landschapsverkenning
---------------------
+## Landschapsverkenning
 
 ### Inleiding
 
@@ -68,35 +67,7 @@ Bouw- en Installatiewereld: Techniek Nederland
 
 Modelbouwers: ExpertGroep EnergieTransitieRekenModellen
 
-\@\@ Jan van G: onderstaande tabel svp naar bijlage X.
-
-Betrokkenen bij deze voorstudie:
-
-| Naam                 | Organisatie        |
-|----------------------|--------------------|
-| Bas Zeegers          | RVO                |
-| Gert Nijsink         | RWS                |
-| Gineke van Putten    | Geonovum           |
-| Hanneke de Jong      | EDSN               |
-| Jan Bruinenberg      | Alliander          |
-| Jan van Gelder       | Geonovum           |
-| Jeroen Baltussen     | Geonovum           |
-| Jeroen Damhuiser     | Stedin             |
-| Koen Smekens         | TNO                |
-| Leen van Doorn       | Geonovum           |
-| Lydia Dijkshoorn     | RVO                |
-| Margreet van Zanten  | RIVM               |
-| Matthieu Zuidema     | Kadaster           |
-| Otto Swertz          | CBS                |
-| Paul Janssen         | Geonovum           |
-| Paul Padding         | Geonovum           |
-| Remco van der Linden | Techniek Nederland |
-| Richard Westerga     | TNO                |
-| Ruud van de Wijgaart | PBL                |
-| Thomas Piessens      | Techniek Nederland |
-| Yun Wu               | EDSN               |
-| Jan de Jong          | EDSN               |
-| Peter Zwakhals       | Techniek Nederland |
+Zie ook [Bijlage 8](#bijlage-8) voor een overzicht van de betrokkenen bij deze voorstudie.
 
 ### Relevante afsprakenstelsels en projecten
 

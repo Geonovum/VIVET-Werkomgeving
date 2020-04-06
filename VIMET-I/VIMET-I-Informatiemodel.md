@@ -1,5 +1,4 @@
-Informatiemodel
----------------
+## Informatiemodel
 
 In dit hoofdstuk wordt het Informatiemodel Energie-installaties
 (IMEnergie-installaties) beschreven. De beschrijving is nog op hoofdlijnen. Bij
@@ -50,11 +49,10 @@ producten elektriciteit, gas en warmte. De dimensies ruimte en tijd zijn van
 belang en de relatie met beheer en eigendom. Als we die vijf onderdelen met
 elkaar verbinden krijgen we onderstaand overzicht.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<img src="media/b90085e632892b2944e058e974353591.png" alt="">
-<figcaption>Informatie over energie-installaties gaat over het type product, het type energieproces en kent een aantal basisgegevens: ruimte, tijd en eigendom.
-</figcaption>
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<figure id="energie-installaties">
+    <img src="media/b90085e632892b2944e058e974353591.png" alt="">
+    <figcaption>Informatie over energie-installaties gaat over het type product, het type energieproces en kent een aantal basisgegevens: ruimte, tijd en eigendom.</figcaption>
+</figure>
 
 Op basis van dit diagram is een informatiemodel ontwikkeld.
 
@@ -99,11 +97,10 @@ object uit de BGT. Via adres en persoon is er een koppeling naar de BAG, de NHR
 en de BRP. Bij Persoon geeft een gesloten pijl aan dat NatuurlijkPersoon (BRP)
 en NietNatuurlijkPersoon (NHR) verbijzonderingen van Persoon zijn.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<img src="media/IMEnergie-installaties.png" alt="">
-<figcaption>UML diagram van informatiemodel ‘energie-installaties’. Dit is een startmodel om de denkrichting te bepalen voor doorontwikkeling.
-</figcaption>
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<figure id="IMEnergie-installaties">
+    <img src="media/IMEnergie-installaties.png" alt="">
+    <figcaption>UML diagram van informatiemodel ‘energie-installaties’. Dit is een startmodel om de denkrichting te bepalen voor doorontwikkeling.</figcaption>
+</figure>
 
 De volgende belangrijkste objecttypen (of kern-entiteiten) worden onderscheiden:
 
@@ -165,19 +162,18 @@ opslag en transport.
 
 ![](media/8df501b7ccd7ec80b339e25a44a7e064.png)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<img src="media/Solar.png" alt="">
-<figcaption>Twee voorbeelden van informatieverstrekking via ESDL.</figcaption>
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<figure id="Solar">
+    <img src="media/Solar.png" alt="">
+    <figcaption>Twee voorbeelden van informatieverstrekking via ESDL.</figcaption>
+</figure>
 
 Van het ESDL-informatiemodel is onderstaand een gesimplificeerde subset
 opgenomen.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<img src="media/ESDL_placeholder_objecttypen.png" alt="">
-<figcaption>Gesimplificeerd UML diagram van informatiemodel ESDL (Energie SystemDescription Language).
-</figcaption>
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<figure id="ESDL_placeholder_objecttypen">
+    <img src="media/ESDL_placeholder_objecttypen.png" alt="">
+    <figcaption>Gesimplificeerd UML diagram van informatiemodel ESDL (Energie SystemDescription Language).</figcaption>
+</figure>
 
 Een EnergySystem bevat (het dichte wybertje) EnergySystemInformation. Hierin
 zitten datasources met gegevens over Assets. Een Asset heeft een Geometry en een
@@ -193,10 +189,10 @@ is ook gedetailleerd uitgewerkt.
 In onderstaand diagram zijn de belangrijkste objecttypen van ESDL in relatie tot
 het startmodel gebracht.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<img src="media/IMEnergie_en_ESDL.png" alt="">
-<figcaption>ESDL in relatie tot IMEnergie-installaties.</figcaption>
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<figure id="IMEnergie_en_ESDL">
+    <img src="media/IMEnergie_en_ESDL.png" alt="">
+    <figcaption>ESDL in relatie tot IMEnergie-installaties.</figcaption>
+</figure>
 
 ### CIM-Ceres mapping op IMEnergie.
 
@@ -209,11 +205,10 @@ input gebruikt. Hiermee is ook de relatie met het IEC/CIM gerealiseerd.
 Onderstaand diagram beschrijft de mapping van informatie-elementen uit Ceres op
 IMEnergie-installaties.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<img src="media/IMEnergy_en_CIM_Ceres.png" alt="">
-<figcaption>CIM in relatie tot IMEnergie-installaties.
-</figcaption>
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<figure id="IMEnergy_en_CIM_Ceres">
+    <img src="media/IMEnergy_en_CIM_Ceres.png" alt="">
+    <figcaption>CIM in relatie tot IMEnergie-installaties.</figcaption>
+</figure>
 
 ### Aanbevelingen voor doorontwikkeling
 

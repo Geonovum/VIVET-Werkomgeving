@@ -1,5 +1,4 @@
-Analyse
--------
+## Analyse
 
 Zoals aangegeven in hoofdstuk 1 kan het karakter van dit onderzoek worden
 gekenschetst als een landschapsverkenning/omgevingsanalyse en veel minder als
@@ -45,10 +44,10 @@ werkplan 2020 de
 goed te hechten in topmodellen en per toepassing en per domein specifiek uit te
 werken.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<img src="media/denkmodel-imet.png" alt="">
-<figcaption>Denkmodel Informatiemodel Energie installaties.</figcaption>
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<figure id="denkmodel-imet">
+    <img src="media/denkmodel-imet.png" alt="">
+    <figcaption>Denkmodel Informatiemodel Energie installaties.</figcaption>
+</figure>
 
 ### Bevindingen landschapsverkenning
 
@@ -81,10 +80,10 @@ marktfacilitering is een mooi voorbeeld om de informatie te laten stromen en
 vernieuwing en innovatie te stimuleren. Dit heeft nog wel een bilaterale scope
 van Netbeheer NL (transport) en Energie Nederland (opwek) .
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<img src="media/vimetlandschap.png" alt="">
-<figcaption>Het Vimet Landschap.</figcaption>
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<figure id="vimetlandschap">
+    <img src="media/vimetlandschap.png" alt="">
+    <figcaption>Het Vimet Landschap.</figcaption>
+</figure>
 
 **Afkortingen**:  
 DigiDealGO = DigiDealGO is een overeenkomst tussen de overheid, de

@@ -1,5 +1,4 @@
-Inleiding
----------
+## Inleiding
 
 ### Context 
 
@@ -57,11 +56,9 @@ C. Energieverbruik, warmtevoorziening en zonnestroom
 
 D. Afstemming en voeding viewers
 
-E. Verkenning centraal register energie-installaties, verdeeld in twee
-onderdelen:
+E. Verkenning centraal register energie-installaties, verdeeld in twee onderdelen:
 
-E1. Eerste verkenning van de mogelijkheden om hernieuwbare energie
-installatieregisters samen te voegen;
+E1. Eerste verkenning van de mogelijkheden om hernieuwbare energie installatieregisters samen te voegen;
 
 E2. Voorstudie centraal installatieregister onderzoeken.
 
@@ -188,10 +185,10 @@ belemmeringen zijn voor het niet beschikbaar of niet ontsluitbaar zijn van data.
 De bevindingen uit de usecases zijn weer van belang voor andere VIVET-projecten
 die deze belemmeringen pogen weg te nemen.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<img src="media/stroomschema-installatieregister.png" alt="">
-<figcaption>Samenhang projectonderdelen voorstudie centraal installatieregister.</figcaption>
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<figure id="stroomschema-installatieregister">
+    <img src="media/stroomschema-installatieregister.png" alt="">
+    <figcaption>Samenhang projectonderdelen voorstudie centraal installatieregister.</figcaption>
+</figure>
 
 ### Verkenning Informatiemodel energie-installaties
 

@@ -9,14 +9,14 @@ verbetering van de informatievoorziening van de energietransitie. Het programma
 is opgesteld door het CBS, het Kadaster, PBL, RVO.nl en Rijkswaterstaat op
 verzoek van de ministeries van Economische Zaken en Klimaat en Binnenlandse
 Zaken en Koninkrijksrelaties. In het werkplan VIVET t/m maart 2020 is een
-vijftal activiteiten voorzien. Een van die activiteiten is een verkenning van
-een centraal energieregister energie-installaties, met als deelstudie een
+vijftal activiteiten voorzien. Eén van die activiteiten is een verkenning van
+een centraal register van energie-installaties, met als deelstudie een
 Voorstudie voor een centraal installatieregister. Op dit moment ontbreekt het
-betrokken partijen aan informatie over installaties die energie kunnen opwekken,
+veel betrokken partijen aan informatie over installaties die energie kunnen opwekken,
 converteren of opslaan. De informatie is deels niet beschikbaar, deels niet
 vindbaar, deels niet ontsloten, en deels niet koppelbaar. Dat betekent dat
 optimale besluitvorming voor de regionale energiestrategieën (RES) en
-transitievisie warmte (WW), systeemintegratie en de hoofdinfrastructuur energie
+transitievisie warmte (TVW), systeemintegratie en de hoofdinfrastructuur energie
 niet goed mogelijk is. Uit de voorstudie moet blijken op welke manier de reeds
 bestaande informatie over energie-installaties naar relevante stakeholders
 (besluitvormers, dataspecialisten e.d.) in de energietransitie ontsloten kan
@@ -231,17 +231,17 @@ voor een PoC-energie-installaties. Concreet denken we aan de volgende stappen.
 
 -   Realiseren van betrokkenheid van partijen bij dit onderzoek.
 
-1.  Deskresearch om bestaande modellen te bestuderen
+2.  Deskresearch om bestaande modellen te bestuderen
 
 -   Eerste inventarisatie van de uitgangspunten en onderdelen van een
     informatiemodel door bestuderen van bestaande modellen en systemen.
 
-1.  Expertsessies
+3.  Expertsessies
 
 -   Organiseren en faciliteren van enkele werksessies met actieve stakeholders
     om de uitgangspunten van het informatiemodel scherper te krijgen.
 
-1.  Realisatie concept informatiemodel gericht op usecases voor POC
+4.  Realisatie concept informatiemodel gericht op usecases voor POC
 
 -   De eerste versie van het informatiemodel bevat een conceptuele beschrijving
     van informatiebehoeften in de keten van gegevensuitwisseling.
@@ -249,11 +249,11 @@ voor een PoC-energie-installaties. Concreet denken we aan de volgende stappen.
 -   De beschrijving is geschikt voor verder gebruik in VIVET-usecases voor de
     POC.
 
-1.  Consultatie stakeholders
+5.  Consultatie stakeholders
 
 -   Communiceren van resultaten van het onderzoek en ophalen commentaar.
 
-1.  Schrijven eindrapportage
+6.  Schrijven eindrapportage
 
 -   Voorstel en aanbevelingen hoe te komen tot een breed gedragen
     informatiemodel waarmee informatie voor energie-installaties kan worden

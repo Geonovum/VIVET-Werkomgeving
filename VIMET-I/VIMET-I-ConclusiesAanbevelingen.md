@@ -12,9 +12,9 @@ en omzetten in conclusies en aanbevelingen.)
 #### Data
 
 ##### Aanwezige data
-Uit de voorgaande hoofdstukken blijkt dat er al veel data en bijbehorende
-datamodellen beschikbaar is/zijn. Deze data is en wordt verzameld vanuit
-verschillende invalshoeken. Zo wordt door de installatiebranche data verzameld
+
+Uit de [Landschapsverkenning](#landschapsverkenning) en uit de [Analyse](#analyse) blijkt dat er veel verschillende datasets aanwezig zijn. Echter 'aanwezig' betektent niet heyzelfde als 'beschikbaar'. Data is verzameld vanuit de eigen behoefte van partijen. Zo heeft de installatiebranche een 'Installatie- en keuringenregister'opgezet.
+
 die alles te maken heeft met het beheer en onderhoud van installaties bij
 klanten. Het C-AR (Centraal aansluitregister) bevat opwek en verbruiksdata op
 aansluitingen niveau, De Netbeheerder hebben informatie over de netwerken. Er

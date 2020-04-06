@@ -35,6 +35,9 @@ voor de energietransitie. De betrokken partijen hebben aangegeven bij te willen
 dragen aan de concretisering van het informatiemodel energie-installaties ten
 behoeve van de energietransitie.
 
+Deze voorstudie heeft qua data-objecten enige overlap met project VIVET-D, waaarin de viewers geanalyseerd worden. @@ Zie bijlage 10 (?) voor een overzichtsplaat. Ondanks deze overlap - er zijn ook viewers die informatie serveren over opwek-installaties - is deze voorstudie  echter aanvullend omdat de focus niet ligt op: nut en noodzaak van de presentatie van de gegevens, maar op het inzichtelijk maken en waar mogelijk verbeteren van de onderliggende verbanden tussen die datasets. Een relevant verschil is, dat de viewers in VIVET-D als scope het energiesysteem hebben, terwijl in deze voorstudie ook de installatie- en bouwwereld figureren. 
+Evenzo is deze voorstudie aanvullend op VIVET-E1, waar concreet de inhoud van enkele installatie-gerelateerde registers is bestudeerd, terwijl in deze voorstudie het formaat en de gehanteerde informatie-tooling onderwerp is. 
+
 Voor deze inventarisatie is geput uit onderstaand materiaal, dat grotendeels is
 opgenomen in de bijlagen bij dit document.
 

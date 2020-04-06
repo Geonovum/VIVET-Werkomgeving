@@ -308,7 +308,7 @@ NB: Dit is een voorlopig overzicht; validatie van de benoemde voorkomens moet no
 | CERES v/h PIR (EDSN)                                      |x                |x           |x                    |                   |             |
 | Laadpalen (eco-movement)                                  |x                |x           |x                    |x                  |             |
 | EMS EnergieManagementSystemen (Netbeheerders)             |x                |            |                     |x                  |             |
-| Stoominstallaties (SCIOS)                                 |x                |            |                     |                   |             |
+| Stookinstallaties (SCIOS)                                 |x                |            |                     |                   |             |
 | Installatieregister                                       |x                |x           |                     |                   |             |
 | Keuringenregisters: OK-CV, OK-WP? Airco                   |x                |x           |                     |                   |             |
 | **Toepassingen / deelverzamelingen energie-installaties** |                 |            |                     |                   |             |

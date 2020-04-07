@@ -10,11 +10,6 @@ Aan een deel van de inventarisatie van losse elementen die in de
 landschapsverkenning heeft plaatsgevonden, is tijdens de analyse structuur
 gegeven, wat de basis is voor analyse en aanbevelingen.
 
-### Stakeholderanalyse
-
-\@\@ Jeroen: nog doen n.a.v. lijst stakeholders in landschapsverkenning bijv.
-tabel stakeholders versus relevante projecten of versus datasets.
-
 ### Scope van installaties
 
 Zoals in de volgende paragraaf aangegeven is het landschap cross-sectoraal

@@ -51,7 +51,7 @@ elkaar verbinden krijgen we onderstaand overzicht.
 
 <figure id="energie-installaties">
     <img src="media/informationpointdiagram.png" alt="">
-    <figcaption>*Informatie over energie-installaties gaat over het type product, het type energieproces en kent een aantal basisgegevens: ruimte, tijd en eigendom.*</figcaption>
+    <figcaption>Informatie over energie-installaties gaat over het type product, het type energieproces en kent een aantal basisgegevens: ruimte, tijd en eigendom.</figcaption>
 </figure>
 
 Op basis van dit diagram is een informatiemodel ontwikkeld.
@@ -99,7 +99,7 @@ en NietNatuurlijkPersoon (NHR) verbijzonderingen van Persoon zijn.
 
 <figure id="IMEnergie-installaties">
     <img src="media/IMEnergie-installaties.png" alt="">
-    <figcaption>*UML diagram van informatiemodel ‘energie-installaties’. Dit is een startmodel om de denkrichting te bepalen voor doorontwikkeling.*</figcaption>
+    <figcaption>UML diagram van informatiemodel ‘energie-installaties’. Dit is een startmodel om de denkrichting te bepalen voor doorontwikkeling.</figcaption>
 </figure>
 
 De volgende belangrijkste objecttypen (of kern-entiteiten) worden onderscheiden:
@@ -164,7 +164,7 @@ opslag en transport.
 
 <figure id="Solar">
     <img src="media/Solar.png" alt="">
-    <figcaption>*Twee voorbeelden van informatieverstrekking via ESDL.*</figcaption>
+    <figcaption>Twee voorbeelden van informatieverstrekking via ESDL.</figcaption>
 </figure>
 
 Van het ESDL-informatiemodel is onderstaand een gesimplificeerde subset
@@ -172,7 +172,7 @@ opgenomen.
 
 <figure id="ESDL_placeholder_objecttypen">
     <img src="media/ESDL_placeholder_objecttypen.png" alt="">
-    <figcaption>*Gesimplificeerd UML diagram van informatiemodel ESDL (Energie SystemDescription Language).*</figcaption>
+    <figcaption>Gesimplificeerd UML diagram van informatiemodel ESDL (Energie SystemDescription Language).</figcaption>
 </figure>
 
 Een EnergySystem bevat (het dichte wybertje) EnergySystemInformation. Hierin
@@ -191,7 +191,7 @@ het startmodel gebracht.
 
 <figure id="IMEnergie_en_ESDL">
     <img src="media/IMEnergie_en_ESDL.png" alt="">
-    <figcaption>*ESDL in relatie tot IMEnergie-installaties.*</figcaption>
+    <figcaption>ESDL in relatie tot IMEnergie-installaties.</figcaption>
 </figure>
 
 ### CIM-Ceres mapping op IMEnergie.
@@ -207,19 +207,19 @@ IMEnergie-installaties.
 
 <figure id="IMEnergy_en_CIM_Ceres">
     <img src="media/IMEnergy_en_CIM_Ceres.png" alt="">
-    <figcaption>*CIM_Ceres in relatie tot IMEnergie-installaties.*</figcaption>
+    <figcaption>CIM_Ceres in relatie tot IMEnergie-installaties.</figcaption>
 </figure>
 
 ### Model Installatieregister mapping op IMEnergie.
 
-Het model voor het Installatieregister is ontwikkeld door Techniek Nederland. Het beschrijft de componenten van een installatie binnen een gebouw. In die beschrijving wordt gebruik gemaakt van de NL/SfB classificatie van systeemdelen en gekoppeld aan de ETIM productclassificatie. SALES productgegevens zorgen voor koppeling naar specificaties van specifieke toegepaste producten. Keuring op producten en systeemdelen kunnen worden vastgelegd.
+Het model voor het Installatieregister is ontwikkeld door Techniek Nederland. Het beschrijft de componenten van een installatiesysteem binnen een gebouw. Een installatiesysteem is vergelijkbaar met een energie asset of fysiek object. In de beschrijving wordt gebruik gemaakt van de NL/SfB classificatie van systeemdelen en gekoppeld aan de ETIM productclassificatie. SALES productgegevens zorgen voor koppeling naar specificaties van specifieke toegepaste producten. Deze uitgebreide en goed beheerde registers zijn waardevolle online informatiebronnen. Keuring op producten en systeemdelen kunnen worden vastgelegd. Deze uitgebreide en goed beheerde registers zijn waardevolle online informatiebronnen.
 
 Van het informatiemodel Installatieregister is onderstaand een gesimplificeerde subset
 opgenomen.
 
 <figure id="(placeholder)Installatieregister">
     <img src="media/(placeholder)Installatieregister.png" alt="">
-    <figcaption>*Gesimplificeerd UML diagram van informatiemodel Installatieregister.*</figcaption>
+    <figcaption>Gesimplificeerd UML diagram van informatiemodel Installatieregister.</figcaption>
 </figure>
 
 In onderstaand diagram zijn de belangrijkste objecttypen van informatiemodel Installatieregister in relatie tot
@@ -227,7 +227,7 @@ het startmodel gebracht.
 
 <figure id="IMEnergie_en_Instalregister">
     <img src="media/IMEnergie_en_Instalregister.png" alt="">
-    <figcaption>*Informatiemodel Installatieregister in relatie tot IMEnergie-installaties.*</figcaption>
+    <figcaption>Informatiemodel Installatieregister in relatie tot IMEnergie-installaties.</figcaption>
 </figure>
 
 De informatie uit het Installatieregister is zeer gedetailleerd op delen van assets. Productspecificaties zijn of zijn te relateren aan energiecapaciteit van assets. 
@@ -235,8 +235,8 @@ De informatie uit het Installatieregister is zeer gedetailleerd op delen van ass
 
 ### Aanbevelingen voor doorontwikkeling
 
-De volgende observaties en aanbevelingen komen voort uit een eerste
-verkenning naar een informatiemodel.
+De volgende observaties en aanbevelingen komen voort uit deze eerste
+verkenning naar een informatiemodel Energie-installaties.
 
 -	Het was inspirerend om de stakeholders uit verschillende toepassingen bij elkaar te brengen en de verschillende domeinen informatietechnisch te verbinden. Oplossingen voor relevante use cases ontstaan door die verbinding.
 

@@ -235,7 +235,7 @@ De informatie uit het Installatieregister is zeer gedetailleerd op delen van ass
 
 ### Aanbevelingen voor doorontwikkeling
 
-De volgende observaties en aanbevelingen komen naar voor uit een eerste
+De volgende observaties en aanbevelingen komen voort uit een eerste
 verkenning naar een informatiemodel.
 
 -	Het was inspirerend om de stakeholders uit verschillende toepassingen bij elkaar te brengen en de verschillende domeinen informatietechnisch te verbinden. Oplossingen voor relevante use cases ontstaan door die verbinding.

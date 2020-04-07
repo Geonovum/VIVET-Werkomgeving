@@ -3,6 +3,25 @@ Conclusies en aanbevelingen
 
 ### C&A Jeroen
 
+Conclusies
+
+-	(Scoping) Een installatieregister (concept) is onderdeel van cross-sectoraal landschap (bouw, energie, installatie-onderhoud, assetmanagement, basisregistraties). Het realiseren van slimme koppelingen op informatie-technisch gebied is effectiever dan een nieuwe fysiek register opzetten. Goed gedragen usecases kunnen hier de richting aangeven.
+-	(Landschapsverkenning)
+Op energiegebied en bouw zijn veel digitaliserings- en data initiatieven, ook in relatie tot installaties. 
+Qua governance is samenhang nodig tav Topsector energie thema digitalisering, VIVET, DigiDealGO, CBS, DisGeo, WKB, Klimaat akkoord en energiewet 1.0.
+Meer concreet is qua informatiekundige samenhang nodig (voor energieinstallaties) tussen de projecten: EAN-BAG koppeling, Datastelsel Utiliteit, InstallatieRegister techniekNL, Digitaal Bouwdosier en unieke object identificatie.
+-	(Projecten en Kernentiteiten)
+Belangrijke kernentiteiten als Installatie en Meetwaarde zijn cruciaal voor uitwisseling van data over energieinstallaties en zijn nog niet geborgd in lopende projecten.
+-	(informatiemodelering)
+Project heeft op basis van de belangrijkste informatiemodellen een globaal model opgeleverd om gegevens op het gebied van energie en energieinstallaties te verbinden. Dit framework is bruikbaar om breder binnen VIVET en de omgeving toe te passen en om te beginnen de VIVET projecten informatie technisch integraal te kunnen ondersteunen.
+
+Aanbevelingen
+-	Besteed veel aandacht om informatiekundige samenhang aan te brengen in het geschetste landschap op het gebied van energie, bouw en installaties.
+-	Zorg dat er ook de sturing en beheer op de samenhang wordt belegd.
+-	Investeer in de ondersteuning van use cases en betrokken stakeholders, waardoor de broodnodige vraagsturing en tot stand komt. 
+-	Gebruik informatiemodelering als middel om VIVET projecten onderling te verbinden en de kwaliteit van de informatie te verbeteren en te borgen.
+
+
 ### C&A Leen
 
 VIVET heeft als doel om te werken aan het versnipperde data-landschap in het

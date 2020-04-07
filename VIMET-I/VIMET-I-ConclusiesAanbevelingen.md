@@ -65,6 +65,9 @@ groot belang.
 
 ### C&A Paul
 
+Zie 5.7 https://geonovum.github.io/VIVET-Werkomgeving/VIMET-I/#aanbevelingen-voor-doorontwikkeling
+
+
 ### C&A Gineke
 
 In dit hoofdstuk worden de belangrijkste conclusies uit de voorgaande

@@ -19,14 +19,15 @@ tabel stakeholders versus relevante projecten of versus datasets.
 
 Zoals in de volgende paragraaf aangegeven is het landschap cross-sectoraal
 (bouw, energie, installatie-onderhoud, assetmanagement, basisregistraties). De
-scoping van een 'installatieregister concept' moet vraaggestuurd plaats vinden.
-Daaro was voorzien om aan de hand van usecases met betrokken product owners
+scoping van een 'installatieregister concept' moet vraaggestuurd plaatsvinden.
+Daarom was voorzien om aan de hand van usecases met betrokken product owners
 onderdelen van het informatiemodel verder uit te diepen. De volgende usecases
-zijn voorbereid, maar nog niet uitgevoerd. In het VIVET programma 2020 worden de
-usecases verder uitgewerkt, wat tevens het nu meer generieke model moet invullen
-en specificeren. - Case A – Ontsluiten informatie over huidige duurzame
-productiecapaciteit aan Zon PV uit PIR/Ceres - Case B – Casus elektrisch laden
-Smart Zwolle - Case C – Warmtepompen (Groei warmtepompen en effectmonitoring)
+zijn voorbereid, maar nog niet uitgevoerd.\
+- Case A – Ontsluiten informatie over huidige duurzame productiecapaciteit aan Zon PV uit PIR/Ceres\ 
+- Case B – Casus elektrisch laden Smart Zwolle \
+- Case C – Warmtepompen (Groei warmtepompen en effectmonitoring)\
+In het VIVET programma 2020 worden de usecases verder uitgewerkt, wat tevens het nu meer generieke model moet invullen
+en specificeren.
 
 Knelpunt bij de uitvoering is dat de totstandkoming van de usecases moeizaam
 gaat. Het beeld dat partijen niet echt bereid zijn om data te delen wordt
@@ -66,7 +67,7 @@ informatie-uitwisseling. De DigiDeal Gebouwde Omgeving richt zich op
 digitalisering en standaardisatie in de bouw. Hier is wel enige afstemming met
 het de Wet Kwaliteitsborging en realiseren van uniek object identificatie van
 gebouwen. Succes is echter ook afhankelijk van de automatische koppeling van
-(energie)aansluitinformatie met de BAG die binnen VIVET en Netbeheer NL op de
+(energie)aansluitinformatie met de BAG dat binnen VIVET en Netbeheer NL op de
 agenda is geplaatst. Vanuit het perspectief 'installatieregister' is Techniek NL
 voortvarend bezig om informatie over alle in onderhoud zijn installaties te
 kunnen verbinden onder andere voor de uitvoering van de WKB-verplichtingen. Deze
@@ -149,7 +150,7 @@ De datasets zijn hier geordend naar de relaties met het begrip
 ‘energie-installaties’. Zo bieden de *basisregistraties* de context van
 energie-installaties (locatie, eigenaar), zijn installaties (deels)
 geregistreerd in de *databronnen energie-installaties’*, bestaan er datasets
-waarin *deelverzamelingen* van een type installaties is geregistreerd en zijn er
+waarin *deelverzamelingen* van een type installaties zijn geregistreerd en zijn er
 datasets met *gerelateerde informatie* over energie-installaties (subsidies,
 verslaggeving).
 
@@ -229,8 +230,8 @@ komen, zijn de kolommen opgenomen. De resulterende vrijwel lege tabel, geeft aan
 dat er nog nauwelijks informatiemodellen bestaan die gehanteerd zijn voor de
 beschrijving van meerdere datasets. De implicatie hiervan is dat er niet op
 eenvoudige wijze een relatie gelegd kan worden tussen de verschillende datasets.
-In et volgende hoofdstuk van dit rapport zal een eerste aanzet worden gegeven
-tot een mapping tussen verschillende infromatiemodellen.
+In het volgende hoofdstuk van dit rapport zal een eerste aanzet worden gegeven
+tot een mapping tussen verschillende informatiemodellen.
 
 | **Generieke datasets**                                    | **CIM**          | **IMKL** | **ESDL** | **ETIM** | **CB-NL** | **Overige**     |
 |-----------------------------------------------------------|------------------|----------|----------|----------|-----------|-----------------|
@@ -288,7 +289,7 @@ De datasets zijn hier – evenals in bovenstaande tabellen - geordend naar de
 relaties met het begrip ‘energie-installaties’. Zo bieden de *basisregistraties*
 de context van energie-installaties (locatie, eigenaar), zijn installaties
 (deels) geregistreerd in de *databronnen energie-installaties’*, bestaan er
-datasets waarin *deelverzamelingen* van een type installaties is geregistreerd
+datasets waarin *deelverzamelingen* van een type installaties zijn geregistreerd
 en zijn er datasets met *gerelateerde informatie* over energie-installaties
 (subsidies, verslaggeving).
 
@@ -356,7 +357,7 @@ nodig.
 
 Tijdens de inventarisatie van het speelveld, de beschrijving van het landschap
 en de analyse daarvan is meer boven water gekomen dan in deze hoofdstukken
-beschreven. Onderstaande aspecten zijn het waard om genoemd te worden, omdat
+beschreven is. Onderstaande aspecten zijn het waard om genoemd te worden, omdat
 deze relevant kunnen zijn bij de verdere uitwerking van het
 IMEnergie-installaties.
 

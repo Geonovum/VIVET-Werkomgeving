@@ -359,7 +359,7 @@ De opdracht aan Geonovum om een Verkenning Informatiemodel energie-installaties
 uit te voeren valt onder het VIVET-programma onderdeel E.2. Voorstudie centraal
 installatieregister.
 
-#### VIVET:
+**VIVET**
 
 Met de energietransitie en de klimaatafspraken van Parijs staat Nederland voor
 een grote opgave. In Nederland werken veel partijen samen om klimaat- en
@@ -395,7 +395,7 @@ E2. Voorstudie centraal installatieregister onderzoeken.
 
 Dit rapport bevat het onderzoeksverslag van de voorstudie als bedoeld in E2.
 
-#### Voorstudie centraal installatieregister onderzoeken (E2)
+**Voorstudie centraal installatieregister onderzoeken (E2)**
 
 *Probleemstelling:* Voor lokale overheden en netbeheerders is er onvoldoende
 zicht op installaties voor opwek, conversie en opslag van energie (warmte en
@@ -470,7 +470,7 @@ E1. Eerste verkenning van de mogelijkheden om hernieuwbare energie
 installatieregisters samen te voegen;  
 E2. Voorstudie centraal installatieregister onderzoeken.
 
-#### Voorstudie centraal installatieregister
+**Voorstudie centraal installatieregister**
 
 Het ontbreekt de partijen die bijdragen aan de energietransitie aan informatie
 over installaties die energie kunnen opwekken of converteren of opslaan. De

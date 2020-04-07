@@ -219,7 +219,7 @@ opgenomen.
 
 <figure id="(placeholder)Installatieregister">
     <img src="media/(placeholder)Installatieregister.png" alt="">
-    <figcaption>Gesimplificeerd UML diagram van informatiemodel Installatieregister.</figcaption>
+    <figcaption>*Gesimplificeerd UML diagram van informatiemodel Installatieregister.*</figcaption>
 </figure>
 
 In onderstaand diagram zijn de belangrijkste objecttypen van informatiemodel Installatieregister in relatie tot
@@ -227,7 +227,7 @@ het startmodel gebracht.
 
 <figure id="IMEnergie_en_Instalregister">
     <img src="media/IMEnergie_en_Instalregister.png" alt="">
-    <figcaption>Informatiemodel Installatieregister in relatie tot IMEnergie-installaties.</figcaption>
+    <figcaption>*Informatiemodel Installatieregister in relatie tot IMEnergie-installaties.*</figcaption>
 </figure>
 
 De informatie uit het Installatieregister is zeer gedetailleerd op delen van assets. Productspecificaties zijn of zijn te relateren aan energiecapaciteit van assets. 

@@ -9,7 +9,7 @@ VIVET heeft als doel om te werken aan het versnipperde data-landschap in het
 energiedomein; de versnippering heeft niet alleen betrekking op de datasets,
 maar ook op de infotools (informatiemodellen, classificaties, e.d.), die vaak
 slechts betrekking hebben op één dataset en verschillende niveaus van
-volwasenheid kennen.  
+volwassenheid kennen.  
 Er is behoefte aan generieke infotools die ervoor zorgen dat er één taal
 gesproken wordt. ESDL is hiervoor een belangrijke kandidaat.
 
@@ -25,18 +25,24 @@ uitgevoerd moet worden.
 De kennismaking tussen stakeholders van verschillende domeinen (energie,
 installaties, overheid) verliep zeer open, betrokkenen zagen veel kansen om
 verbindingen te valoriseren en zijn bereid om in de samenwerking te investeren.
-
-De in ontwikkeling zijnde afsprakenstelsels en datastelsels lijken een prima
-context om data uit verschillende domeinen (en in het bijzonder het
-energiedomein) op robuuste wijze te ontsluiten en te verbinden.
-
-De domeinen zijn verschillend qua mate waarin internationale standaarden leidend
-zijn; hier moet aandacht aan gegeven worden.
+Voor wat betreft het energiedomein geldt, dat geleerd kan worden van de
+installatiewereld waar veel ervaring is met internationale standaardisatie en
+classificatiestelsels.
 
 Voor de verduurzaming van de gebouwde omgeving (8 mln panden) ligt het voor de
 hand om voor installatie-, bouw en energiesector één taal te gebruiken.
 Infotools als classificaties, taxonomieën en informatiemodellen moeten dan ook
 z.s.m. gedeeld worden.
+
+*Aanbevelingen:*
+
+Zorg voor een intensieve samenwerking tussen partijen in de energie- en
+installatiewereld.
+
+Geef aandacht aan het governance-vraagstuk: acceptatie van standaarden,
+classificatie en informatiemodellen is niet vanzelfsprekend. Daartoe is actieve
+participatie in de in ontwikkeling zijnde afsprakenstelsel en datastelsels van
+groot belang.
 
 ### C&A Paul
 

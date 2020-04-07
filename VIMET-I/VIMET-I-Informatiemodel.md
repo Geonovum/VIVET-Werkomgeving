@@ -235,7 +235,7 @@ De informatie uit het Installatieregister is zeer gedetailleerd op delen van ass
 
 ### Aanbevelingen voor doorontwikkeling
 
-De volgende observaties en aanbevelingen komen naar voor uit een eerste
+De volgende observaties en aanbevelingen komen voort uit een eerste
 verkenning naar een informatiemodel.
 
 -   De vier gebruikte informatiemodel IMSG, ESDL en CIM-Ceres  zijn op een

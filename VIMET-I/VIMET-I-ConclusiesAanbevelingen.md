@@ -5,30 +5,46 @@ Conclusies en aanbevelingen
 
 Conclusies
 
--	(Scoping) Een installatieregister (concept) is onderdeel van cross-sectoraal landschap (bouw, energie, installatie-onderhoud, assetmanagement, basisregistraties). Het realiseren van slimme koppelingen op informatie-technisch gebied is effectiever dan een nieuwe fysiek register opzetten. Goed gedragen usecases kunnen hier de richting aangeven.
--	(Landschapsverkenning)
-Op energiegebied en bouw zijn veel digitaliserings- en data initiatieven, ook in relatie tot installaties. 
-Qua governance is samenhang nodig tav Topsector energie thema digitalisering, VIVET, DigiDealGO, CBS, DisGeo, WKB, Klimaat akkoord en energiewet 1.0.
-Meer concreet is qua informatiekundige samenhang nodig (voor energieinstallaties) tussen de projecten: EAN-BAG koppeling, Datastelsel Utiliteit, InstallatieRegister techniekNL, Digitaal Bouwdosier en unieke object identificatie.
--	(Projecten en Kernentiteiten)
-Belangrijke kernentiteiten als Installatie en Meetwaarde zijn cruciaal voor uitwisseling van data over energieinstallaties en zijn nog niet geborgd in lopende projecten.
--	(informatiemodelering)
-Project heeft op basis van de belangrijkste informatiemodellen een globaal model opgeleverd om gegevens op het gebied van energie en energieinstallaties te verbinden. Dit framework is bruikbaar om breder binnen VIVET en de omgeving toe te passen en om te beginnen de VIVET projecten informatie technisch integraal te kunnen ondersteunen.
+-   (Scoping) Een installatieregister (concept) is onderdeel van cross-sectoraal
+    landschap (bouw, energie, installatie-onderhoud, assetmanagement,
+    basisregistraties). Het realiseren van slimme koppelingen op
+    informatie-technisch gebied is effectiever dan een nieuw fysiek register
+    opzetten. Goed gedragen usecases kunnen hier de richting aangeven.
 
-Aanbevelingen
--	Besteed veel aandacht om informatiekundige samenhang aan te brengen in het geschetste landschap op het gebied van energie, bouw en installaties.
--	Zorg dat er ook de sturing en beheer op de samenhang wordt belegd.
--	Investeer in de ondersteuning van use cases en betrokken stakeholders, waardoor de broodnodige vraagsturing en tot stand komt. 
--	Gebruik informatiemodelering als middel om VIVET projecten onderling te verbinden en de kwaliteit van de informatie te verbeteren en te borgen.
+-   (Landschapsverkenning) Op energiegebied en bouw zijn veel digitaliserings-
+    en data initiatieven, ook in relatie tot installaties. Qua governance is
+    samenhang nodig tav Topsector energie thema digitalisering, VIVET,
+    DigiDealGO, CBS, DisGeo, WKB, Klimaat akkoord en energiewet 1.0. Meer
+    concreet is qua informatiekundige samenhang nodig (voor energieinstallaties)
+    tussen de projecten: EAN-BAG koppeling, Datastelsel Utiliteit,
+    InstallatieRegister techniekNL, Digitaal Bouwdosier en unieke object
+    identificatie.
 
+-   (Projecten en Kernentiteiten) Belangrijke kernentiteiten als Installatie en
+    Meetwaarde zijn cruciaal voor uitwisseling van data over energieinstallaties
+    en zijn nog niet geborgd in lopende projecten.
+
+-   (Informatiemodelering) Project heeft op basis van de belangrijkste
+    informatiemodellen een globaal model opgeleverd om gegevens op het gebied
+    van energie en energieinstallaties te verbinden. Dit framework is bruikbaar
+    om breder binnen VIVET en de omgeving toe te passen en om te beginnen de
+    VIVET projecten informatie technisch integraal te kunnen ondersteunen.
+
+Aanbevelingen - Besteed veel aandacht om informatiekundige samenhang aan te
+brengen in het geschetste landschap op het gebied van energie, bouw en
+installaties. - Zorg dat er ook de sturing en beheer op de samenhang wordt
+belegd. - Investeer in de ondersteuning van use cases en betrokken stakeholders,
+waardoor de broodnodige vraagsturing en tot stand komt. - Gebruik
+informatiemodelering als middel om VIVET projecten onderling te verbinden en de
+kwaliteit van de informatie te verbeteren en te borgen.
 
 ### C&A Leen
 
 VIVET heeft als doel om te werken aan het versnipperde data-landschap in het
 energiedomein; de versnippering heeft niet alleen betrekking op de datasets,
 maar ook op de infotools (informatiemodellen, classificaties, e.d.), die vaak
-slechts betrekking hebben op één dataset en verschillende niveaus van
-volwassenheid kennen.  
+niet beschikbaar zijn, slechts betrekking hebben op één dataset en verschillende
+niveaus van volwassenheid kennen.  
 Er is behoefte aan generieke infotools die ervoor zorgen dat er één taal
 gesproken wordt. ESDL is hiervoor een belangrijke kandidaat.
 
@@ -45,7 +61,7 @@ De kennismaking tussen stakeholders van verschillende domeinen (energie,
 installaties, overheid) verliep zeer open, betrokkenen zagen veel kansen om
 verbindingen te valoriseren en zijn bereid om in de samenwerking te investeren.
 Voor wat betreft het energiedomein geldt, dat geleerd kan worden van de
-installatiewereld waar veel ervaring is met internationale standaardisatie en
+installatiewereld waar veel ervaring is met internationale standaardisatie,
 classificatiestelsels.
 
 Voor de verduurzaming van de gebouwde omgeving (8 mln panden) ligt het voor de
@@ -61,7 +77,8 @@ installatiewereld.
 Geef aandacht aan het governance-vraagstuk: acceptatie van standaarden,
 classificatie en informatiemodellen is niet vanzelfsprekend. Daartoe is actieve
 participatie in de in ontwikkeling zijnde afsprakenstelsel en datastelsels van
-groot belang.
+groot belang.  
+Leidend tot pas-toe of leg-uit-lijst (à la Forum Standaardisatie)
 
 ### C&A Paul
 

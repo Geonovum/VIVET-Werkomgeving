@@ -84,7 +84,7 @@ en Energie Nederland (opwek) .
 
 <figure id="vimetlandschapdomein">
     <img src="media/vimetlandschapdomein.png" alt="">
-    <figcaption>Het Vimet Landschap per domein en soort initiatief \</figcaption>
+    <figcaption>Het Vimet Landschap per domein en soort initiatief</figcaption>
 </figure>
 
 **Afkortingen**:  

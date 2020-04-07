@@ -457,3 +457,6 @@ bij
 
 -   Expertise Centrum Warmte:
     [https://expertisecentrumwarmte.nl/kennis/factsheets/](https://expertisecentrumwarmte.nl/kennis/factsheets/default.aspx)
+
+-   Cijfers & Tabellen (versie 2007; aan een herziening wordt gewerkt door ISSO/RVO e.d.):
+    [https://www.rijksoverheid.nl/documenten/brochures/2010/08/23/cijfers-en-tabellen-2007/](https://www.rijksoverheid.nl/documenten/brochures/2010/08/23/cijfers-en-tabellen-2007)

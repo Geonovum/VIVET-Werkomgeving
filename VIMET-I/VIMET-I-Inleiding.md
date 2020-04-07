@@ -21,6 +21,7 @@ niet goed mogelijk is. Uit de voorstudie moet blijken op welke manier de reeds
 bestaande informatie over energie-installaties naar relevante stakeholders
 (besluitvormers, dataspecialisten e.d.) in de energietransitie ontsloten kan
 worden.
+Voor uitgebreidere toelichting van deze contex en VIVET zie [Bijlage 9](#bijlage-9).
 
 ### Verkenning Informatiemodel energie-installaties
 

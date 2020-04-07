@@ -50,8 +50,8 @@ belang en de relatie met beheer en eigendom. Als we die vijf onderdelen met
 elkaar verbinden krijgen we onderstaand overzicht.
 
 <figure id="energie-installaties">
-    <img src="media/b90085e632892b2944e058e974353591.png" alt="">
-    <figcaption>Informatie over energie-installaties gaat over het type product, het type energieproces en kent een aantal basisgegevens: ruimte, tijd en eigendom.</figcaption>
+    <img src="media/informationpointdiagram.png" alt="">
+    <figcaption>*Informatie over energie-installaties gaat over het type product, het type energieproces en kent een aantal basisgegevens: ruimte, tijd en eigendom.*</figcaption>
 </figure>
 
 Op basis van dit diagram is een informatiemodel ontwikkeld.
@@ -78,7 +78,7 @@ conventies van UML toegelicht.
 
 Het model is relatief eenvoudig en is onafhankelijk van de vaak complexe
 structuur van energiesystemen. Een model bestaat uit entiteiten of objecttypen.
-In het diagram aangegeven als \<\<Objecttype\>\>. In het model staat het
+In het diagram aangegeven als \<<Objecttype\>>. In het model staat het
 informatiepunt centraal. Een punt waar je gegevens over vastlegt en opvraagt. In
 dit geval van een energie-installatie. Een informatiepunt heeft 0 of meer
 meetwaardes, in het model aangegeven met de uitgaande pijl. Gegevens zijn
@@ -99,7 +99,7 @@ en NietNatuurlijkPersoon (NHR) verbijzonderingen van Persoon zijn.
 
 <figure id="IMEnergie-installaties">
     <img src="media/IMEnergie-installaties.png" alt="">
-    <figcaption>UML diagram van informatiemodel ‘energie-installaties’. Dit is een startmodel om de denkrichting te bepalen voor doorontwikkeling.</figcaption>
+    <figcaption>*UML diagram van informatiemodel ‘energie-installaties’. Dit is een startmodel om de denkrichting te bepalen voor doorontwikkeling.*</figcaption>
 </figure>
 
 De volgende belangrijkste objecttypen (of kern-entiteiten) worden onderscheiden:
@@ -160,11 +160,11 @@ netbelasting en energiebalancering. Het model ondersteunt ruimtelijke en
 individuele assetselectie en differentiatie op productie, consumptie, conversie,
 opslag en transport.
 
-![](media/8df501b7ccd7ec80b339e25a44a7e064.png)
+![](media/Energiebalans.png)
 
 <figure id="Solar">
     <img src="media/Solar.png" alt="">
-    <figcaption>Twee voorbeelden van informatieverstrekking via ESDL.</figcaption>
+    <figcaption>*Twee voorbeelden van informatieverstrekking via ESDL.*</figcaption>
 </figure>
 
 Van het ESDL-informatiemodel is onderstaand een gesimplificeerde subset
@@ -172,7 +172,7 @@ opgenomen.
 
 <figure id="ESDL_placeholder_objecttypen">
     <img src="media/ESDL_placeholder_objecttypen.png" alt="">
-    <figcaption>Gesimplificeerd UML diagram van informatiemodel ESDL (Energie SystemDescription Language).</figcaption>
+    <figcaption>*Gesimplificeerd UML diagram van informatiemodel ESDL (Energie SystemDescription Language).*</figcaption>
 </figure>
 
 Een EnergySystem bevat (het dichte wybertje) EnergySystemInformation. Hierin
@@ -191,7 +191,7 @@ het startmodel gebracht.
 
 <figure id="IMEnergie_en_ESDL">
     <img src="media/IMEnergie_en_ESDL.png" alt="">
-    <figcaption>ESDL in relatie tot IMEnergie-installaties.</figcaption>
+    <figcaption>*ESDL in relatie tot IMEnergie-installaties.*</figcaption>
 </figure>
 
 ### CIM-Ceres mapping op IMEnergie.
@@ -207,7 +207,7 @@ IMEnergie-installaties.
 
 <figure id="IMEnergy_en_CIM_Ceres">
     <img src="media/IMEnergy_en_CIM_Ceres.png" alt="">
-    <figcaption>CIM_Ceres in relatie tot IMEnergie-installaties.</figcaption>
+    <figcaption>*CIM_Ceres in relatie tot IMEnergie-installaties.*</figcaption>
 </figure>
 
 ### Model Installatieregister mapping op IMEnergie.
@@ -238,18 +238,19 @@ De informatie uit het Installatieregister is zeer gedetailleerd op delen van ass
 De volgende observaties en aanbevelingen komen naar voor uit een eerste
 verkenning naar een informatiemodel.
 
--   De vier gebruikte informatiemodel IMSG, ESDL en CIM-Ceres  zijn op een
+-	Het was inspirerend om de stakeholders uit verschillende toepassingen bij elkaar te brengen en de verschillende domeinen informatietechnisch te verbinden. Oplossingen voor relevante use cases ontstaan door die verbinding.
+
+-   De vier gebruikte informatiemodel IMSG, ESDL, CIM-Ceres en Installatieregister zijn op een
     globaal niveau met elkaar vergelijkbaar. Ze hebben ook overlappende
     usecases.
-	
--	Het model voor Installatieregister bevat operationele detailinformatie van onderdelen van energie-assets achter de aansluiting. Gedetailleerde 		productinformatie van ETIM en SALES zijn of zijn te herleiden tot specificaties over energiehoeveelheden.
+
+-	Het model voor Installatieregister bevat operationele detailinformatie van onderdelen van energie-assets achter de aansluiting. Gedetailleerde 		productinformatie van ETIM en SALES zijn of zijn te herleiden tot specificaties over energiekenmerken zoals specificaties over capaciteit, verbruik etc.
 
 -   Het nu ontwikkelde IMEnergie-installaties is nog zeer globaal maar stuurt de
-    verdere doorontwikkeling van de usecase en de definitie van relevante
-    informatie.
+    verdere ontwikkeling van de usecase. Op basis daarvan wordt weer het informatiemodel doorontwikkeld.
 
 -   De samenhang tussen de betrokken modellen is positief voor het ontwikkelen
-    van een bruikbaar geharmoniseerd model.
+    van een bruikbaar geharmoniseerd model. Verder onderzoek naar informatiedetail moet nog plaatsvinden.
 
 -   Het IMEnergie-installatie zal in de doorontwikkeling naar verwachting
     vervangen worden door delen van het ESDL en/of CIM-Ceres met input van Installatieregister.

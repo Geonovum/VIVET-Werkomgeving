@@ -17,10 +17,11 @@ Zoals in de volgende paragraaf aangegeven is het landschap cross-sectoraal
 scoping van een 'installatieregister concept' moet vraaggestuurd plaatsvinden.
 Daarom was voorzien om aan de hand van usecases met betrokken product owners
 onderdelen van het informatiemodel verder uit te diepen. De volgende usecases
-zijn voorbereid, maar nog niet uitgevoerd.\
-- Case A – Ontsluiten informatie over huidige duurzame productiecapaciteit aan Zon PV uit PIR/Ceres\ 
-- Case B – Casus elektrisch laden Smart Zwolle \
-- Case C – Warmtepompen (Groei warmtepompen en effectmonitoring)\
+zijn voorbereid, maar nog niet uitgevoerd.
+- Case A – Ontsluiten informatie over huidige duurzame productiecapaciteit aan Zon PV uit PIR/Ceres
+- Case B – Casus elektrisch laden Smart Zwolle 
+- Case C – Warmtepompen (Groei warmtepompen en effectmonitoring)
+
 In het VIVET programma 2020 worden de usecases verder uitgewerkt, wat tevens het nu meer generieke model moet invullen
 en specificeren.
 

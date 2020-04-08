@@ -50,8 +50,9 @@ Conclusies
     energiesysteem (netten, grootschalige productie) en de installatiewereld
     (cv-ketels, warmtepompen, elektrische installaties). Ook datasets van
     bijvoorbeeld subsidieverstrekkers maken hier overigens deel van uit, zoals
-    ook beschreven in het ‘zusterproject’ VIVET E1).  
-    De oplossing voor een toegankelijk installatieregister zal gezocht worden in
+    ook beschreven in het ‘zusterproject’ VIVET E1). Koppelvlakken tussen beide werelden lopen via gebouw(pand), adres en fysiek(topografisch) object. Realisatie van deze koppeling is voor een gedeelte te bereiken via brede implementatie van de Basisregistraties BAG en BGT in het energiedomein.
+    
+-	(Informatiemodellering 3) De oplossing voor een toegankelijk installatieregister zal gezocht worden in
     een intelligente mapping van de informatiemodellen die de onderscheiden
     datasets beschrijven. De globale mapping in deze voorstudie zal daartoe
     verder gedetailleerd moeten worden. Voor deze mapping zijn goede

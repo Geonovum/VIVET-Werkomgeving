@@ -11,6 +11,7 @@ Aan de hand van de inventarisatie beschreven in de voorafgaande hoofdstukken en
 een aantal expertsessies is een startmodel gemaakt. Het startmodel is de basis
 voor keuzes voor doorontwikkeling in een volgende fase.
 
+
 ### Informatiemodel Energie-installaties
 
 Het informatiemodel Energie-installaties beschrijft de informatie die je over
@@ -27,7 +28,18 @@ beeld van de informatiebehoefte;
 energiesysteem of energiesystemen. Het is geen model van energiesystemen;
 
 \- het model is ingebed in de Nederlandse informatie architectuur en maakt
-gebruik van bestaande informatiestandaarden en domeinmodellen;
+gebruik van bestaande informatiestandaarden en domeinmodellen.
+
+Bij het ontwikkelen van het model kwamen een aantal vragen naar boven die beantwoord moesten worden. Onderstaand zijn een aspecten opgenomen.
+
+\- In essentie vraagt de use case om informatie over energie data (opslag, productie, verbruik, transport, conversie) op het niveau van een energiesysteem. Een energiesysteem is daabij een schaalbaar begrip: een gebouw, een wijk, een RES, het net van een netbeerder. De schaalbaarheid maakt het nodig dat data op het niveau van individuele assets van belang zijn;
+
+\- Vanuit de netbeheerder bezien is een energiesysteem als het om energie data gaat in abstractie een set van aansluitingen in een netwerk. Moderne energie opwek, opslag en levering maken niet altijd gebruik van het netwerk van netbeheerders. Alleen een aansluiting register geeft daarom geen volledig beeld;
+
+\- Het informatiedetail, wat wil je weten van de assets, is in deze fase moeilijk te bepalen;
+
+\- Vanuit het perspectief van het koppelen van bestaande registraties is er een zoektocht naar gemeenschappelijke kenmerken.
+
 
 #### Het model op hoofdlijnen
 
@@ -247,14 +259,16 @@ verkenning naar een informatiemodel Energie-installaties.
 -	Het model voor Installatieregister bevat operationele detailinformatie van onderdelen van energie-assets achter de aansluiting. Gedetailleerde 		productinformatie van ETIM en SALES zijn of zijn te herleiden tot specificaties over energiekenmerken zoals specificaties over capaciteit, verbruik etc.
 
 -   Het nu ontwikkelde IMEnergie-installaties is nog zeer globaal maar stuurt de
-    verdere ontwikkeling van de usecase. Op basis daarvan wordt weer het informatiemodel doorontwikkeld.
+    verdere ontwikkeling van de usecase. Op basis van verdere detaillering van de use case kan het informatiemodel worden doorontwikkeld.
 
 -   De samenhang tussen de betrokken modellen is positief voor het ontwikkelen
     van een bruikbaar geharmoniseerd model. Verder onderzoek naar informatiedetail moet nog plaatsvinden.
+	
+-	Kandidaat entiteiten en kenmerken, waarmee de informatie uit de verschillende modellen gekoppeld kan worden zijn pand, adres, huisaansluiting en fysiek (topografisch) object. Implementatie van de basisregistraties BAG en BGT in de verschillende modellen en registers zorgt voor een bruikbaar koppelvlak.
 
 -   Het IMEnergie-installatie zal in de doorontwikkeling naar verwachting
     vervangen worden door delen van het ESDL en/of CIM-Ceres met input van Installatieregister.
 
--   In potentie zou ESDL met een harmonisatie richting CIM-Ceres en harmonisatie
+-   In potentie zou ESDL met een harmonisatie richting CIM-Ceres, implemenentatie van BAG en BGT en harmonisatie
     met geo-standaarden een kandidaat kunnen zijn voor een informatiemodel dat
     aan de usecase voldoet.

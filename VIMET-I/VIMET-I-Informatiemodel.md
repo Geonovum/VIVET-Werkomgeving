@@ -36,7 +36,7 @@ Bij het ontwikkelen van het model kwamen een aantal vragen naar boven die beantw
 
 \- Vanuit de netbeheerder bezien is een energiesysteem als het om energie data gaat in abstractie een set van aansluitingen in een netwerk. Moderne energie opwek, opslag en levering maken niet altijd gebruik van het netwerk van netbeheerders. Alleen een aansluiting register geeft daarom geen volledig beeld;
 
-\- Het informatiedetail, wat wil je weten van de assets, is in deze fase moeilijk te bepalen;
+\- Het informatiedetail, wat wil je weten van de assets, is in deze fase moeilijk te bepalen en zal daarom globaal blijven;
 
 \- Vanuit het perspectief van het koppelen van bestaande registraties is er een zoektocht naar gemeenschappelijke kenmerken.
 
@@ -70,7 +70,7 @@ Op basis van dit diagram is een informatiemodel ontwikkeld.
 
 Als start is het informatiemodel voor energiebalancering genomen omdat dit het
 meest globale model is en daarmee het best de eerste globale informatiebehoefte
-en informatiestructuur weergeeft. Informatie-elementen uit ESDL en CIM-Ceres
+en informatiestructuur weergeeft. Informatie-elementen uit ESDL, CIM-Ceres en het model Installatieregister
 zijn hier vervolgens aan gekoppeld. De samenhang tussen de modellen komt daarmee
 in beeld.
 

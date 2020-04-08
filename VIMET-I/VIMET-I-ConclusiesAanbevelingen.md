@@ -12,78 +12,84 @@ Conclusies
     opzetten. Goed gedragen usecases kunnen hier de richting aangeven.
 
 -   (Landschapsverkenning) Op energiegebied en bouw zijn veel digitaliserings-
-    en data initiatieven, ook in relatie tot installaties. Qua governance is
-    samenhang nodig tav Topsector energie thema digitalisering, VIVET,
-    DigiDealGO, CBS, DisGeo, WKB, Klimaat akkoord en energiewet 1.0. Meer
-    concreet is qua informatiekundige samenhang nodig (voor energieinstallaties)
-    tussen de projecten: EAN-BAG koppeling, Datastelsel Utiliteit,
-    InstallatieRegister techniekNL, Digitaal Bouwdosier en unieke object
-    identificatie.
+    en data-initiatieven, ook in relatie tot installaties. Qua governance
+    bestaat weinig samenhang tussen Thema Digitalisering binnen Topsector
+    Energie, VIVET, DigiDealGO, CBS, DiSGeo, WKB, Klimaatakkoord en Energiewet
+    1.0. Meer concreet is informatiekundige samenhang nodig (voor
+    energie0installaties) tussen de projecten: EAN-BAG koppeling, Datastelsel
+    Utiliteit, InstallatieRegister Techniek NL, Digitaal Bouwdossier en unieke
+    object identificatie.
 
--   (Projecten en Kernentiteiten) Belangrijke kernentiteiten als Installatie en
-    Meetwaarde zijn cruciaal voor uitwisseling van data over energieinstallaties
-    en zijn nog niet geborgd in lopende projecten.
+-   (Analyse) VIVET heeft als doel om te werken aan het versnipperde
+    data-landschap in het energiedomein; de versnippering heeft niet alleen
+    betrekking op de datasets, maar ook op de infotools (informatiemodellen,
+    classificaties, e.d.), die vaak niet beschikbaar zijn, slechts betrekking
+    hebben op één dataset en verschillende niveaus van volwassenheid kennen.  
+    Er is behoefte aan generieke infotools die ervoor zorgen dat er één taal
+    gesproken wordt in de verschillende domeinen; de verduurzaming van 8 miljoen
+    panden vraagt daarom. In deze voorstudie zijn een aantal ervan in beeld
+    gebracht; ESDL bijvoorbeeld kan hier een goede bijdrage leveren.
 
--   (Informatiemodelering) Project heeft op basis van de belangrijkste
-    informatiemodellen een globaal model opgeleverd om gegevens op het gebied
-    van energie en energieinstallaties te verbinden. Dit framework is bruikbaar
-    om breder binnen VIVET en de omgeving toe te passen en om te beginnen de
-    VIVET projecten informatie technisch integraal te kunnen ondersteunen.
+-   (Projecten en Kernentiteiten) Belangrijke kernentiteiten als Pand/Gebouw,
+    Installatie en Meetwaarde zijn cruciaal voor uitwisseling van data over
+    energie-installaties en met basisregistraties en zijn nog niet geborgd in
+    lopende projecten.
 
-Aanbevelingen - Besteed veel aandacht om informatiekundige samenhang aan te
-brengen in het geschetste landschap op het gebied van energie, bouw en
-installaties. - Zorg dat er ook de sturing en beheer op de samenhang wordt
-belegd. - Investeer in de ondersteuning van use cases en betrokken stakeholders,
-waardoor de broodnodige vraagsturing en tot stand komt. - Gebruik
-informatiemodelering als middel om VIVET projecten onderling te verbinden en de
-kwaliteit van de informatie te verbeteren en te borgen.
+-   (Informatiemodellering 1) Deze voorstudie heeft op basis van de
+    belangrijkste informatiemodellen een globaal model opgeleverd om gegevens op
+    het gebied van energie en energie-installaties te verbinden. Dit framework
+    is bruikbaar om breder binnen VIVET en de omgeving toe te passen en om te
+    beginnen de VIVET-projecten informatietechnisch integraal te kunnen
+    ondersteunen en daarmee de kwaliteit van de informatie te verbeteren en te
+    borgen.  
+    Besteed veel aandacht om informatiekundige samenhang aan te brengen in het
+    geschetste landschap op het gebied van energie, bouw en installaties.
 
-### C&A Leen
+-   (Informatiemodellering 2) Het domein kan samengevat worden als het verbinden
+    van de werelden ‘vóór de aansluiting’ en ‘achter de aansluiting’, m.a.w. het
+    energiesysteem (netten, grootschalige productie) en de installatiewereld
+    (cv-ketels, warmtepompen, elektrische installaties). Ook datasets van
+    bijvoorbeeld subsidieverstrekkers maken hier overigens deel van uit, zoals
+    ook beschreven in het ‘zusterproject’ VIVET E1).  
+    De oplossing voor een toegankelijk installatieregister zal gezocht worden in
+    een intelligente mapping van de informatiemodellen die de onderscheiden
+    datasets beschrijven. De globale mapping in deze voorstudie zal daartoe
+    verder gedetailleerd moeten worden. Voor deze mapping zijn goede
+    semantiekgerichte technieken beschikbaar en deels al beschikbaar, bijv.
+    beschikbare linked data definities in IEC-CIM (C-AR) en CB-NL.  
+    Hierbij behoort ook het concretiseren van voor de hand liggende
+    verbindingen, zoals het gebruik van BAG-ID als verbinding tussen
+    verschillende datasets en domeinen.
 
-VIVET heeft als doel om te werken aan het versnipperde data-landschap in het
-energiedomein; de versnippering heeft niet alleen betrekking op de datasets,
-maar ook op de infotools (informatiemodellen, classificaties, e.d.), die vaak
-niet beschikbaar zijn, slechts betrekking hebben op één dataset en verschillende
-niveaus van volwassenheid kennen.  
-Er is behoefte aan generieke infotools die ervoor zorgen dat er één taal
-gesproken wordt. ESDL is hiervoor een belangrijke kandidaat.
+-   (Use case) Het bleek niet mogelijk om usecases uit te werken in het kader
+    van deze voorstudie. Het nadenken hierover heeft echter zeker bijgedragen
+    aan het resultaat omdat het de scope heeft bepaald. Het vervolg op deze
+    studie zal gedetailleerder zijn en daarvoor is ondersteuning bij opstellen
+    van een goede usecase noodzakelijk. Gezien de resultaten van deze voorstudie
+    is (o.a. door NP RES en PBL aan te geven) uitbreiding van de informatie voor
+    opstellen van de TransitieVisie Warmte een goede kandidaat.
 
-Er zijn tal van z.g. legacysystemen die niet zonder majeure inspanningen kunnen
-worden aangepast. Om deze toch te verbinden met andere datasets en andere
-domeinen moeten semantische mappingtools ingezet worden.
+-   (Stakeholders) De kennismaking tussen stakeholders van verschillende
+    domeinen (energie, installaties, overheid) verliep zeer open, betrokkenen
+    zagen veel kansen om verbindingen te valoriseren en zijn bereid om in de
+    samenwerking te investeren. Voor wat betreft het energiedomein geldt, dat
+    kennis en ervaringen benut kunnen worden uit de informatievoorziening in de
+    installatiewereld waar veel ervaring is met bijv. internationale
+    standaardisatie en classificatiestelsels. Daarom verdient het aanbeveling om
+    te investeren in duurzame samenwerkingsrelaties.
 
-Enkele kernentiteiten (gebouw, installatie, persoon/bedrijf) komen voor in alle
-domeinen; het is een – waardevolle en haalbare – uitdaging om deze qua semantiek
-te verbinden. Verbinding met de basisregistraties is een stap die met prioriteit
-uitgevoerd moet worden.
-
-De kennismaking tussen stakeholders van verschillende domeinen (energie,
-installaties, overheid) verliep zeer open, betrokkenen zagen veel kansen om
-verbindingen te valoriseren en zijn bereid om in de samenwerking te investeren.
-Voor wat betreft het energiedomein geldt, dat geleerd kan worden van de
-installatiewereld waar veel ervaring is met internationale standaardisatie,
-classificatiestelsels.
-
-Voor de verduurzaming van de gebouwde omgeving (8 mln panden) ligt het voor de
-hand om voor installatie-, bouw en energiesector één taal te gebruiken.
-Infotools als classificaties, taxonomieën en informatiemodellen moeten dan ook
-z.s.m. gedeeld worden.
-
-*Aanbevelingen:*
-
-Zorg voor een intensieve samenwerking tussen partijen in de energie- en
-installatiewereld.
-
-Geef aandacht aan het governance-vraagstuk: acceptatie van standaarden,
-classificatie en informatiemodellen is niet vanzelfsprekend. Daartoe is actieve
-participatie in de in ontwikkeling zijnde afsprakenstelsel en datastelsels van
-groot belang.  
-Leidend tot pas-toe of leg-uit-lijst (à la Forum Standaardisatie)
+-   (Governance) Geef aandacht aan het governance-vraagstuk: acceptatie van
+    standaarden, classificatie en informatiemodellen is niet vanzelfsprekend.
+    Daartoe is actieve participatie in de in ontwikkeling zijnde
+    afsprakenstelsels en datastelsels van groot belang. Zorg dat er ook de
+    sturing en beheer op de samenhang wordt belegd. In dit kader kan gedacht
+    worden aan de ontwikkeling van een pas-toe of leg-uit-lijst (Forum
+    Standaardisatie).
 
 ### C&A Paul
 
-Zie 5.7 https://geonovum.github.io/VIVET-Werkomgeving/VIMET-I/#aanbevelingen-voor-doorontwikkeling
-
+Zie 5.7
+https://geonovum.github.io/VIVET-Werkomgeving/VIMET-I/\#aanbevelingen-voor-doorontwikkeling
 
 ### C&A Gineke
 

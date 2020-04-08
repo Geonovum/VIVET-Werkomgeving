@@ -30,11 +30,11 @@ energiesysteem of energiesystemen. Het is geen model van energiesystemen;
 \- het model is ingebed in de Nederlandse informatie architectuur en maakt
 gebruik van bestaande informatiestandaarden en domeinmodellen.
 
-Bij het ontwikkelen van het model kwamen een aantal vragen naar boven die beantwoord moesten worden. Onderstaand zijn een aspecten opgenomen.
+Bij het ontwikkelen van het model kwamen een aantal vragen naar boven die beantwoord moesten worden. Onderstaand zijn een aantal aspecten met betrekking tot die vragen opgenomen.
 
 \- In essentie vraagt de use case om informatie over energie data (opslag, productie, verbruik, transport, conversie) op het niveau van een energiesysteem. Een energiesysteem is daabij een schaalbaar begrip: een gebouw, een wijk, een RES, het net van een netbeerder. De schaalbaarheid maakt het nodig dat data op het niveau van individuele assets van belang zijn;
 
-\- Vanuit de netbeheerder bezien is een energiesysteem als het om energie data gaat in abstractie een set van aansluitingen in een netwerk. Moderne energie opwek, opslag en levering maken niet altijd gebruik van het netwerk van netbeheerders. Alleen een aansluiting register geeft daarom geen volledig beeld;
+\- Vanuit de netbeheerder bezien is een energiesysteem als het om energie data gaat in abstractie een set van aansluitingen in een netwerk. Moderne energie opwek, opslag en levering maken niet altijd gebruik van het netwerk van netbeheerders. Gegevens uit alleen een aansluitingregister geven daarom geen volledig beeld;
 
 \- Het informatiedetail, wat wil je weten van de assets, is in deze fase moeilijk te bepalen en zal daarom globaal blijven;
 
@@ -264,10 +264,10 @@ verkenning naar een informatiemodel Energie-installaties.
 -   De samenhang tussen de betrokken modellen is positief voor het ontwikkelen
     van een bruikbaar geharmoniseerd model. Verder onderzoek naar informatiedetail moet nog plaatsvinden.
 	
--	Kandidaat entiteiten en kenmerken, waarmee de informatie uit de verschillende modellen gekoppeld kan worden zijn pand, adres, huisaansluiting en fysiek (topografisch) object. Implementatie van de basisregistraties BAG en BGT in de verschillende modellen en registers zorgt voor een bruikbaar koppelvlak.
+-	Kandidaat entiteiten en kenmerken waarmee de informatie uit de verschillende modellen gekoppeld kan worden zijn pand, adres, huisaansluiting en fysiek (topografisch) object. Implementatie van de basisregistraties BAG en BGT in de verschillende modellen en registers zorgt voor een bruikbaar koppelvlak.
 
 -   Het IMEnergie-installatie zal in de doorontwikkeling naar verwachting
-    vervangen worden door delen van het ESDL en/of CIM-Ceres met input van Installatieregister.
+    vervangen worden door delen van het ESDL en/of CIM-Ceres met input van het model voor het Installatieregister.
 
 -   In potentie zou ESDL met een harmonisatie richting CIM-Ceres, implemenentatie van BAG en BGT en harmonisatie
     met geo-standaarden een kandidaat kunnen zijn voor een informatiemodel dat

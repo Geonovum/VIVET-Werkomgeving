@@ -172,8 +172,7 @@ verslaggeving).
 | Energie Management Systemen (Netbeheerders)               | IEC CIM of proprietary  |                                                                                                                                                                                                 |                               |                              |                   |
 | Stookinstallaties (SCIOS)                                 |                         |                                                                                                                                                                                                 |                               |                              |                   |
 | Installatieregister (Techniek NL; zie schema Bijlage 7)   |                         | ETIM, NL-SfB, FGO Onderhoud                                                                                                                                                                     | Beheerd door Techniek NL      |                              |                   |
-| Keuringenregisters: OK-CV, OK-WP? Airco                   |                         | ETIM?                                                                                                                                                                                           | OK-CV, OK-WP                  |                              |                   |
-| (zie schema Bijlage 7)                                    |                         |                                                                                                                                                                                                 |                               |                              |                   |
+| Keuringenregisters: OK-CV, OK-WP, Airco, zie schema Bijlage 7)|                         | ETIM?                                                                                                                                                                                           | OK-CV, OK-WP                  |                              |                   |
 | **Toepassingen / deelverzamelingen energie-installaties** |                         |                                                                                                                                                                                                 |                               |                              |                   |
 | CBS-Datasets: LIV, …                                      | IMVG (BAG,WOZ,HR,BRP)   |                                                                                                                                                                                                 |                               |                              |                   |
 | Rijksvastgoed aansluitingen (RVB, RWS)                    |                         |                                                                                                                                                                                                 |                               |                              | Relatie met C-AR? |
@@ -233,8 +232,9 @@ beschrijving van meerdere datasets. De implicatie hiervan is dat er niet op
 eenvoudige wijze een relatie gelegd kan worden tussen de verschillende datasets.
 In het volgende hoofdstuk van dit rapport zal een eerste aanzet worden gegeven
 tot een mapping tussen verschillende informatiemodellen.
+NB: IMIR = Informatiemodel toekomstig InstallatieRegister Techniek NL
 
-| **Generieke datasets**                                    | **CIM**          | **IMKL** | **ESDL** | **ETIM** | **CB-NL** | **Overige**     |
+| **Generieke datasets**                                    | **CIM**          | **IMKL** | **ESDL** | **IMIR** | **CB-NL** | **Overige**     |
 |-----------------------------------------------------------|------------------|----------|----------|----------|-----------|-----------------|
 | **Basisregistraties:**                                    |                  |          |          |          |           |                 |
 | BAG                                                       |                  |          |          |          |           | IMGEO, IMBAG    |
@@ -244,17 +244,15 @@ tot een mapping tussen verschillende informatiemodellen.
 | BRO                                                       |                  |          |          |          |           | IMBOR           |
 | **Databronnen energie-installaties**                      |                  |          |          |          |           |                 |
 | Aansluitingen (C-AR, EDSN)                                | CIM geinspireerd |          |          |          |           |                 |
-| Kabels en Leidingen (Assetmanagement Netbeheerders)       |                  |          |          |          |           |                 |
+| Kabels en Leidingen (Assetmanagement Netbeheerders)       |                  | X        |          |          |           |                 |
 | Landelijke voorziening kabels en leidingeninformatie      |                  | X        |          |          |           |                 |
 | Meters(Netbeh., meetbedr.)??                              |                  |          |          |          |           |                 |
 | CERES/PIR(EDSN)                                           | X                |          |          |          |           |                 |
 | Laadpalen (eco-movement)                                  |                  |          |          |          |           |                 |
 | Energie Management Systemen (Netbeheerders)               |                  |          |          |          |           |                 |
 | Stookinstallaties (SCIOS)                                 |                  |          |          |          |           |                 |
-| Installatieregister?                                      |                  |          |          | X        |           | NL-Sfb?         |
-| (zie schema Bijlage7)                                     |                  |          |          |          |           |                 |
-| Keuringenregisters: OK-CV, OK-WP? Airco                   |                  |          |          |          |           |                 |
-| (zie schema Bijlage 7)                                    |                  |          |          |          |           |                 |
+| Installatieregister (zie schema Bijlage 7)                |                  |          |          | X        |           |          |
+| Keuringenregisters: OK-CV, OK-WP, Airco (zie schema Bijlage 7)|                  |          |          | X        |           |                 |
 | **Toepassingen / deelverzamelingen energie-installaties** |                  |          |          |          |           |                 |
 | CBS-Datasets                                              |                  |          |          |          |           |                 |
 | LIV                                                       |                  |          |          |          |           |                 |

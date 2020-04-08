@@ -85,7 +85,7 @@ Conclusies
     afsprakenstelsels en datastelsels van groot belang. Zorg dat er ook
     sturing en beheer op de samenhang van standaarden wordt belegd. In dit kader kan gedacht
     worden aan de publicatie van ontwikkelde standaarden op de overheidslijst van open-standaarden ([Forum
-    Standaardisatie: pas-toe of leg-uit-lijst] (https://www.forumstandaardisatie.nl/open-standaarden))
+    Standaardisatie: pas-toe of leg-uit-lijst](https://www.forumstandaardisatie.nl/open-standaarden))
 
 ### C&A Paul
 

@@ -6,21 +6,51 @@
 
 **Indeling naar typen standaarden: Uitwisseling / Semantiek / Proces**
 
-![](media/b312b45581564534dcd1f1f199ae2871.png)
+<!-- ![](media/b312b45581564534dcd1f1f199ae2871.png) -->
+
+<figure id="indelingnaartypenstandaarden">
+    <img src="media/b312b45581564534dcd1f1f199ae2871.png" alt="">
+    <figcaption>Indeling naar typen standaarden</figcaption>
+</figure>
+
+
 
 **Indeling naar fasen in het (digitale) bouwproces**
 
-![](media/2bb9084ac0bd25f50900a687f793d5eb.png)
+<!-- ![](media/2bb9084ac0bd25f50900a687f793d5eb.png) -->
+
+<figure id="indelingnaarfasen">
+    <img src="media/2bb9084ac0bd25f50900a687f793d5eb.png" alt="">
+    <figcaption>Indeling naar fasen</figcaption>
+</figure>
+
+
 
 **Toepasbaarheid in sectoren**
 
 Sectoren: Burgerlijke en Utiliteitsbouw / Grond, Weg en Waterbouw, Geo-domein)
 
-![](media/d6d2dcebfd6f0a1655b4ca8a168890f6.png)
+<!-- ![](media/d6d2dcebfd6f0a1655b4ca8a168890f6.png) -->
+
+<figure id="toepasbaarheidinsectoren">
+    <img src="media/d6d2dcebfd6f0a1655b4ca8a168890f6.png" alt="">
+    <figcaption>Toepasbaarheid in sectoren</figcaption>
+</figure>
+
+
+
 
 **Soorten afspraken over informatie**
 
-![](media/cbb88545424412018f64eb82d4536490.png)
+<!-- ![](media/cbb88545424412018f64eb82d4536490.png) -->
+
+<figure id="soortenafsprakenoverinformatie">
+    <img src="media/cbb88545424412018f64eb82d4536490.png" alt="">
+    <figcaption>Soorten afspraken over informatie</figcaption>
+</figure>
+
+
+
 
 ### Bijlage 2
 
@@ -28,17 +58,42 @@ Sectoren: Burgerlijke en Utiliteitsbouw / Grond, Weg en Waterbouw, Geo-domein)
 
 **Samenwerkingsverbanden**
 
-![](media/3a5a95468fc4b87c8bf60c90ff65071d.png)
+<!-- ![](media/3a5a95468fc4b87c8bf60c90ff65071d.png) -->
+
+<figure id="samenwerkingsverbanden">
+    <img src="media/3a5a95468fc4b87c8bf60c90ff65071d.png" alt="">
+    <figcaption>Samenwerkingsverbanden</figcaption>
+</figure>
+
+
+
 
 **Kern: gegevens en toepassingen scheiden**
 
-![](media/13deca386095b552f9ba632c5f962a82.png)
+<!-- ![](media/13deca386095b552f9ba632c5f962a82.png) -->
+
+<figure id="Kerngegevensentoepassingenscheiden">
+    <img src="media/13deca386095b552f9ba632c5f962a82.png" alt="">
+    <figcaption>Kern: gegevens en toepassingen scheiden</figcaption>
+</figure>
+
+
+
+
 
 **Bouwstenen**
 
 ![](media/869adb654d0e8259190ae45b5f720e4a.png)
 
-![](media/30ca9a4ac6cbf552e700fa06050b8df1.png)
+<!-- ![](media/30ca9a4ac6cbf552e700fa06050b8df1.png) -->
+
+<figure id="Bouwstenen">
+    <img src="media/30ca9a4ac6cbf552e700fa06050b8df1.png" alt="">
+    <figcaption>Bouwstenen</figcaption>
+</figure>
+
+
+
 
 **Afsprakenstelsel in energiesector**
 
@@ -54,7 +109,13 @@ Sheet 4:
 
 Sheet 27:
 
-![](media/ca96bb2087c193e0475fa7034b35a983.png)
+<!-- ![](media/ca96bb2087c193e0475fa7034b35a983.png) -->
+
+<figure id="afsprakenstelselenergiesector">
+    <img src="media/ca96bb2087c193e0475fa7034b35a983.png" alt="">
+    <figcaption>Afsprakenstelsel in energiesector</figcaption>
+</figure>
+
 
 ### Bijlage 3
 
@@ -62,11 +123,25 @@ Sheet 27:
 
 **Illustratie van beschrijving van een energiesysteem met ESDL-componenten:**
 
-![](media/e15b877ddcc800cfcf78e845d3aec0a6.png)
+<!-- ![](media/e15b877ddcc800cfcf78e845d3aec0a6.png) -->
+
+<figure id="energiesysteemmetESDLcomponenten">
+    <img src="media/e15b877ddcc800cfcf78e845d3aec0a6.png" alt="">
+    <figcaption>Beschrijving van een energiesysteem met ESDL-componenten</figcaption>
+</figure>
+
+
+
 
 **Illustratie van gebruik van ESDL in een concrete toepassing:**
 
-![](media/4ff8ae5847f28ffe46f22ad2196d7eaf.png)
+<!-- ![](media/4ff8ae5847f28ffe46f22ad2196d7eaf.png) -->
+
+<figure id="ESDLineenconcretetoepassing">
+    <img src="media/4ff8ae5847f28ffe46f22ad2196d7eaf.png" alt="">
+    <figcaption>Gebruik van ESDL in een concrete toepassing</figcaption>
+</figure>
+
 
 NB: In Bijlage 4 is een tabel opgenomen met het aantal voorkomens van de
 verschillende energiecapabilities (production, consumption, etc.) dat
@@ -74,9 +149,24 @@ resulteerde uit de behoefte-analyse van 49 brondocumenten.
 
 **Standaarden energiedomein**
 
-![](media/92194bb47a3bdbe6ea1c2cfdeb6f597f.png)
+<!-- ![](media/92194bb47a3bdbe6ea1c2cfdeb6f597f.png) -->
 
-![](media/c2d313301334085c41c5656212dbaad9.png)
+<figure id="standaardenenergiedomein">
+    <img src="media/92194bb47a3bdbe6ea1c2cfdeb6f597f.png" alt="">
+    <figcaption>Standaarden energiedomein</figcaption>
+</figure>
+
+
+
+<!-- ![](media/c2d313301334085c41c5656212dbaad9.png) -->
+
+<figure id="standaardenenergienetwerken">
+    <img src="media/c2d313301334085c41c5656212dbaad9.png" alt="">
+    <figcaption>Standaarden energie netwerken</figcaption>
+</figure>
+
+
+
 
 ### Bijlage 4
 

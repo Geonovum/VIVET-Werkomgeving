@@ -50,8 +50,9 @@ Conclusies
     energiesysteem (netten, grootschalige productie) en de installatiewereld
     (cv-ketels, warmtepompen, elektrische installaties). Ook datasets van
     bijvoorbeeld subsidieverstrekkers maken hier overigens deel van uit, zoals
-    ook beschreven in het ‘zusterproject’ VIVET E1).  
-    De oplossing voor een toegankelijk installatieregister zal gezocht worden in
+    ook beschreven in het ‘zusterproject’ VIVET E1). Koppelvlakken tussen beide werelden lopen via gebouw(pand), adres en fysiek(topografisch) object. Realisatie van deze koppeling is voor een gedeelte te bereiken via brede implementatie van de Basisregistraties BAG en BGT in het energiedomein.
+    
+-	(Informatiemodellering 3) De oplossing voor een toegankelijk installatieregister zal gezocht worden in
     een intelligente mapping van de informatiemodellen die de onderscheiden
     datasets beschrijven. De globale mapping in deze voorstudie zal daartoe
     verder gedetailleerd moeten worden. Voor deze mapping zijn goede
@@ -81,10 +82,10 @@ Conclusies
 -   (Governance) Geef aandacht aan het governance-vraagstuk: acceptatie van
     standaarden, classificatie en informatiemodellen is niet vanzelfsprekend.
     Daartoe is actieve participatie in de in ontwikkeling zijnde
-    afsprakenstelsels en datastelsels van groot belang. Zorg dat er ook de
-    sturing en beheer op de samenhang wordt belegd. In dit kader kan gedacht
-    worden aan de ontwikkeling van een pas-toe of leg-uit-lijst (Forum
-    Standaardisatie).
+    afsprakenstelsels en datastelsels van groot belang. Zorg dat er ook
+    sturing en beheer op de samenhang van standaarden wordt belegd. In dit kader kan gedacht
+    worden aan de publicatie van ontwikkelde standaarden op de overheidslijst van open-standaarden ([Forum
+    Standaardisatie: pas-toe of leg-uit-lijst](https://www.forumstandaardisatie.nl/open-standaarden))
 
 ### C&A Paul
 

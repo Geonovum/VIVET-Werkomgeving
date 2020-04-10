@@ -48,15 +48,18 @@ worden. Daartoe zal Geonovum de volgende resultaten opleveren.
 
 In de gesprekken over de opdracht is een aantal organisaties genoemd die worden
 betrokken bij de voorstudie: TNO, RVO, Netbeheer Nederland, EDSN, Expertgroep
-EnergieTransitieRekenmodellen (EG ETRM), en partners binnen VIVET. Voorts wordt
+EnergieTransitieRekenmodellen (EG ETRM), Techniek Nederland en partners binnen VIVET. Voorts wordt
 voorgesteld om voort te bouwen op bestaande informatiemodellen en systemen voor
 installaties, zoals ESDL, Cerise, CERES, PIR, INSPIRE, en de Basisregistraties.
+zie voor de lijst met deelnemers [Bijlage 8](#bijlage-8)
 
 #### Aanpak
 
-De aanpak bestaat uit deskresearch van bestaande modellen, overleg met
+Als aanpak is gekozen voor de volgende werkwijze: deskresearch van bestaande modellen, overleg met
 kennisdragers en stakeholders, en het realiseren van een concept informatiemodel
-voor een PoC-energie-installaties. Concreet denken we aan de volgende stappen.
+voor een PoC-energie-installaties.  
+
+Hieronder het stappenplan:
 
 1.  Voorgesprekken en kick-off meeting met opdrachtgever en stakeholders
 
@@ -92,6 +95,10 @@ voor een PoC-energie-installaties. Concreet denken we aan de volgende stappen.
     informatiemodel waarmee informatie voor energie-installaties kan worden
     verzameld, beheerd en uitgewisseld.
 
+<div class="note">
+    Deze versie is het resultaat van de stappen 1 t/m 4. De consultatie zal in digitale vorm gebeuren, daarna volgt het definitieve eindrapport 
+</div>
+
 Doelgroep
 ---------
 
@@ -103,24 +110,28 @@ informatievoorziening.
 Leeswijzer
 ----------
 
-\@\@ op het laatst nog een check of onderstaande klopt (plek van samenvatting)
-
 Na deze inleiding bevat dit rapport achtereenvolgens een beschrijving van het
 landschap met registraties van energie-installaties, zowel qua datasets als
 gehanteerde informatietooling (informatiemodellen, classificaties e.d.).
 
 Deze beschrijving is vervolgens gestructureerd door de geïnventariseerde
-datasets te verbinden met de aanwezige informatietooling.
+datasets te verbinden met de aanwezige informatietooling. Het resultaat staat in het hoofdstuk ['Analyse'](#analyse)
 
-In het hoofdstuk ‘Informatiemodellen’ is een eerste stap gemaakt naar het
+In het hoofdstuk ['Informatiemodellen'](#informatiemodel) is een eerste stap gemaakt naar het
 verbinden van datasets door enkele kernentiteiten in de gebruikte
 informatiemodellen op elkaar te mappen.
 
 De bevindingen van deze voorstudie hebben geleid tot een aantal conclusies en
-aanbevelingen voor het vervolg die zijn opgenomen in het laatste hoofdstuk.
+aanbevelingen voor het vervolg die zijn opgenomen in het [laatste hoofdstuk](#conclusies-en-aanbevelingen).
 
 Gedurende dit onderzoek is veel informatie verzameld, die is vastgelegd in de
 bijlagen bij dit rapport.
 
 Management samenvatting
 -----------------------
+
+Tijdens dit onderzoek is duidelijk geworden dat er behoefte is aan het kunnen koppelen van data 'voor de meter' en 'achter de meter', en deze koppeling te laten verlopen via de reeds bestaande basisregistratie(s). Concreet gezegd zou het opnemen van een Uniek (BAG of BGT) ID in de verschillende registraties de basis leggen voor diverse informatieproducten binnen het thema 'energietransitie'. Data is data van de installaties zelf, maar ook meet-data over verbruik, levering, opslag, conversie en transport van energie. Als deze data komt samen in een 'informatiepunt' dat is gekoppeld aan de Basisregisters.
+
+Het opnemen van zo'n uniek ID klinkt eenvoudig, maar is dat niet. Er moet tussen veel partijen overlegd worden over de concrete invulling daarvan, en de implementatie heeft impact op alle bestaande registraties en applicaties die nu nog niet zo'n ID hebben. Aan de andere kant is het mooi dat er al zoveel geregistreerd wordt: hierdoor kan een vliegende start worden gemaakt.
+
+Het hebben van goede use-cases helpt bij het definieren van de voor de energietransitie benodigde informatieproducten. Het blijkt lastig om die goede uses-cases te bepalen. De verwachting is dat er de komende tijd meer usescases helder zullen worden.   

@@ -1,13 +1,12 @@
 ## Analyse
 
-Zoals aangegeven in hoofdstuk 1 kan het karakter van dit onderzoek worden
+Zoals aangegeven in de [inleiding](#inleiding) kan het karakter van dit onderzoek worden
 gekenschetst als een landschapsverkenning/omgevingsanalyse en veel minder als
 een ontwerpproces. Door het voortschrijdend inzicht zijn bepaalde elementen
 weggelaten (zoals scoping door usecases) of juist uitgebreid (zoals
 afsprakenstelsels, relevante projecten en stakeholder analyse).
 
-Aan een deel van de inventarisatie van losse elementen die in de
-landschapsverkenning heeft plaatsgevonden, is tijdens de analyse structuur
+Aan een deel van de inventarisatie van losse elementen die in de [landschapsverkenning](#landschapsverkenning) heeft plaatsgevonden, is tijdens de analyse structuur
 gegeven, wat de basis is voor analyse en aanbevelingen.
 
 ### Scope van installaties
@@ -112,7 +111,7 @@ Digitaal Gebouwdossier = BZK project met usecases consumentendossier, dossier
 bevoegd gezag, het vernieuwde energielabel en het platform verbeterjehuis.nl
 voor ogen.
 
-#### Infotooling
+#### Infotools
 
 Het voorgaande hoofdstuk – Landschapsverkenning – bevat een inventarisatie van
 de infotools die zijn aangetroffen in de relevantie domeinen:
@@ -129,8 +128,7 @@ informatiemodellen, en tussen datasets en kernentiteiten weergegeven. Tenslotte
 wordt nog een overzicht gegeven van welke projecten betrekking hebben op welke
 kernentiteiten.
 
-De kernentiteiten staan vervolgens centraal in het volgende hoofdstuk
-‘Informatiemodel’.
+De kernentiteiten staan vervolgens centraal in het volgende hoofdstuk [‘Informatiemodel’](#informatiemodel).
 
 #### Tabel Datasets en Infotools
 
@@ -187,11 +185,11 @@ verslaggeving).
 | E-MJV (milieu-jaar-verslagen) (RIVM)                      |                         | Lijst energiedragers RVO - IPCC https://www.e-mjv.nl/onderwerpen/rie-en-ippc en https://www.infomil.nl/onderwerpen/duurzaamheid-energie/beste-beschikbare/bbt/wettelijk-aangewezen/             |                               | E-PRTR                       |                   |
 | Energie-audit EED (RVO)                                   |                         | RVO EML( Erkende Maatregel Lijst) https://www.rvo.nl/onderwerpen/duurzaam-ondernemen/energie-besparen/informatieplicht-energiebesparing/bedrijven-en-instellingen/erkende-maatregelenlijsten    |                               |                              |                   |
 
-**Beschreven met informatiemodel …** (CIM, IFC, COINS, IM-SG, IM-KL)  
-**Productclassificatie Bouw- en installatie** (NL-SfB, ETIM, FGO, Productdata,
-UOB, CB-NL, Stabu, BS&I)  
-**Standaarden/normen...** (Sales Unifeed berichtenset, NEN 2660, Lijst
-energiedragers, ..)
+<div class='note'>
+    **Beschreven met informatiemodel …** (CIM, IFC, COINS, IM-SG, IM-KL)  
+    **Productclassificatie Bouw- en installatie** (NL-SfB, ETIM, FGO, Productdata, UOB, CB-NL, Stabu, BS&I)  
+    **Standaarden/normen...** (Sales Unifeed berichtenset, NEN 2660, Lijst energiedragers, ..)
+</div>
 
 #### Tabel Datasets en Informatiemodellen
 
@@ -377,12 +375,8 @@ nuttig zijn bij de verdere uitwerking naar een IMEnergie.
 
 De ACM (Autoriteit Consument en Markt)is een andere bron in het warmtedomein.
 ACM vraagt veel informatie op van warmtebedrijven voor handhaving
-reguleringsregime. Dit is uitgewerkt in bijv. het Warmtebesluit
-(<https://wetten.overheid.nl/BWBR0033940/2020-01-01>), waarin gespecificeerd is
-over welke temperatuur- en aansluitcategorieën de warmtebedrijven moeten
-rapporteren. Ook in het Tarievenbesluit Warmte is veel te vinden over de
-informatie-uitvraag door ACM:
-<https://www.acm.nl/sites/default/files/documents/2019-12/tarievenbesluit-warmteleveranciers-2020.pdf>.
+reguleringsregime. Dit is uitgewerkt in bijv. het [Warmtebesluit](https://wetten.overheid.nl/BWBR0033940/2020-01-01), waarin gespecificeerd is over welke temperatuur- en aansluitcategorieën de warmtebedrijven moeten
+rapporteren. Ook in het Tarievenbesluit Warmte is veel te vinden over de [informatie-uitvraag door ACM](https://www.acm.nl/sites/default/files/documents/2019-12/tarievenbesluit-warmteleveranciers-2020.pdf).
 
 Deze classificaties kunnen dienen bij de informatiemodellering van
 warmte-installaties. Dit is overigens een dynamisch veld, omdat de regulering
@@ -433,9 +427,7 @@ gebruikt in verschillende processen in het energiesysteem.
 In verband met sterk toenemende situaties waarin invoeding in het net
 plaatsvindt, is besloten om het SJV om te dopen in Standaardjaarafname (SJA) en
 daarnaast het concept Standaardjaarinvoering in te voeren. E.e.a. is uitgebreid
-beschreven in de brief van ACM ‘[Codewijzigingsvoorstel tot invoering van
-standaardjaarinvoeding
-en-afname](https://www.acm.nl/nl/publicaties/codewijzigingsvoorstel-tot-invoering-van-standaardjaarinvoeding-en-afname)’.
+beschreven in de brief van ACM ‘[Codewijzigingsvoorstel tot invoering van standaardjaarinvoedingen-afname](https://www.acm.nl/nl/publicaties/codewijzigingsvoorstel-tot-invoering-van-standaardjaarinvoeding-en-afname)’.
 
 Waarom is dit interessant? Omdat de codes (Netcode, Informatiecode, etc.)
 centraal staan in de praktische uitwerking van de regelgeving in het
@@ -454,13 +446,11 @@ installatie-installaties die verschillende organisaties opstellen. Factsheets
 beschrijven de eigenschappen van energie-installaties en zijn bijv. te vinden
 bij
 
--   TNO:
-    [https://energy.nl](https://energy.nl/en/search/?fwp_content_type=factsheets&fwp_paged=2)
+-   TNO: (https://energy.nl/en/search/?fwp_content_type=factsheets&fwp_paged=2)
 
--   CE Delft: <https://www.ce.nl/warmtetechnieken>
+-   CE Delft: (https://www.ce.nl/warmtetechnieken)
 
--   Expertise Centrum Warmte:
-    [https://expertisecentrumwarmte.nl/kennis/factsheets/](https://expertisecentrumwarmte.nl/kennis/factsheets/default.aspx)
+-   Expertise Centrum Warmte: (https://expertisecentrumwarmte.nl/kennis/factsheets/default.aspx)
 
 -   Cijfers & Tabellen (versie 2007; aan een herziening wordt gewerkt door ISSO/RVO e.d.):
-    [https://www.rijksoverheid.nl/documenten/brochures/2010/08/23/cijfers-en-tabellen-2007/](https://www.rijksoverheid.nl/documenten/brochures/2010/08/23/cijfers-en-tabellen-2007)
+    (https://www.rijksoverheid.nl/documenten/brochures/2010/08/23/cijfers-en-tabellen-2007)

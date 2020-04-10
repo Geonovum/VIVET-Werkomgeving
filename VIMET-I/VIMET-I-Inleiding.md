@@ -130,8 +130,11 @@ bijlagen bij dit rapport.
 Management samenvatting
 -----------------------
 
-Tijdens dit onderzoek is duidelijk geworden dat er behoefte is aan het kunnen koppelen van data 'voor de meter' en 'achter de meter', en deze koppeling te laten verlopen via de reeds bestaande basisregistratie(s). Concreet gezegd zou het opnemen van een Uniek (BAG of BGT) ID in de verschillende registraties de basis leggen voor diverse informatieproducten binnen het thema 'energietransitie'. Data is data van de installaties zelf, maar ook meet-data over verbruik, levering, opslag, conversie en transport van energie. Als deze data komt samen in een 'informatiepunt' dat is gekoppeld aan de Basisregisters.
+Tijdens dit onderzoek is duidelijk geworden dat er behoefte is aan het kunnen koppelen van data 'voor de meter' en 'achter de meter', en deze koppeling te laten verlopen via de reeds bestaande basisregistratie(s). Concreet gezegd zou het opnemen van een Uniek (BAG of BGT) ID in de verschillende registraties een goede basis leggen voor diverse informatieproducten binnen het thema 'energietransitie'. De Data is data van de installaties zelf, maar ook meet-data over verbruik, levering, opslag, conversie en transport van energie. Al deze data komt samen in een 'informatiepunt' dat is gekoppeld aan de Basisregisters.
 
 Het opnemen van zo'n uniek ID klinkt eenvoudig, maar is dat niet. Er moet tussen veel partijen overlegd worden over de concrete invulling daarvan, en de implementatie heeft impact op alle bestaande registraties en applicaties die nu nog niet zo'n ID hebben. Aan de andere kant is het mooi dat er al zoveel geregistreerd wordt: hierdoor kan een vliegende start worden gemaakt.
 
-Het hebben van goede use-cases helpt bij het definieren van de voor de energietransitie benodigde informatieproducten. Het blijkt lastig om die goede uses-cases te bepalen. De verwachting is dat er de komende tijd meer usescases helder zullen worden.   
+Het hebben van goede use-cases helpt bij het definieren van de voor de energietransitie benodigde informatieproducten. Het blijkt lastig om die goede uses-cases te bepalen. De verwachting is dat er de komende tijd meer usescases helder zullen worden.
+
+Omdat de acceptatie van standaarden, classificatie en informatiemodellen niet vanzelfsprekend is, is sturing en beheer op de samenhang van standaarden belangrijk, en meot worden belegd. In dit kader kan gedacht worden aan de publicatie
+van ontwikkelde standaarden op de overheidslijst van open-standaarden

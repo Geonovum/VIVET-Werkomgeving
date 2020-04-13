@@ -2,15 +2,14 @@
 
 ### Inleiding
 
-Kennis over energie-installaties is van belang voor de energie-installaties. In
+Kennis over energie-installaties is van belang voor de energietransitie. In
 het huidige energiedomein zijn de energienetten een centrale component en daarom
 wordt vaak gesproken in termen van vóór en achter de meter, resp. de wereld van
 netbeheerders en de wereld van de apparaten die energie invoeden op of afnemen
 van het netwerk. Het netwerk maakt het mogelijk dat er een energiemarkt bestaat
 waar energieleveranciers zorgen dat de energie die zij inkopen weer verkocht
 wordt en dat afnemers een leverancier of producent kunnen kiezen. De apparaten
-die verbonden zijn aan het netwerk, staan vaak opgesteld in gebouwen, en hebben
-in ieder geval een locatie.
+die verbonden zijn aan het netwerk - dat is wat we in deze verkenning verstaan onder 'energie-installatie' - staan vaak opgesteld in gebouwen, en hebben in ieder geval een locatie. 
 
 Ziehier het speelveld: het energiedomein, de bouw- en installatiewereld en de
 basisregistraties (denk aan de BAG). Domeinen waarin veel partijen affiniteit
@@ -18,9 +17,9 @@ hebben met de energietransitie. Domeinen die omvangrijk zijn, in toenemende mate
 internationaal georiënteerd en met complexe informatievraagstukken.
 
 Dit document is een aanzet tot ordening van wat er in die domeinen gebeurt op
-het gebied van afsprakenstelsels / projecten / data / standaarden /
+het gebied van 'infotools' in het bijzonder afsprakenstelsels / projecten / data / standaarden /
 informatiemodellen / taxonomieën, daar waar een verbinding bestaat met
-installaties in het energiedomein.
+installaties in het energiedomein. 
 
 De afbakening en inventarisatie is gebaseerd op ‘common sense’ en op kennis die
 in de context van VIVET is opgedaan en opgehaald. De eerste aanzet tot dit
@@ -76,26 +75,20 @@ Zie ook [Bijlage 8](#bijlage-8) voor een overzicht van de betrokkenen bij deze v
 
 #### Afsprakenstelsels
 
-De overheid is actief op het gebied van digitalisering ([NL DIGIbeter](https://www.digitaleoverheid.nl/nldigibeter/),
-[NL Digitaal](https://www.rijksoverheid.nl/onderwerpen/digitale-overheid/nieuws/2019/03/21/nederland-digitaal-afspraken-voor-betere-samenwerking-digitalisering)).
-Hierin is ook opgenomen een deze zomer op te stellen
-[standaardisatieagenda](https://www.digitaleoverheid.nl/actielijn/standaardisatieagenda/).
-In de [Nederlandse Digitaliseringsstrategie](https://www.rijksoverheid.nl/documenten/rapporten/2018/06/01/nederlandse-digitaliseringsstrategie)
-worden cross-sectorale afsprakenstelsels verkend.
 
 Een afsprakenstelsel is een geschikte infrastructuur voor het op de juiste
 schaal *gestructureerd datadelen*; is doorgaans opgebouwd uit een aantal
 bouwstenen en kent een sectorale focus en verbinding met andere domeinen.
-Datadeel-initiatieven worden bij voorkeur ontwikkeld per sector, maar wel
+Afsprakenstelsels worden bij voorkeur ontwikkeld per sector, maar wel
 zodanig dat je ze kunt verbinden met andere sectoren omdat dit nieuwe usecases
-oplevert, bijv. Energie & Bouw/Installatie, Energie en Mobiliteit. Er wordt dan
-ook wel gesproken over een datastelsel zoals uitgewerkt in het rapport over
-datadeel-initiatieven voor de MKB [rapport Generiek afsprakenstelsel voor
-datadeelinitiatieven als basis van de [digitale economie](https://www.rijksoverheid.nl/documenten/rapporten/2018/12/30/generiek-afsprakenstelsel-voor-datadeelinitiatieven-als-basis-van-de-digitale-economie)
-dat is opgesteld in opdracht van Ministerie van EZK. Noodzakelijk om dit tot een
-succes te maken is de bereidheid tot kennisuitwisseling. Het afsprakenstelsel
-dat is ontwikkeld bestaat uit 9 bouwstenen die noodzakelijk zijn voor de opzet
-van een datadeelcoalitie. Voor deze voorstudie is vooral bouwsteen 7 van belang:
+oplevert, bijv. Energie gecombineerd met Bouw/Installatie, of Energie gecombineerd met Mobiliteit. Er wordt 
+naast afsprakenstelsel, ook wel gesproken over een datastelsel; dat is bijvoorbeeld uitgewerkt in het rapport over
+datadeel-initiatieven voor het MKB rapport "Generiek afsprakenstelsel voor
+datadeelinitiatieven als basis voor de [digitale economie](https://www.rijksoverheid.nl/documenten/rapporten/2018/12/30/generiek-afsprakenstelsel-voor-datadeelinitiatieven-als-basis-van-de-digitale-economie)", 
+dat is opgesteld in opdracht van Ministerie van EZK. Een noodzakelijke voorwaarde om dit tot een
+succes te maken is de bereidheid tot kennisuitwisseling bij alle betrokken partijen. Het afsprakenstelsel
+dat in dat rapport is beschreven bestaat uit 9 bouwstenen die noodzakelijk zijn voor de opzet
+van een datadeelcoalitie. Voor deze voorstudie naar enegie-installaties is vooral bouwsteen 7 van belang:
 interoperabiliteit van metadata (p.81 en p.84-90 vv.).  
 De kenmerken van het afsprakenstelsel zijn beschreven op p. 103-105, en
 ontwikkelingsrichtlijnen op p. 106.  
@@ -104,7 +97,11 @@ afsprakenstelsel en voor enkele schema’s uit de toepassing voor de
 energiesector, zoals die is beschreven in [Presentatie toekomstige inrichting
 van uitwisseling en governance
 energiedata](https://github.com/Geonovum/VIVET-Werkomgeving/blob/master/Dossier/Presentatie%20toekomstige%20inrichting%20van%20uitwisseling%20en%20governance%20energiedata.191213.pdf)
-door Energie-NL en Netbeheer NL.
+door Energie-NL en Netbeheer NL. 
+
+Naast bovengenoemde ontwikkeling door Min EZK ontwikkelt de overheid meer generiek beleid op het gebied van digitalisering ([NL DIGIbeter](https://www.digitaleoverheid.nl/nldigibeter/),
+[NL Digitaal](https://www.rijksoverheid.nl/onderwerpen/digitale-overheid/nieuws/2019/03/21/nederland-digitaal-afspraken-voor-betere-samenwerking-digitalisering)). Van belang is, dat hierin is opgenomen een in zomer 2020 op te stellen
+[standaardisatieagenda](https://www.digitaleoverheid.nl/actielijn/standaardisatieagenda/), en een verkenning naar cross-sectorale afsprakenstelsels in de [Nederlandse Digitaliseringsstrategie](https://www.rijksoverheid.nl/documenten/rapporten/2018/06/01/nederlandse-digitaliseringsstrategie). 
 
 | Naam                                                                                             | Beschrijving                                                                                                                                                                                                              | Domein            | Opmerking                                                                                                                                                                                                                      |
 |--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -121,9 +118,9 @@ In het kader van de energietransitie zijn er veel initiatieven.
 Energie-installaties staan daarbij niet los in het energie-informatielandschap.
 Installaties staan in gebouwen en gebruiken energie of wekken die juist op.
 Onderstaande projecten hebben directe relatie met energie-installaties of
-daaraan verbonden (informatie) objecten. In [de paragraaf Bevindingen
-landschapsverkenning](##bevindingen-landschapsverkenning) wordt een analyse
-gedaan hoe deze zich verhouden en meegenomen moeten worden om te komen tot een
+daaraan verbonden (informatie) objecten. De paragraaf [Bevindingen
+landschapsverkenning](##bevindingen-landschapsverkenning) bevat een analyse
+ hoe deze zich verhouden en meegenomen moeten worden om te komen tot een
 informatiemodel voor energie-installaties.
 
 | Naam                                                                                                                                                                                                                                           | Beschrijving                                                                                                      | Domein                      | Opmerking                                                                                                                                                                                                                |
@@ -143,7 +140,7 @@ informatiemodel voor energie-installaties.
 
 De inventarisatie van installatieregisters vindt plaats in het andere
 deelproject van project VIVET-E en behoort strikt genomen niet bij dit onderzoek
-naar de haalbaarheid van een informatiemodel. Deze datasets geven weer waar en
+naar de haalbaarheid van een informatiemodel. De hieronder opgesomde datasets geven weer waar en
 door wie de belangrijk gegevensverzamelingen worden bijgehouden. Door deze
 datasets inhoudelijk te bekijken ontstaat er ook inzicht in de belangrijkste
 entiteiten waarover informatie wordt verzameld.
@@ -215,14 +212,12 @@ opgenomen. Niet alle zijn uitgewerkt tot operationele standaarden.
 In de bouwsector zijn veel standaarden die een relatie met elkaar hebben. Door
 het BIM-Loket zijn deze met elkaar in verband gebracht en zijn de
 standaarden/taxonomieën beschreven in de [Atlas van open BIM-standaarden](https://www.bimloket.nl/Atlasvan-open-BIM-standaarden).
-
 Zie ook [Bijlage 1](#bijlage-1).
 
 NB: Voorlopig is dat in dit document ondergebracht onder het kopje
 ‘Taxonomieën/classificaties’ en niet onder ‘Standaarden’.
 
-Een voorbeeld van dit verband is:
-
+Een voorbeeld van het verband van standaarden in de bouwsector is:
 <!-- ![](media/966611aa83eb1c045a7129876823b224.png) -->
 
 <figure id="966611aa83eb1c045a7129876823b224.png">

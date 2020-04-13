@@ -11,18 +11,18 @@ gegeven, wat de basis is voor analyse en aanbevelingen.
 
 ### Scope van installaties
 
-Zoals in de volgende paragraaf aangegeven is het landschap cross-sectoraal
-(bouw, energie, installatie-onderhoud, assetmanagement, basisregistraties). De
-scoping van een 'installatieregister concept' moet vraaggestuurd plaatsvinden.
-Daarom was voorzien om aan de hand van usecases met betrokken product owners
-onderdelen van het informatiemodel verder uit te diepen. De volgende usecases
+Zoals in het vorige hoofdstuk aangegeven is het landschap cross-sectoraal
+(bouw, energie, installatie-onderhoud, assetmanagement, basisregistraties), en is bij de verkenning ervan een energie-installatie beschouwd als een installatie die verbonden is aan een energienetwerk, vóór dan wel achter de meter. 
+Wikipedia definieert een installatie als 'in technische zin een samenhangend en vaak min of meer geavanceerd systeem dat een bepaald doel dient'. In het VIVET-rapport wordt het begrip niet begrensd, wel wordt aangegeven dat het zowel duurzaam als fossiel kan zijn, en als functie kan hebben productie, opslag en conversie. Een afpaling is ook daar dus niet gemaakt, en een verriming is wellicht nog op zijn plaats: naast de in het VIVET-rapport genoemde drie functies kunnen ook nog gebruik en transport worden gebruikt om installaties te identificeren. En zou je ook nog niet aan het netwerk gekoppelde installaties (stand-alone) in de scope kunnen meenemen. 
+
+Ook in deze voorstudie is besloten om de scope van 'installatie' niet te beperken, juist omdat bij de uitwerking van VIVET-project E is besloten om de scoping van het 'installatieregister concept' vraaggestuurd te laten plaatsvinden. Daarom was voorzien om aan de hand van usecases met betrokken product owners de onderdelen van het informatiemodel verder uit te diepen. De volgende usecases
 zijn voorbereid, maar nog niet uitgevoerd.
 - Case A – Ontsluiten informatie over huidige duurzame productiecapaciteit aan Zon PV uit PIR/Ceres
 - Case B – Casus elektrisch laden Smart Zwolle 
 - Case C – Warmtepompen (Groei warmtepompen en effectmonitoring)
 
 In het VIVET programma 2020 worden de usecases verder uitgewerkt, wat tevens het nu meer generieke model moet invullen
-en specificeren.
+en specificeren. 
 
 Knelpunt bij de uitvoering is dat de totstandkoming van de usecases moeizaam
 gaat. Het beeld dat partijen niet echt bereid zijn om data te delen wordt
@@ -350,13 +350,15 @@ nodig.
 |                                      |                 |                    |                     |                |
 |                                      |                 |                    |                     |                |
 
-### Observaties, suggesties
+### Vervolg, Observaties, suggesties
+
+In deze analyse is de rijke informatie uit de landschapsverkenning geordend. Het landschap geeft opsommingen van een veelheid aan infotools, verzameld uit verschillende domeinen: energie-, bouw-, installatie- en overheidswereld. De ordening bestaat er vooral uit dat datasets nu zijn gerelateerd aan de verschillende typen infotools: afsprakenstelsels, classificaties, standaarden en informatiemodellen. Vervolgens is bepaald welke kernentiteiten deel uitmaken van welke datasets. 
+Gaandeweg de analyse werd zo duidelijk waar de zwaartepunten in informatiemodellen en kernentiteiten zich bevinden en dit is gebruikt als basis voor de volgende stap: het in kaart brengen van de relaties tussen de relevante informatiemodellen, door een mapping te maken op basis van de kernentiteiten. 
 
 Tijdens de inventarisatie van het speelveld, de beschrijving van het landschap
-en de analyse daarvan is meer boven water gekomen dan in deze hoofdstukken
-beschreven is. Onderstaande aspecten zijn het waard om genoemd te worden, omdat
-deze relevant kunnen zijn bij de verdere uitwerking van het
-IMEnergie-installaties.
+en de analyse daarvan is overigens meer boven water gekomen dan in deze hoofdstukken
+beschreven is. Dat betreft onder andere de onderstaande aspecten, die het waard zijn benoemd te worden, omdat
+deze relevant kunnen zijn bij de verdere uitwerking van het Informatiemodel Energie-installaties.
 
 #### Warmte
 
@@ -400,13 +402,11 @@ repositories de noodzakelijke statuur krijgen in het energiedomein.
 
 #### EFI Energy Flexibility Interface
 
-De organisatie FAN (Flexible Power Alliance Network) heeft EFI ontwikkeld, de
-Energy Flexibility Interface. EFI is een communicatieprotocol dat het mogelijk
+EFI is een communicatieprotocol dat het mogelijk
 maakt voor een eindgebruiker om diverse slimme apparatuur te besturen, zoals
 wasmachines, airco, zonnepanelen, opladen van de auto en daarmee flexibele
 energie te ontsluiten. In dit protocol zijn ook diverse typen
-energie-installaties gedefinieerd. De [specificatie van
-EFI](https://github.com/flexiblepower/efi) is beschikbaar op Github.
+energie-installaties gedefinieerd. EFI is ontwikkeld door FAN, Flexible Power Alliance, een consortium van partijen. De [specificatie van EFI](https://github.com/flexiblepower/efi) is beschikbaar op Github.
 
 #### Internationaal perspectief
 

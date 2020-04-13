@@ -205,14 +205,15 @@ betekenisvol voor operationele toepassing. Internationale standaarden spelen ook
 een rol maar vooral daar waar ze al toegepast worden in nationale afspraken.
 
 In de volgende paragrafen zijn de relevante taxonomieën en informatiemodellen
-opgenomen. Niet alle zijn uitgewerkt tot operationele standaarden.
+opgenomen. Niet alle zijn overigens uitgewerkt tot operationele standaarden.
 
 #### Taxonomieën
 
 In de bouwsector zijn veel standaarden die een relatie met elkaar hebben. Door
 het BIM-Loket zijn deze met elkaar in verband gebracht en zijn de
-standaarden/taxonomieën beschreven in de [Atlas van open BIM-standaarden](https://www.bimloket.nl/Atlasvan-open-BIM-standaarden).
-Zie ook [Bijlage 1](#bijlage-1).
+standaarden/taxonomieën beschreven in de [Atlas van open BIM-standaarden](https://www.bimloket.nl/Atlasvan-open-BIM-standaarden). Zie ook [Bijlage 1](#bijlage-1).
+
+Een belangrijke recente ontwikkeling is de omzetting van de Europese EPBDIII richtlijn naar Nederlandse wetgeving, waarmee eisen worden gesteld aan energie-installaties. Daartoe is o.a. een rekentool ontwikkeld, waarmee energiesystemen gespecificeerd  en doorgerekend kunnen worden. De tool bevat dan ook tal van classificaties voor installaties en onderdelen daarvan, die alle zijn gebaseerd op de norm NTA8800. Een toelichting hierop is te vinden bij [RVO](https://www.rvo.nl/onderwerpen/duurzaam-ondernemen/gebouwen/wetten-en-regels/nieuwbouw/epbd-iii/systeemeisen-technische-bouwsystemen). 
 
 NB: Voorlopig is dat in dit document ondergebracht onder het kopje
 ‘Taxonomieën/classificaties’ en niet onder ‘Standaarden’.

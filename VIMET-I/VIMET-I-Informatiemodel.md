@@ -269,6 +269,6 @@ verkenning naar een informatiemodel Energie-installaties.
 -   Het IMEnergie-installatie zal in de doorontwikkeling naar verwachting
     vervangen worden door delen van het ESDL en/of CIM-Ceres met input van het model voor het Installatieregister.
 
--   In potentie zou ESDL met een harmonisatie richting CIM-Ceres, implemenentatie van BAG en BGT en harmonisatie
+-   In potentie zou ESDL met een harmonisatie richting CIM-Ceres, implementatie van BAG en BGT en harmonisatie
     met geo-standaarden een kandidaat kunnen zijn voor een informatiemodel dat
     aan de usecase voldoet.

@@ -353,6 +353,11 @@ en de analyse daarvan is overigens meer boven water gekomen dan in deze hoofdstu
 beschreven is. Dat betreft onder andere de onderstaande aspecten, die het waard zijn benoemd te worden, omdat
 deze relevant kunnen zijn bij de verdere uitwerking van het Informatiemodel Energie-installaties.
 
+#### VIVET E1
+
+In deze analyse is geconstateerd dat veel datasets zijn aangelegd voor specifieke doelen en dat het lastig is om deze te verbinden. Dat wordt ook geconstateerd in VIVET-project E1, waarin gepoogd is om de registers van de energielabels, de ISDE-subsidies en de CBS-databases aan elkaar te verbinden. Uit de voorlopige rapportage blijkt, dat dat op globaal niveau wel lukt, maar op een lager schaalniveau toch op problemen stuit, terwijl van een afstand gedacht zou kunnen worden dat de verbinding eenvoudig gelegd zou kunnen worden, bijv. via sleutels als de BAG-ID die je in elke dataset zou verwachten. 
+In de praktijk blijkt dat niet eenvoudige te zijn. Mogelijkerwijs helpt een informatiemodel dat de beschrijvingen van de verschillende datasets harmoniseert hier. Wellicht een onderwerp voor het verovlg op deze voorstudie. 
+
 #### Warmte
 
 De warmtesector is sterk gefragmenteerde sector, en op dit moment nog

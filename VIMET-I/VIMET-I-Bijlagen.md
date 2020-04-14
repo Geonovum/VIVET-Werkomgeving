@@ -291,7 +291,7 @@ zijn.
 
 Hieronder is weergegeven welk type installatie en net van toepassing is bij
 bepaalde energiedoelen. De lijst wordt aangevuld met een lijst van type
-installaties voor energieconversie.
+<!-- installaties voor energieconversie. -->
 
 | **Doel**                 | **Typen installaties en netten** |
 |--------------------------|----------------------------------|
@@ -610,4 +610,14 @@ die deze belemmeringen pogen weg te nemen.
     <img src="media/stroomschema-installatieregister.png" alt="">
     <figcaption>Samenhang projectonderdelen voorstudie centraal installatieregister.</figcaption>
 </figure>
+
+### Bijlage 10
+
+**VIVET-D Analysekader energie datalandschap**
+
+<figure id="media/vivet-d-analysekader">
+    <img src="media/vivet-d-analysekader.png" alt="">
+    <figcaption>VIVET-D Analysekader energie datalandschap.</figcaption>
+</figure>
+
 

@@ -161,6 +161,11 @@ NB’s:
     vergunningen (gemeenten, provincies); eventueel kan onderstaande opsomming
     later nog worden aangevuld.
 
+-   Ook in het nog lopende VIVET-project D (Afstemming en voeding van informatieportalen) 
+    is een inventarisatie gemaakt van datasets. Deze is in deze voorstudie nog niet in detail beschouwd; 
+    een overzicht is hiervan is te vinden in [Bijlage 10](#bijlage-10). 
+
+
 | Naam                                                                                                                                 | Beschrijving                                                                                                                                                                | Domein                                                                                | Opmerking                                                                                                                                                                                                             |
 |--------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Stelsel van basisregistraties                                                                                                        | Wettelijk geregelde registraties                                                                                                                                            |                                                                                       | Relevant: o.a. BAG, BGT, BRO, WOZ. In toenemende mate worden deze registraties verbonden, bijv. IV (Landelijke Inventarisatie Vastgoed), Unique ID, DiSGeo, e.d.                                                      |

@@ -1,9 +1,10 @@
-## Bevindingen, Conclusies en aanbevelingen
+## Bevindingen, conclusies en aanbevelingen
 
 ### Scoping 
 Een installatieregister (concept) is onderdeel van cross-sectoraal landschap (bouw, energie, installatie-onderhoud,
 assetmanagement, basisregistraties). Het realiseren van slimme koppelingen op informatie-technisch gebied is effectiever 
 dan een nieuw fysiek register opzetten. Goed gedragen usecases kunnen hier de richting aangeven.
+In deze voorstudie is besloten om de scope van 'installatie' niet te beperken, juist omdat bij de uitwerking van VIVET-project E is besloten om de scoping van het 'installatieregister concept' vraaggestuurd te laten plaatsvinden. Aanbeveling bij doorontwikkeling van het informatiemodel is om een onderscheid te maken tussen installaties die gerelateerd zijn aan een energienetwerk vóór de meter en installaties die gerelateerd zijn aan een energienetwerk áchter de meter en er zijn vijf functies die gebruikt kunnen worden om installaties te identificeren: productie, opslag, conversie, transport en gebruik.
 
 ### Landschapsverkenning
 Op energiegebied en bouw zijn veel digitaliserings- en data-initiatieven, ook in relatie tot installaties. Qua governance

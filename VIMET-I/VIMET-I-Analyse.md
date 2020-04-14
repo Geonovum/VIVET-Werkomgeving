@@ -86,30 +86,23 @@ en Energie Nederland (opwek) .
     <figcaption>Het Vimet Landschap per domein en soort initiatief</figcaption>
 </figure>
 
-**Afkortingen**:  
-DigiDealGO = DigiDealGO is een overeenkomst tussen de overheid, de
-brancheverenigingen van de bouw, de installatiesector en de toeleverende
-industrie, ondersteund door  
-BIR (Bouw Informatie Raad),  
-het BIM Loket en  
-de DSBI (Digitaal Stelsel Bouw en Installatie).  
-DSGO = Digitaal Stelsel voor de Gebouwde Omgeving  
-DBR = Bouw Digitaliserings Raad  
-UOB = Uniforme Objecten Bibliotheek  
-DiSGeo = Doorontwikkeling in Samenhang van de basisregistraties  
-UOI = Unieke Object Identificatie  
-WKB = wet kwaliteitsborging voor het bouwen met derde begeleidingsgroep;
-digitale dossiers.  
-EGO = datavoorziening energietransitie Gebouwde Omgeving door PAW en VNG  
-EAN = European Article Numbering voor een leveringspunt voor gas of
-elektriciteit te identificeren  
-Topsector Energie  
-TEI = Toegankelijke Energie Informatie (Enexis , TNO, KPN)  
-LinkED = Linked Energie Data (TNO, Alliander en Enexis) ee project dat o.a. MHM
-(Model Harmonisatie Methodiek) heeft geïntroduceerd  
-Digitaal Gebouwdossier = BZK project met usecases consumentendossier, dossier
-bevoegd gezag, het vernieuwde energielabel en het platform verbeterjehuis.nl
-voor ogen.
+**Afkortingen**
+
+| Afkorting                                              | Betekenis           |  
+|--------------------------------------------------------|---------------------|  
+| DigiDealGO             | DigiDealGO is een overeenkomst tussen de overheid, de brancheverenigingen van de bouw, de installatiesector en de toeleverende industrie, ondersteund door BIR (Bouw Informatie Raad), het BIM Loket en de DSBI (Digitaal Stelsel Bouw en Installatie). |   
+| DSGO                   | Digitaal Stelsel voor de Gebouwde Omgeving |  
+| DBR                    | Bouw Digitaliserings Raad |  
+| UOB                    | Uniforme Objecten Bibliotheek |  
+| DiSGeo                 | Doorontwikkeling in Samenhang van de basisregistraties |  
+| UOI                    | Unieke Object Identificatie |  
+| WKB                    | Wet kwaliteitsborging voor het bouwen met derde begeleidingsgroep; digitale dossiers. |   
+| EGO                    | Datavoorziening energietransitie Gebouwde Omgeving door PAW en VNG  |  
+| EAN                    | European Article Numbering om een leveringspunt voor gas of elektriciteit te identificeren |    
+| TEI                    | Toegankelijke Energie Informatie (Enexis , TNO, KPN)  |  
+| LinkED                 | Linked Energie Data (TNO, Alliander en Enexis) ee project dat o.a. MHM (Model Harmonisatie Methodiek) heeft geïntroduceerd  |  
+| Digitaal Gebouwdossier | BZK project met usecases consumentendossier, dossier bevoegd gezag, het vernieuwde energielabel en het platform verbeterjehuis.nl voor ogen. |  
+
 
 #### Infotools
 

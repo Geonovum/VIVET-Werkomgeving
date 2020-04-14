@@ -129,6 +129,13 @@ bijlagen bij dit rapport.
 
 Management samenvatting
 -----------------------
+Een InformatieModel Energie-Installaties heeft betrekking op informatieverzamelingen uit een cross-sectoraal landschap (bouw, energie, installatie-onderhoud, assetmanagement, basisregistraties). Het realiseren van slimme koppelingen op informatie-technisch gebied is effectiever dan een nieuw fysiek register opzetten. Goed gedragen usecases kunnen hier de richting aangeven. 
+
+Informatiekundig bestaat meer samenhang tussen de vele datasets die ontwikkeld zijn in de bouw- en installatiewereld dan die in het energiedomein. Voor VIVET is het van groot belang dat er één taal gesproken wordt om die samenhang te creëren. Daartoe is een inventarisatie gemaakt van z.g. infotools: afsprakenstelsels, informatiemodellen, classificaties en datasets. Deze zijn aan elkaar gerelateerd waardoor duidelijk werd welke informatiemodellen en kernentiteiten centraal staan bij het brengen van samenhang. 
+
+Resultaaat van deze studie is ook dat de stakeholders van de huidige registraties veel betrokkenheid hebben getoond en verdere samenwerking beogen. Dit heeft naast een netwerk ook gezorgd voor een uitgebreid (en deels nog niet in kaart gebracht) overzicht van de aanwezige data, informatiemodellen en initiatieven rond installaties, energie en gebouwde omgeving.
+
+De geselecteerde vier informatiemodellen IMSG, ESDL, CIM-Ceres en Installatieregister blijken, na een mapping met behulp van enkele kandidaat-kernentiteiten,  een goede basis te vormen voor doorontwikkeling naar een geharmoniseerd InformatieModel Energie-Installaties, waarvan een eerste versie is beschreven. De vier informatiemodellen hebben overlappende use cases, kennen voldoende samenhang, zijn op globaal niveau vergelijkbaar en bieden met geo-standaarden bruikbare koppelvlakken met basisregistraties BAG en BGT. Bij doorontwikkeling zullen entiteiten en kenmerken van de vier informatiemodellen nog in detail moeten worden verbonden in het resulteren informatiemodel, waarin delen van ESDL en CIM-Ceres kunnen naar verwachting worden overgenomen.
 
 Tijdens dit onderzoek is duidelijk geworden dat er behoefte is aan het kunnen koppelen van data 'voor de meter' en 'achter de meter', en deze koppeling te laten verlopen via de reeds bestaande basisregistratie(s). Concreet gezegd zou het opnemen van een Uniek (BAG of BGT) ID in de verschillende registraties een goede basis leggen voor diverse informatieproducten binnen het thema 'energietransitie'. De Data is data van de installaties zelf, maar ook meet-data over verbruik, levering, opslag, conversie en transport van energie. Al deze data komt samen in een 'informatiepunt' dat gekoppeld kan worden aan de Basisregisters.
 
@@ -137,4 +144,4 @@ Het opnemen van zo'n uniek ID klinkt eenvoudig, maar is dat niet. Er moet tussen
 Het hebben van goede use-cases helpt bij het definieren van de voor de energietransitie benodigde informatieproducten. Het blijkt lastig om die goede uses-cases te bepalen. De verwachting is dat er de komende tijd meer usescases helder zullen worden.
 
 Omdat de acceptatie van standaarden, classificatie en informatiemodellen niet vanzelfsprekend is, is sturing en beheer op de samenhang van standaarden belangrijk, en moet worden belegd. In dit kader kan gedacht worden aan de publicatie
-van ontwikkelde standaarden op de overheidslijst van open-standaarden
+van ontwikkelde standaarden op de overheidslijst van open-standaarden.

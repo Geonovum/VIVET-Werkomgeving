@@ -136,5 +136,5 @@ Het opnemen van zo'n uniek ID klinkt eenvoudig, maar is dat niet. Er moet tussen
 
 Het hebben van goede use-cases helpt bij het definieren van de voor de energietransitie benodigde informatieproducten. Het blijkt lastig om die goede uses-cases te bepalen. De verwachting is dat er de komende tijd meer usescases helder zullen worden.
 
-Omdat de acceptatie van standaarden, classificatie en informatiemodellen niet vanzelfsprekend is, is sturing en beheer op de samenhang van standaarden belangrijk, en meot worden belegd. In dit kader kan gedacht worden aan de publicatie
+Omdat de acceptatie van standaarden, classificatie en informatiemodellen niet vanzelfsprekend is, is sturing en beheer op de samenhang van standaarden belangrijk, en moet worden belegd. In dit kader kan gedacht worden aan de publicatie
 van ontwikkelde standaarden op de overheidslijst van open-standaarden

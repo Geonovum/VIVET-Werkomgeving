@@ -130,7 +130,7 @@ bijlagen bij dit rapport.
 Management samenvatting
 -----------------------
 
-Tijdens dit onderzoek is duidelijk geworden dat er behoefte is aan het kunnen koppelen van data 'voor de meter' en 'achter de meter', en deze koppeling te laten verlopen via de reeds bestaande basisregistratie(s). Concreet gezegd zou het opnemen van een Uniek (BAG of BGT) ID in de verschillende registraties een goede basis leggen voor diverse informatieproducten binnen het thema 'energietransitie'. De Data is data van de installaties zelf, maar ook meet-data over verbruik, levering, opslag, conversie en transport van energie. Al deze data komt samen in een 'informatiepunt' dat is gekoppeld aan de Basisregisters.
+Tijdens dit onderzoek is duidelijk geworden dat er behoefte is aan het kunnen koppelen van data 'voor de meter' en 'achter de meter', en deze koppeling te laten verlopen via de reeds bestaande basisregistratie(s). Concreet gezegd zou het opnemen van een Uniek (BAG of BGT) ID in de verschillende registraties een goede basis leggen voor diverse informatieproducten binnen het thema 'energietransitie'. De Data is data van de installaties zelf, maar ook meet-data over verbruik, levering, opslag, conversie en transport van energie. Al deze data komt samen in een 'informatiepunt' dat gekoppeld kan worden aan de Basisregisters.
 
 Het opnemen van zo'n uniek ID klinkt eenvoudig, maar is dat niet. Er moet tussen veel partijen overlegd worden over de concrete invulling daarvan, en de implementatie heeft impact op alle bestaande registraties en applicaties die nu nog niet zo'n ID hebben. Aan de andere kant is het mooi dat er al zoveel geregistreerd wordt: hierdoor kan een vliegende start worden gemaakt.
 

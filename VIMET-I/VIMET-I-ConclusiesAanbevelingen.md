@@ -30,7 +30,7 @@ Deze voorstudie heeft op basis van de belangrijkste informatiemodellen een globa
 van energie en energie-installaties te verbinden. Dit framework is bruikbaar om breder binnen VIVET en de omgeving toe te passen
 en om te beginnen de VIVET-projecten informatietechnisch integraal te kunnen ondersteunen en daarmee de kwaliteit van de 
 informatie te verbeteren en te borgen.  
-Besteed veel aandacht om informatiekundige samenhang aan te brengen in hetgeschetste landschap op het gebied van energie, bouw 
+Besteed dan veel aandacht om informatiekundige samenhang aan te brengen in het geschetste landschap op het gebied van energie, bouw 
 en installaties. 
 [zie de aanbevelingen voor doorontwikkeling van het informatiemodel](#aanbevelingen-voor-doorontwikkeling)
     

@@ -18,8 +18,8 @@ VIVET heeft als doel om te werken aan het versnipperde data-landschap in het ene
 betrekking op de datasets, maar ook op de infotools (informatiemodellen, classificaties, e.d.), die vaak niet beschikbaar zijn,
 slechts betrekking hebben op één dataset en verschillende niveaus van volwassenheid kennen.  
 Er is behoefte aan generieke infotools die ervoor zorgen dat er één taal gesproken wordt in de verschillende domeinen;
-de verduurzaming van 8 miljoen panden vraagt daarom. In deze voorstudie zijn een aantal ervan in beeld gebracht; 
-ESDL bijvoorbeeld kan hier een goede bijdrage leveren.
+de verduurzaming van 8 miljoen panden vraagt daarom. In deze voorstudie zijn een aantal ervan in beeld gebracht; bijvoorbeeld ESDL (TNO). 
+ESDL kan hier een goede bijdrage leveren.
 
 ### Projecten en Kernentiteiten
 Belangrijke kernentiteiten als Pand/Gebouw, Installatie en Meetwaarde zijn cruciaal voor uitwisseling van data over

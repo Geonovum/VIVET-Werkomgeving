@@ -188,7 +188,7 @@ opgenomen.
 </figure>
 
 Een EnergySystem bevat (het dichte wybertje) EnergySystemInformation. Hierin
-zitten datasources met gegevens over Assets. Carries typeren energiedragers en Profiles worden gebruikt om tijd en tijdreeksen vastteleggen. Een Asset heeft een Geometry en een
+zitten datasources met gegevens over Assets. Carriers typeren energiedragers en Profiles worden gebruikt om tijd en tijdreeksen vastteleggen. Assets zijn te aggregeren middels Area die via Instance samen een EnergySysteem vormen. Een Asset heeft een Geometry en een
 Building bevat Assets. Assets zijn EnergyAssets van verschillende typen van
 Consumer tot Conversion. Transport modelleert o.a. verbindende onderdelen van een netwerk waaronder de aansluiting. Sensoren zijn het equivalent van meetinstrumenten.
 

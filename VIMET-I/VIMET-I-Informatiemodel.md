@@ -90,7 +90,7 @@ conventies van UML toegelicht.
 
 Het model is relatief eenvoudig en is onafhankelijk van de vaak complexe
 structuur van energiesystemen. Een model bestaat uit entiteiten of objecttypen.
-In het diagram aangegeven als \<<Objecttype\>>. In het model staat het
+In het diagram aangegeven als &lt;&lt;Objecttype&gt;&gt;. In het model staat het
 informatiepunt centraal. Een punt waar je gegevens over vastlegt en opvraagt. In
 dit geval van een energie-installatie. Een informatiepunt heeft 0 of meer
 meetwaardes, in het model aangegeven met de uitgaande pijl. Gegevens zijn

@@ -188,15 +188,15 @@ opgenomen.
 </figure>
 
 Een EnergySystem bevat (het dichte wybertje) EnergySystemInformation. Hierin
-zitten datasources met gegevens over Assets. Een Asset heeft een Geometry en een
+zitten datasources met gegevens over Assets. Carries typeren energiedragers en Profiles worden gebruikt om tijd en tijdreeksen vastteleggen. Een Asset heeft een Geometry en een
 Building bevat Assets. Assets zijn EnergyAssets van verschillende typen van
-Consumer tot Conversion.
+Consumer tot Conversion. Transport modelleert o.a. verbindende onderdelen van een netwerk waaronder de aansluiting. Sensoren zijn het equivalent van meetinstrumenten.
 
 Het ESDL zet de objecttypen EnergySystem en EnergyAssets (gespecificeerd naar
 Production, Consumption, Storage, Conversion en Transport) centraal. Zij heeft
-hiermee een meer specifiek model voor het definiëren van gegevens per type
+hiermee een meer specifiek model voor het specificeren en delen van gegevens per type
 asset. De uitwerking van type gegevens, enkelvoudig of profielen van tijdseries
-is ook gedetailleerd uitgewerkt.
+is ook gedetailleerd uitgewerkt in QuantityAndUnits en Profiles.
 
 In onderstaand diagram zijn de belangrijkste objecttypen van ESDL in relatie tot
 het startmodel gebracht.

@@ -39,17 +39,17 @@ function custGHPG(respecConfig)
 var respecConfig = 
 {
   //-- specStatus is verplicht! (activeer 1 van de volgende) --------------------------
-  specStatus: "GN-BASIS",             // Basis document
+  //specStatus: "GN-BASIS",             // Basis document
   //specStatus: "GN-WV",              // Werk Versie
   //specStatus: "GN-CV",              // Consultatie Versie
   //specStatus: "GN-VV",              // Vaststellings Versie
-  //specStatus: "GN-DEF",             // Definitieve Versie
+  specStatus: "GN-DEF",             // Definitieve Versie
   //-- specType is verplicht! (activeer 1 van de volgende) ----------------------------
   //specType: "NO",                   // Norm
   //specType: "ST",                   // Standaard
   //specType: "IM",                   // Informatie Model
   //specType: "PR",                   // Praktijkrichtlijn
-  //specType: "HR",                   // HandReiking
+  specType: "HR",                   // HandReiking
   //specType: "WA",                   // Werkafspraak
   //specType: "BD",                   // Beheer Documentatie
   //-- format is verplicht! -----------------------------------------------------------

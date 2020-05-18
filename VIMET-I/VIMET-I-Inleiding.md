@@ -93,11 +93,7 @@ Hieronder het stappenplan:
 
 -   Voorstel en aanbevelingen hoe te komen tot een breed gedragen
     informatiemodel waarmee informatie voor energie-installaties kan worden
-    verzameld, beheerd en uitgewisseld.
-
-<div class="note">
-    Deze versie is het resultaat van de stappen 1 t/m 4. De consultatie zal in digitale vorm gebeuren, daarna volgt het definitieve eindrapport 
-</div>
+    verzameld, beheerd en uitgewisseld. 
 
 Doelgroep
 ---------

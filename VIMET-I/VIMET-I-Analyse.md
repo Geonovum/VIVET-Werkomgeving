@@ -428,9 +428,25 @@ van het warmtesysteem de komende jaren zich nog sterk zal ontwikkelen.
 
 Informatiemodellen bevatten verwijzingen naar in het universum geaccepteerde
 definities, classificaties e.d. die vastgelegd zijn in thesauri of repositories.
-De taal ESDL is verbonden met een z.g. Energy Data Repository, die nu nog
-slechts verwijzingen bevat naar SBI-codes (CBS) en Energiedragers (RVO). Het
-verdient aanbeveling om dit concept uit te breiden, en de geïnventariseerde
+Eén van de redenen waarom ESDL ontworpen is, is om informatie of aannames over
+installaties, profielen e.d te kunnen vastleggen en hiernaar te kunnen verwijzen. 
+Als een soort prototype is hiervoor de Energy Data Repository ontwikkeld
+(zie [edr.hesi.energy](https://edr.hesi.energy)), een online web-applicatie waar
+gebruikers energiedata kunnen bekijken, doorzoeken en kunnen downloaden. De
+Energy Data Repository heeft ook een API via welke modellen informatie
+kunnen ophalen. 
+
+Op dit moment is de hier beschikbare informatie ingedeeld in drie categorieën:
+- Assets (of installaties): het betreft hier informatie over asset types en dus
+niet specifieke instanties van zo'n type
+- Profielen: het betreft hier standaard energievraagprofielen zoals deze bijvoorbeeld
+door de NEDU gedeeld worden. Maar er staan ook voorbeeld profielen van de verwachtte
+ontwikkeling van de CO2-prijs
+- Energie kentallen: hier staat informatie die niet onder de eerste twee categorieën
+valt. Twee voorbeeld datasets zijn de SBI-codes (CBS) en Emissiegegevens van alle
+Energiedragers (RVO).
+
+Het verdient aanbeveling om dit concept uit te breiden, en de geïnventariseerde
 classificaties in dit onderzoek kunnen daar een goede bron voor zijn. Voor het
 warmtedomein kan hier gedacht worden aan definities voor verschillende typen
 biomassa en biofuels-installaties. Experts van CBS, NVWA, SDE-registratie en het

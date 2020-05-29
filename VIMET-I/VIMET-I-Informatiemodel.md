@@ -168,8 +168,11 @@ geconstrueerd met het ESDL en met CIM.
 Language is door TNO ontwikkeld voor het standaardiseren van data-uitwisseling
 voor – in eerste instantie - rekenmodellen voor energiesystemen. Het beschrijft
 elementen uit het energiesysteem als input voor rekenmodellen over onder andere
-netbelasting en energiebalancering. Het model ondersteunt ruimtelijke en
-individuele assetselectie en differentiatie op productie, consumptie, conversie,
+netbelasting en energiebalancering. Het model brengt het technische aspect, het
+energetische aspect, het ruimtelijke aspect, het tijdsaspect en het financiele
+aspect samen en biedt de mogelijkheid om informatie op die vlakken gezamelijk te
+beschrijven. Het biedt de modelijkheid om individuele (energie)assets te beschrijven
+en biedt differentiatie op productie, consumptie, conversie,
 opslag en transport.
 
 ![](media/Energiebalans.png)
@@ -187,10 +190,31 @@ opgenomen.
     <figcaption>Gesimplificeerd UML diagram van informatiemodel ESDL (Energie SystemDescription Language).</figcaption>
 </figure>
 
-Een EnergySystem bevat (het dichte wybertje) EnergySystemInformation. Hierin
-zitten datasources met gegevens over Assets. Carriers typeren energiedragers en Profiles worden gebruikt om tijd en tijdreeksen vastteleggen. Assets zijn te aggregeren middels Area die via Instance samen een EnergySysteem vormen. Een Asset heeft een Geometry en een
-Building bevat Assets. Assets zijn EnergyAssets van verschillende typen van
-Consumer tot Conversion. Transport modelleert o.a. verbindende onderdelen van een netwerk waaronder de aansluiting. Sensoren zijn het equivalent van meetinstrumenten.
+Een EnergySystem bevat (het dichte wybertje) één of meerdere instanties (Instance),
+één of meerdere partijen (Parties) en generieke informatie (EnergySystemInformation).
+
+Instanties bieden de mogelijkheid om van één energiesysteem meerdere versies te beschrijven;
+dit kunnen instanties zijn waarbij de verandering in de tijd weergegeven wordt (bijv. hoe een energiesysteem 
+verwacht wordt te evolueren van 2020, 2030, 2040 naar 2050), maar ook instanties van hetzelfde systeem
+maar met verschillende aggregatieniveaus (bijv. totale energievraag gegroepeerd naar energiedrager versus
+gegroepeerd naar sector). Parties biedt de mogelijkheden om de Stakeholders in het systeem te beschrijven en
+op dit moment wordt hier vooral het 'eigenaarschap' van assets of gebieden mee gemodelleerd. Generieke informatie
+betreft allerlei informatie waarnaar in de rest van het model verwezen kan worden. Voorbeelden zijn:
+- Datasources: voor het vastleggen van referenties naar waar de gebruikte informatie vandaan komt
+(eigenaar, versie, licentie, datum, link naar gepubliceerde data, enz.)
+- Carries: informatie over energiedragers (emissiegegevens, energie-inhoud)
+- QuantityAndUnits: informatie over grootheden en eenheden (bijv. (onderhouds)kosten in EUR/MW/jaar)
+- Profiles: informatie tijd en tijdsreeksen (bijv. energie(vraag)profielen, kostenprofielen, weerprofielen). 
+Profielen hebben een sterke koppeling met de QuantityAndUnits.
+
+Instanties beschrijven een gebied (Area). Dit kan een land zijn, maar ook een provincie, gemeente, straat of perceel.
+Een gebied kan ook weer onderverdeeld worden in kleinere gebieden. Een gebied kan middelen (Assets) bevatten. Assets zijn
+fysieke objecten die een Geometry kunnen hebben en waaraan informatie over allerlei soorten kosten gekoppeld kunnen zijn.
+Een gebouw (Building) is ook een Asset; een gebouw kan echter zelf ook weer andere Assets bevatten. Hiermee is het mogelijk
+om installaties in huizen en andere soorten gebouwen te beschrijven. EnergyAssets zijn specifieke Assets, die middels poorten en
+verbindingen met elkaar verbonden kunnen worden. Zo kan een heel energienetwerk beschreven worden. EnergyAssets bestaan er in 
+vijf categorieën: Consumer, Producer, Storage, Transport en Conversion. Transport modelleert o.a. verbindende onderdelen van een
+netwerk waaronder de aansluiting. Sensoren zijn het equivalent van meetinstrumenten.
 
 Het ESDL zet de objecttypen EnergySystem en EnergyAssets (gespecificeerd naar
 Production, Consumption, Storage, Conversion en Transport) centraal. Zij heeft

@@ -61,7 +61,7 @@ producten elektriciteit, gas en warmte. De dimensies ruimte en tijd zijn van
 belang en de relatie met beheer en eigendom. Als we die vijf onderdelen met
 elkaar verbinden krijgen we onderstaand overzicht.
 
-<figure id="energie-installaties">
+<figure id="informationpointdiagram">
     <img src="media/informationpointdiagram.png" alt="">
     <figcaption>Informatie over energie-installaties gaat over het type product, het type energieproces en kent een aantal basisgegevens: ruimte, tijd en eigendom.</figcaption>
 </figure>

@@ -1,4 +1,7 @@
-## Bijlagen
+Bijlagen
+--------
+
+Voorlopig nog de bijlagen van VIMET-I hier opgenomen.
 
 ### Bijlage 1
 
@@ -6,51 +9,33 @@
 
 **Indeling naar typen standaarden: Uitwisseling / Semantiek / Proces**
 
-<!-- ![](media/b312b45581564534dcd1f1f199ae2871.png) -->
-
-<figure id="indelingnaartypenstandaarden">
-    <img src="media/b312b45581564534dcd1f1f199ae2871.png" alt="">
-    <figcaption>Indeling naar typen standaarden</figcaption>
-</figure>
-
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<img src="media/b312b45581564534dcd1f1f199ae2871.png" alt="">
+<figcaption>Indeling naar typen standaarden</figcaption>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Indeling naar fasen in het (digitale) bouwproces**
 
-<!-- ![](media/2bb9084ac0bd25f50900a687f793d5eb.png) -->
-
-<figure id="indelingnaarfasen">
-    <img src="media/2bb9084ac0bd25f50900a687f793d5eb.png" alt="">
-    <figcaption>Indeling naar fasen</figcaption>
-</figure>
-
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<img src="media/2bb9084ac0bd25f50900a687f793d5eb.png" alt="">
+<figcaption>Indeling naar fasen</figcaption>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Toepasbaarheid in sectoren**
 
 Sectoren: Burgerlijke en Utiliteitsbouw / Grond, Weg en Waterbouw, Geo-domein)
 
-<!-- ![](media/d6d2dcebfd6f0a1655b4ca8a168890f6.png) -->
-
-<figure id="toepasbaarheidinsectoren">
-    <img src="media/d6d2dcebfd6f0a1655b4ca8a168890f6.png" alt="">
-    <figcaption>Toepasbaarheid in sectoren</figcaption>
-</figure>
-
-
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<img src="media/d6d2dcebfd6f0a1655b4ca8a168890f6.png" alt="">
+<figcaption>Toepasbaarheid in sectoren</figcaption>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Soorten afspraken over informatie**
 
-<!-- ![](media/cbb88545424412018f64eb82d4536490.png) -->
-
-<figure id="soortenafsprakenoverinformatie">
-    <img src="media/cbb88545424412018f64eb82d4536490.png" alt="">
-    <figcaption>Soorten afspraken over informatie</figcaption>
-</figure>
-
-
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<img src="media/cbb88545424412018f64eb82d4536490.png" alt="">
+<figcaption>Soorten afspraken over informatie</figcaption>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ### Bijlage 2
 
@@ -58,42 +43,26 @@ Sectoren: Burgerlijke en Utiliteitsbouw / Grond, Weg en Waterbouw, Geo-domein)
 
 **Samenwerkingsverbanden**
 
-<!-- ![](media/3a5a95468fc4b87c8bf60c90ff65071d.png) -->
-
-<figure id="samenwerkingsverbanden">
-    <img src="media/3a5a95468fc4b87c8bf60c90ff65071d.png" alt="">
-    <figcaption>Samenwerkingsverbanden</figcaption>
-</figure>
-
-
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<img src="media/3a5a95468fc4b87c8bf60c90ff65071d.png" alt="">
+<figcaption>Samenwerkingsverbanden</figcaption>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kern: gegevens en toepassingen scheiden**
 
-<!-- ![](media/13deca386095b552f9ba632c5f962a82.png) -->
-
-<figure id="Kerngegevensentoepassingenscheiden">
-    <img src="media/13deca386095b552f9ba632c5f962a82.png" alt="">
-    <figcaption>Kern: gegevens en toepassingen scheiden</figcaption>
-</figure>
-
-
-
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<img src="media/13deca386095b552f9ba632c5f962a82.png" alt="">
+<figcaption>Kern: gegevens en toepassingen scheiden</figcaption>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Bouwstenen**
 
 ![](media/869adb654d0e8259190ae45b5f720e4a.png)
 
-<!-- ![](media/30ca9a4ac6cbf552e700fa06050b8df1.png) -->
-
-<figure id="Bouwstenen">
-    <img src="media/30ca9a4ac6cbf552e700fa06050b8df1.png" alt="">
-    <figcaption>Bouwstenen</figcaption>
-</figure>
-
-
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<img src="media/30ca9a4ac6cbf552e700fa06050b8df1.png" alt="">
+<figcaption>Bouwstenen</figcaption>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Afsprakenstelsel in energiesector**
 
@@ -109,13 +78,10 @@ Sheet 4:
 
 Sheet 27:
 
-<!-- ![](media/ca96bb2087c193e0475fa7034b35a983.png) -->
-
-<figure id="afsprakenstelselenergiesector">
-    <img src="media/ca96bb2087c193e0475fa7034b35a983.png" alt="">
-    <figcaption>Afsprakenstelsel in energiesector</figcaption>
-</figure>
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<img src="media/ca96bb2087c193e0475fa7034b35a983.png" alt="">
+<figcaption>Afsprakenstelsel in energiesector</figcaption>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ### Bijlage 3
 
@@ -123,25 +89,17 @@ Sheet 27:
 
 **Illustratie van beschrijving van een energiesysteem met ESDL-componenten:**
 
-<!-- ![](media/e15b877ddcc800cfcf78e845d3aec0a6.png) -->
-
-<figure id="energiesysteemmetESDLcomponenten">
-    <img src="media/e15b877ddcc800cfcf78e845d3aec0a6.png" alt="">
-    <figcaption>Beschrijving van een energiesysteem met ESDL-componenten</figcaption>
-</figure>
-
-
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<img src="media/e15b877ddcc800cfcf78e845d3aec0a6.png" alt="">
+<figcaption>Beschrijving van een energiesysteem met ESDL-componenten</figcaption>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Illustratie van gebruik van ESDL in een concrete toepassing:**
 
-<!-- ![](media/4ff8ae5847f28ffe46f22ad2196d7eaf.png) -->
-
-<figure id="ESDLineenconcretetoepassing">
-    <img src="media/4ff8ae5847f28ffe46f22ad2196d7eaf.png" alt="">
-    <figcaption>Gebruik van ESDL in een concrete toepassing</figcaption>
-</figure>
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<img src="media/4ff8ae5847f28ffe46f22ad2196d7eaf.png" alt="">
+<figcaption>Gebruik van ESDL in een concrete toepassing</figcaption>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 NB: In Bijlage 4 is een tabel opgenomen met het aantal voorkomens van de
 verschillende energiecapabilities (production, consumption, etc.) dat
@@ -149,24 +107,15 @@ resulteerde uit de behoefte-analyse van 49 brondocumenten.
 
 **Standaarden energiedomein**
 
-<!-- ![](media/92194bb47a3bdbe6ea1c2cfdeb6f597f.png) -->
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<img src="media/92194bb47a3bdbe6ea1c2cfdeb6f597f.png" alt="">
+<figcaption>Standaarden energiedomein</figcaption>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-<figure id="standaardenenergiedomein">
-    <img src="media/92194bb47a3bdbe6ea1c2cfdeb6f597f.png" alt="">
-    <figcaption>Standaarden energiedomein</figcaption>
-</figure>
-
-
-
-<!-- ![](media/c2d313301334085c41c5656212dbaad9.png) -->
-
-<figure id="standaardenenergienetwerken">
-    <img src="media/c2d313301334085c41c5656212dbaad9.png" alt="">
-    <figcaption>Standaarden energie netwerken</figcaption>
-</figure>
-
-
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<img src="media/c2d313301334085c41c5656212dbaad9.png" alt="">
+<figcaption>Standaarden energie netwerken</figcaption>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ### Bijlage 4
 
@@ -291,7 +240,6 @@ zijn.
 
 Hieronder is weergegeven welk type installatie en net van toepassing is bij
 bepaalde energiedoelen. De lijst wordt aangevuld met een lijst van type
-<!-- installaties voor energieconversie. -->
 
 | **Doel**                 | **Typen installaties en netten** |
 |--------------------------|----------------------------------|
@@ -410,7 +358,6 @@ berichtenverkeer voor een EBIF worden gedefinieerd.
 
 ![](media/40679eb571a511b9a3ac43374f911b06.png)
 
-
 ### Bijlage 8
 
 **Betrokkenen bij deze voorstudie**
@@ -477,9 +424,11 @@ C. Energieverbruik, warmtevoorziening en zonnestroom
 
 D. Afstemming en voeding viewers
 
-E. Verkenning centraal register energie-installaties, verdeeld in twee onderdelen:
+E. Verkenning centraal register energie-installaties, verdeeld in twee
+onderdelen:
 
-E1. Eerste verkenning van de mogelijkheden om hernieuwbare energie installatieregisters samen te voegen;
+E1. Eerste verkenning van de mogelijkheden om hernieuwbare energie
+installatieregisters samen te voegen;
 
 E2. Voorstudie centraal installatieregister onderzoeken.
 
@@ -606,18 +555,16 @@ belemmeringen zijn voor het niet beschikbaar of niet ontsluitbaar zijn van data.
 De bevindingen uit de usecases zijn weer van belang voor andere VIVET-projecten
 die deze belemmeringen pogen weg te nemen.
 
-<figure id="stroomschema-installatieregister">
-    <img src="media/stroomschema-installatieregister.png" alt="">
-    <figcaption>Samenhang projectonderdelen voorstudie centraal installatieregister.</figcaption>
-</figure>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<img src="media/stroomschema-installatieregister.png" alt="">
+<figcaption>Samenhang projectonderdelen voorstudie centraal installatieregister.</figcaption>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ### Bijlage 10
 
 **VIVET-D Analysekader energie datalandschap**
 
-<figure id="media/vivet-d-analysekader">
-    <img src="media/vivet-d-analysekader.png" alt="">
-    <figcaption>VIVET-D Analysekader energie datalandschap.</figcaption>
-</figure>
-
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<img src="media/vivet-d-analysekader.png" alt="">
+<figcaption>VIVET-D Analysekader energie datalandschap.</figcaption>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

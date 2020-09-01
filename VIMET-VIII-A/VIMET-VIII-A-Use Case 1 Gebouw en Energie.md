@@ -95,7 +95,26 @@ PM
 
 ##### Europa en data-infrastructuur voor fysieke leefomgeving
 
-PM
+ “In 2024 is de Nederlandse
+INSPIRE-infrastructuur de basis voor het beantwoorden van de pan-Europese vraag naar geo- en milieuinformatie. Hiermee draagt INSPIRE bij aan het versterken van het klimaat- en milieubeleid. Europese en
+internationale instanties halen kwalitatief hoogwaardige INSPIRE-data bij de Nederlandse dataproviders (en
+vice versa). De vraag naar gegevens wordt daarbij leidend, daarom wordt bij het harmoniseren van
+gegevens prioriteit gegeven aan gegevens waar vraag naar is”
+
+INSPIRE is onderdeel van de Europese Green Deal, een nieuwe groeistrategie, die de EU moet omvormen tot een eerlijke en
+welvarende samenleving, met een moderne, hulpbronnenefficiënte en concurrerende economie, waar vanaf
+2050 netto geen broeikasgassen meer worden uitgestoten en economische groei is losgekoppeld van het
+gebruik van hulpbronnen. Het nieuwe Europese beleid kent twee belangrijke pijlers: de vergroening in de Green Deal en digitalisering
+oftewel ‘’Shaping Europe’s digital future’. In de Europese Datastrategie promoot de Commissie de ontwikkeling van een gemeenschappelijke Europese
+data space om de ontwikkeling van een data economie te ondersteunen en het gegevensgebruik in de hele
+EU te vergroten.
+
+![](media/CommonEuropeanDataspace.png)
+Figuur X:  Het energiedomein (a Common European energy data space) is een onderdeel van de gedeelde Europese dataspace. (bron: Quick scan Europa en data-infrastructuur fysieke leefomgeving)
+
+![](media/DirectiveForEnergyData.png)
+DG ENER omvat nieuw EU beleid rond energie en data.
+
 
 ##### Installatiergister Visie TN
 

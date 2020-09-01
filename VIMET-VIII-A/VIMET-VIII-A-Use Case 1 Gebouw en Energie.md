@@ -81,8 +81,8 @@ DigiDealGo werkt met 'versnellingsprojecten' die passen binnen de visie.
 Het project Datastelsel Energieverbruik Utiliteit is een project met een DigiDealGo stempel.
 Dat project heeft o.a. als doel meer data-gedreven verduurzaming.
 
-DatastelselEnergieverbruikUtiliteit.png
 ![](media/DatastelselEnergieverbruikUtiliteit.png)
+
 Figuur X:  Data-gedreven verduurzamingsprojecten kenmerken zich veelal door realistische business-cases en lagere integrale
 kosten.  (bron: Project Datastelsel Energieverbruik Utiliteit)
 
@@ -111,9 +111,11 @@ data space om de ontwikkeling van een data economie te ondersteunen en het gegev
 EU te vergroten.
 
 ![](media/CommonEuropeanDataspace.png)
+
 Figuur X:  Het energiedomein (a Common European energy data space) is een onderdeel van de gedeelde Europese dataspace. (bron: Quick scan Europa en data-infrastructuur fysieke leefomgeving)
 
 ![](media/DirectiveForEnergyData.png)
+
 DG ENER omvat nieuw EU beleid rond energie en data.
 
 

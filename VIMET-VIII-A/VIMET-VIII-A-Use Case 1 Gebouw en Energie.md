@@ -63,7 +63,27 @@ PM
 
 ##### Digideal Gebouwde Omgeving
 
-PM
+De DigiDealGO kan worden beschouwd als de Nationale Digitaliseringsagenda voor de Gebouwde Omgeving.
+
+
+Citaat uit document DigiDealGO: *' Voor de circulaire bouweconomie is op termijn een actuele virtuele kopie van
+het bouwwerk nodig gekoppeld aan digitale product- en materiaalinformatie Voor Smart Cities,
+energietransitie en waterhuishouding moeten we slimme bouwwerken koppelen aan actuele
+omgevingsinformatie. Het gaat om informatie-ketens en diensten rondom een virtueel bouwwerk
+dat de levenscyclus van dat bouwwerk volgt (van ontwerp tot sloop)' *
+
+![](media/DigiDeal-virtueelBouwwerk.png)
+Figuur X: Het virtuele bouwwerk (middelste laag) draagt de informatie over het fysieke bouwwerk gedurende zijn levenscyclus. Verschillende dossiers waaronder energie zijn gekoppeld aan het virtuele bouwwerk. (bron: Digitaal Stelsel Gebouwde Omgeving, versie 0.9 - Concept)
+
+DigiDealGo werkt met 'versnellingsprojecten' die passen binnen de visie.
+
+Het project Datastelsel Energieverbruik Utiliteit is een project met een DigiDealGo stempel.
+Dat project heeft o.a. als doel meer data-gedreven verduurzaming.
+
+DatastelselEnergieverbruikUtiliteit.png
+![](media/DatastelselEnergieverbruikUtiliteit.png)
+Figuur X:  Data-gedreven verduurzamingsprojecten kenmerken zich veelal door realistische business-cases en lagere integrale
+kosten.  (bron: Project Datastelsel Energieverbruik Utiliteit)
 
 ##### Digitaal Gebouwdossier
 

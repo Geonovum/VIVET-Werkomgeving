@@ -39,7 +39,23 @@ onderstaande tabel opgenomen:
 
 ##### Bouwwerken in samenhangende objectenregistratie
 
-PM
+Binnen het programma Samenhangende Object Registraties (SOR) is een onderzoek uitgevoerd naar de realisatie van een model voor bouwwerken. Het resulterende model is nog in een 'houtskoolschetsfase'.
+
+Een belangrijke constatering in het onderzoek is dat het BIM-concept als meest belovend uitgangspunt is genomen. Voor het domein van energie en energie-installaties lijkt dat een goed uitgangspunt omdat er een relatie met de (utiliteits)bouw sector is.
+
+![](media/SOR-gebouwenmodel-houtskoolschets.png)
+Figuur X: Model voor gebouw in ontwikkeling bij SOR (bron: Eindrapport werkgroep bouwwerken, SOR 25-02-2020)
+
+Een uitgangspunt van het model is dat op elk niveau behalve het kleinste het geheel uit delen is op te bouwen.
+Dit model is te vertalen naar de concepten van de IFC standaard. Het model is in ontwikkeling, doorontwikkeling is o.a. naar 3D.
+
+Interessant is het concept Installaties / voorzieningen:
+Omschrijving:  
+Geheel van een relevantie installatie of andere voorziening in of aan en ten dienste van het Gebouw(blok).
+Toelichting:  
+Begrip gebaseerd op de fysieke deelobjecten uit de WOZ, de GebouwInstallatie uit NEN.
+
+Het is de vraag of in, op of aan het gebouw aanwezige energie-installatie hier ook onder vallen.
 
 ##### Common ground architectuurprincipes
 

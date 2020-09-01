@@ -73,6 +73,7 @@ omgevingsinformatie. Het gaat om informatie-ketens en diensten rondom een virtue
 dat de levenscyclus van dat bouwwerk volgt (van ontwerp tot sloop)' *
 
 ![](media/DigiDeal-virtueelBouwwerk.png)
+
 Figuur X: Het virtuele bouwwerk (middelste laag) draagt de informatie over het fysieke bouwwerk gedurende zijn levenscyclus. Verschillende dossiers waaronder energie zijn gekoppeld aan het virtuele bouwwerk. (bron: Digitaal Stelsel Gebouwde Omgeving, versie 0.9 - Concept)
 
 DigiDealGo werkt met 'versnellingsprojecten' die passen binnen de visie.

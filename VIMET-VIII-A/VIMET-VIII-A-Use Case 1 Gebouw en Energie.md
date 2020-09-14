@@ -62,10 +62,10 @@ Het is de vraag of in, op of aan het gebouw aanwezige energie-installatie hier o
 Uitwisselen van gegevens binnen en tussen gemeenten is van groot belang. 
 Common Ground zorgt voor een andere, gegevensgerichte, manier van uitwisseling, met behulp van een Gemeentelijk Gegevenslandschap. 
 Dit is gebaseerd op het [GEMMA Gegevenslandschap](https://www.gemmaonline.nl/index.php/Gegevenslandschap), waarin processen en gegevens gescheiden zijn door een vijf-lagenstructuur. 
-Er wordt gewerkt met een [gemeenschappelijke integratielaag](https://commonground.nl/cms/view/54476259/over-common-ground/54476522%22 %5Ct %22_blank). 
+Er wordt gewerkt met een gemeenschappelijke integratielaag. 
 Data worden opgehaald met API’s die voldoen aan de [API-standaarden zaakgericht werken](https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken); er bestaat een [overzicht van API’s binnen de Nederlandse overheid](https://developer.overheid.nl/apis).  
 Common ground is gebaseerd op de volgende informatiearchitectuurprincipes: 
-![](media/Common Ground Informatieprincipes.png)
+![](media/Common Ground Informatiearchitectuurprincipes.png)
 
 Figuur X: Een opsomming van de Informatieprincipes die ten grondslag liggen aan Common Groud
 

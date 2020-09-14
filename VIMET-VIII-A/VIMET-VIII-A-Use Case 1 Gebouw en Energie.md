@@ -35,7 +35,7 @@ onderstaande tabel opgenomen:
 | **Afsprakenstelsel Facilitering Energiemarkt** | Sectoren in energiedomein | Energieverbruiken en opwek verbinden met basisregistraties (proces-aspect marktfacilitering is losser verbonden) | EZK             | afstemming datamodellen energiemarkt                |
 | **Energiewet**                                 | EZK, Energiesector        | Data is één van de pijlers in de wet; datastandaarden zorgen voor een fundament                                  | EZK             | data-aspecten van energiewet verwerken in projecten |
 
-Bovengenoemde initiatieven, inclusief alle Vivet-projecten 2020, zijn weergegeven in [Contextdiagram Vivet VIII](20200914-Vivet-VIII-Contextdiagram.png). 
+Bovengenoemde initiatieven, inclusief alle Vivet-projecten 2020, zijn weergegeven in [Contextdiagram Vivet VIII](20200914-Vivet-VIII-Contextdiagram.pdf). 
 
 #### Relevante documenten 
 

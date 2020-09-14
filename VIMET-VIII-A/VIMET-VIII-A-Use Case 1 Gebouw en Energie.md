@@ -59,7 +59,25 @@ Het is de vraag of in, op of aan het gebouw aanwezige energie-installatie hier o
 
 ##### Common ground architectuurprincipes
 
-PM
+Uitwisselen van gegevens binnen en tussen gemeenten is van groot belang. 
+Common Ground zorgt voor een andere, gegevensgerichte, manier van uitwisseling, met behulp van een Gemeentelijk Gegevenslandschap. 
+Dit is gebaseerd op het [GEMMA Gegevenslandschap](https://www.gemmaonline.nl/index.php/Gegevenslandschap), waarin processen en gegevens gescheiden zijn door een vijf-lagenstructuur. 
+Er wordt gewerkt met een [gemeenschappelijke integratielaag](https://commonground.nl/cms/view/54476259/over-common-ground/54476522%22 %5Ct %22_blank). 
+Data worden opgehaald met API’s die voldoen aan de [API-standaarden zaakgericht werken](https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken); er bestaat een [overzicht van API’s binnen de Nederlandse overheid](https://developer.overheid.nl/apis).  
+Common ground is gebaseerd op de volgende informatiearchitectuurprincipes: 
+![](media/Common Ground Informatieprincipes.png)
+
+Figuur X: Een opsomming van de Informatieprincipes die ten grondslag liggen aan Common Groud
+
+De implicaties hiervan zijn beschreven in de [Common Ground Informatiearchitectuurprincipes](https://www.gemmaonline.nl/images/gemmaonline/6/67/20190328_-_Gemeentelijk_Gegevenslandschap_-_Informatiearchitectuurprincipes.pdf). 
+Daarnaast hanteert Common Ground een aantal realisatiepricipes: 
+
+![](media/Common Ground Realisatieprincipes.png)
+
+Figuur X: Een opsomming van de Realisatieprincipes die ten grondslag liggen aan Common Groud
+
+Van deze principes zijn de implicaties beschreven in ‘CG-realisatieprincipes/docs dat is te vinden op de pagina [Voor architecten bij gemeenten’](https://commonground.nl/cms/view/54476259/wat-is-common-ground/54476518). 
+Lees hier méér over [Common Ground](https://www.vngrealisatie.nl/roadmap/common-ground). 
 
 ##### Digideal Gebouwde Omgeving
 

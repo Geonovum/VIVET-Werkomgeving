@@ -39,7 +39,7 @@ onderstaande tabel opgenomen:
 
 ##### Bouwwerken in samenhangende objectenregistratie
 
-Binnen het programma Samenhangende Object Registraties (SOR) is een onderzoek uitgevoerd naar de realisatie van een model voor bouwwerken. Het resulterende model is nog in een 'houtskoolschetsfase'.
+Binnen het programma [Samenhangende Object Registraties (SOR)](https://www.geobasisregistraties.nl/basisregistraties/doorontwikkeling-in-samenhang/objectenregistratie) is een onderzoek uitgevoerd naar de realisatie van een model voor bouwwerken. Het resulterende model is nog in een 'houtskoolschetsfase'.
 
 Een belangrijke constatering in het onderzoek is dat het BIM-concept als meest belovend uitgangspunt is genomen. Voor het domein van energie en energie-installaties lijkt dat een goed uitgangspunt omdat er een relatie met de (utiliteits)bouw sector is.
 
@@ -65,16 +65,16 @@ Dit is gebaseerd op het [GEMMA Gegevenslandschap](https://www.gemmaonline.nl/ind
 Er wordt gewerkt met een gemeenschappelijke integratielaag. 
 Data worden opgehaald met API’s die voldoen aan de [API-standaarden zaakgericht werken](https://www.vngrealisatie.nl/producten/api-standaarden-zaakgericht-werken); er bestaat een [overzicht van API’s binnen de Nederlandse overheid](https://developer.overheid.nl/apis).  
 Common ground is gebaseerd op de volgende informatiearchitectuurprincipes: 
-![](media/Common Ground Informatiearchitectuurprincipes.png)
+![](media/Common-Ground-Informatiearchitectuurprincipes.png)
 
 Figuur X: Een opsomming van de Informatieprincipes die ten grondslag liggen aan Common Groud
 
 De implicaties hiervan zijn beschreven in de [Common Ground Informatiearchitectuurprincipes](https://www.gemmaonline.nl/images/gemmaonline/6/67/20190328_-_Gemeentelijk_Gegevenslandschap_-_Informatiearchitectuurprincipes.pdf). 
 Daarnaast hanteert Common Ground een aantal realisatiepricipes: 
 
-![](media/Common Ground Realisatieprincipes.png)
+![](media/Common-Ground-Realisatieprincipes.png)
 
-Figuur X: Een opsomming van de Realisatieprincipes die ten grondslag liggen aan Common Groud
+Figuur X: Een opsomming van de Realisatieprincipes die ten grondslag liggen aan de Common-Ground-benadering
 
 Van deze principes zijn de implicaties beschreven in ‘CG-realisatieprincipes/docs dat is te vinden op de pagina [Voor architecten bij gemeenten’](https://commonground.nl/cms/view/54476259/wat-is-common-ground/54476518). 
 Lees hier méér over [Common Ground](https://www.vngrealisatie.nl/roadmap/common-ground). 
@@ -106,7 +106,16 @@ kosten.  (bron: Project Datastelsel Energieverbruik Utiliteit)
 
 ##### Digitaal Gebouwdossier
 
-PM
+Min BZK voert (2020) een verkenning uit naar de ontwikkeling van een digitaal gebouwdossier, waarmee eenmaal digitaal ingewonnen data voor hergebruik beschikbaar komt, zonder dat gestreefd wordt naar volledigheid. Een groeimodel wordt voorzien, met als belangrijkste eis aan de data dat deze voorzien wordt van een uniek objectidentificatienummer (UOI), dat gekoppeld is aan een gebouw of onderdeel daarvan. 
+Voor het overige worden voorlopig geen eisen aan de data gesteld; uit de gebruikspraktijk van het gebouwdossier zal blijken waar de prioriteiten met betrekking tot verdere structurering, standaardisering, formalisering, validatie en metadatering liggen. Zover bestaande wet- en regelgeving hier niet reeds in voorzien, kunnen hierover naar behoefte op termijn al dan niet wettelijk vastgelegde en afdwingbare eisen opgesteld worden.
+De scope is in eerste instantie gericht op de woning- en utiliteitsbouw, en neemt daarom de klasse ‘GEBOUW’ in IMGeo als uitgangspunt: “Vrijstaande overdekte en geheel of gedeeltelijke met wanden omsloten toegankelijke ruimte die direct of indirect met de grond is verbonden.” 
+Op termijn zal aansluiting bij de Omgevingswet noodzakelijk zijn en daarin is BOUWWERK ruimer omschreven, omdat deze de grond-, weg- en wegenbouw betreft: “Constructie van enige omvang van hout, steen, metaal of ander materiaal, die op de plaats van bestemming hetzij direct of indirect met de grond verbonden is, hetzij direct of indirect steun vindt in of op de grond, bedoeld om ter plaatse te functioneren, met inbegrip van de daarvan deel uitmakende bouwwerkgebonden installaties.” 
+Qua architectuur is ‘data bij de bron’ het uitgangspunt, net zoals bij Common Ground. Het gebouwdossier krijgt dan een fluïde, virtueel karakter: afhankelijk van de vraag van de gebruiker en de beschikbare bronnen wordt het dossier ‘on the fly’ samengesteld. Goede afspraken met partijen zowel aan vraag als aan bronzijde zijn noodzakelijk; deze worden tegenwoordig vaak vastgelegd in een z.g. afsprakenstelsel. 
+De objectenregistratie, de doorontwikkeling van de huidige geo-basisregistraties, lijkt een geschikt fundament om zowel publieke als private gebouwinformatie aan op te hangen. 
+De ontwikkeling van een digitaal gebouwendossier past overigens prima binnen de beleidslijn Digitale Agenda Overheid. BZK draagt systeemverantwoordelijkheid voor de bouwsector. Vanuit die rol is het logisch dat BZK aandacht heeft voor een gezonde werking van de informatiehuishouding in de bouw, te meer daar niet wordt voorzien dat ‘de markt’ dit op zal pakken. BZK geeft daar middels onder meer de introductie van het consumentendossier, het subsidiëren van het BIM-loket en het ondertekenen van de Digitaliseringsdeal Gebouwde Omgeving invulling aan. Het digitaal gebouwdossier is een volgende stap in het invulling geven aan de regierol. 
+Er zijn verschillende ontwikkelingen waarbnij het bouwdossier groot nut kan bieden: de energietransitie, circulair bouwen, de bouwopgave. 
+
+NB: hier nog verwijzen naar de notitie van Dirk van Barneveld c.s.? 
 
 ##### DiSGeo
 
@@ -137,17 +146,42 @@ Figuur X:  Het energiedomein (a Common European energy data space) is een onderd
 DG ENER omvat nieuw EU beleid rond energie en data.
 
 
-##### Installatiergister Visie TN
+##### Installatiregister Visie TN
 
-PM
+Techniek Nederland beoogt om met samenwerkingspartners te komen tot een samenhangend geheel van informatie rondom installaties, onder de werktitel “Installatieregister Nederland”. 
+Informatie uit het Installatieregister is niet voor commerciële en acquisitiedoeleinden bedoeld en is te gebruiken door onder andere dienstverleners, fabrikanten, netbeheerders en bevoegd gezag. 
+Dit wordt gerealiseerd vanuit een stelsel van afspraken. 
+Met een installatieregister wordt beoogd om een samenhangend geheel te maken, waar op basis van open standaarden en classificatie informatie ontsloten wordt, die nu in veel diverse registraties vast ligt. 
+Vanuit deze visie kunnen diverse gebruikers en raadplegers – binnen de wettelijke en afgesproken kaders – toegevoegde waarde bieden én krijgen van informatie over installaties en producten. 
+Softwareleveranciers kunnen op basis van marktvraag applicaties ontwikkelen. Fabrikanten van installaties/-onderdelen kunnen gericht eventuele terugroepakties gefaciliteerd krijgen. 
+Er bestaan diverse (classificatie-, communicatie-)standaarden (zoals NL-SfB, ETIM e.d.) en TN beoogt hier een samenhangend ecosysteem van te maken in het kader van de Digideal Gebouwde Omgeving. 
+Dit kan leiden tot onderdelen van een toekomstig Digitaal Stelsel Gebouwde Omgeving (DSGO). 
+
 
 ##### Landelijke Informatievoorziening Vastgoed - behoeftenonderzoek
 
-PM
+De afgelopen jaren hebben het CBS, Kadaster en Geonovum samen gewerkt aan de ontwikkeling van een landelijke informatievoorziening vastgoedgebruik (LIV). De huidige LIV is een unieke databron die een aantal registraties verbindt m.b.v. unieke sleutels. 
+De LIV voorziet in landelijke, integrale, en afgestemde gegevens over alle vastgoedobjecten in Nederland. 
+![](media/LIV-onderdelen.png)
 
-##### PIR Logisch gegevensmodel
+Figuur X:  De onderdelen waaruit LIV is opgebouwd. 
 
-PM
+Er is onderzocht of deze voorziening tegemoet komt aan de behoefte bij belangrijke maatschappelijke thema’s, zoals de energietransitie. 
+Het behoeftenonderzoek is te vinden bij [Geonovum](https://www.geonovum.nl/uploads/documents/Quick%20scan%20behoefteonderzoek%20LIV-%20defintief%20%283%29.pdf)
+Het is een open deur te stellen dat er bij de energietransitie behoefte is aan gegevens over vastgoed. Deels gaat het om direct energierelevante kenmerken, zoals de mate van isolatie, installaties, gevel, bouwhoogte, enzovoorts. Deels heeft de vraag een meer algemene aard: hetgoed afbakenen van typen vastgoed (wat is een kantoor, een winkel?), maar ook bouwjaar, volume en oppervlakte zijn hierbij relevant. 
+De achterliggende databronnen bepalen de inhoud van de LIV. Dat zijn primair de basisregistraties BAG, WOZ, HR en BRP. Dezebasisregistraties zijn elk voor een eigen toepassingsterrein ontwikkeld.
+Belangrijk uitgangspunt voor de LIV is dat gegevens gekoppeld worden via het BAG-id.De microdatabestandenover energieverbruik beschikken ook over deze sleutel en kunnen dus ook met de LIV gekoppeld worden. Ook informatie over vastgoed op adresniveau kan in principe aan de LIV gekoppeld worden. 
+Er kunnen verschillende toepassingen onderkend worden, zoals naast informatie over energieverbruik het verkrijgen van meer inzicht in de locaties van zonne-installaties. 
+LIV kan dus faciliteren bij het verbinden van de basisregistraties met datasets in het energiedomein. Een robuuste vorm van informatiemodellering is daartoe noodzakelijk. 
+
+##### PIR/CERES Logisch gegevensmodel
+
+PIR, het ProductieInstallatieRegister bevat gegevens van energie-opwekinstallaties. 
+In de loop van 2020 heeft CERES deze taak overgenomen. 
+In de studie naar een energie-installatieregister zijn enkele kernenititeiten van CERES gemapt op het IM Smart grids. 
+![](media/IMEnergie_en_CIM_Ceres.png)
+
+Figuur X:  De mapping van het IMEnergie op CIM-CERES. 
 
 ##### Referentiemodel Stelsel Basisregistraties
 

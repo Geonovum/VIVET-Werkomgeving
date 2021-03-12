@@ -23,13 +23,25 @@
 - publicatieomgeving
 - beheeromgeving
 
-## Landsschapsverkenning
-## Schets warmtedomein
+## Landsschapsverkenning warmtewereld
+- inventarisatie
+- beschrijving
+
+### Schets warmtedomein
 - wet - monitoring - sector
 - 
 ### Stakeholders
 - powerpoint blauwe blokjes
 - geanonimiseerde versie van spreadshet
+- benoemen bron per stakeholder(s)
+
+### Toepassingsgebieden warmte in conceptueel IM warmte
+- informatieportalen
+- informatiebehoefte NPRES, TVW, ...
+- CBS
+- vivet projecten
+
+## Begrippenkader
 
 ### Inventariseren begrippen en definities
 - Methodiek toegepast op warmte domein
@@ -38,7 +50,6 @@
 - groepen in onze BC
 - hierarchie
 
-## Begrippenkader
 
 ### Hierarchie
 - Methode van opdeling (MIM..., koppeling andere (basisregistraties)
@@ -49,10 +60,20 @@
 ### Groepen
 - Toelichting per groep
 
-### Begrippen
+### Begrippen 
 - Algemene toelichting op begrippen in BC
-- Enkele voorbeelden met plaatje en uitleg
+- Enkele voorbeelden met plaatje en uitleg van begrippen en relaties tussen begrippen
 
+### Bevindingen
+- hoeveelheid bronnen
+- versplintering silos
+- governance
+- waarde van begrippenkader
+
+
+### Conclusie
+
+### Aanbeveling
 
 
 

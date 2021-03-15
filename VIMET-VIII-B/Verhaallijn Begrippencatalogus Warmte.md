@@ -66,11 +66,11 @@ Hoofdstuk Landsschapsverkenning warmtewereld
 
 Poging 1: (nummers corresponderen met powerpoint sheet nr in ordering stakeholder en begrippenkader.pptx
 
-1)Blauwe blokken: indeling stakeholders naar **warmtenetten / afnemers warmte / eigenaren netten / leveranciers,dienstverleners** / branche / kennisinstellingen / gegevens 
+1) Blauwe blokken: indeling stakeholders naar **warmtenetten / afnemers warmte / eigenaren netten / leveranciers,dienstverleners** / branche / kennisinstellingen / gegevens 
 (vet zou je de sector kunnen noemen)
 (Leen waar is jou upgrade plaat?)
 
-2)Spreadsheet stakeholders heeft kolome : Categorie stakholder: Adviesbureau / data afnemer / data publiceren / financier / kennisdrager / warmtebedrijf 
+2) Spreadsheet stakeholders heeft kolome : Categorie stakholder: Adviesbureau / data afnemer / data publiceren / financier / kennisdrager / warmtebedrijf 
 
 3) De groepen in Vocbench die begrippen leveren hebben ook een bepaalde indeling / ordening, maar welke? Heeft nu de kop "Verantwoordelijke organsitatie / programma"
 

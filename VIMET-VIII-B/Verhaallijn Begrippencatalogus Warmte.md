@@ -31,8 +31,12 @@ Hoofdstuk Methodiek en techniek
 
 ### MIM-framework
 
--   joeri over begrippen thesaurus taal - linked data - MIM - disgeo visie
-    architectuur zie ppt ruud
+-   joeri over begrippen thesaurus taal  
+    plaatjes uit presentatie Archi XL (uitgebreid in bijlage)  
+    MIM  
+    linked data  
+    DiSGeo  
+    visie architectuur zie ppt Ruud van Rossem
 
 ### applicatie
 
@@ -55,7 +59,11 @@ Hoofdstuk Landsschapsverkenning warmtewereld
 
 -   inventarisatie
 
+-   afbeelding: diagram met blauwe blokken
+
 -   beschrijving
+
+-   namen van stakeholders/actoren: in bijlage
 
 ### Schets warmtedomein
 
@@ -65,21 +73,43 @@ Hoofdstuk Landsschapsverkenning warmtewereld
 
 -   powerpoint blauwe blokjes
 
--   geanonimiseerde versie van spreadshet
+-   in Bijlage: geanonimiseerde versie van spreadsheet
 
 -   benoemen bron per stakeholder(s)
 
 ### Toepassingsgebieden warmte in Conceptueel IM Warmte
 
--   informatieportalen
+-   afbeelding CIM Energie met aandachtsgebieden / toepassingen
 
--   informatiebehoefte NPRES, TVW, ...
+-   CIM Energie: eigenlijk nog breder: ook internationaal nog opnemen : nog
+    verwerken in schema – zie Leen - bijv. Eurovoc
 
--   CBS
+-   In schema de pijlers Bouw en Installaties samenvoegen?
 
--   Vivet-projecten
+-   Aandachtsgebieden: korte beschrijving van wat er speelt, m.n. op
+    informatiegebied.
 
--   Digital Twin Fysieke Leefomgeving
+    -   Marktfacilitering: Afsprakenstelsel / PIR CERES
+
+    -   Netwerk: projecten bij Netbeheer NL, Begrippenmodel Stedin
+
+    -   Bouw: UOI
+
+    -   Installaties: ....
+
+    -   Warmte: dit rapport
+
+-   Toepassingen:
+
+    -   informatieportalen
+
+    -   informatiebehoefte NPRES, TVW, ...
+
+    -   CBS
+
+    -   Vivet-projecten
+
+    -   Digital Twin Fysieke Leefomgeving
 
 Hoofdstuk Begrippencatalogus
 ----------------------------
@@ -105,7 +135,9 @@ Hoofdstuk Begrippencatalogus
 -   Eventueel: nadere aanduiding van gemaakte keuzen (wat wel, wat niet)
 
 -   Opsomming en korte beschrijving van de bronnen van de definities  
-    verwijzen naar bijlage met opsomming herkomstbronnen
+    verwijzen naar bijlage met opsomming herkomstbronnen  
+    document op U-schijf: met wat wel en wat niet in BC opgenomen  
+    Sanne, Leen
 
 -   Toelichting per groep
 
@@ -129,10 +161,10 @@ Hoofdstuk Begrippencatalogus
 
 -   Begrippengraph
 
-Hoofdstuk Resumé
-----------------
+Hoofdstuk Bevindingen
+---------------------
 
-### Bevindingen
+-   interviews / reacties op begrippencatalogus
 
 -   hoeveelheid bronnen
 
@@ -142,19 +174,22 @@ Hoofdstuk Resumé
 
 -   waarde van begrippenkader
 
-### Conclusie
-
-### Aanbeveling
+Hoofdstuk Conclusie en Aanbevelingen
+------------------------------------
 
 Hoofdstuk Bijlagen
 ------------------
 
-### Bijlage Herkomstbronnen
+### Bijlage Presentatie over Begrippen en Taal 
 
-Opsomming, url’s, contactpersonen
-
-### Bijlage 
-
-### Bijlage 
+### Bijlage Stakeholders 
 
 ### Bijlage Geïnterviewde partijen
+
+### Bijlage Herkomstbronnen
+
+Opsomming, url’s, evt. contactpersonen
+
+### Bijlage ...
+
+### Bijlage ...

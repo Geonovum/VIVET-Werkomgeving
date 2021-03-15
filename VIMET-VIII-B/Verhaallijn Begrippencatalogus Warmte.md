@@ -6,7 +6,7 @@ Hoofdstuk Inleiding
 -   Vivet
 
 -   Punt op de horizont
-
+*deze paragraaf: Jeroen*  
     -   informatiemodellen en toepassingsgebieden + plaatje
 
     -   terugblik op Vimet 2019
@@ -54,8 +54,7 @@ Hoofdstuk Methodiek en techniek
 
 Hoofdstuk Landsschapsverkenning warmtewereld
 --------------------------------------------
-
-*Dit hoofdstuk: Jeroen*
+*deze paragraaf: Jeroen*
 
 -   inventarisatie
 
@@ -66,6 +65,7 @@ Hoofdstuk Landsschapsverkenning warmtewereld
 -   namen van stakeholders/actoren: in bijlage
 
 ### Schets warmtedomein
+*deze paragraaf: Jeroen*
 
 -   wet - monitoring - sector
 
@@ -78,6 +78,7 @@ Hoofdstuk Landsschapsverkenning warmtewereld
 -   benoemen bron per stakeholder(s)
 
 ### Toepassingsgebieden warmte in Conceptueel IM Warmte
+*deze paragraaf: Leen*
 
 -   afbeelding CIM Energie met aandachtsgebieden / toepassingen
 

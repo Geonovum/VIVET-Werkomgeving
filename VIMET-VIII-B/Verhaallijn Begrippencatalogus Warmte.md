@@ -64,7 +64,7 @@ Hoofdstuk Landsschapsverkenning warmtewereld
 -   Inleiding met hier de warmtewereld wordt beschreven aan de hand van een inventarisatie van de  belangrijkste stakeholders die je kunt indelen in een aantal aandachtingsgebieden / contexten / toepassingen.
 -   Het gebruik van de indeling andachtingsgebieden / contexten / toepassingen is nog niet consequent, dit nog uitwerken.
 
-Poging:
+Poging 1: (nummers corresponderen met powerpoint sheet nr in ordering stakeholder en begrippenkader.pptx
 
 1)Blauwe blokken: indeling stakeholders naar **warmtenetten / afnemers warmte / eigenaren netten / leveranciers,dienstverleners** / branche / kennisinstellingen / gegevens 
 (vet zou je de sector kunnen noemen)
@@ -82,9 +82,24 @@ Poging:
 
 7) Mapping vivet 2021-22 op MB-IMG energie
 
-8) Indeling IM energie naar aandachtsgebied en IM en domeinspecifieke pijlers (Denkmodel datastandaarden energietransitie 0.1.pptx)
+8) Indeling IM energie naar toepassing en domeinspecifieke pijlers (Denkmodel datastandaarden energietransitie 0.1.pptx)
+(upgraden met warmte)
 
-9) Geel definitielijsten aanwezig
+9) Geel definitielijsten aanwezig (bron?)
+
+Welke indeling is leidend cq herkenbaar gezien bovenstaande (poging 2 tot nadere ordering)
+- (4) Stakeholders: Setor - Wet en regelgeving - Monitoring
+- Bronnen: per stakeholder? (Is hier plaat van?)
+- (8) Toepassing: geen echte indeling maar gebruikt om use cases te definieren
+- (3) Begrippen: hierarchie in Vocbench
+- (3) Domein: Indeling vanuit informatietechnisch oogpunt (domeinspecifieke standaarden)
+
+Welke gaan we niet meer gebruiken?
+(1) blauwe blokken plaat, misschien integreren met bollenplaat (4)
+(2) categorie stakeholder
+(7) mapping begippen / IM (hoe kunnen deze kennis wel integreren ?)
+(9) geel definitielijst (zit deels in groepen VOCbench)
+
 
 
 

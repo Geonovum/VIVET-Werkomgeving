@@ -68,16 +68,24 @@ Poging:
 
 1)Blauwe blokken: indeling stakeholders naar **warmtenetten / afnemers warmte / eigenaren netten / leveranciers,dienstverleners** / branche / kennisinstellingen / gegevens 
 (vet zou je de sector kunnen noemen)
+(Leen waar is jou upgrade plaat?)
 
 2)Spreadsheet stakeholders heeft kolome : Categorie stakholder: Adviesbureau / data afnemer / data publiceren / financier / kennisdrager / warmtebedrijf 
 
 3) De groepen in Vocbench die begrippen leveren hebben ook een bepaalde indeling / ordening, maar welke? Heeft nu de kop "Verantwoordelijke organsitatie / programma"
 
-4) Bollenplaat "Context/ecosysteem energiebegrippen" heeft indeling naar Energiesector / Wet- en Regelgeving en Monitoring die verder uit te splitsen is.
+4) Bollenplaat "Context/ecosysteem energiebegrippen" heeft indeling naar Energiesector / Wet- en Regelgeving en Monitoring die verder uit te splitsen is. (Initieel gebruikt voor scopebepaling)
 
-6) Begrippenkader zelf heeft ook een indeling dwz hierarchie object / fysiek object - Informatieobject / energiebron / energie uit hernieuwbaar, etc die ook te visualiseren is met een Graph
+5) Begrippenkader zelf heeft ook een indeling dwz hierarchie object / fysiek object - Informatieobject - persoon / energiebron / energiedrager / warmte, etc die ook te visualiseren is met een Graph
 
-7) Er ontstaat hiermee ook een relatie tussen de groepen en de begrippen en zou je kunnen visualiseren in een matrix waarin je samenhang / overlap kunt zien
+6) Er ontstaat hiermee ook een relatie tussen de groepen en de begrippen en zou je kunnen visualiseren in een matrix waarin je samenhang / overlap kunt zien (wordt wel groter matrix...)
+
+7) Mapping vivet 2021-22 op MB-IMG energie
+
+8) Indeling IM energie naar aandachtsgebied en IM en domeinspecifieke pijlers (Denkmodel datastandaarden energietransitie 0.1.pptx)
+
+9) Geel definitielijsten aanwezig
+
 
 
 
@@ -169,6 +177,7 @@ Hoofdstuk Begrippencatalogus
 -   Verantwoording gemaakte keuzes
 
 -   Uitleg van de hierarchie
+(zie ook ESDL uitleg document van Edwin Mathijssen, evt in bijlage)
 
 -   met voorbeeld : object - fysiek object - energievoorziening -
     energietransport - warmtetransport - aansluiting

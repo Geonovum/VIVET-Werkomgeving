@@ -6,8 +6,11 @@ Hoofdstuk Inleiding
 -   Vivet
 
 -   Punt op de horizont
+
 *deze paragraaf: Jeroen*  
     -   informatiemodellen en toepassingsgebieden + plaatje
+    
+    -   Waarom begrippenkader
 
     -   terugblik op Vimet 2019
 
@@ -37,6 +40,7 @@ Hoofdstuk Methodiek en techniek
     linked data  
     DiSGeo  
     visie architectuur zie ppt Ruud van Rossem
+    Fair prinicpes (zie plaatje vivet workshopw begrippenkader)
 
 ### applicatie
 
@@ -54,17 +58,32 @@ Hoofdstuk Methodiek en techniek
 
 Hoofdstuk Landsschapsverkenning warmtewereld
 --------------------------------------------
+
 *deze paragraaf: Jeroen*
 
--   inventarisatie
+-   Inleiding met hier de warmtewereld wordt beschreven aan de hand van een inventarisatie van de  belangrijkste stakeholders die je kunt indelen in een aantal aandachtingsgebieden / contexten / toepassingen.
+-   Het gebruik van de indeling andachtingsgebieden / contexten / toepassingen is nog niet consequent, dit nog uitwerken.
 
--   afbeelding: diagram met blauwe blokken
+Poging:
 
--   beschrijving
+1)Blauwe blokken: indeling stakeholders naar **warmtenetten / afnemers warmte / eigenaren netten / leveranciers,dienstverleners** / branche / kennisinstellingen / gegevens 
+(vet zou je de sector kunnen noemen)
 
--   namen van stakeholders/actoren: in bijlage
+2)Spreadsheet stakeholders heeft kolome : Categorie stakholder: Adviesbureau / data afnemer / data publiceren / financier / kennisdrager / warmtebedrijf 
+
+3) De groepen in Vocbench die begrippen leveren hebben ook een bepaalde indeling / ordening, maar welke? Heeft nu de kop "Verantwoordelijke organsitatie / programma"
+
+4) Bollenplaat "Context/ecosysteem energiebegrippen" heeft indeling naar Energiesector / Wet- en Regelgeving en Monitoring die verder uit te splitsen is.
+
+6) Begrippenkader zelf heeft ook een indeling dwz hierarchie object / fysiek object - Informatieobject / energiebron / energie uit hernieuwbaar, etc die ook te visualiseren is met een Graph
+
+7) Er ontstaat hiermee ook een relatie tussen de groepen en de begrippen en zou je kunnen visualiseren in een matrix waarin je samenhang / overlap kunt zien
+
+
+
 
 ### Schets warmtedomein
+
 *deze paragraaf: Jeroen*
 
 -   wet - monitoring - sector
@@ -78,6 +97,7 @@ Hoofdstuk Landsschapsverkenning warmtewereld
 -   benoemen bron per stakeholder(s)
 
 ### Toepassingsgebieden warmte in Conceptueel IM Warmte
+
 *deze paragraaf: Leen*
 
 -   afbeelding CIM Energie met aandachtsgebieden / toepassingen

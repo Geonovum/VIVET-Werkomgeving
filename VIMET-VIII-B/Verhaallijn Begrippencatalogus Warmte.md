@@ -94,10 +94,14 @@ Welke indeling is leidend cq herkenbaar gezien bovenstaande (poging 2 tot nadere
 - (3) Begrippen: hierarchie in Vocbench
 - (3) Domein: Indeling vanuit informatietechnisch oogpunt (domeinspecifieke standaarden)
 
+
 Welke gaan we niet meer gebruiken?
 (1) blauwe blokken plaat, misschien integreren met bollenplaat (4)
+
 (2) categorie stakeholder
+
 (7) mapping begippen / IM (hoe kunnen deze kennis wel integreren ?)
+
 (9) geel definitielijst (zit deels in groepen VOCbench)
 
 

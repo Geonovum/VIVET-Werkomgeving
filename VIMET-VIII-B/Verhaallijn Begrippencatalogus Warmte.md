@@ -1,36 +1,91 @@
+Hoofdstuk In bewerking
+----------------------
+
+\@\@ = vraagtekens – nog uit te werken.
+
+Afbeeldingen staan in ppt op U-schijf / map Eindrapport – plaatjes hebben
+naamgeving (in notitie van elke sheet).
+
 Hoofdstuk Inleiding
 -------------------
 
 -   Context
 
-Energietransitie / versnipperd energielandschap / Vivet en verwijzing naar plan
+Energietransitie / versnipperd energielandschap / Vivet / Use case Warmte
+gekozen vanwege grote diversiteit van sector en informatiebronnen.
 
 -   Punt op de horizont
 
-*deze paragraaf: Jeroen*  
-- informatiemodellen en toepassingsgebieden + plaatje
+Plaatje *Lagen Nationaal Metamodel
+(https://www.noraonline.nl/wiki/Modellering_van_gegevens)*
+
+Toelichting: informatie onderdeel van informatiesystemen die deel uitmaken van
+organisaties. Informatielandschap versnipperd, maar ingrijpend om hier in te
+grjpen omdat je dan aan organisatie komt. Hoe meer versnippering, hoe
+ingrijpender.
+
+Begrippen zijn minder verankerd in informatiesystemen, begrippen slaan op de
+taal die men spreekt. Informatiemodellering zorgt voor vertaalslag van begrippen
+naar informatiesystemen.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 -   Waarom begrippenkader
-
--   terugblik op Vimet 2019
-
--   BegrippenCatalogus warmte 2020
-
--   doel aanpak
-
--   resultaat
-
--   doelgroep
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Geen gevestigde informatiemodellen gevonden in warmtedomein. Wel grote behoefte
+aan uniformiteit qua taal. Begrippenkader: minder belangen en breed ecosysteem:
+ook wetgeving, subsidies. De basis voor informtiemodellering
+
+Proces: inventariseren en relateren van begrippen / vaststellen van begrippen en
+hun relaties / harmoniseren van begrippen / beheer en onderhoud.
+
+`-   Terugblik op Vimet 2019`
+
+\@\@ waar zit de verbinding met Vimet 2019 precies? Use case Installaties /
+Gebouwen
+
+`-   BegrippenCatalogus warmte 2020`
+
+Het idee bij het inrichten van een begrippencatalogus: toegankelijk / verbindend
+/ ...
+
+`-   Doel aanpak`
+
+Ambitie: ‘alle herkomstbronnen van begripsdefinities in het warmtedomein
+
+`-   Resultaat`
+
+`Een rijkdom aan bronnen en een goede kansen om deze brede verzameling aan
+elkaar te relateren. `
+
+`-   Doelgroep`
+
+Partijen met herkomstbronnen benoemen. Doelgroep volgende stap: beleidsmakers,
+materiedeskundigen warmtesector, wetgeving, informatiespecialisten, partij die
+autrotieti / governance op zich wil nemen.
 
 -   leeswijzer
 
+Hoofdstuk *Methodiek en techniek* beschrijft achtergrond van begrippencatalogus,
+MIM, selectie van tooling, en ‘spoorzoeken’ naar warmtebegrippen, opsomming van
+bronnen, opsomming van benaderde partijen.
+
+Hoofdstuk *Begrippencatalogus* geeft een beschrijving van het resultaat: de
+geïnventariseerde begripen, de linkjes naar de herkomstbronnen van
+begripsdefinities, de gemaakte keuzen bij het bouwen van de hiërachie van
+begrippen.
+
+Hoofstuk *Bevindingen* doet in grote lijnen verslag van wat we tijdens dit
+project zijn tegengekomen, en in *Conclusies en Aanbevelingen* zetten we de
+bevindingen in het perspectief van Vivet.
+
 -   samenvatting
 
-![plaatje](\media\plaatje.jpg)
+\@\@ Moet dat nog hier?
 
+plaatje
 
+\@\@ Welk plaatje?
 
 Hoofdstuk Methodiek en techniek
 -------------------------------

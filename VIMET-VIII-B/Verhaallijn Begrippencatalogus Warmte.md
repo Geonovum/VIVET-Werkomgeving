@@ -1,5 +1,5 @@
-Hoofdstuk In bewerking
-----------------------
+Hoofdstuk Notities bewerking
+----------------------------
 
 \@\@ = vraagtekens – nog uit te werken.
 
@@ -56,13 +56,13 @@ Ambitie: ‘alle herkomstbronnen van begripsdefinities in het warmtedomein
 `-   Resultaat`
 
 `Een rijkdom aan bronnen en een goede kansen om deze brede verzameling aan
-elkaar te relateren. `
+elkaar te relateren en in de toekomst te harmoniseren. `
 
 `-   Doelgroep`
 
 Partijen met herkomstbronnen benoemen. Doelgroep volgende stap: beleidsmakers,
 materiedeskundigen warmtesector, wetgeving, informatiespecialisten, partij die
-autrotieti / governance op zich wil nemen.
+autoriteit / governance op zich wil nemen.
 
 -   leeswijzer
 
@@ -81,7 +81,7 @@ bevindingen in het perspectief van Vivet.
 
 -   samenvatting
 
-\@\@ Moet dat nog hier?
+\@\@ Dit schrijven wanneer bevindingen, conclusies, aanbevelingen gereed is.
 
 plaatje
 
@@ -93,32 +93,52 @@ Hoofdstuk Methodiek en techniek
 *dit hoofdstuk: Joeri*  
 *Leen heeft al basistekstje over begrippen*
 
-### MIM-framework
+Zie op U-schijf: Vivet VIII / 4 Werkdossier / Eindrapport / 20210316 Definities
+ikv Vivet
 
--   joeri over begrippen thesaurus taal  
-    plaatjes uit presentatie Archi XL (uitgebreid in bijlage)  
-    MIM  
+### Methodologisch framework
+
+-   met behulp van over begrippen / thesaurus / taal  
+    enkele plaatjes uit presentatie Archi XL – staat op U-schijf (plaatjes
+    hieruit kunnen uitgebreider worden opgenomen in een bijlage):  
+    MIM als framework  
     linked data  
-    DiSGeo  
-    visie architectuur zie ppt Ruud van Rossem Fair prinicpes (zie plaatje vivet
-    workshopw begrippenkader)
+    DiSGeo en visie architectuur zie ppt Ruud van Rossem (op U-schijf)  
+    Fair principes (zie plaatje vivet workshop begrippenkader op U-schijf)
 
 ### applicatie
 
 -   iets over de gekozen tooling
 
+Kort beschrijven welke typen tools bestaan hiervoor? Waarom gekozen voor
+vocbench?
+
 -   publicatieomgeving
+
+Aanwezige functionaliteit, gemaakte keuzen
 
 -   beheeromgeving
 
+Aanwezige functionaliteit, gemaakte keuzen
+
 ### onderzoeksproces
 
--   spoorzoekend
+-   spoorzoekend / interviews
 
--   interviews
+Versnipperde landschap. Begonnen met opvraag informatiemodellen; weinig
+resultaat. Wel enkele netwerkorganisaties. Stichting warmtenetwerk. Warmtesector
+via Energie Nederland. Overheid: RVO, ECW, PBL.  
+Overal grote bereidheid tot medewerking. Overal herkenning problematiek. Overal:
+“nodig, maar grote taak”.
 
-Hoofdstuk Landsschapsverkenning warmtewereld
---------------------------------------------
+Spoorzoeken niet afgerond. Tot op heden interviews/presentaties per stakeholder
+(benoemen: EnergieNL (sector) / overheid / ACM / kennisdragers / ...). Volgende
+stap: verschillende stakeholders bij elkaar brengen – dan kunnen ook de eerste
+vragen richting vaststellen en harmoniseren van begrippen en governance gesteld
+worden.
+
+Hoofdstuk Resultaten landschapsverkenning warmtewereld
+------------------------------------------------------
 
 *deze paragraaf: Jeroen*
 

@@ -26,6 +26,10 @@ Hoofdstuk Inleiding
 
 -   samenvatting
 
+![plaatje](\media\plaatje.jpg)
+
+
+
 Hoofdstuk Methodiek en techniek
 -------------------------------
 

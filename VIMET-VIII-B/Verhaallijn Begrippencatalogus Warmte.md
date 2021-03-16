@@ -3,24 +3,26 @@ Hoofdstuk Inleiding
 
 -   Context
 
--   Vivet
+Energietransitie / versnipperd energielandschap / Vivet en verwijzing naar plan
 
 -   Punt op de horizont
 
 *deze paragraaf: Jeroen*  
-    -   informatiemodellen en toepassingsgebieden + plaatje
-    
-    -   Waarom begrippenkader
+- informatiemodellen en toepassingsgebieden + plaatje
 
-    -   terugblik op Vimet 2019
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-   Waarom begrippenkader
 
-    -   BegrippenCatalogus warmte 2020
+-   terugblik op Vimet 2019
 
-    -   doel aanpak
+-   BegrippenCatalogus warmte 2020
 
-    -   resultaat
+-   doel aanpak
 
-    -   doelgroep
+-   resultaat
+
+-   doelgroep
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -   leeswijzer
 
@@ -39,8 +41,8 @@ Hoofdstuk Methodiek en techniek
     MIM  
     linked data  
     DiSGeo  
-    visie architectuur zie ppt Ruud van Rossem
-    Fair prinicpes (zie plaatje vivet workshopw begrippenkader)
+    visie architectuur zie ppt Ruud van Rossem Fair prinicpes (zie plaatje vivet
+    workshopw begrippenkader)
 
 ### applicatie
 
@@ -61,53 +63,9 @@ Hoofdstuk Landsschapsverkenning warmtewereld
 
 *deze paragraaf: Jeroen*
 
--   Inleiding met hier de warmtewereld wordt beschreven aan de hand van een inventarisatie van de  belangrijkste stakeholders die je kunt indelen in een aantal aandachtingsgebieden / contexten / toepassingen.
--   Het gebruik van de indeling andachtingsgebieden / contexten / toepassingen is nog niet consequent, dit nog uitwerken.
-
-Poging 1: (nummers corresponderen met powerpoint sheet nr in ordering stakeholder en begrippenkader.pptx
-
-1) Blauwe blokken: indeling stakeholders naar **warmtenetten / afnemers warmte / eigenaren netten / leveranciers,dienstverleners** / branche / kennisinstellingen / gegevens 
-(vet zou je de sector kunnen noemen)
-(Leen waar is jou upgrade plaat?)
-
-2) Spreadsheet stakeholders heeft kolome : Categorie stakholder: Adviesbureau / data afnemer / data publiceren / financier / kennisdrager / warmtebedrijf 
-
-3) De groepen in Vocbench die begrippen leveren hebben ook een bepaalde indeling / ordening, maar welke? Heeft nu de kop "Verantwoordelijke organsitatie / programma"
-
-4) Bollenplaat "Context/ecosysteem energiebegrippen" heeft indeling naar Energiesector / Wet- en Regelgeving en Monitoring die verder uit te splitsen is. (Initieel gebruikt voor scopebepaling)
-
-5) Begrippenkader zelf heeft ook een indeling dwz hierarchie object / fysiek object - Informatieobject - persoon / energiebron / energiedrager / warmte, etc die ook te visualiseren is met een Graph
-
-6) Er ontstaat hiermee ook een relatie tussen de groepen en de begrippen en zou je kunnen visualiseren in een matrix waarin je samenhang / overlap kunt zien (wordt wel groter matrix...)
-
-7) Mapping vivet 2021-22 op MB-IMG energie
-
-8) Indeling IM energie naar toepassing en domeinspecifieke pijlers (Denkmodel datastandaarden energietransitie 0.1.pptx)
-(upgraden met warmte)
-
-9) Geel definitielijsten aanwezig (bron?)
-
-Welke indeling is leidend cq herkenbaar gezien bovenstaande (poging 2 tot nadere ordering)
-- (4) Stakeholders: Setor - Wet en regelgeving - Monitoring
-- Bronnen: per stakeholder? (Is hier plaat van?)
-- (8) Toepassing: geen echte indeling maar gebruikt om use cases te definieren
-- (3) Begrippen: hierarchie in Vocbench
-- (3) Domein: Indeling vanuit informatietechnisch oogpunt (domeinspecifieke standaarden)
-
-
-Welke gaan we niet meer gebruiken?
-(1) blauwe blokken plaat, misschien integreren met bollenplaat (4)
-
-(2) categorie stakeholder
-
-(7) mapping begippen / IM (hoe kunnen deze kennis wel integreren ?)
-
-(9) geel definitielijst (zit deels in groepen VOCbench)
-
-
-
-
-
+-   Inleiding met hier de warmtewereld wordt beschreven aan de hand van een
+    inventarisatie van de belangrijkste stakeholders die je kunt indelen in een
+    aantal aandachtingsgebieden / contexten / toepassingen.
 
 ### Schets warmtedomein
 
@@ -195,8 +153,8 @@ Hoofdstuk Begrippencatalogus
 
 -   Verantwoording gemaakte keuzes
 
--   Uitleg van de hierarchie
-(zie ook ESDL uitleg document van Edwin Mathijssen, evt in bijlage)
+-   Uitleg van de hierarchie (zie ook ESDL uitleg document van Edwin Mathijssen,
+    evt in bijlage)
 
 -   met voorbeeld : object - fysiek object - energievoorziening -
     energietransport - warmtetransport - aansluiting
@@ -229,9 +187,9 @@ Hoofdstuk Conclusie en Aanbevelingen
 Hoofdstuk Bijlagen
 ------------------
 
-### Bijlage Presentatie over Begrippen en Taal 
+### Bijlage Presentatie over Begrippen en Taal
 
-### Bijlage Stakeholders 
+### Bijlage Stakeholders
 
 ### Bijlage Geïnterviewde partijen
 

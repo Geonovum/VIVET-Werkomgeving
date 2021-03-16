@@ -28,6 +28,10 @@ Energietransitie / versnipperd energielandschap / Vivet en verwijzing naar plan
 
 -   samenvatting
 
+![plaatje](\media\plaatje.jpg)
+
+
+
 Hoofdstuk Methodiek en techniek
 -------------------------------
 

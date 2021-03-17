@@ -56,7 +56,7 @@ Ambitie: ‘alle herkomstbronnen van begripsdefinities in het warmtedomein
 `-   Resultaat`
 
 `Een rijkdom aan bronnen en een goede kansen om deze brede verzameling aan
-elkaar te relateren en in de toekomst te harmoniseren. `
+elkaar te relateren en in de toekomst te harmoniseren.`
 
 `-   Doelgroep`
 
@@ -142,23 +142,43 @@ Hoofdstuk Resultaten landschapsverkenning warmtewereld
 
 *deze paragraaf: Jeroen*
 
--   Inleiding met hier de warmtewereld wordt beschreven aan de hand van een
-    inventarisatie van de belangrijkste stakeholders die je kunt indelen in een
-    aantal aandachtingsgebieden / contexten / toepassingen.
+-   Inleiding
+
+Hier wordt de warmtewereld beschreven. Door gebruik te maken van begrippen is de
+scope ruim. Vanuit *informatie* zoom je in op partijen waar
+informatievoorziening van groot belang is. Via *begrippen* heb je echter een
+ruimere scope. Zie hiervoor ook de ‘bollenplaat’ *Begrippencatalogus Warmte
+Herkomstbronnen begripsdefinities.* Deze biedt een goed overzicht om dit
+landschap te beschrijven ern biedt aanknopingspunten om stakeholders en
+toepassingen te inventariseren.
 
 ### Schets warmtedomein
 
 *deze paragraaf: Jeroen*
 
--   wet - monitoring - sector
+-   wet - monitoring – sector
+
+Dit is startpunt geweest. Later ruimer – zie de bollenplaat.
+
+Hier plaat opnemen: *Begrippencatalogus Warmte Herkomstbronnen
+begripsdefinities*
+
+Deels verwerkt in Begrippencatalogus Warmte.
 
 -   Stakeholders
 
--   powerpoint blauwe blokjes
+Kort beschrijven aan de hand van de *blokkenplaat* en relateren aan de plaat die
+hierboven staat (bollenplaat). Misschien de platen nog iets verder op elkaar
+afstemmen qua naamgeving?
 
--   in Bijlage: geanonimiseerde versie van spreadsheet
+Verwijzen naar Bijlage: geanonimiseerde versie van spreadsheet met partijen en
+namen. (deze misschien ook nog even qua terminologie / volgorde afstemmen op
+blokkenplaat / bollenplaat?)
 
--   benoemen bron per stakeholder(s)
+-   benoemen herkomstbron per stakeholder(s)
+
+Belang van bronnen proberen te duiden. Samenhang tussen bronnen. Bij welke
+stakeholders vinden we wel en waar vinden we (nog) geen begrippen en definities?
 
 ### Toepassingsgebieden warmte in Conceptueel IM Warmte
 

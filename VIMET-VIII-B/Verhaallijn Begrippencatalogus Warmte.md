@@ -183,50 +183,106 @@ blokkenplaat / bollenplaat?)
 Belang van bronnen proberen te duiden. Samenhang tussen bronnen. Bij welke
 stakeholders vinden we wel en waar vinden we (nog) geen begrippen en definities?
 
-### Toepassingsgebieden warmte in Conceptueel IM Warmte
+### Toepassingsgebieden warmte in Conceptueel InformatieModel Framework
 
 *deze paragraaf: Jeroen?*
 
--   afbeelding CIM Energie met domeinen en toepassingen
+-   afbeelding Vivet CIM Energie Framework met domeinen en toepassingen
 
 CIM – definitie uit MIM ophalen
 
-CIM voor energievoorziening is e groot om in één keer te ontwerpen. Stap voor
+CIM voor energievoorziening is te groot om in één keer te ontwerpen. Stap voor
 stap. Beginnen bij concrete casuïstiek in bepaalde context. Vivet jaar 1: vooral
-verbindingen gemaakt met installaties (domeinen energie=markt+netwerk, domein
-bouw, domein installaties), nu verder gegaan met domein warmte. En domein is ook
-groot, dus daarbinnen beginnen met toepassingen. Vooral de toepassingen die ons
-aangereikt zijn via het Vivet-programma.
+verbindingen gemaakt met energie-installaties (domeinen energie=markt+netwerk,
+domein bouw, domein installaties), nu verder gegaan met domein warmte. En domein
+is ook groot, dus daarbinnen beginnen met toepassingen. Vooral de toepassingen
+die ons aangereikt zijn via het Vivet-programma.
 
 -   CIM Energie: eigenlijk nog breder: ook internationaal nog opnemen : nog
     verwerken in schema – zie Leen - bijv. Eurovoc
 
--   In schema de pijlers Bouw en Installaties samenvoegen?
+Joeri: verwijzing naar Eurovoc?
+
+Ook schema opnemen van Nico Vlug, Tennet, over internationale definities.
+
+-   In schema de pijlers Bouw en Installaties samengevoegd. Dat geeft ruimte
+    voor een ‘nog in te voegen domein’.
+
+Al een extra schema gemaakt; kunnen we voor kunnen kiezen.
 
 -   Aandachtsgebieden: korte beschrijving van wat er speelt, m.n. op
     informatiegebied.
 
-    -   Marktfacilitering: Afsprakenstelsel / PIR CERES
+We kunnen hier verwijzen naar rapport E van Vivet 2019-2020; daar staat dat
+uitgebreid beschreven.
 
-    -   Netwerk: projecten bij Netbeheer NL, Begrippenmodel Stedin
+Vervolgens nog warmte beschrijven. Globale aanduiding van de kruispunten tussen
+de benoemde toepassingsgebieden en domein Warmte. Dit blijft globaal, omdat we
+ervoor hebben gekozen om het niveau van begrippen verder uit te werken.
 
-    -   Bouw: UOI
+De bedoeling was om ons voor de verdere uitwerking van dit framework mede te
+baseren op de door Netbeheer Nederland te ontwikkelen informatiemodellen, die
+een aggregaat zou worden van de informatiemodellen van de onderscheiden
+netbeheerders. Deze ontwikkeling is echter niet zo ver ontwikkeld dat dat voor
+ons in dit jaar gebruikt kon worden.
 
-    -   Installaties: ....
+Op begrippenniveau hebben we van Stedin wel een model ontvangen. Dat is mede de
+basis voor een model voor de gezamenlijke netbeheerders. Maar dat is op dit
+moment nog niet zover uitgewerkt dat we dat in ons begrippenmodel hebben kunnen
+opnemen. In het project 2020-2021 wordt dat verder opgepakt in het kader van de
+uitwerking van Hernieuwbare energie.
 
-    -   Warmte: dit rapport
+-   Warmte: dit rapport
+
+Na een stakeholder-analyse – zie de blokkenplaat - is een uitvraag gedaan naar
+het bestaan van informatiemodellen en de bereidheid om de kennis daarover te
+delen. Dit verzoek isgedaan aan de warmtebedrijven, zowel vias directe contact
+als via de sectororganisatie Energie Nederland. De response daarop was zodanig,
+dat dat mede aanleiding was om het niveau van informatiemodellering te laten
+rusten en het project verder te richten op begripsniveau.
 
 -   Toepassingen:
 
     -   informatieportalen
 
-    -   informatiebehoefte NPRES, TVW, ...
+Informatieportalen zijn in Vivet-jaar 2019-2020 uitgebreid in beeld gebracht in
+project Vivet-D. Dit jaar zou een keuze voor herordening plaatsvinden, en dat
+zou het juiste moment zijn om vanuit toepassingsperspectief de informatiekant
+van het Warmtedomein te gaan onderzoeken. Zover is het echter niet gekomen, maar
+wel is de indruk ontstaan dat de WarmteAtlas, één van de informatieportalen ook
+de komende jaren een belangrijke rol zou blijven spelen. Daarom is ervoor
+gekozen om de data die beschikbaar wordt gemaakt in de WarmteAtlas met de
+ontwikkelaars verder te gaan onderzoeken. Daarbij zijn we begonnen op
+begripsniveau, omdat dat het niveau was waar we aspecten van de WarmteAtlas
+kunnen relateren aan andere domeinen.
 
-    -   CBS
+-   informatiebehoefte NPRES, TVW, ...
 
-    -   Vivet-projecten
+*Jeroen*: enkele zinnen n.a.v. het gesprek dat 17 maart plaatsvond?
 
-    -   Digital Twin Fysieke Leefomgeving
+-   CBS
+
+Door CBS is aangegeven dat het verkrijgen van laagregionale data over warmte al
+jaren een hoofdpijndossier is. Dat is mede aanleiding geweest om het domein
+Warmte medio dit jaar op te gaan pakken.
+
+Joeri/Sanne: kunnen jullie hier nog iets melden over begripsdefinities van CBS?
+
+-   Vivet-projecten 2021-2022
+
+Er is een aanzet gemaakt tot de bijdrage die een verdere uitwerking van Warmte
+in de begrippencatalogus kan bieden aan de voorziene Vivet-projecten in
+projectjaar 2021-2022. Aanname hierbij is, dat ook het domein Hernieuwbare
+energie zal worden uitgewerkt in de begrippencatalogus.
+
+Hier: opnemen de plaat ‘*Ontwikkeling Vivet Projecten 2021-2022: Begrippen en
+informatiemodellen’*.
+
+De plaat hier nog enigszins toelichten. Het is een eerste aanzet.
+
+-   Digital Twin Fysieke Leefomgeving (DTFL)
+
+Moeten we deze hier opnemen?
 
 Hoofdstuk Begrippencatalogus
 ----------------------------

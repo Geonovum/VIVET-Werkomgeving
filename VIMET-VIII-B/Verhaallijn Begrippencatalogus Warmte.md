@@ -106,6 +106,9 @@ ikv Vivet
     DiSGeo en visie architectuur zie ppt Ruud van Rossem (op U-schijf)  
     Fair principes (zie plaatje vivet workshop begrippenkader op U-schijf)
 
+Vraag van Jeroen: refereren aan
+<https://www.noraonline.nl/wiki/Gegevensbeschrijvingen/Handreiking>?
+
 ### applicatie
 
 -   iets over de gekozen tooling
@@ -182,9 +185,18 @@ stakeholders vinden we wel en waar vinden we (nog) geen begrippen en definities?
 
 ### Toepassingsgebieden warmte in Conceptueel IM Warmte
 
-*deze paragraaf: Leen*
+*deze paragraaf: Jeroen?*
 
--   afbeelding CIM Energie met aandachtsgebieden / toepassingen
+-   afbeelding CIM Energie met domeinen en toepassingen
+
+CIM – definitie uit MIM ophalen
+
+CIM voor energievoorziening is e groot om in één keer te ontwerpen. Stap voor
+stap. Beginnen bij concrete casuïstiek in bepaalde context. Vivet jaar 1: vooral
+verbindingen gemaakt met installaties (domeinen energie=markt+netwerk, domein
+bouw, domein installaties), nu verder gegaan met domein warmte. En domein is ook
+groot, dus daarbinnen beginnen met toepassingen. Vooral de toepassingen die ons
+aangereikt zijn via het Vivet-programma.
 
 -   CIM Energie: eigenlijk nog breder: ook internationaal nog opnemen : nog
     verwerken in schema – zie Leen - bijv. Eurovoc

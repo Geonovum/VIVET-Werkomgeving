@@ -22,6 +22,10 @@ gekozen vanwege grote diversiteit van sector en informatiebronnen.
 
 Plaatje *Lagen Nationaal Metamodel
 (https://www.noraonline.nl/wiki/Modellering_van_gegevens)*
+<figure id="Metamodel">
+<img src="media/Lagen_Nationaal_Metamodel.png" alt="">
+<figcaption>Metamodel</figcaption>
+</figure>
 
 Toelichting: informatie onderdeel van informatiesystemen die deel uitmaken van
 organisaties. Informatielandschap versnipperd, maar ingrijpend om hier in te
@@ -46,7 +50,7 @@ hun relaties / harmoniseren van begrippen / beheer en onderhoud.
 `-   Terugblik op Vimet 2019`
 
 \@\@ waar zit de verbinding met Vimet 2019 precies? Use case Installaties /
-Gebouwen
+Gebouwen - Domein in Vivet Conceptueel InformatieModel
 
 `-   BegrippenCatalogus warmte 2020`
 
@@ -87,18 +91,41 @@ bevindingen in het perspectief van Vivet.
 
 \@\@ Dit schrijven wanneer bevindingen, conclusies, aanbevelingen gereed is.
 
-plaatje
-
-\@\@ Welk plaatje?
 
 Hoofdstuk Methodiek en techniek
 -------------------------------
 
 *dit hoofdstuk: Joeri*  
-*Leen heeft al basistekstje over begrippen*
+Begrippencatalogus
 
-Zie op U-schijf: Vivet VIII / 4 Werkdossier / Eindrapport / 20210316 Definities
-ikv Vivet
+Een begrippencatalogus is echter méér dan een opsomming van begrippen: het beschrijft ook – op structurele wijze – de wijze waarop de begrippen met elkaar samenhangen. Zo is een energienet een bredere term van warmtenet, is een kleinverbruiker een smallere term van verbruiker en is consument een geletateerde term aan verbruiker. 
+Een synoniem voor begrippencatalogus is thesaurus. 
+Een synoniem voor begrippencatalogus is vocabulaire. 
+De begrippencatalogus wordt stapsgewijs opgebouwd, en de bouwstenen krijgen ook deze benaming: Begrippencatalogus Warmte, Begrippencatalogus Hernieuwbare Energie. 
+Deze bouwstenen worden later opgenomen in de Begrippencatalogus Energievoorziening. 
+De begrippen zijn in doorgaans niet zelfstandig gedefinieerd in de begrippencatalogus, maar verwijzen naar Herkomstbronnen begripsdefinities, waarin de definities beschreven zijn. Dit kunnen wetten zijn, normen, documenten met subsidie-voorstellen, artikelen op websites, etc. Maar ook kan verwezen worden naar andere begrippencatalogi. Bij voorkeur gebeurt dat met Linked Data-technieken, zodat begrippen en definities machinaal vindbaar zijn. 
+Door de overzichtelijke zoekfunctie op term, definitie en bron helpt de Begrippencatalogus Energie de leesbaarheid en toepassing van deze bronnen te vergroten. 
+De begrippencatalogus is het woordenboek, waaruit geput kan worden bij de beschrijving van de informatie, en dat gebeurt in informatiemodellen. We onderkennen twee lagen: het Conceptueel informatiemodel en het Logisch informatie of -gegevensmodel. Het conceptuele niveau is onafhankelijk van de operationele informatiesystemen, de beschrijving van hoe informatie door deze systemen worden vastgelegd en gebruikt gebeurt op het niveau van de logische informatiemodellen. 
+Conceptueel Informatiemodel Energietransitie 
+Overgenomen uit https://docs.geostandaarden.nl/mim/mim/#wat-is-een-informatiemodel:  
+Wanneer we informatie over bepaalde onderwerpen willen inwinnen, registreren of uitwisselen, dan is het van belang om deze informatie eerst goed te beschrijven. We doen dit zodat het voor eenieder die met de informatie aan de slag gaat helder en eenduidig is:
+* waarover de informatie gaat, bv. informatie over een persoon of een gebouw, we noemen dit de objecten, de onderwerpen van gesprek
+* de eigenschappen/kenmerken zelf, waarvan we informatie bijhouden, bv. de naam van een persoon of het bouwjaar van een gebouw
+* wat de betekenis is van die informatie, de semantiek
+* hoe deze informatie qua structuur in elkaar zit, qua onderlinge relaties en qua interne structuur van de data
+We doen dit door een model te maken van de informatie. Een Informatiemodel beschrijft daarom de structuur, semantiek en de eigenschappen van informatie over dingen in de werkelijkheid. De beschrijving van de informatie heeft de vorm van een model dat een gestructureerde weergave is van die werkelijkheid. Een dergelijk model is noodzakelijk om deze informatie te kunnen beheren en gebruiken (door mensen en machines) bij het communiceren over deze werkelijkheid, in registraties of anderszins, zoals het specificeren van de tussen registraties uit te wisselen gegevens of van de te bevragen informatie uit een registratie.
+Het beschrijven vindt plaats door de informatie van de objecten die we beschouwden te modelleren, met hun kenmerken en hun onderlinge relaties. We gebruiken daarvoor termen als objecten, objecttype, atttribuut, attribuutsoort, relatie, relatiesoort. Hiermee kunnen we de werkelijke data beschrijven. 
+
+<figure id="Vivet Conceptueel Informatiemodel Framework">
+<img src="media/Vivet_CIM_Framework.png" alt="">
+<figcaption>Vivet Conceptueel Informatiemodel Framework</figcaption>
+</figure>
+ 
+Het Vivet Conceptueel InformatieModel (CIM) framework heeft een gelaagde structuur, en hiermee is het verbonden met de informatiemodellen van de Nederlandse overheid (de bovenste laag van dit model). Een belangrijk onderdeel hiervan zijn de basisregistraties, die zich baseren op (of: de eigenschappen overnemen van) de bovenste laag. 
+Het z.g. Generiek Informatiemodel Energietransitie op zijn beurt is gebaseerd op de eigenschappen van de basisregistraties. 
+In de praktijk betekent dit, dat de eigenschappen van begrippen die bekend zijn in de basisregistraties (zoals ‘Adres’, ‘Persoon’) ook in het Generiek Informatiemodel Energietransatie worden gebruikt. De eigenschappen worden ‘overerfd’. Het generieke aspect doelt op het overerven van de eigenschappen naar de informatiemodellen van specifieke energietransitie-toepassingen of -projecten (zoals hierboven bij voorbeeld Informatieportalen). 
+Op deze manier ontstaat een bouwwerk met samenhangende onderdelen dat een deel van de versplintering van het informatrielandschap opheft en robuustheid voor de toekomst creëert. Met nadruk moet hier genoemd worden dat de dynamiek van de energietransitie betekent dat dit gebouw onderhoud behoeft en voortdurend aangepast moet worden aan nieuwe eisen die gesteld worden aan de energie-informatievoorziening. 
+Het Vivet Conceptueel InformatieModel (CIM) Framework heeft een gelaagde structuur, en hiermee is het verbonden met de informatiemodellen van de Nederlandse overheid (de bovenste laag van dit model). Een belangrijk onderdeel hiervan zijn de basisregistraties, die zich baseren op (of: de eigenschappen overnemen van) de bovenste laag.
 
 ### Methodologisch framework
 
@@ -446,12 +473,6 @@ Hoofdstuk Bijlagen
 Hier enkele sheets opnemen uit presentatie Joeri en collega.
 
 ### Bijlage Stakeholders
-
-
-<figure id="indelingnaartypenstandaarden">
-    <img src="media/b312b45581564534dcd1f1f199ae2871.png" alt="">
-    <figcaption>Indeling naar typen standaarden</figcaption>
-</figure>
 
 **Schema Stakeholders Begrippencatalogus Warmte**
 

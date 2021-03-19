@@ -1,10 +1,14 @@
-Hoofdstuk Notities bewerking
-----------------------------
+Hoofdstuk Notities/tips schrijven van dit rapport
+-------------------------------------------------
 
 \@\@ = vraagtekens – nog uit te werken.
 
-Afbeeldingen staan in ppt op U-schijf / map Eindrapport – plaatjes hebben
-naamgeving (in notitie van elke sheet).
+Bron van de afbeeldingen: ‘*Verzameling afbeeldingen eindrapport.pptx*’ op
+U-schijf / map Eindrapport – plaatjes hebben naamgeving (in notitie van elke
+sheet).  
+De afbeeldingen worden bij een wijziging vanuit deze .pptx als afbeelding (.png)
+in de map ‘media’ gezet. Deze .png’s krijgen de naam zoals in de notitie van
+elke sheet staat.
 
 Hoofdstuk Inleiding
 -------------------
@@ -150,8 +154,8 @@ Hoofdstuk Resultaten landschapsverkenning warmtewereld
 Hier wordt de warmtewereld beschreven. Door gebruik te maken van begrippen is de
 scope ruim. Vanuit *informatie* zoom je in op partijen waar
 informatievoorziening van groot belang is. Via *begrippen* heb je echter een
-ruimere scope. Zie hiervoor ook de ‘bollenplaat’ *Begrippencatalogus Warmte
-Herkomstbronnen begripsdefinities.* Deze biedt een goed overzicht om dit
+ruimere scope. Zie hiervoor ook de ‘bollenplaat’ *Schema Begrippencatalogus
+Warmte Herkomstbronnen begripsdefinities.* Deze biedt een goed overzicht om dit
 landschap te beschrijven ern biedt aanknopingspunten om stakeholders en
 toepassingen te inventariseren.
 
@@ -163,16 +167,16 @@ toepassingen te inventariseren.
 
 Dit is startpunt geweest. Later ruimer – zie de bollenplaat.
 
-Hier plaat opnemen: *Begrippencatalogus Warmte Herkomstbronnen
+Hier plaat opnemen: *Schema Begrippencatalogus Warmte Herkomstbronnen
 begripsdefinities*
 
 Deels verwerkt in Begrippencatalogus Warmte.
 
 -   Stakeholders
 
-Kort beschrijven aan de hand van de *blokkenplaat* en relateren aan de plaat die
-hierboven staat (bollenplaat). Misschien de platen nog iets verder op elkaar
-afstemmen qua naamgeving?
+Kort beschrijven aan de hand van de plaat *Stakeholders begrippen warmte* en
+relateren aan de plaat die hierboven staat (bollenplaat). Misschien de platen
+nog iets verder op elkaar afstemmen qua naamgeving?
 
 Verwijzen naar Bijlage: geanonimiseerde versie van spreadsheet met partijen en
 namen. (deze misschien ook nog even qua terminologie / volgorde afstemmen op
@@ -284,86 +288,180 @@ De plaat hier nog enigszins toelichten. Het is een eerste aanzet.
 
 Moeten we deze hier opnemen?
 
-Hoofdstuk Begrippencatalogus
-----------------------------
+Hoofdstuk Begrippencatalogus Warmte
+-----------------------------------
 
 *Dit hoofdstuk: ??*
 
-### Inventariseren begrippen en definities
+Inleidinkje: eerst wordt de opzet van de begrippencatalogus beschreven: de
+scope, de keuzen bij de *inrichting* van de onderscheiden Groepen, Hïerarchie en
+Begrippen.
 
--   Methodiek toegepast op warmtedomein
+Vervolgens wordt de *inhoud* van de Groepen, Hïerarchie en Begrippen kort
+beschreven, met verwijzingen naar bijlagen en naar de begrippencatalogus zelf.
 
--   Hoe kom je tot dit begrippenkader (proces)
+### Verantwoording van de inrichting van de begrippencatalogus 
 
--   Samenvatting van gemaakte keuzen
+-   keuzen bij de opzet van de Begrippencatalogus.
 
-    -   keuze van herkomstbronnen (in BC groep)
+Bijv. Context van de begrippencatalogus: verbindingen met andere
+begrippencatalogi, zoals die van de basisregistraties?
 
-    -   bepalen van de groepen
+Bijv. ‘Warmte’ als keuze leidt tot ‘Energiedragers’ als hoger niveau.
+Energietransitie is thema voor Vivet, maar Energievoorziening is universeler
+term.
 
-    -   bepalen van de hiërarchie (methode v opdeling
+Bijv. Momenteel (2021) is de term ‘systeemintegratie’ in zwang, waarbij men
+doelt op samengaan van elektriciteit, gas, warmte en andere nog te ontwikkelen
+energiedragers. Met de inrichting van deBegrippencatalogus moet je daarmee
+rekening houden. De energiecapability ‘Energieconversie’ is hier een
+sleutelbegrip.
 
-### Groepen en Herkomstbronnen
+Zijn er nog meer afwegingen gemaakt die het vermelden waard zijn?
 
--   Eventueel: nadere aanduiding van gemaakte keuzen (wat wel, wat niet)
+-   keuzen bij het bepalen van de Groepen
 
--   Opsomming en korte beschrijving van de bronnen van de definities  
-    verwijzen naar bijlage met opsomming herkomstbronnen  
-    document op U-schijf: met wat wel en wat niet in BC opgenomen  
-    Sanne, Leen
+Inventarisatie op basis van stakeholder-analyse, Vivet-rapportages, kennis van
+energiesector en warmtedomein (literatuur, interviews, ervaring in de sector).
 
--   Toelichting per groep
+keuze gemaakt om de herkomstbronnen als groepen op te nemen; argumenten daarvoor
 
-### Hierarchie
+-   keuzen bij het bepalen van de Hiërarchie (methode v opdeling
 
--   Methode van opdeling (MIM..., koppeling andere (basisregistraties)
+veel herkomstbronnen bevatten begrippen en definities zonderdaar verbindingen
+tussen aan te leggen. ESDL heeft dat wel. Daarom deze indeling, met name de vijf
+z.g. energie-capabilities die daar centraal staan, als basis genomen voor de
+verdere opzet en indelling van de begrippencatalogus.
 
--   Verantwoording gemaakte keuzes
+Methode van opdeling (MIM..., koppeling andere (basis)registraties)
+
+### Beschijving van de Groepen / Herkomstbronnen
+
+-   Opsomming en korte beschrijving van de bronnen van de definities onder
+    Groepen
+
+Hier verwijzen naar in bijlage op te nemen document ‘*Herkomstbronnen
+begripsdefinities per energiedrager*’. met wat wel en wat niet in aanmerking
+komt voor begrippencatalogus en een beetje toelichting op deze lijst. Ook
+verwijzen naar het bijbehorende (bollen) schema
+
+Geen structuur opgezet tussen de opgenomen groepen
+
+-   Korte toelichting per opgenomen Groep in begrippencatalogus
+
+### Beschrijving van de Hiërarchie
 
 -   Uitleg van de hierarchie (zie ook ESDL uitleg document van Edwin Mathijssen,
-    evt in bijlage)
+    evt in bijlage opnemen)
 
 -   met voorbeeld : object - fysiek object - energievoorziening -
     energietransport - warmtetransport - aansluiting
 
-### Begrippen
+### Beschrijving van de Begrippen
 
--   Algemene toelichting op begrippen in BC
+-   Algemene toelichting op begrippen in begrippencatalogus
+
+Welke velden worden vastgelegd per begrip.
 
 -   Enkele voorbeelden met plaatje en uitleg van begrippen en relaties tussen
     begrippen
 
--   Begrippengraph
+-   Eén of meerdere afbeeldingen uit de begrippengraph (wolk) van
+    Begrippencatalogus Warmte met ook verbinding met andere begrippen
+    (basisregistraties?).
 
-Hoofdstuk Bevindingen
----------------------
+Hoofdstuk Bevindingen, Conclusie en Aanbevelingen
+-------------------------------------------------
 
--   interviews / reacties op begrippencatalogus
+### Hoofdstuk Bevindingen
 
--   hoeveelheid bronnen
+-   mening over begrippencatalogus
+
+Algemeen wordt in de warmtesector een begrippencatalogus positieve onthaald.
+Termen als ‘nuttig’, ‘verhelderend’ wijzen daarop. Het triggert ook soms het
+positief meedenken en dat heeft meegewerkt aan het spoorzoeken naar andere
+herkomstbronnen.
+
+-   hoeveelheid en scope van herkomstbronnen
+
+Tijdens dit onderzoek is een grote hoeveelheid bronnen uit heel diverse kanten
+aangereikt. De scope daarvan is veel breder dan we vooraf konden vermoeden.
 
 -   versplintering silos
 
+Begonnen met warmte vanwege de specifieke problematiek die daar speelt; uit
+onderzoek is niet gebleken dat er veel contacten zijn of affiniteit met de
+andere energiedragers. De Begrippencatalogus Warmte konden we dan ook in
+relatieve ‘splendid isolation’ opbouwen.
+
 -   governance
 
--   waarde van begrippenkader
+Veel gestelde vraag (soms als eerste, tijdens de interviews) : wie gaat
+harmonisatie en governance oppakken? Daar bleken in de sector weinig ideeën over
+te zijn. Men sprak soms uit dat wij (dus Vivet) hier het voortouw in zouden
+nemen.
 
-Hoofdstuk Conclusie en Aanbevelingen
-------------------------------------
+### Conclusies
+
+Als je op het niveau van begrippen aan de slag gaat, wordt je scope –
+spoorzoekenderwijs - veel groter dan een eenzijdig informatiekundige invalshoek.
+
+Er wordt weinig handelingsperspectief gezien in de sector ondanks de positieve
+feedback (nuttig, verhelderend, stap richting ontsplintering) door de experts.
+
+De behoefte aan harmonisatie van termen en begrippen is aanwezig, maar dit lijkt
+geen onderwerp. Ook werden nauwelijks suggesties gedaan voor welke partij
+verantwoordelijkheid zou moeten nemen. Men verwacht dat Vivet hier een rol in
+speelt.
+
+De basis die nu gelegd is, kan ook goed gebruikt worden voor andere
+energiedragers: er lijkt een mooie kapstok te zijn.
+
+Ondanks dat systeemintegratie (de verbinding tussen de energiedragers) van groot
+belang wordt geacht in de energiewereld, is dat bij vrijwel alle contacten met
+de warmtewereld in dit onderzoek nauwelijks ter sprake gekomen. De warmtewereld
+zoals hier ervaren is in tal van opzichten – nog – gescheiden van de andere
+energiedomeinen.
+
+### Aanbevelingen
+
+Vivet moet het initiatief nemen bij opzet en inrichting van de governance over
+de informatievoorziening. Het schetsen van een perspectief en het bijeenbrengen
+van partijen uit het warmtedomein is daarbij een eerste stap.
+
+Nu voor warmte een opzet is gemaakt, die in principe geschikt is voor andere
+energiedragers, zou de verdere uitwerking van het domein warmte parallel moeten
+gebeuren aan de inrcihting van de *Begrippencatalogus Hernieuwbare Energie*, om
+deze op elkaar af te stemmen, zodat er een robuuste basis ontstaat voor latere
+uitbreiding met andere energiedragers.
+
+Vivet zou bij haar projecten moeten inzetten op een benadering waarbij partijen
+van verschillende energiedragers gestimuleerd worden om samen te werken.
 
 Hoofdstuk Bijlagen
 ------------------
 
 ### Bijlage Presentatie over Begrippen en Taal
 
+Hier enkele sheets opnemen uit presentatie Joeri en collega.
+
 ### Bijlage Stakeholders
+
+**Schema Stakeholders Begrippencatalogus Warmte**
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<img src="media/Schema Stakeholders Begrippencatalogus Warmte.png" alt="">
+<figcaption>Stakeholders</figcaption>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ### Bijlage Geïnterviewde partijen
 
-### Bijlage Herkomstbronnen
+### Bijlage Herkomstbronnen begripsdefinities per energiedrager
 
 Opsomming, url’s, evt. contactpersonen
 
-### Bijlage ...
+Nog omzetten in kolomvorm?
+
+### Bijlage Uitleg ESDL (Edwin Matthijssen)
 
 ### Bijlage ...

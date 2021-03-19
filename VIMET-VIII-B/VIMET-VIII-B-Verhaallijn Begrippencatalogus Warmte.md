@@ -470,8 +470,10 @@ Kopie uit VIMET-I
 **Schema Stakeholders Begrippencatalogus Warmte**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<figure id="Stakeholders">
 <img src="media/Schema_Stakeholders_Begrippencatalogus_Warmte.png" alt="">
 <figcaption>Stakeholders</figcaption>
+</figure>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ### Bijlage Geïnterviewde partijen

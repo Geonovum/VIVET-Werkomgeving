@@ -300,7 +300,7 @@ Begrippen.
 Vervolgens wordt de *inhoud* van de Groepen, Hïerarchie en Begrippen kort
 beschreven, met verwijzingen naar bijlagen en naar de begrippencatalogus zelf.
 
-### Verantwoording van de inrichting van de begrippencatalogus 
+### Verantwoording van de inrichting van de begrippencatalogus
 
 -   keuzen bij de opzet van de Begrippencatalogus.
 

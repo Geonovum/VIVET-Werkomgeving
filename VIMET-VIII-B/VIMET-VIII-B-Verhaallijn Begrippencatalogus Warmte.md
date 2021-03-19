@@ -1,14 +1,13 @@
-Hoofdstuk Notities/tips schrijven van dit rapport
--------------------------------------------------
+TIPS VOOR VERDERE AFRONDING
 
+Op veel plekken telegramstijl
 \@\@ = vraagtekens – nog uit te werken.
-
 Bron van de afbeeldingen: ‘*Verzameling afbeeldingen eindrapport.pptx*’ op
-U-schijf / map Eindrapport – plaatjes hebben naamgeving (in notitie van elke
-sheet).  
+U-schijf / map Eindrapport 
+De plaatjes hebben per sheet een naamgeving (onderin notitie van elke sheet).  
 De afbeeldingen worden bij een wijziging vanuit deze .pptx als afbeelding (.png)
 in de map ‘media’ gezet. Deze .png’s krijgen de naam zoals in de notitie van
-elke sheet staat.
+elke sheet staat. En dat is ook de naam die in dit rapport gebruikt wordt. 
 
 Hoofdstuk Inleiding
 -------------------
@@ -392,7 +391,7 @@ Geen structuur opgezet tussen de opgenomen groepen
 -   Uitleg van de hierarchie (zie ook ESDL uitleg document van Edwin Mathijssen,
     evt in bijlage opnemen)
 <figure id="Hiërarchie">
-<img src="media/Groepen_Begrippencatalogus_Hierarchie.png" alt="">
+<img src="media/Hierarchie_Begrippencatalogus_Warmte.png" alt="">
 <figcaption>Hiërarchie</figcaption>
 </figure>
 -   met voorbeeld : object - fysiek object - energievoorziening -

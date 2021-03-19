@@ -174,7 +174,6 @@ worden.
 Hoofdstuk Resultaten landschapsverkenning warmtewereld
 ------------------------------------------------------
 
-*deze paragraaf: Jeroen*
 
 -   Inleiding
 
@@ -186,39 +185,20 @@ Warmte Herkomstbronnen begripsdefinities.* Deze biedt een goed overzicht om dit
 landschap te beschrijven ern biedt aanknopingspunten om stakeholders en
 toepassingen te inventariseren.
 
-### Schets warmtedomein
+ 
 
 *deze paragraaf: Jeroen*
 
 -   wet - monitoring – sector
 
-Dit is startpunt geweest. Later ruimer – zie de bollenplaat.
+Dit is startpunt geweest. Later ruimer – zie de bollenplaat met herkomstdefinities. 
 
-Hier plaat opnemen: *Schema Begrippencatalogus Warmte Herkomstbronnen
-begripsdefinities*
+### Vivet CIM Framework 
 
-Deels verwerkt in Begrippencatalogus Warmte.
-
--   Stakeholders
-
-Kort beschrijven aan de hand van de plaat *Stakeholders begrippen warmte* en
-relateren aan de plaat die hierboven staat (bollenplaat). Misschien de platen
-nog iets verder op elkaar afstemmen qua naamgeving?
-
-Verwijzen naar Bijlage: geanonimiseerde versie van spreadsheet met partijen en
-namen. (deze misschien ook nog even qua terminologie / volgorde afstemmen op
-blokkenplaat / bollenplaat?)
-
--   benoemen herkomstbron per stakeholder(s)
-
-Belang van bronnen proberen te duiden. Samenhang tussen bronnen. Bij welke
-stakeholders vinden we wel en waar vinden we (nog) geen begrippen en definities?
-
-### Toepassingsgebieden warmte in Conceptueel InformatieModel Framework
-
-*deze paragraaf: Jeroen?*
-
--   afbeelding Vivet CIM Energie Framework met domeinen en toepassingen
+<figure id="Vivet Conceptueel Informatiemodel Framework">
+<img src="media/Vivet_CIM_Framework.png" alt="">
+<figcaption>Vivet Conceptueel Informatiemodel Framework</figcaption>
+</figure>
 
 CIM – definitie uit MIM ophalen
 
@@ -229,27 +209,14 @@ domein bouw, domein installaties), nu verder gegaan met domein warmte. En domein
 is ook groot, dus daarbinnen beginnen met toepassingen. Vooral de toepassingen
 die ons aangereikt zijn via het Vivet-programma.
 
--   CIM Energie: eigenlijk nog breder: ook internationaal nog opnemen : nog
-    verwerken in schema – zie Leen - bijv. Eurovoc
-
-Joeri: verwijzing naar Eurovoc?
-
-Ook schema opnemen van Nico Vlug, Tennet, over internationale definities.
-
--   In schema de pijlers Bouw en Installaties samengevoegd. Dat geeft ruimte
-    voor een ‘nog in te voegen domein’.
-
-Al een extra schema gemaakt; kunnen we voor kunnen kiezen.
-
--   Aandachtsgebieden: korte beschrijving van wat er speelt, m.n. op
-    informatiegebied.
-
+CIM Energie: eigenlijk nog breder: ook internationaal nog opnemen : nog, verwerken in schema – zie Leen - bijv. RED II, EuroVoc (?), plaatje Nico Vlug van Tennet met internationale definities
+	
+Korte beschrijving van wat er speelt, m.n. op informatiegebied.
 We kunnen hier verwijzen naar rapport E van Vivet 2019-2020; daar staat dat
 uitgebreid beschreven.
 
-Vervolgens nog warmte beschrijven. Globale aanduiding van de kruispunten tussen
-de benoemde toepassingsgebieden en domein Warmte. Dit blijft globaal, omdat we
-ervoor hebben gekozen om het niveau van begrippen verder uit te werken.
+In schema de pijlers Bouw en Installaties samengevoegd. 
+Dat geeft ruimte voor een ‘nog in te voegen domein’; vooruitlopend op Vivet 2021-22 ingevuld met Hernieuwbare energie. 
 
 De bedoeling was om ons voor de verdere uitwerking van dit framework mede te
 baseren op de door Netbeheer Nederland te ontwikkelen informatiemodellen, die
@@ -263,7 +230,45 @@ moment nog niet zover uitgewerkt dat we dat in ons begrippenmodel hebben kunnen
 opnemen. In het project 2020-2021 wordt dat verder opgepakt in het kader van de
 uitwerking van Hernieuwbare energie.
 
--   Warmte: dit rapport
+### Domein Warmte
+
+#### Stakeholders en Herkomstbronnen begripsdefinities 
+
+Kort beschrijven aan de hand van onderstaande platen  en relateren aan de plaat die hierboven staat (bollenplaat). 
+Misschien de platen nog iets verder op elkaar afstemmen qua naamgeving?
+
+Stakeholders
+
+<figure id="Stakeholders">
+<img src="media/Schema_Stakeholders_Begrippencatalogus_Warmte.png" alt="">
+<figcaption>Stakeholders</figcaption>
+</figure>
+
+Verwijzen naar Bijlage: geanonimiseerde versie van spreadsheet met partijen en
+namen. (deze misschien ook nog even qua terminologie / volgorde afstemmen op
+blokkenplaat / bollenplaat?)
+
+Herkomstbronnen
+
+<figure id="Schema_Begrippencatalogus_Warmte_Herkomstbronnen_begripsdefinities">
+<img src="media/Vivet_CIM_Framework.png" alt="">
+<figcaption>Schema Begrippencatalogus Warmte Herkomstbronnen begripsdefinities</figcaption>
+</figure>
+
+Benoemen herkomstbron per stakeholder(s)
+
+Wie zijn eigenaar van de bronnen? Rollen bij beheer en ontwikkeling van de bronnen? Samenhang tussen de bronnen? Bij welke
+stakeholders vinden we wel en waar vinden we (nog) geen begrippen en definities?
+
+### Toepassingsgebieden ahv Domein Warmte
+
+
+
+Domein Warmte: dit rapport
+
+Vervolgens nog domein Warmte beschrijven. Globale aanduiding van de kruispunten tussen
+de benoemde toepassingsgebieden en domein Warmte. Dit blijft globaal, omdat we
+ervoor hebben gekozen om het niveau van begrippen verder uit te werken (en niet op het niveau van informatiemodellen.
 
 Na een stakeholder-analyse – zie de blokkenplaat - is een uitvraag gedaan naar
 het bestaan van informatiemodellen en de bereidheid om de kennis daarover te
@@ -289,7 +294,7 @@ kunnen relateren aan andere domeinen.
 
 -   informatiebehoefte NPRES, TVW, ...
 
-*Jeroen*: enkele zinnen n.a.v. het gesprek dat 17 maart plaatsvond?
+*Jeroen*: enkele zinnen n.a.v. het gesprek dat op 17 maart plaatsvond?
 
 -   CBS
 

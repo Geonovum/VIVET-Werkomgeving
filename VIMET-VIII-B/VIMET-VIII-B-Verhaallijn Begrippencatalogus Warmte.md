@@ -450,7 +450,7 @@ Hier enkele sheets opnemen uit presentatie Joeri en collega.
 **Schema Stakeholders Begrippencatalogus Warmte**
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<img src="media/Schema Stakeholders Begrippencatalogus Warmte.png" alt="">
+<img src="media/Wilgentenen.jpeg" alt="">
 <figcaption>Stakeholders</figcaption>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

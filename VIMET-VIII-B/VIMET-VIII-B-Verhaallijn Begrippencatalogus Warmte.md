@@ -94,7 +94,7 @@ Hoofdstuk Methodiek en techniek
 -------------------------------
 
 *dit hoofdstuk: Joeri*  
-## Begrippencatalogus
+### Begrippencatalogus
 
 Een begrippencatalogus is méér dan een opsomming van begrippen: het beschrijft ook – op structurele wijze – de wijze waarop de begrippen met elkaar samenhangen. 
 Zo is een energienet een bredere term van warmtenet, is een kleinverbruiker een smallere term van verbruiker en is consument een geletateerde term aan verbruiker. 
@@ -107,7 +107,7 @@ Bij voorkeur gebeurt dat met Linked Data-technieken, zodat begrippen en definiti
 Door de overzichtelijke zoekfunctie op term, definitie en bron helpt de Begrippencatalogus Energie de leesbaarheid en toepassing van deze bronnen te vergroten. 
 De begrippencatalogus is het woordenboek, waaruit geput kan worden bij de beschrijving van de informatie, en dat gebeurt in informatiemodellen. We onderkennen twee lagen: het Conceptueel informatiemodel en het Logisch informatie of -gegevensmodel. Het conceptuele niveau is onafhankelijk van de operationele informatiesystemen, de beschrijving van hoe informatie door deze systemen worden vastgelegd en gebruikt gebeurt op het niveau van de logische informatiemodellen. 
 
-## Conceptueel Informatiemodel Energietransitie 
+### Conceptueel Informatiemodel Energietransitie 
 Overgenomen uit https://docs.geostandaarden.nl/mim/mim/#wat-is-een-informatiemodel:  
 Wanneer we informatie over bepaalde onderwerpen willen inwinnen, registreren of uitwisselen, dan is het van belang om deze informatie eerst goed te beschrijven. We doen dit zodat het voor eenieder die met de informatie aan de slag gaat helder en eenduidig is:
 * waarover de informatie gaat, bv. informatie over een persoon of een gebouw, we noemen dit de objecten, de onderwerpen van gesprek
@@ -128,7 +128,7 @@ In de praktijk betekent dit, dat de eigenschappen van begrippen die bekend zijn 
 Op deze manier ontstaat een bouwwerk met samenhangende onderdelen dat een deel van de versplintering van het informatrielandschap opheft en robuustheid voor de toekomst creëert. Met nadruk moet hier genoemd worden dat de dynamiek van de energietransitie betekent dat dit gebouw onderhoud behoeft en voortdurend aangepast moet worden aan nieuwe eisen die gesteld worden aan de energie-informatievoorziening. 
 Het Vivet Conceptueel InformatieModel (CIM) Framework heeft een gelaagde structuur, en hiermee is het verbonden met de informatiemodellen van de Nederlandse overheid (de bovenste laag van dit model). Een belangrijk onderdeel hiervan zijn de basisregistraties, die zich baseren op (of: de eigenschappen overnemen van) de bovenste laag.
 
-## Methodologisch framework
+### Methodologisch framework
 
 -   met behulp van over begrippen / thesaurus / taal  
     enkele plaatjes uit presentatie Archi XL – staat op U-schijf (plaatjes
@@ -140,7 +140,7 @@ Het Vivet Conceptueel InformatieModel (CIM) Framework heeft een gelaagde structu
 
 Vraag van Jeroen: refereren aan <https://www.noraonline.nl/wiki/Gegevensbeschrijvingen/Handreiking>?
 
-## Applicatie voor de begrippencatalogus
+### Applicatie voor de begrippencatalogus
 
 -   iets over de gekozen tooling
 
@@ -154,7 +154,7 @@ Aanwezige functionaliteit, gemaakte keuzen
 
 Aanwezige functionaliteit, gemaakte keuzen
 
-## Onderzoekmethode
+### Onderzoekmethode
 
 -   spoorzoekend / interviews
 
@@ -174,7 +174,7 @@ Hoofdstuk Resultaten landschapsverkenning warmtewereld
 ------------------------------------------------------
 
 
-## Inleiding
+### Inleiding
 
 Hier wordt de warmtewereld beschreven. Door gebruik te maken van begrippen is de
 scope ruim. Vanuit *informatie* zoom je in op partijen waar
@@ -187,7 +187,7 @@ landschap te beschrijven ern biedt aanknopingspunten om stakeholders en
 toepassingen te inventariseren.
 
 *deze paragraaf: Jeroen*
-## Ecosysteem
+### Ecosysteem
 -   wet - monitoring – sector
 
 <figure id="Ecosysteem ">
@@ -196,7 +196,7 @@ toepassingen te inventariseren.
 </figure>
 Dit is startpunt geweest. Later ruimer – zie de bollenplaat met herkomstdefinities. 
 
-## Vivet CIM Framework 
+### Vivet CIM Framework 
 
 <figure id="Vivet Conceptueel Informatiemodel Framework">
 <img src="media/Vivet_CIM_Framework.png" alt="">
@@ -233,9 +233,9 @@ moment nog niet zover uitgewerkt dat we dat in ons begrippenmodel hebben kunnen
 opnemen. In het project 2020-2021 wordt dat verder opgepakt in het kader van de
 uitwerking van Hernieuwbare energie.
 
-## Domein Warmte
+### Domein Warmte
 
-### Stakeholders en Herkomstbronnen begripsdefinities 
+#### Stakeholders en Herkomstbronnen begripsdefinities 
 
 Kort beschrijven aan de hand van onderstaande platen  en relateren aan de plaat die hierboven staat (bollenplaat). 
 Misschien de platen nog iets verder op elkaar afstemmen qua naamgeving?
@@ -263,7 +263,7 @@ Benoemen herkomstbron per stakeholder(s)
 Wie zijn eigenaar van de bronnen? Rollen bij beheer en ontwikkeling van de bronnen? Samenhang tussen de bronnen? Bij welke
 stakeholders vinden we wel en waar vinden we (nog) geen begrippen en definities?
 
-## Toepassingsgebieden ahv Domein Warmte
+### Toepassingsgebieden ahv Domein Warmte
 
 Domein Warmte: dit rapport
 
@@ -278,7 +278,7 @@ als via de sectororganisatie Energie Nederland. De response daarop was zodanig,
 dat dat mede aanleiding was om het niveau van informatiemodellering te laten
 rusten en het project verder te richten op begripsniveau.
 
-### Toepasssing: Informatieportalen
+#### Toepasssing: Informatieportalen
 
 Informatieportalen zijn in Vivet-jaar 2019-2020 uitgebreid in beeld gebracht in
 project Vivet-D. Dit jaar zou een keuze voor herordening plaatsvinden, en dat
@@ -291,11 +291,11 @@ ontwikkelaars verder te gaan onderzoeken. Daarbij zijn we begonnen op
 begripsniveau, omdat dat het niveau was waar we aspecten van de WarmteAtlas
 kunnen relateren aan andere domeinen.
 
-### Toepassing: Informatiebehoefte NPRES, TVW, ...
+##### Toepassing: Informatiebehoefte NPRES, TVW, ...
 
 *Jeroen*: enkele zinnen n.a.v. het gesprek dat op 17 maart plaatsvond?
 
-### Toepassing: CBS
+##### Toepassing: CBS
 
 Door CBS is aangegeven dat het verkrijgen van laagregionale data over warmte al
 jaren een hoofdpijndossier is. Dat is mede aanleiding geweest om het domein
@@ -303,7 +303,7 @@ Warmte medio dit jaar op te gaan pakken.
 
 Joeri/Sanne: kunnen jullie hier nog iets melden over begripsdefinities van CBS?
 
-### Toepassing: Vivet-projecten 2021-2022
+##### Toepassing: Vivet-projecten 2021-2022
 
 Er is een aanzet gemaakt tot de bijdrage die een verdere uitwerking van Warmte
 in de begrippencatalogus kan bieden aan de voorziene Vivet-projecten in
@@ -326,7 +326,7 @@ Hoofdstuk Begrippencatalogus Warmte
 
 *Dit hoofdstuk: ??*
 
-## Inleiding
+### Inleiding
 Eerst wordt de opzet van de begrippencatalogus beschreven: de
 scope, de keuzen bij de *inrichting* van de onderscheiden Groepen, Hïerarchie en
 Begrippen.
@@ -334,7 +334,7 @@ Begrippen.
 Vervolgens wordt de *inhoud* van de Groepen, Hïerarchie en Begrippen kort
 beschreven, met verwijzingen naar bijlagen en naar de begrippencatalogus zelf.
 
-## Verantwoording van de inrichting van de begrippencatalogus
+### Verantwoording van de inrichting van de begrippencatalogus
 
 -   keuzen bij de opzet van de Begrippencatalogus.
 
@@ -369,7 +369,7 @@ verdere opzet en indelling van de begrippencatalogus.
 
 Methode van opdeling (MIM..., koppeling andere (basis)registraties)
 
-## Beschijving van de Groepen / Herkomstbronnen
+### Beschijving van de Groepen / Herkomstbronnen
 
 -   Opsomming en korte beschrijving van de bronnen van de definities onder
     Groepen
@@ -386,7 +386,7 @@ Geen structuur opgezet tussen de opgenomen groepen
 
 -   Korte toelichting per opgenomen Groep in begrippencatalogus
 
-## Beschrijving van de Hiërarchie
+### Beschrijving van de Hiërarchie
 
 -   Uitleg van de hierarchie (zie ook ESDL uitleg document van Edwin Mathijssen,
     evt in bijlage opnemen)
@@ -397,7 +397,7 @@ Geen structuur opgezet tussen de opgenomen groepen
 -   met voorbeeld : object - fysiek object - energievoorziening -
     energietransport - warmtetransport - aansluiting
 
-## Beschrijving van de Begrippen
+### Beschrijving van de Begrippen
 
 -   Algemene toelichting op begrippen in begrippencatalogus
 
@@ -413,7 +413,7 @@ Welke velden worden vastgelegd per begrip.
 Hoofdstuk Bevindingen, Conclusie en Aanbevelingen
 -------------------------------------------------
 
-## Bevindingen
+### Bevindingen
 
 -   mening over begrippencatalogus
 
@@ -441,7 +441,7 @@ harmonisatie en governance oppakken? Daar bleken in de sector weinig ideeën ove
 te zijn. Men sprak soms uit dat wij (dus Vivet) hier het voortouw in zouden
 nemen.
 
-## Conclusies
+### Conclusies
 
 Als je op het niveau van begrippen aan de slag gaat, wordt je scope –
 spoorzoekenderwijs - veel groter dan een eenzijdig informatiekundige invalshoek.
@@ -463,7 +463,7 @@ de warmtewereld in dit onderzoek nauwelijks ter sprake gekomen. De warmtewereld
 zoals hier ervaren is in tal van opzichten – nog – gescheiden van de andere
 energiedomeinen.
 
-## Aanbevelingen
+### Aanbevelingen
 
 Vivet moet het initiatief nemen bij opzet en inrichting van de governance over
 de informatievoorziening. Het schetsen van een perspectief en het bijeenbrengen

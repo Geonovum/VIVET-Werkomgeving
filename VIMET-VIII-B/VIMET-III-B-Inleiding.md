@@ -134,53 +134,98 @@ Het Vivet Conceptueel InformatieModel (CIM) Framework heeft een gelaagde structu
 
 Datastandaarden zorgen voor de consistentie en uitwisselbaarheid van data. Met datastandaarden kunnen verschillende informatieproducten elkaar begrijpen en tegen elkaar praten. Zoals omschreven in de withpaper  "Vinden en verbinden met taal" [REFERENTIE Paper Danny], wordt de betekenis van data steeds belangrijker. De betekenis van data komt voort uit taal en taal bestaat uit begrippen met definities. Om taal te kunnen definiëren moet men gebruik maken van een taalinfrastructuur. Centraal binnen een taalinfrastrctuur, staat het woordenboek. 
 
-<figure id="Taalnfrastructuur Vinden en verbinden met taal">
-<img src="Taalnfrastructuur Vinden en verbinden met taal.png" alt="">
+<figure id="Taalnfrastructuur_Vinden_en_verbinden_met_taal">
+<img src="media/Taalnfrastructuur%20Vinden%20en%20verbinden%20met%20taal.png" alt="">
 <figcaption> Taalnfrastructuur zoals omschreven in "Vinden en verbinden met taal"</figcaption>
 </figure>
 
 Om de taal uit een domein consistent en uitwisselbaar te maken, zijn taalstandaarden noodzakelijk. Veelboorkomende keuzes voor standaarden zijn UML, zoals MIM [REFERENTIE], of het gebruik van Linked Data standaarden zoals SKOS [REFERENTIE]. De samenhang tussen deze standaarden valt terug te vinden op het niveau van begrippen. MIM maakt onderscheid in 4 verschillende niveaus van informatiemodellen, waarbij niveau 1 een model van begrippen is. Een model van begrippen beschrijft de werkelijkheid binnen het beschouwde domein  door middel van de daarin gehanteerde begrippen en hun relaties tot elkaar. Wanneer de taal die deze werkelijkheid omschrijft niet is gedefinieerd, dan is het ook lastig om een informatiemodel van een hoger niveau te maken, dat dichter bij een digitale registratie staat. MIM kan niet worden toegepast op een model van niveau 1 volgens [IM 1.1 specificatie](https://docs.geostandaarden.nl/mim/mim/#typen-informatiemodellen), maar Linked Data wel.
 
-<figure id="informatiemodel plaatje MIM">
-<img src="informatiemodel plaatje MIM.png" alt="">
+<figure id="informatiemodel_plaatje_MIM">
+<img src="media/informatiemodel%20plaatje%20MIM.png" alt="">
 <figcaption> Omschrijving van de samenhang tussen de werkelijkheid, informatiemodellen en Digitale registraties zoals omschreven door MIM.</figcaption>
 </figure>
 
 De belangrijkste Linked Data standaard voor het definiëren van woordenboeken is SKOS (Simple Knowledge Organization System). Het is een standaard van het W3C waarmee woorden in een thesaurus worden gedefinieerd. Het staat ook op de “pas toe, leg uit” lijst van standaarden van Forum Standaardisatie en is daarmee verplicht voor overheidsorganisaties. Een thesaurus is te zien als een woordenboek waaraan meer structuur is gegeven door ook relaties tussen begrippen aan te brengen. Begrippen kunnen meer specifiek of meer algemeen zijn dan andere begrippen of een meer algemene relatie hebben tot andere begrippen. Begrippen worden uniek geïdentificeerd door een URI (uniform Resource Identifier). Dat ziet er uit als het adres van een website en de definitie van een begrip is idealiter ook echt als zodanig toegankelijk via een web browser. 
 
+De internationale Findable, Accessible, Interoperable, and Re-usable [(FAIR)-principes](https://www.pldn.nl/wiki/FAIR) zijn richtlijnen voor de manier van beschrijven, opslag en publicatie van wetenschappelijke data. De principes dienen als richtlijn om wetenschappelijke data geschikt te maken voor hergebruik onder duidelijk beschreven condities, door zowel mensen als machines. Het idee is dat de verschillende domeinen op basis van de FAIR principes eigen standaarden ontwikkelen. Sinds de publicatie van de FAIR-principes worden deze inmiddels ook gezien als toepasbaar op software, workflows en wetenschappelijke diensten. Dit maakt de fair principes ook toepasbaar op de software die gebruikt wordt om taalstandaarden te ontsluiten, zoals bijvoorbeeld het Begrippenmodel Warmte.
+
+<figure id="FAIR_Principes">
+<img src="media/FAIR.jpg" alt="">
+<figcaption> Visualisatie van de FAIR principes</figcaption>
+</figure>
 
     DiSGeo en visie architectuur zie ppt Ruud van Rossem (op U-schijf)  
-    Fair principes (zie plaatje vivet workshop begrippenkader op U-schijf)
+
 
 Vraag van Jeroen: refereren aan <https://www.noraonline.nl/wiki/Gegevensbeschrijvingen/Handreiking>?
 
-### Applicatie voor de begrippencatalogus
 
-Er zijn allerlei tools beschikbaar voor het werken met SKOS.
+
+### Onderzoekmethode
+
+Het doel van VIVET project VIII Data ontsluiten houdt in:
+```
+ Basiscondities scheppen om op een efficiënte manier en zonder exponentiële kostenstijging, gemeenschappelijk data te kunnen delen voor de energietransitie en hiermee de Vivet projecten te ondersteunen en te verbinden. Ook legt het de basis voor samenwerking inzake toekomstig onderhoud en beheer van de informatieverbindingen binnen het energiedomein en met andere domeinen of aandachtsgebieden als de bouw- en installatiewereld. Het realiseren van een community van energie informatie-experts van de stakeholders is hiervan een essentieel onderdeel.
+ ```
+Uit het "Methodologisch framework", staat omschreven dat taalstandaarden aan de basis liggen van datastandaarden. Één van de meest basale basiscondities om op een efficiënte manier en zonder exponentiële kostenstijging, gemeenschappelijk data te kunnen delen, zou dus kunnen liggen bij taalstandaarden. Het onderzoek om te komen tot de meest basale basisconditie valt op te delen in 3 fases:
+
+1. De eerste fase is een verkenning van het domein. 
+2. Vervolgens zijn de bevindingen uit de verkenning geanalyseerd om zo tot een kernprobleem te komen.
+3. De oplossing is iteratief en in samenwerking met het werkveld uitgewerkt.
+
+#### Verkenning domein
+
+<figure id="Situatieschets_samenvatting">
+<img src="media/situatieschetsStap1.PNG" alt="">
+<figcaption>Een samenvatting van de verkenning van het energiedomein.</figcaption>
+</figure>
+
+In de eerste fase ging het om het vormen van een zo helder mogelijke schets van de situatie. Door de versnippering en omvang van het energielandschap, bleek dat er meer focus nodig was om tot de zoektocht naar de meest basale basisconditie te kunnen identificeren. 
+
+<figure id="Focusgebied_samenvatting">
+<img src="media/scopeAfbakeningStap2.PNG" alt="">
+<figcaption>Focus werd gelegd op de warmtesector.</figcaption>
+</figure>
+
+Aangezien de warmtesector naar voren kwam als het meest ongegonnen gebied, werd hier de focus op gelegd. De eerste verdiepingsslag binnen de warmtesector, bestond uit het van opvragen van informatiemodellen. Dit leidde tot weinig resultaten er bleek nog weinig materiaal te zijn op het gebied van datastandaarden binnen de warmtesector. Vervolgens heeft Geonovum gesproken met partijen uit het werkveld om de schets te verhelderen. Er zijn onder andere gesprekken gevoerd met Stichting warmtenetwerk, de Warmtesector via Energie Nederland, CBS en Overheidspartijen zoals: RVO, ECW en PBL. 
+
+#### Samenvatting bevindingen uit de verkenning: analyse van het kernprobleem
+
+<figure id="Bevindingen_samenvatting">
+<img src="media/probleemschetsStap3.PNG" alt="">
+<figcaption>Analyse van de meest basale basisconditie voor standaardisatie binnen de warmtesector.</figcaption>
+</figure>
+
+Uit gesprekken met verschillende partijen die opereren binnen de warmte sector is gebleken dat het ontbreken van een eenduidige taalstandaard kan worden aangewezen als de meest basale basisconditie om op een efficiënte manier en zonder exponentiële kostenstijging, gemeenschappelijk data te kunnen delen. De bevindingen worden verder toegelicht in [hoofdstuk 2](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#hoofdstuk-resultaten-landschapsverkenning-warmtewereld). Binnen het warmtedomein bleek er een grote bereidheid tot medewerking, Het probleem werd door alle parijen erkend en gezien als een grote taak.
+
+Aan de verschillende partijen binnen de warmtesector, heeft Geonovum gevraagd wat de reeds bestaande taalstandaarden zijn binnen het Warmtedomein, zodat deze konden worden geanaliseerd. Het doel van de analyse was om verschillen tussen verschillende taalstandaarden zichtbaar te maken. Om dit doel te bereiken moest een passende methodiek worden gekozen. Deze methodiek moet aansluiten op het methodologische framework van Geonovum, zodat gebruik kon worden gemaakt van de bestaande infrastructuur om begrippen iteratief met het werkveld te kunnen delen. Het Geonovum VIVET team koos daarom om aan te sluiten bij de methodiek van Doorontwikkeling in Samenhang van de Geo Basisregistraties (DiS GEO). Op basis van deze methodiek werd besloten een Begrippencatalogus voor de Warmtesector te ontwikkelen, waarin alle verschillen tussen bestaande taalstandaarden zichtbaar worden. Een aantal voorbeelden van bestaande taalstandaarden zijn: de Warmtewet, de Europese regelgeving en de NEN7125.
+
+#### Iteratief en samen met het werkveld werken naar een oplossing
+
+<figure id="Iteratief_samenwerken_samenvatting">
+<img src="media/planNaarCommunityStap4.PNG" alt="">
+<figcaption>De weg naar een actieve warmtecommunity met een gemeenschappelijke taal.</figcaption>
+</figure>
+
+Om het werkveld zo dicht mogelijk te betrekken bij de onwikeling, was het belangrijk de ontwikkeling van de Begrippencatalogus Warmte voor het werkveld zo transparant en tastbaar mogelijk te organiseren. Een eerste versie van de Begrippencatalogus werd sinds begin januari 2021 beschikbaar gesteld aan het werkveld. De Begrippencatalogus Warmte wordt sinds toen in een iteratief proces in samenwerking met het werkveld uitgebreid. In dit stadium wil Geonovum verschillende belanghebbende bij elkaar brengen, pilots doen met bestaande informatieproducten binnen het werkveld.
+
+In de toekomst wil Geonovum dit iteratieve proces voortzetten. Bij dit proces horen stappen richting harmonisatie van begrippen en zullen vragen rondom de governance van de Begrippencatalogus worden beantwoord. Door deze cyclische verbeteringen door te zetten, hoopt Geonovum de vorming van een actieve warmte-begrippencommunity te stimuleren. Deze community zou in de toekomst kunnen evalureren naar een warmte-standaardisatiecommunity. Deze community zou kunnen bijdragen aan de ontwikkeling van informatiestandaarden binnen het warmtedomein.
+
+### Applicatie voor de Begrippencatalogus Warmte
+
+Er zijn allerlei tools beschikbaar voor het werken met SKOS. Voor het Begrippenmodel Warmte heeft het VIVET Team ervoor gekozen om de methodiek van DiS Geo te volgen, zodat gebruik kon worden gemaakt van bestaande infrastructuur. Deze infrastructuur bestaat uit een Beheer- en ontwikkelomgeving en een publicatieomgeving.
+
 #### Beheer- en ontwikkelomgeving
 
+TO DO:
 Kort beschrijven welke typen tools hievoor bestaan? Waarom gekozen voor vocbench?
 #### Publicatieomgeving
 
+TO DO:
 Voor het uitwisselen van data is het tegenwoordig logisch om deze via API’s te ontsluiten. Dat geldt ook voor woordenboeken. Een woordenboek API kan in allerlei applicaties worden gebruikt om woorden en hun definitie op te halen.
 Aanwezige functionaliteit, gemaakte keuzen
 
 -   beheeromgeving
 
 Aanwezige functionaliteit, gemaakte keuzen
-
-### Onderzoekmethode
-
--   spoorzoekend / interviews
-
-Versnipperde landschap. Begonnen met opvraag informatiemodellen; weinig
-resultaat. Wel enkele netwerkorganisaties. Stichting warmtenetwerk. Warmtesector
-via Energie Nederland. Overheid: RVO, ECW, PBL.  
-Overal grote bereidheid tot medewerking. Overal herkenning problematiek. Overal:
-“nodig, maar grote taak”.
-
-Spoorzoeken niet afgerond. Tot op heden interviews/presentaties per stakeholder
-(benoemen: EnergieNL (sector) / overheid / ACM / kennisdragers / ...). Volgende
-stap: verschillende stakeholders bij elkaar brengen – dan kunnen ook de eerste
-vragen richting vaststellen en harmoniseren van begrippen en governance gesteld
-worden.

@@ -132,11 +132,23 @@ Het Vivet Conceptueel InformatieModel (CIM) Framework heeft een gelaagde structu
 
 ### Methodologisch framework
 
--   met behulp van over begrippen / thesaurus / taal  
-    enkele plaatjes uit presentatie Archi XL – staat op U-schijf (plaatjes
-    hieruit kunnen uitgebreider worden opgenomen in een bijlage):  
-    MIM als framework  
-    linked data  
+Datastandaarden zorgen voor de consistentie en uitwisselbaarheid van data. Met datastandaarden kunnen verschillende informatieproducten elkaar begrijpen en tegen elkaar praten. Zoals omschreven in de withpaper  "Vinden en verbinden met taal" [REFERENTIE Paper Danny], wordt de betekenis van data steeds belangrijker. De betekenis van data komt voort uit taal en taal bestaat uit begrippen met definities. Om taal te kunnen definiëren moet men gebruik maken van een taalinfrastructuur. Centraal binnen een taalinfrastrctuur, staat het woordenboek. 
+
+<figure id="Taalnfrastructuur Vinden en verbinden met taal">
+<img src="Taalnfrastructuur Vinden en verbinden met taal.png" alt="">
+<figcaption> Taalnfrastructuur zoals omschreven in "Vinden en verbinden met taal"</figcaption>
+</figure>
+
+Om de taal uit een domein consistent en uitwisselbaar te maken, zijn taalstandaarden noodzakelijk. Veelboorkomende keuzes voor standaarden zijn UML, zoals MIM [REFERENTIE], of het gebruik van Linked Data standaarden zoals SKOS [REFERENTIE]. De samenhang tussen deze standaarden valt terug te vinden op het niveau van begrippen. MIM maakt onderscheid in 4 verschillende niveaus van informatiemodellen, waarbij niveau 1 een model van begrippen is. Een model van begrippen beschrijft de werkelijkheid binnen het beschouwde domein  door middel van de daarin gehanteerde begrippen en hun relaties tot elkaar. Wanneer de taal die deze werkelijkheid omschrijft niet is gedefinieerd, dan is het ook lastig om een informatiemodel van een hoger niveau te maken, dat dichter bij een digitale registratie staat. MIM kan niet worden toegepast op een model van niveau 1 volgens [IM 1.1 specificatie](https://docs.geostandaarden.nl/mim/mim/#typen-informatiemodellen), maar Linked Data wel.
+
+<figure id="informatiemodel plaatje MIM">
+<img src="informatiemodel plaatje MIM.png" alt="">
+<figcaption> Omschrijving van de samenhang tussen de werkelijkheid, informatiemodellen en Digitale registraties zoals omschreven door MIM.</figcaption>
+</figure>
+
+De belangrijkste Linked Data standaard voor het definiëren van woordenboeken is SKOS (Simple Knowledge Organization System). Het is een standaard van het W3C waarmee woorden in een thesaurus worden gedefinieerd. Het staat ook op de “pas toe, leg uit” lijst van standaarden van Forum Standaardisatie en is daarmee verplicht voor overheidsorganisaties. Een thesaurus is te zien als een woordenboek waaraan meer structuur is gegeven door ook relaties tussen begrippen aan te brengen. Begrippen kunnen meer specifiek of meer algemeen zijn dan andere begrippen of een meer algemene relatie hebben tot andere begrippen. Begrippen worden uniek geïdentificeerd door een URI (uniform Resource Identifier). Dat ziet er uit als het adres van een website en de definitie van een begrip is idealiter ook echt als zodanig toegankelijk via een web browser. 
+
+
     DiSGeo en visie architectuur zie ppt Ruud van Rossem (op U-schijf)  
     Fair principes (zie plaatje vivet workshop begrippenkader op U-schijf)
 
@@ -144,12 +156,13 @@ Vraag van Jeroen: refereren aan <https://www.noraonline.nl/wiki/Gegevensbeschrij
 
 ### Applicatie voor de begrippencatalogus
 
--   iets over de gekozen tooling
+Er zijn allerlei tools beschikbaar voor het werken met SKOS.
+#### Beheer- en ontwikkelomgeving
 
 Kort beschrijven welke typen tools hievoor bestaan? Waarom gekozen voor vocbench?
+#### Publicatieomgeving
 
--   publicatieomgeving
-
+Voor het uitwisselen van data is het tegenwoordig logisch om deze via API’s te ontsluiten. Dat geldt ook voor woordenboeken. Een woordenboek API kan in allerlei applicaties worden gebruikt om woorden en hun definitie op te halen.
 Aanwezige functionaliteit, gemaakte keuzen
 
 -   beheeromgeving

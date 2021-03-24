@@ -11,28 +11,28 @@ informatie- en datavoorziening van groot belang is, en dat zijn toch vooral de w
 Allereerst volgt een visualisatie van deze scope in de figuren met het ecosysteem, de stakeholders en de herkomstbronnen van begripsdefinities. 
 Vervolgens wordt de toepassingen in het domein Warmte in het Vivet Conceptueel Informatiemodel toegelicht. 
 
-Zie hiervoor ook de ‘bollenplaat’ *Schema Begrippencatalogus
-Warmte Herkomstbronnen begripsdefinities.* Deze biedt een goed overzicht om dit
-landschap te beschrijven en biedt tevens aanknopingspunten om stakeholders en
-toepassingen te inventariseren.
-
-### Ecosysteem
--   wet - monitoring – sector
+### Ecosysteem Begrippen Energievoorziening
 
 <figure id="Ecosysteem ">
 <img src="media/Ecosysteem_Begrippen_Energievoorziening.png" alt="">
 <figcaption>Ecosysteem</figcaption>
 </figure>
-Dit is startpunt geweest. Later ruimer – zie de bollenplaat met herkomstdefinities. 
+Dit schema beoogt niet om 'het ecosysteem van de energievoorzieing' weer te geven. De weergegeven constellatie heeft wel gediend als een nuttig startpunt en kijkvenster naar de actoren en processen waar begrippen een belangrijke rol spelen. Ontwikkeld vanuit een blik op de warmtewereld, is dit gegeneraliseerd, zodat het tevens een nuttig kijkvenster voor de situatie wanneer warmtebegrippen in een groter kader een plek vinden. Later ruimer – zie de bollenplaat met herkomstdefinities. Het schema rechtsboven geeft een mogelijke verdieping aan voor vervolgprojecten. 
 
-### Stakeholders
+### Stakeholders Warmtedomein
 
 <figure id="Stakeholders">
 <img src="media/Schema_Stakeholders_Begrippencatalogus_Warmte.png" alt="">
 <figcaption>Stakeholders</figcaption>
 </figure>
 
-Korte beschrijving van de stakeholderplaat maken 
+De warmteketen kent vooral geïntegreerde bedrijven die zowel productie, distributie als levering van warmte verzorgen. Dit in tegenstelling tot de wereld van gas- en elektriciteit waar het beheer van de netten wettelijk afgescheiden moet zijn. Het wetsvoorstel Wet Collectieve warmtevoorziening verandert dit niet, maar geeft wel een zware rol aan gemeenten. Die zijn als eigenaar van warmtefaciliteiten daarom ook in het schema opgenomen. Overgiens is over het al dan niet opknippen van de warmteketen al jaren discussie, al dan niet gecombineerd met open toegang tot de warmtenetten, zoals ook bij de andere energiedragers het geval is.In dit kader kan ook genoemd worden dat er in de consultatie va nde nieuwe energiewet door veel partijen een pleidooi wordt gehouden om warmte hier deel van uit te laten maken. 
+Voor het inrichten van een begrippencatalogus is dit een belangrijk onderwerp: de energiedragers zullen immers steeds sterker samenkomen: energieconversie is dan ook een centraal begrip en om dat te verbinden met andere begrippen komen defnitief uit bijvoorbeeld verschillende wetten en toezichtkaders samen. 
+
+De warmteketen kent natuurlijk ook veel leveranciers en dienstverleners, en daar is dan ook een verbinding te vinden naar het in het Vivet CIM (zie heronder) opgenomen domein 'Bouw- en Installatiewereld). 
+
+De directe warmteketen kent verschillende typen stakehodlers, die ook in deze figuur zijn opgenomen: overheidsorganisaties en - programma's, kennisinstellingen en gegevensgerichte organisaties. En branche-organisaties die vanuit diverse invalshoeken belangenbehartiging voor partijen in de waremteketen verzorgen. 
+
 Verwijzen naar Bijlage: geanonimiseerde versie van spreadsheet met partijen en
 namen. (deze misschien ook nog even qua terminologie / volgorde afstemmen op
 blokkenplaat / bollenplaat?)

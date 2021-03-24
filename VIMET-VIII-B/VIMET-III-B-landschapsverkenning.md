@@ -4,17 +4,18 @@ Hoofdstuk Resultaten landschapsverkenning warmtewereld
 
 ### Inleiding
 
-Hier wordt de warmtewereld beschreven. Door gebruik te maken van begrippen is de
-scope ruim. Vanuit *informatie* zoom je in op partijen waar
-informatievoorziening van groot belang is. Via *begrippen* heb je echter een
-ruimere scope, zoals is te zien in deze plaat waarin we ecosysteem schematiseren. 
+Dit hoofdstuk bevat een compacte beschrijving van 'de warmtewereld' voor zover deze relevant is voor dit project. 
+Vanuit *informatie* ligt de focus op partijen waar 
+informatie- en datavoorziening van groot belang is, en dat zijn toch vooral de warmtebedrijven. Door het venster *begrippen* te hanteren, verruimt de scope zich echter, en komen ook partijen in beeld in het gebied van bijvoorbeeld warmtewetgeving, toezicht op de sector, monitoring van het energiesysteem en innovatie. 
+
+Allereerst volgt een visualisatie van deze scope in de figuren met het ecosysteem, de stakeholders en de herkomstbronnen van begripsdefinities. 
+Vervolgens wordt de toepassingen in het domein Warmte in het Vivet Conceptueel Informatiemodel toegelicht. 
 
 Zie hiervoor ook de ‘bollenplaat’ *Schema Begrippencatalogus
 Warmte Herkomstbronnen begripsdefinities.* Deze biedt een goed overzicht om dit
-landschap te beschrijven ern biedt aanknopingspunten om stakeholders en
+landschap te beschrijven en biedt tevens aanknopingspunten om stakeholders en
 toepassingen te inventariseren.
 
-*deze paragraaf: Jeroen*
 ### Ecosysteem
 -   wet - monitoring – sector
 
@@ -23,6 +24,30 @@ toepassingen te inventariseren.
 <figcaption>Ecosysteem</figcaption>
 </figure>
 Dit is startpunt geweest. Later ruimer – zie de bollenplaat met herkomstdefinities. 
+
+### Stakeholders
+
+<figure id="Stakeholders">
+<img src="media/Schema_Stakeholders_Begrippencatalogus_Warmte.png" alt="">
+<figcaption>Stakeholders</figcaption>
+</figure>
+
+Korte beschrijving van de stakeholderplaat maken 
+Verwijzen naar Bijlage: geanonimiseerde versie van spreadsheet met partijen en
+namen. (deze misschien ook nog even qua terminologie / volgorde afstemmen op
+blokkenplaat / bollenplaat?)
+
+### Herkomstbronnen begripsdefinities
+
+<figure id="Schema_Begrippencatalogus_Warmte_Herkomstbronnen_begripsdefinities">
+<img src="media/Schema_Begrippencatalogus_Warmte_Herkomstbronnen_begripsdefinities.png" alt="">
+<figcaption>Schema Begrippencatalogus Warmte Herkomstbronnen begripsdefinities</figcaption>
+</figure>
+
+Hier nog benoemen de herkomstbron(nen) per (type) stakeholder(s)
+
+Wie zijn eigenaar van de bronnen? Rollen bij beheer en ontwikkeling van de bronnen? Samenhang tussen de bronnen? Bij welke
+stakeholders vinden we wel en waar vinden we (nog) geen begrippen en definities?
 
 ### Vivet CIM Framework 
 
@@ -67,29 +92,6 @@ uitwerking van Hernieuwbare energie.
 
 Kort beschrijven aan de hand van onderstaande platen  en relateren aan de plaat die hierboven staat (bollenplaat). 
 Misschien de platen nog iets verder op elkaar afstemmen qua naamgeving?
-
-Stakeholders
-
-<figure id="Stakeholders">
-<img src="media/Schema_Stakeholders_Begrippencatalogus_Warmte.png" alt="">
-<figcaption>Stakeholders</figcaption>
-</figure>
-
-Verwijzen naar Bijlage: geanonimiseerde versie van spreadsheet met partijen en
-namen. (deze misschien ook nog even qua terminologie / volgorde afstemmen op
-blokkenplaat / bollenplaat?)
-
-Herkomstbronnen
-
-<figure id="Schema_Begrippencatalogus_Warmte_Herkomstbronnen_begripsdefinities">
-<img src="media/Schema_Begrippencatalogus_Warmte_Herkomstbronnen_begripsdefinities.png" alt="">
-<figcaption>Schema Begrippencatalogus Warmte Herkomstbronnen begripsdefinities</figcaption>
-</figure>
-
-Benoemen herkomstbron per stakeholder(s)
-
-Wie zijn eigenaar van de bronnen? Rollen bij beheer en ontwikkeling van de bronnen? Samenhang tussen de bronnen? Bij welke
-stakeholders vinden we wel en waar vinden we (nog) geen begrippen en definities?
 
 ### Toepassingsgebieden ahv Domein Warmte
 

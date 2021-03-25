@@ -46,19 +46,19 @@ De inventarisatie van herkomstbronnen in bovenstaande plaat is gegroepeerd naar 
 #### Warmtebedrijven
 
 #### Wetgeving
-In toenemende mate speelt Europese regelgeving een rol, en in toenemende mate worden begrippen en definities overgenomen. Dat speelt bij vooral bij nieuwe wetgeving. Overigens is het niet altijd mogelijk om Europese defnities één op één over te nemen. Vanuit de Begrippencatalogus Warmte worden verbindingen gelegd naar de brondefinities van wetgeving zoals www.wetten.overheid.nl. Het is doorgaans niet mogelijk om ee nverbinding te maken naar de afzonderlijke begrippen en dan wordt verwezen naar het artikel waarin de definities zijn opgenoemen.   
+In toenemende mate speelt Europese regelgeving een rol, en in toenemende mate worden begrippen en definities overgenomen. Dat speelt bij vooral bij nieuwe wetgeving.  Overigens is het niet altijd mogelijk om Europese defnities één op één over te nemen. Vanuit de Begrippencatalogus Warmte worden verbindingen gelegd naar de brondefinities van wetgeving zoals www.wetten.overheid.nl. Het is doorgaans niet mogelijk om ee nverbinding te maken naar de afzonderlijke begrippen en dan wordt verwezen naar het artikel waarin de definities zijn opgenoemen.   
 #### Subsidie
-Van groot (financieel) belang zijn de definities die zijn opgenomen in de subsidie-regelgeving. 
+Van groot (financieel) belang zijn de definities die zijn opgenomen in de subsidie-regelgeving. Ook in deze bronnen wordt bij de definities mede verwezen naar Europese regelegeving, in het bijzonder de RED, de Renewable Energy Directive. 
 #### Basisregistraties
 In toenemende mate worden de basisregistraties gebruikt voor informatiesystemen in het warmtedomein. Registraties van gebouwen, ruimte en ondergrond zijn onmisbaar in vrijwel alle fasen van ontwikkeling en beheer van warmtevoorzieningen, die nu eenmaal fysiek verbonden zijn met gebouwen en vaak ook gerealiseerd zijn in de openbare ruimte. De verwachting is dat de Samenhangende ObjectenRegistratie zal zorgen voor kwalitatief hoogwaardiger en gemakkelijker te realiseren verbindingen. 
 #### Bouw- en installatiewereld
+Het warmtedomein is natuurlijk nauw gelinkt aan de bouw- en installatiewereld. Hiervoor is in het Vivet-project inzake energie-installaties een inventarisatie gemaakt van classificatieschema's en taxonomieën. Daaronder bijvoorbeeld www.ketenstandaard.nl, NL-SfB (de classificatie van bouwdelen en installaties), CB-NL (conceptbibliotheek voor de gebouwde omgeving) en UOB (de Uniforme ObjectenBibliotheek). Een overzicht is te vinden in https://geonovum.github.io/VIVET-Werkomgeving/VIMET-I/#relevante-taxonomieen-en-informatiemodellen. Ook NEN-normen bevatten veel beschrijvingen/definities van begrippen.  
 
 #### Informatieportalen
-
+In het kader van Vivet is in 2019 een analyse gedaan van het informatielandschap met (rijks)portalen voor energie-en klimaatinformatie. Dat betrof tien informatieportalen die elk van specifieke bronorganisaties of voor bepaalde gebruikers de van toepassing zijnde datasets ontsluiten. De mate waarin begrippen zijn gedefinieerd verschilt. Doordat informatie uit bestaande datasets veelal zonder verdere bewerking op de informatieportalen wordt gepresenteerd, is de noodzaak tot beschrijving van de inhoud van de data vaak niet aanwezig. Voor dit onderzoek is de WarmteAtlas nader bestudeerd en zijn de belangrijkste daar gebruikte begrippen geïnventariseerd. 
 ### Governance
-Wie zijn eigenaar van de bronnen? Rollen bij beheer en ontwikkeling van de bronnen? Samenhang tussen de bronnen? Bij welke
-stakeholders vinden we wel en waar vinden we (nog) geen begrippen en definities?
-
+Begrippen en definities komen tot stand vanuit het gebruik ervan, vanuit de toepassing, en ze ontwikkelen zich met de veranderende werkelijkheid. Een nieuw type warmtenet leidt tot een beschijving die werkt in de desbetreffende context. En zo groeien deze met de tijd mee, en voor die specifieke setting werkt dat prima. Maar wanneer informatie verwerkt moet worden vanuit de verschillende toepassingen, en verschillende begripen en definities bij elkaar komen en er kezues moeten worden gemaakt en wellicht afstemming en harmonisatie wenselijk is, dan roept dat vragen verschilende vragen. 
+In het licht van het beschreven landschap met stakeholders en herkomstbronnen, dringt zich de vraag op naar de rollen en verantwoordelijkheden bij de opzet en het beheer van deze definities. Kunnen we spreken van een eigenaar van de begrippen en definities? Wanneer begrippen op elkaar afgestemd worden: wie heeft welke autoriteit? En wie pakt welke rol bij beheer en doorontwikkeling van de bronnen? Vragen die wel een antwoord vereisen, wanneer een stap wordt gemaakt naar de metadata van informatiesystemen die verschillende toepassingen overstijgen. 
 ### Vivet CIM Framework 
 
 <figure id="Vivet Conceptueel Informatiemodel Framework">

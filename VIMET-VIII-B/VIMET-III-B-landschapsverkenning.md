@@ -33,10 +33,6 @@ De warmteketen kent natuurlijk ook veel leveranciers en dienstverleners, en daar
 
 De directe warmteketen kent verschillende typen stakehodlers, die ook in deze figuur zijn opgenomen: overheidsorganisaties en - programma's, kennisinstellingen en gegevensgerichte organisaties. En branche-organisaties die vanuit diverse invalshoeken belangenbehartiging voor partijen in de waremteketen verzorgen. 
 
-Verwijzen naar Bijlage: geanonimiseerde versie van spreadsheet met partijen en
-namen. (deze misschien ook nog even qua terminologie / volgorde afstemmen op
-blokkenplaat / bollenplaat?)
-
 ### Herkomstbronnen begripsdefinities
 
 <figure id="Schema_Begrippencatalogus_Warmte_Herkomstbronnen_begripsdefinities">
@@ -44,8 +40,22 @@ blokkenplaat / bollenplaat?)
 <figcaption>Schema Begrippencatalogus Warmte Herkomstbronnen begripsdefinities</figcaption>
 </figure>
 
-Hier nog benoemen de herkomstbron(nen) per (type) stakeholder(s)
+Begrippen voor het warmtedomein zijn op veel locaties vastgelegd. De locaties waar de definities zijn vastgelegd noemen we hier 'herkomstbronnen', zoals gebruikelijk in MIM-terminologie. 
+De inventarisatie van herkomstbronnen in bovenstaande plaat is gegroepeerd naar de oogmerken waarvoor de betrokken partijen de begrippen gedefinieerd hebben. 
 
+#### Warmtebedrijven
+
+#### Wetgeving
+In toenemende mate speelt Europese regelgeving een rol, en in toenemende mate worden begrippen en definities overgenomen. Dat speelt bij vooral bij nieuwe wetgeving. Overigens is het niet altijd mogelijk om Europese defnities één op één over te nemen. Vanuit de Begrippencatalogus Warmte worden verbindingen gelegd naar de brondefinities van wetgeving zoals www.wetten.overheid.nl. Het is doorgaans niet mogelijk om ee nverbinding te maken naar de afzonderlijke begrippen en dan wordt verwezen naar het artikel waarin de definities zijn opgenoemen.   
+#### Subsidie
+Van groot (financieel) belang zijn de definities die zijn opgenomen in de subsidie-regelgeving. 
+#### Basisregistraties
+In toenemende mate worden de basisregistraties gebruikt voor informatiesystemen in het warmtedomein. Registraties van gebouwen, ruimte en ondergrond zijn onmisbaar in vrijwel alle fasen van ontwikkeling en beheer van warmtevoorzieningen, die nu eenmaal fysiek verbonden zijn met gebouwen en vaak ook gerealiseerd zijn in de openbare ruimte. De verwachting is dat de Samenhangende ObjectenRegistratie zal zorgen voor kwalitatief hoogwaardiger en gemakkelijker te realiseren verbindingen. 
+#### Bouw- en installatiewereld
+
+#### Informatieportalen
+
+### Governance
 Wie zijn eigenaar van de bronnen? Rollen bij beheer en ontwikkeling van de bronnen? Samenhang tussen de bronnen? Bij welke
 stakeholders vinden we wel en waar vinden we (nog) geen begrippen en definities?
 

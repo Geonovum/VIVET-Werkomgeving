@@ -43,8 +43,8 @@ De directe warmteketen kent verschillende typen stakehodlers, die ook in deze fi
 Begrippen voor het warmtedomein zijn op veel locaties vastgelegd. De locaties waar de definities zijn vastgelegd noemen we hier 'herkomstbronnen', zoals gebruikelijk in MIM-terminologie. 
 De inventarisatie van herkomstbronnen in bovenstaande plaat is gegroepeerd naar de oogmerken waarvoor de betrokken partijen de begrippen gedefinieerd hebben. 
 
-#### Warmtebedrijven
-
+#### Warmtebedrijven, innovatie
+Een samenwerkingskader zoals Netbeheer Nederland, dat al jaren de belangen van de netbeheerders behartigt, kennen de waremtebedrijven (nog) niet. De diversiteit tussen de warmtebedrijven is ook veel groter en dat maakt de sitautie anders. Wel is er belangenbehartiging via Energie Nederland en kennisuitwissleing binnen de actieve Stichting Warmtenetwerk. Samenwerking is er op diverse gebieden. Activiteiten waarvoor begripsdefinities zijn opgesteld en afgestemd zijn de Algemene Leveringsvoorwaarden van de sector en de samenwerking van warmtebedrijven onder leiding van TNO in het het meerjaren-innovatieprogramma WarmingUp. 
 #### Wetgeving
 In toenemende mate speelt Europese regelgeving een rol, en in toenemende mate worden begrippen en definities overgenomen. Dat speelt bij vooral bij nieuwe wetgeving.  Overigens is het niet altijd mogelijk om Europese defnities één op één over te nemen. Vanuit de Begrippencatalogus Warmte worden verbindingen gelegd naar de brondefinities van wetgeving zoals www.wetten.overheid.nl. Het is doorgaans niet mogelijk om ee nverbinding te maken naar de afzonderlijke begrippen en dan wordt verwezen naar het artikel waarin de definities zijn opgenoemen.   
 #### Subsidie
@@ -53,12 +53,12 @@ Van groot (financieel) belang zijn de definities die zijn opgenomen in de subsid
 In toenemende mate worden de basisregistraties gebruikt voor informatiesystemen in het warmtedomein. Registraties van gebouwen, ruimte en ondergrond zijn onmisbaar in vrijwel alle fasen van ontwikkeling en beheer van warmtevoorzieningen, die nu eenmaal fysiek verbonden zijn met gebouwen en vaak ook gerealiseerd zijn in de openbare ruimte. De verwachting is dat de Samenhangende ObjectenRegistratie zal zorgen voor kwalitatief hoogwaardiger en gemakkelijker te realiseren verbindingen. 
 #### Bouw- en installatiewereld
 Het warmtedomein is natuurlijk nauw gelinkt aan de bouw- en installatiewereld. Hiervoor is in het Vivet-project inzake energie-installaties een inventarisatie gemaakt van classificatieschema's en taxonomieën. Daaronder bijvoorbeeld www.ketenstandaard.nl, NL-SfB (de classificatie van bouwdelen en installaties), CB-NL (conceptbibliotheek voor de gebouwde omgeving) en UOB (de Uniforme ObjectenBibliotheek). Een overzicht is te vinden in https://geonovum.github.io/VIVET-Werkomgeving/VIMET-I/#relevante-taxonomieen-en-informatiemodellen. Ook NEN-normen bevatten veel beschrijvingen/definities van begrippen.  
-
 #### Informatieportalen
 In het kader van Vivet is in 2019 een analyse gedaan van het informatielandschap met (rijks)portalen voor energie-en klimaatinformatie. Dat betrof tien informatieportalen die elk van specifieke bronorganisaties of voor bepaalde gebruikers de van toepassing zijnde datasets ontsluiten. De mate waarin begrippen zijn gedefinieerd verschilt. Doordat informatie uit bestaande datasets veelal zonder verdere bewerking op de informatieportalen wordt gepresenteerd, is de noodzaak tot beschrijving van de inhoud van de data vaak niet aanwezig. Voor dit onderzoek is de WarmteAtlas nader bestudeerd en zijn de belangrijkste daar gebruikte begrippen geïnventariseerd. 
-### Governance
+### Governance inzake begripen en definities
 Begrippen en definities komen tot stand vanuit het gebruik ervan, vanuit de toepassing, en ze ontwikkelen zich met de veranderende werkelijkheid. Een nieuw type warmtenet leidt tot een beschijving die werkt in de desbetreffende context. En zo groeien deze met de tijd mee, en voor die specifieke setting werkt dat prima. Maar wanneer informatie verwerkt moet worden vanuit de verschillende toepassingen, en verschillende begripen en definities bij elkaar komen en er kezues moeten worden gemaakt en wellicht afstemming en harmonisatie wenselijk is, dan roept dat vragen verschilende vragen. 
 In het licht van het beschreven landschap met stakeholders en herkomstbronnen, dringt zich de vraag op naar de rollen en verantwoordelijkheden bij de opzet en het beheer van deze definities. Kunnen we spreken van een eigenaar van de begrippen en definities? Wanneer begrippen op elkaar afgestemd worden: wie heeft welke autoriteit? En wie pakt welke rol bij beheer en doorontwikkeling van de bronnen? Vragen die wel een antwoord vereisen, wanneer een stap wordt gemaakt naar de metadata van informatiesystemen die verschillende toepassingen overstijgen. 
+
 ### Vivet CIM Framework 
 
 <figure id="Vivet Conceptueel Informatiemodel Framework">
@@ -66,23 +66,19 @@ In het licht van het beschreven landschap met stakeholders en herkomstbronnen, d
 <figcaption>Vivet Conceptueel Informatiemodel Framework</figcaption>
 </figure>
 
-CIM – definitie uit MIM ophalen
+In hoofdstuk 1 is de functie en opzet van het Vivet Conceptueel InformatieModel (CIM) beschreven. 
 
-CIM voor energievoorziening is te groot om in één keer te ontwerpen. Stap voor
-stap. Beginnen bij concrete casuïstiek in bepaalde context. Vivet jaar 1: vooral
-verbindingen gemaakt met energie-installaties (domeinen energie=markt+netwerk,
-domein bouw, domein installaties), nu verder gegaan met domein warmte. En domein
-is ook groot, dus daarbinnen beginnen met toepassingen. Vooral de toepassingen
-die ons aangereikt zijn via het Vivet-programma.
+Een CIM voor de energievoorziening is te groot om in één keer te ontwerpen. In de praktijk bestaan er natuurlijk al tal van informatiemodellen, die stapsgewijze door verbinding en harmonisatie  geïntegreerd kunnen worden tot een CIM voor het energiedomein. Omdat op dit moment geen aanzetten bestaan om dit op te pakken, is  gekozen voor een stapsgewijze benadering, op basis van concrete casuïstiek in bepaalde context. In Vivet jaar 1 is voor het onderwerp 'energie-installaties' een informatiekundige inventarisatie gemaakt. zie hiervoor https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#conceptueel-informatiemodel-energietransitie/. Daar is vooral aandacht gegeven aan het Domein Marktfacilitering (vooral productie-eenheden), het Domein Bouwwereld en het Domein Installatiewereld. Deze laatste twee zijn vanwege de visualisatie samengevoegd. In dit project is het Domein Warmte opgepakt en is een voorschot genomen op het Vivet-jaar 2021-222 waarin voorzien wordt het onderwerp Hernieuwbare energie op te pakken. 
+Van de domeinen kan niet alles wat dar speelt opgepakt worden, en daarom vindt de inventarisatie plaats naar specifieke otepassing, die ons  aangereikt zijn via het Vivet-programma. 
+
+HIER VERDER 
 
 CIM Energie: eigenlijk nog breder: ook internationaal nog opnemen : nog, verwerken in schema – zie Leen - bijv. RED II, EuroVoc (?), plaatje Nico Vlug van Tennet met internationale definities
 	
 Korte beschrijving van wat er speelt, m.n. op informatiegebied.
-We kunnen hier verwijzen naar rapport E van Vivet 2019-2020; daar staat dat
-uitgebreid beschreven.
 
-In schema de pijlers Bouw en Installaties samengevoegd. 
-Dat geeft ruimte voor een ‘nog in te voegen domein’; vooruitlopend op Vivet 2021-22 ingevuld met Hernieuwbare energie. 
+
+
 
 De bedoeling was om ons voor de verdere uitwerking van dit framework mede te
 baseren op de door Netbeheer Nederland te ontwikkelen informatiemodellen, die

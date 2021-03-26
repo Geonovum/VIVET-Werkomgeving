@@ -26,10 +26,11 @@ Dit schema beoogt niet om 'het ecosysteem van de energievoorzieing' weer te geve
 <figcaption>Stakeholders</figcaption>
 </figure>
 
-De warmteketen kent vooral geïntegreerde bedrijven die zowel productie, distributie als levering van warmte verzorgen. Dit in tegenstelling tot de wereld van gas- en elektriciteit waar het beheer van de netten wettelijk afgescheiden moet zijn. Het wetsvoorstel Wet Collectieve warmtevoorziening verandert dit niet, maar geeft wel een zware rol aan gemeenten. Die zijn als eigenaar van warmtefaciliteiten daarom ook in het schema opgenomen. Overgiens is over het al dan niet opknippen van de warmteketen al jaren discussie, al dan niet gecombineerd met open toegang tot de warmtenetten, zoals ook bij de andere energiedragers het geval is.In dit kader kan ook genoemd worden dat er in de consultatie va nde nieuwe energiewet door veel partijen een pleidooi wordt gehouden om warmte hier deel van uit te laten maken. 
+In de warmtewereld zijn veel diverse partijen actief. Om hier een overzicht van te maken is dankbaar gebruik gemaakt van de ledenlijst van Stichting Warmtenetwerk: 'het platform voor de warmtesector waar spelers informatief met elkaar netwerken en zich inzetten voor de energietransitie'.  
+De warmteketen kent vooral geïntegreerde bedrijven die zowel productie, distributie als levering van warmte verzorgen. Dit in tegenstelling tot de wereld van gas- en elektriciteit waar het beheer van de netten wettelijk afgescheiden moet zijn. Het wetsvoorstel Wet Collectieve warmtevoorziening verandert dit niet, maar geeft wel een zware rol aan gemeenten. Die zijn als eigenaar van warmtefaciliteiten daarom ook in het schema opgenomen. Overigens is over het al dan niet opknippen van de warmteketen al jaren discussie, al dan niet gecombineerd met open toegang tot de warmtenetten, zoals ook bij de andere energiedragers het geval is.In dit kader kan ook genoemd worden dat er in de consultatie va nde nieuwe energiewet door veel partijen een pleidooi wordt gehouden om warmte hier deel van uit te laten maken. 
 Voor het inrichten van een begrippencatalogus is dit een belangrijk onderwerp: de energiedragers zullen immers steeds sterker samenkomen: energieconversie is dan ook een centraal begrip en om dat te verbinden met andere begrippen komen defnitief uit bijvoorbeeld verschillende wetten en toezichtkaders samen. 
 
-De warmteketen kent natuurlijk ook veel leveranciers en dienstverleners, en daar is dan ook een verbinding te vinden naar het in het Vivet CIM (zie heronder) opgenomen domein 'Bouw- en Installatiewereld). 
+De warmteketen kent natuurlijk ook veel leveranciers en dienstverleners, en daar is dan ook een verbinding te vinden naar het in het Vivet CIM (zie heronder) opgenomen domein 'Bouw- en Installatiewereld. 
 
 De directe warmteketen kent verschillende typen stakehodlers, die ook in deze figuur zijn opgenomen: overheidsorganisaties en - programma's, kennisinstellingen en gegevensgerichte organisaties. En branche-organisaties die vanuit diverse invalshoeken belangenbehartiging voor partijen in de waremteketen verzorgen. 
 
@@ -68,40 +69,21 @@ In het licht van het beschreven landschap met stakeholders en herkomstbronnen, d
 
 In hoofdstuk 1 is de functie en opzet van het Vivet Conceptueel InformatieModel (CIM) beschreven. 
 
-Een CIM voor de energievoorziening is te groot om in één keer te ontwerpen. In de praktijk bestaan er natuurlijk al tal van informatiemodellen, die stapsgewijze door verbinding en harmonisatie  geïntegreerd kunnen worden tot een CIM voor het energiedomein. Omdat op dit moment geen aanzetten bestaan om dit op te pakken, is  gekozen voor een stapsgewijze benadering, op basis van concrete casuïstiek in bepaalde context. In Vivet jaar 1 is voor het onderwerp 'energie-installaties' een informatiekundige inventarisatie gemaakt. zie hiervoor https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#conceptueel-informatiemodel-energietransitie/. Daar is vooral aandacht gegeven aan het Domein Marktfacilitering (vooral productie-eenheden), het Domein Bouwwereld en het Domein Installatiewereld. Deze laatste twee zijn vanwege de visualisatie samengevoegd. In dit project is het Domein Warmte opgepakt en is een voorschot genomen op het Vivet-jaar 2021-222 waarin voorzien wordt het onderwerp Hernieuwbare energie op te pakken. 
-Van de domeinen kan niet alles wat dar speelt opgepakt worden, en daarom vindt de inventarisatie plaats naar specifieke otepassing, die ons  aangereikt zijn via het Vivet-programma. 
+Een CIM voor de energievoorziening is te groot om in één keer te ontwerpen. In de praktijk bestaan er natuurlijk al tal van informatiemodellen, die stapsgewijze door verbinding en harmonisatie geïntegreerd kunnen worden tot een CIM voor het energiedomein. Omdat op dit moment geen aanzetten bestaan om dit op te pakken, is  gekozen voor een stapsgewijze benadering, op basis van concrete casuïstiek in bepaalde context. 
+In Vivet jaar 1 is voor het onderwerp 'energie-installaties' een informatiekundige inventarisatie gemaakt. zie hiervoor https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#conceptueel-informatiemodel-energietransitie/. Daar is vooral aandacht gegeven aan het Domein Marktfacilitering (vooral productie-eenheden), het Domein Bouwwereld en het Domein Installatiewereld. Deze laatste twee zijn vanwege de visualisatie samengevoegd. In dit project is het Domein Warmte opgepakt en is een voorschot genomen op het Vivet-jaar 2021-2022 door een pijler voor het Domein Hernieuwbare energie te benoemen. 
 
-HIER VERDER 
+De overkoepelende bouwblokken van dit framework hebben tijdens dit project enige aandacht gekregen, maar dat leidt niet tot uitgebreide verslaglegging. Bij het Informatiemodel Basisregistraties is DisGeo een belangrijke ontwikkeling. De Samenhangende Obejct Registratie zorgt voor verbinding tussen de basisregistraties door onderliggende afstemming en begripsdefinities. Dit zal het mogleijk maken om de informatiesystemen in het energiedomein robuuster te verbinden met de baissregistaties. 
+In de energiewereld zijn geen grote ontwikkelingen op het gebied van sectorbrede informatiemodellen. Bij Netbeheer Nederland wordt gewerkt aan betere voorzieningen om data te delen met anderen en er zijn interessante aanzetten tot een gedeeld begrippenmodel. Op begrippenniveau hebben we van Stedin wel een model ontvangen. Dat is mede de basis voor een model voor de gezamenlijke netbeheerders. Maar dat is op dit moment nog niet zover uitgewerkt dat we dat in ons begrippenmodel hebben kunnen opnemen. In het project 2020-2021 wordt dat verder opgepakt in het kader van de
+uitwerking van Hernieuwbare energie. 
 
-CIM Energie: eigenlijk nog breder: ook internationaal nog opnemen : nog, verwerken in schema – zie Leen - bijv. RED II, EuroVoc (?), plaatje Nico Vlug van Tennet met internationale definities
-	
-Korte beschrijving van wat er speelt, m.n. op informatiegebied.
+Ook zijn bij Netbeheer Nederland de eerste aanzetten tot inventarisatie en harmonisatie van metadata van de informatiemodellen. De bedoeling was om ons voor de verdere uitwerking van dit framework mede te baseren op de door Netbeheer Nederland te ontwikkelen informatiemodellen, die
+een aggregaat zou worden van de informatiemodellen van de onderscheiden netbeheerders. Deze ontwikkeling is echter niet zo ver ontwikkeld dat dat voor ons in dit jaar gebruikt kon worden. 
 
-
-
-
-De bedoeling was om ons voor de verdere uitwerking van dit framework mede te
-baseren op de door Netbeheer Nederland te ontwikkelen informatiemodellen, die
-een aggregaat zou worden van de informatiemodellen van de onderscheiden
-netbeheerders. Deze ontwikkeling is echter niet zo ver ontwikkeld dat dat voor
-ons in dit jaar gebruikt kon worden.
-
-Op begrippenniveau hebben we van Stedin wel een model ontvangen. Dat is mede de
-basis voor een model voor de gezamenlijke netbeheerders. Maar dat is op dit
-moment nog niet zover uitgewerkt dat we dat in ons begrippenmodel hebben kunnen
-opnemen. In het project 2020-2021 wordt dat verder opgepakt in het kader van de
-uitwerking van Hernieuwbare energie.
-
-### Domein Warmte
-
-#### Stakeholders en Herkomstbronnen begripsdefinities 
-
-Kort beschrijven aan de hand van onderstaande platen  en relateren aan de plaat die hierboven staat (bollenplaat). 
-Misschien de platen nog iets verder op elkaar afstemmen qua naamgeving?
+Een andere ontwikkeling is de internationale data-uitwisseling tussen de landelijke netbeheerders. Het internationale Common Information Model voor elektriciteit dient als basis voor informatiemodellering, tezamen met andere normen zoals van de IEC. 
 
 ### Toepassingsgebieden ahv Domein Warmte
 
-Domein Warmte: dit rapport
+HIER AFBEELDING VAN JEROEN MET ACCENTUERING VAN KRUISPUNTEN EN DEZE ALS BASIS BEBRUIKEN VOOR BESCHRIJVING
 
 Vervolgens nog domein Warmte beschrijven. Globale aanduiding van de kruispunten tussen
 de benoemde toepassingsgebieden en domein Warmte. Dit blijft globaal, omdat we
@@ -109,7 +91,7 @@ ervoor hebben gekozen om het niveau van begrippen verder uit te werken (en niet 
 
 Na een stakeholder-analyse – zie de blokkenplaat - is een uitvraag gedaan naar
 het bestaan van informatiemodellen en de bereidheid om de kennis daarover te
-delen. Dit verzoek isgedaan aan de warmtebedrijven, zowel vias directe contact
+delen. Dit verzoek isgedaan aan de warmtebedrijven, zowel via directe contact
 als via de sectororganisatie Energie Nederland. De response daarop was zodanig,
 dat dat mede aanleiding was om het niveau van informatiemodellering te laten
 rusten en het project verder te richten op begripsniveau.

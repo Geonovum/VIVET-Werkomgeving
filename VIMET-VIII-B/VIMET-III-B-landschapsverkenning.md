@@ -109,32 +109,35 @@ ontwikkelaars verder te gaan onderzoeken. Daarbij zijn we begonnen op
 begripsniveau, omdat dat het niveau was waar we aspecten van de WarmteAtlas
 kunnen relateren aan andere domeinen.
 
-#### Toepassing: Informatiebehoefte NPRES, TVW, ...
+#### Toepassing: Informatiebehoefte NPRES, TVW, IPO, RVO
+Tijdens een overelg met vooral vragende partijen is aangegeven dat het lastig is om monitoring van de energietransitie uit te voeren. Daardoor is het bijvoorbeeld lastig om de gegevens die door RES'sen worden aangeleverd te consolideren en te vergelijken met gegevens van gemeenten en provincies. Een begrippencatalogus zal daarbij helpen, en dient zich uit te strekken tot alle domeinen die worden geraakt, zoals Hernieuwbare energie en netwerken. 
 
-*Jeroen*: enkele zinnen n.a.v. het gesprek dat op 17 maart plaatsvond?
+PMPMPM Jeroen*: hier nog aanvullingen met enkele zinnen n.a.v. het gesprek dat op 17 maart plaatsvond?
 
 #### Toepassing: CBS
 
 Door CBS is aangegeven dat het verkrijgen van laagregionale data over warmte al
 jaren een hoofdpijndossier is. Dat is mede aanleiding geweest om het domein
-Warmte medio dit jaar op te gaan pakken.
+Warmte medio dit jaar op te gaan pakken. 
 
-Joeri/Sanne: kunnen jullie hier nog iets melden over begripsdefinities van CBS?
+PMPMPM Joeri/Sanne: kunnen jullie hier nog iets melden over begripsdefinities van CBS?
 
 #### Toepassing: Vivet-projecten 2021-2022
 
-Er is een aanzet gemaakt tot de bijdrage die een verdere uitwerking van Warmte
-in de begrippencatalogus kan bieden aan de voorziene Vivet-projecten in
-projectjaar 2021-2022. Aanname hierbij is, dat ook het domein Hernieuwbare
-energie zal worden uitgewerkt in de begrippencatalogus.
+Er is een aanzet gemaakt tot de bijdrage die een verdere uitwerking van Domein Warmte
+en Domein Hernieuwbare energie in de begrippencatalogus kan bieden aan de voorziene Vivet-projecten in
+projectjaar 2021-2022. 
 
 <figure id="Vivet-projecten 2021-22 en modellering van begrippen en informatie">
 <img src="media/Ontwikkeling_Vivet_Projecten_2021-2022_Begrippen_en_informatiemodellen.png" alt="">
 <figcaption>Vivet-projecten 2021-22 en modellering van begrippen en informatie</figcaption>
 </figure>
 
-De plaat hier nog enigszins toelichten. Het is een eerste aanzet.
+PMPMPM De plaat hier nog enigszins toelichten. Het is een eerste aanzet.
 
 ### Digital Twin Fysieke Leefomgeving (DTFL)
 
-Moeten we deze hier opnemen?
+PMPMPM Wanneer deze paragraaf akkoord is, dan nog een Toepassing DTFL opnemen in Vivet CIM Framework. 
+
+De digitale tweeling van de fysieke leefomgeving is het uitgelezen instrumentarium om de complexe werkelijkheid bij grote maatschappelijke uitdagingen te verbeelden en tot afgewogen besluitvorming te komen. Met de digitale tweeling van de fysieke leefomgeving bedoelen we een digitale representatie van de fysieke wereld op basis van data die betrokkenen verbindt en helpt de gewenste fysieke leefomgeving te modelleren. De aanleiding hiervoor is de druk die op veel plekken (vooral op regionale schaal) gevoeld wordt om de problematiek van een aantal grote maatschappelijke opgaven in samenhang op te pakken: klimaatverandering, woningopgave,  landbouw, infrastructuur en mobiliteit. Het kunnen visualiseren en modelleren van de stand van zaken en mogelijke ontwikkelingen kan zorgen voor een betere besluitvorming. Informatie met betrekking tot alle domeinen is daarvoor noodzakelijk, en het kunnen verbinden van  informatie uit dfe databronnen is daarvoor noodzakelijk. 
+Bovengenoemde toepassingen zullen hier een belangrijke rol in spelen; zo geven de regionale energiestrategieën inzicht in de claims op de fysieke leefomgeving vanuit de energietransaitie. 

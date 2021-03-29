@@ -50,6 +50,12 @@ hun relaties / harmoniseren van begrippen / beheer en onderhoud.
 Waar zit de verbinding met Vimet 2019 precies? Use case Installaties /
 Gebouwen - Domein in Vivet Conceptueel InformatieModel
 
+De verkenning van een Informatiemodel Energie-Installaties in Vimet 2019 heeft een informatiemodel opgeleverd waarin de informatiekundige relaties tussen een aantal top concepten uit het energiedomein zijn weergegeven. De energiedragers gas, elektriciteit en warmte zijn in relatie gebracht met het transport- en distributienet; met de energie opwek, consumptie, conversie en productie-voorzieningen; met bijbehorende meetwaarden; met locatie; en met gerelateerde informatie uit basisregistraties waaronder BAG en BGT.
+
+De structuur en basisclassificaties uit dit model zijn gebruikt als input voor structuur en classificaties van de Begrippencatalogus Warmte 2020. Deze catalogus is daarmee voorbereid op een uitbreiding richting andere energiedragers.
+
+In Vimet 2019 is ook de relatie met het model voor gebouwen uit de Samenhangende Objecten Registratie (SOR) gelegd. De SOR-gebouwdecompositie van o.a. gebouwblok, gebouw, bouwlaag, ruimte en installaties/voorzieningen, kan voor een gestandaardiseerde koppeling zorgen met installaties, voorzieningen, aansluitingen en energiegegevens uit het energiedomein. 
+
 -   BegrippenCatalogus warmte 2020
 
 Het idee bij het inrichten van een begrippencatalogus: toegankelijk / verbindend / ...

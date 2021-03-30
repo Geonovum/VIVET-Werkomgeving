@@ -1,19 +1,8 @@
-TIPS VOOR VERDERE AFRONDING
-
-Op veel plekken telegramstijl
-PMPMPM = nog uit te werken.
-Bron van de afbeeldingen: ‘*Verzameling afbeeldingen eindrapport.pptx*’ op
-U-schijf / map Eindrapport 
-De plaatjes hebben per sheet een naamgeving (onderin notitie van elke sheet).  
-De afbeeldingen worden bij een wijziging vanuit deze .pptx als afbeelding (.png)
-in de map ‘media’ gezet. Deze .png’s krijgen de naam zoals in de notitie van
-elke sheet staat. En dat is ook de naam die in dit rapport gebruikt wordt. 
-
 Hoofdstuk Inleiding
 -------------------
 
 ### Context
-Het programma Vivet is gestart om de versnippering van het datalandschap in het energiedomein aan te pakken. Besluitvorming in de energietransitie is immers gebaat bij goede informatie. Dit rapport doet verslag van Vivet-project VIII-B waarin de informatie in het warmtedomein is beschouwd. Ook de kwaliteit van informatie over de warmtevoorziening kan op een hoger plan getild. Een aspect dat hier speelt is de diversiteit van de sector, de commerciële belangen en het ontbreken van samenhang tussen de partijen. Er is daarom een grote diversiteit aan informatiebronnen en door vragers van informatie zoals CBS en RVO worden behoorlijke informatielacunes ervaren. Ook bij gemeenten ervaren datalacunes, zoals door TNO is onderzocht in het rapport [*Data voor Transitievisie Warmte en Wijkuitvoeringplan*]  (https://aardgasvrijewijken.nl/documenten/handlerdownloadfiles.ashx?idnv=1701562). 
+Het programma Vivet is gestart om de versnippering van het datalandschap in het energiedomein aan te pakken. Besluitvorming in de energietransitie is immers gebaat bij goede informatie. Dit rapport doet verslag van Vivet-project VIII-B waarin de informatie in het warmtedomein is beschouwd. Ook de kwaliteit van informatie over de warmtevoorziening kan op een hoger plan getild. Een aspect dat hier speelt is de diversiteit van de sector, de commerciële belangen en het ontbreken van samenhang tussen de partijen. Er is daarom een grote diversiteit aan informatiebronnen en door vragers van informatie zoals CBS en RVO worden behoorlijke informatielacunes ervaren. Ook bij gemeenten ervaren datalacunes, zoals door TNO is onderzocht in het rapport [*Data voor Transitievisie Warmte en Wijkuitvoeringplan*](https://aardgasvrijewijken.nl/documenten/handlerdownloadfiles.ashx?idnv=1701562). 
 
 ### Terugblik op Vimet 2019
 De verkenning van een Informatiemodel Energie-Installaties in Vimet 2019 heeft een informatiemodel opgeleverd waarin de informatiekundige relaties tussen een aantal top concepten uit het energiedomein zijn weergegeven. De energiedragers gas, elektriciteit en warmte zijn in relatie gebracht met het transport- en distributienet; met de energie opwek, consumptie, conversie en productie-voorzieningen; met bijbehorende meetwaarden; met locatie; en met gerelateerde informatie uit basisregistraties waaronder BAG en BGT.
@@ -21,8 +10,9 @@ De verkenning van een Informatiemodel Energie-Installaties in Vimet 2019 heeft e
 De structuur en basisclassificaties uit dit model zijn gebruikt als input voor structuur en classificaties van de Begrippencatalogus Warmte 2020. Deze catalogus is daarmee voorbereid op een uitbreiding richting andere energiedragers.
 
 In Vimet 2019 is ook de relatie met het model voor gebouwen uit de Samenhangende Objecten Registratie (SOR) gelegd. De SOR-gebouwdecompositie van o.a. gebouwblok, gebouw, bouwlaag, ruimte en installaties/voorzieningen, kan voor een gestandaardiseerde koppeling zorgen met installaties, voorzieningen, aansluitingen en energiegegevens uit het energiedomein. 
-### Metamdeo
-Deze kenmerken van het 'universe of discourse' bepalen de wijze waarop een betere informatievoorziening het beste aangepakt kan worden. De informatielaag van het [gelaagde metamodel van NORA] (https://www.noraonline.nl/wiki/Vijflaagsmodel), de Nederlandse Overheid Referentie Architectuur  (https://www.noraonline.nl/wiki/Modellering_van_gegevens) biedt hiervoor mogelijke aangrijpingspunten, zoals in onderstaande afbeelding weergegeven. 
+
+### Metamodel
+Deze kenmerken van het 'universe of discourse' bepalen de wijze waarop een betere informatievoorziening het beste aangepakt kan worden. De informatielaag van het [gelaagde metamodel van NORA](https://www.noraonline.nl/wiki/Vijflaagsmodel), de Nederlandse Overheid Referentie Architectuur (https://www.noraonline.nl/wiki/Modellering_van_gegevens) biedt hiervoor mogelijke aangrijpingspunten, zoals in onderstaande afbeelding weergegeven. 
 
 <figure id="Metamodel">
 <img src="media/Lagen_Nationaal_Metamodel.png" alt="">
@@ -66,7 +56,6 @@ Hoofdstuk Aanleiding en opdracht
 Hoofdstuk Methodiek en techniek
 -------------------------------
 
-*dit hoofdstuk: Joeri*  
 ### Begrippencatalogus
 
 Een begrippencatalogus is méér dan een opsomming van begrippen: het beschrijft ook – op structurele wijze – de wijze waarop de begrippen met elkaar samenhangen. 
@@ -84,7 +73,7 @@ De begrippencatalogus is het woordenboek, waaruit geput kan worden bij de beschr
 We onderkennen twee lagen: het Conceptueel informatiemodel en het Logisch informatie of -gegevensmodel. Het conceptuele niveau is onafhankelijk van de operationele informatiesystemen, de beschrijving van hoe informatie door deze systemen worden vastgelegd en gebruikt gebeurt op het niveau van de logische informatiemodellen. 
 
 ### Conceptueel Informatiemodel Energietransitie 
-Overgenomen uit https://docs.geostandaarden.nl/mim/mim/#wat-is-een-informatiemodel:  
+Overgenomen uit https://docs.geostandaarden.nl/mim/mim/#wat-is-een-informatiemodel.   
 Wanneer we informatie over bepaalde onderwerpen willen inwinnen, registreren of uitwisselen, dan is het van belang om deze informatie eerst goed te beschrijven. We doen dit zodat het voor eenieder die met de informatie aan de slag gaat helder en eenduidig is:
 * waarover de informatie gaat, bv. informatie over een persoon of een gebouw, we noemen dit de objecten, de onderwerpen van gesprek
 * de eigenschappen/kenmerken zelf, waarvan we informatie bijhouden, bv. de naam van een persoon of het bouwjaar van een gebouw

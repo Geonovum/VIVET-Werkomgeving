@@ -131,14 +131,11 @@ Er zijn allerlei tools beschikbaar voor het werken met SKOS. Voor het Begrippenm
 
 #### Beheer- en ontwikkelomgeving
 
-PMPMPM TO DO: 
-Kort beschrijven welke typen tools hiervoor bestaan? Waarom gekozen voor vocbench?
+Voor het ontwikkelen en beheren van de begrippencatalogus in Linked Data, is het handig om goede ondersteunende tooling te hebben. Voor de begrippencatalogus warmte, wordt gebruik gemaakt van de open-source software [VocBench](https://www.pldn.nl/wiki/VocBench). Hierbij wordt het voorbeeld van DiS Geo gevolgd, die in de zomer van 2020 een onderzoek hebben laten uitvoeren welke tooling het gunstigste is voor de toepassingen van Geonovum.
+
+VocBench is een flexibel programma en bavat een hoop opties om het werken met een begrippencatalogus makkelijker te maken. Zo kunnen meerdere eigenschappen tegelijkertijd worden aangepast, kan een graaf visualisatie gemaakt worden en kan er gemakkelijk worden samengewerkt. VocBench wordt ook gebruikt door de Europese unie om de [Eurovoc thesaurus](https://op.europa.eu/nl/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/eurovoc) te beheren.
+
 #### Publicatieomgeving
 
-PMPMPM TO DO:
-Voor het uitwisselen van data is het tegenwoordig logisch om deze via API’s te ontsluiten. Dat geldt ook voor woordenboeken. Een woordenboek API kan in allerlei applicaties worden gebruikt om woorden en hun definitie op te halen.
-Aanwezige functionaliteit, gemaakte keuzen
+Voor het uitwisselen van data is het tegenwoordig logisch om deze via API’s te ontsluiten. Dat geldt ook voor de Begrippencatalogus. Deze begrippencatalogus API kan in allerlei applicaties worden gebruikt om woorden en hun definitie op te halen. Om dit te ondersteunen, wordt voor de begrippencatalogus gebruik gemaakt van een publicatieomgeving. Deze publicatieomgeving wordt ook door DiS geo gebruikt. Op [begrippen.geostandaarden](https://begrippen.geostandaarden.nl/energie/nl/) wordt de begrippencatalogus ontsloten op een manier die zowel voor mensen als machines leesbaar is. De publicatieomgeving draait op (BegrippenXL)[https://archixl.nl/archixl/product/begrippenxl-thesaurusplatform]. Dit is een thesaurusplatform gebouwd op de open source-software [Skosmos](https://skosmos.org/). Om een idee te krijgen van hoe deze publicatieomgeving werkt, verwijzen we door naar de [leeswijzer](https://github.com/Geonovum/VIVET-Werkomgeving/raw/master/VIMET-VIII-B/media/20210111%20Leeswijzer%20Begrippenmodel%20Energie.pdf).
 
--   beheeromgeving
-
-Aanwezige functionaliteit, gemaakte keuzen

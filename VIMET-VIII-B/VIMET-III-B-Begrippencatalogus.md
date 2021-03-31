@@ -4,16 +4,60 @@ Hoofdstuk Begrippencatalogus Warmte
 *Dit hoofdstuk: ??*
 
 ### Inleiding
-Eerst wordt de opzet van de begrippencatalogus beschreven: de
-scope, de keuzen bij de *inrichting* van de onderscheiden Groepen, Hïerarchie en
-Begrippen.
 
-Vervolgens wordt de *inhoud* van de Groepen, Hïerarchie en Begrippen kort
-beschreven, met verwijzingen naar bijlagen en naar de begrippencatalogus zelf.
+De begrippencatalogus Energiedragers bevat de begrippen uit het Nederlandse
+energielandschap. Het is een online woordenboek dat zowel voor mensen als
+machines te doorzoeken is. Dit woordenboek brengt begrippen vanuit verschillende
+begrippenkaders uit de energiewereld samen en biedt een transparant platform
+voor vergelijking en harmonisatie. De begrippen zijn overgenomen uit een
+groeiende lijst van bronnen zoals:
+
+-   Warmtewet
+
+-   Wet Collectieve warmtevoorziening
+
+-   NEN 7125
+
+-   Richtlijnen van het Europees Parlement en de Raad
+
+Door de overzichtelijke zoekfunctie op term, definitie en bron helpt de
+Begrippencatalogus Energie de leesbaarheid en toepassing van deze bronnen te
+vergroten.
+
+De technologie achter de Begrippencatalogus biedt de ruimte om de Begrippen op verschillende manier en te bekijken. Er kan voor gekozen worden de begrippen alfabetisch weer te geven, binnen een hïerarchie of vanuit vooraf bepaalde groepen. Ook kunnen alle nieuw toegevoegde begrippen worden bekeken. Hoe deze mogelijkheiden ingericht zijn wordt uitgeelegd in de volgende paragraaf.
 
 ### Verantwoording van de inrichting van de begrippencatalogus
 
+In deze paragraaf zal dieper worden ingegaan op de inrichting van de begrippencatalogus.
+
+#### Beschrijving van de Begrippen
+
+-   Algemene toelichting op begrippen in begrippencatalogus
+
+Welke velden worden vastgelegd per begrip.
+
+-   Enkele voorbeelden met plaatje en uitleg van begrippen en relaties tussen
+    begrippen
+
+-   Eén of meerdere afbeeldingen uit de begrippengraph (wolk) van
+    Begrippencatalogus Warmte met ook verbinding met andere begrippen
+    (basisregistraties?).
+
+#### Inrichting van de hïerarchie
+
+<figure id="Hiërarchie">
+<img src="media/HierarchieGraaf.png" alt="">
+<figcaption>Graaf visualisatie van de hïerarchie binnen het begrippenmodel.</figcaption>
+</figure>
+
+Een uitgangspunt bij het inrichten van de hïerarchie binnen de begrippencatalogus, is dat er zo veel mogelijk gekeken wordt naar bestaande structuren. Internetzoekmachines zijn gebruikt om te zoeken naar andere begrippencatalogi. Zo is bijvoorbeeld de definitie van het meest algemene beegrip "object", afkomstig uit [MIM](https://docs.geostandaarden.nl/mim/mim/#objecten-en-objecttype).  
 -   keuzen bij de opzet van de Begrippencatalogus.
+
+-   Uitleg van de hierarchie (zie ook ESDL uitleg document van Edwin Mathijssen,
+    evt in bijlage opnemen)
+
+-   met voorbeeld : object - fysiek object - energievoorziening -
+    energietransport - warmtetransport - aansluiting
 
 Bijv. Context van de begrippencatalogus: verbindingen met andere
 begrippencatalogi, zoals die van de basisregistraties?
@@ -46,7 +90,7 @@ verdere opzet en indelling van de begrippencatalogus.
 
 Methode van opdeling (MIM..., koppeling andere (basis)registraties)
 
-### Beschijving van de Groepen / Herkomstbronnen
+#### Inrichting van Groepen
 
 -   Opsomming en korte beschrijving van de bronnen van de definities onder
     Groepen
@@ -63,26 +107,8 @@ Geen structuur opgezet tussen de opgenomen groepen
 
 -   Korte toelichting per opgenomen Groep in begrippencatalogus
 
-### Beschrijving van de Hiërarchie
+#### Beschrijving van de Hiërarchie
 
--   Uitleg van de hierarchie (zie ook ESDL uitleg document van Edwin Mathijssen,
-    evt in bijlage opnemen)
-<figure id="Hiërarchie">
-<img src="media/Hierarchie_Begrippencatalogus_Warmte.png" alt="">
-<figcaption>Hiërarchie</figcaption>
-</figure>
--   met voorbeeld : object - fysiek object - energievoorziening -
-    energietransport - warmtetransport - aansluiting
 
-### Beschrijving van de Begrippen
 
--   Algemene toelichting op begrippen in begrippencatalogus
 
-Welke velden worden vastgelegd per begrip.
-
--   Enkele voorbeelden met plaatje en uitleg van begrippen en relaties tussen
-    begrippen
-
--   Eén of meerdere afbeeldingen uit de begrippengraph (wolk) van
-    Begrippencatalogus Warmte met ook verbinding met andere begrippen
-    (basisregistraties?).

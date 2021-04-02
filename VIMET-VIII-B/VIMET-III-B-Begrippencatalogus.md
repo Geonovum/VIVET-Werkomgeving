@@ -128,16 +128,17 @@ voorkomt. Rechts in beeld vallen de verschillende eigenschappen en relaties
 terug te vinden.
 
 <figure id="voorbeeldBegrip">
-<img src="media/HierarchieGraaf.png" alt="">
-<figcaption>Graaf visualisatie van de hïerarchie binnen het begrippenmodel.</figcaption>
+<img src="media/voorbeeldBegrip.png" alt="">
+<figcaption>Voorbeeld van een Begrip binnen de publicatieomgeving van de Begrippencatalogus.</figcaption>
 </figure>
 
 
-#### Inrichting van de hïerarchie
 
-<figure id="Hiërarchie">
-<img src="media/voorbeeldBegrip.png" alt="">
-<figcaption>Voorbeeld van een Begrip binnen de publicatieomgeving van de Begrippencatalogus.</figcaption>
+
+#### Inrichting van de hïerarchie
+<figure id="Hierarchie">
+<img src="media/HierarchieGraaf.png" alt="">
+<figcaption>Graaf visualisatie van de hïerarchie binnen het begrippenmodel.</figcaption>
 </figure>
 
 Een uitgangspunt bij het inrichten van de hïerarchie binnen de begrippencatalogus, is dat er zo veel mogelijk gekeken wordt naar bestaande structuren. Internetzoekmachines zijn gebruikt om te zoeken naar andere begrippencatalogi. Zo is bijvoorbeeld de definitie van het meest algemene beegrip "object", afkomstig uit [MIM](https://docs.geostandaarden.nl/mim/mim/#objecten-en-objecttype).  

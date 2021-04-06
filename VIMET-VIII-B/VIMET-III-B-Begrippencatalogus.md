@@ -1,8 +1,6 @@
 Hoofdstuk Begrippencatalogus Warmte
 -----------------------------------
 
-\*Dit hoofdstuk: ??\*
-
 ### Inleiding
 
 De begrippencatalogus Energiedragers bevat de begrippen uit het Nederlandse
@@ -68,6 +66,15 @@ vocabulaires bevatten een aantal gestandaardiseerde constructies die kunnen
 worden gebruikt, om meer bruikbare informatie toe te voegen aan dingen. Door het
 gebruik van deze Linked Data technologieën wordt de data kwaliteit beter en
 worden dingen beter vindbaar voor zowel mensen als machines.
+
+#### URI's en verwijzingen
+Ieder begrip in de begrippencatalogus heeft een URI. Deze URI is opgebouwd uit twee onderdelen. De namespace en een lokale unieke identificerende code voor het begrip binnen de namespace. De namespace is voor alle begrippen hetzelfde. Deze komt overeen met de HTTP weblocatie van de begrippencatalogus. Dit komt overeen met het 2e principe van linked data. Deze namespace staat nog niet vast aangezien het nog onzeker is of de begrippencatalogus op de ontwikkel weblocatie gaat worden beheerd. De lokale unieke identificerende code wordt gegenereerd door de ontwikkelomgeving VocBench. Hieronder volgt een voorbeeld van de opbouw van een URI.
+
+> URI van een begrip: "https://begrippen.geostandaarden.nl/energie/nl/page/c_aa7eaf64" <br>
+> Namespace: "https://begrippen.geostandaarden.nl/energie/nl/page/" <br>
+> unieke ID-code: "c_aa7eaf64"
+> 
+Concepten in externe bronnen staan vaak niet als Linked Data gepubliceerd. Om toch naar deze externe concepten te kunnen verwijzen, wordt de meest specifieke weblocatie (URL) gebruikt (indien deze bestaat). In het geval van bijvoorbeeld de Warmtewet wordt er verwezen naar een specifiek artikel van de wet waar de definities in te vinden vallen. Deze artikelen staan wel gepubliceerd in Linked data, maar niet met een unieke URI per begrip. Een risico bij het gebruik van URL's is dat deze kunnen wijzigen. Wanneer deze URL's wijzigen, werkt de verwijzing niet meer. Dit heeft als gevolg dat de begrippencatalogus dan zal moeten worden bijgewerkt. Met behulp van de SPARQL querie taal is dit een gemakkelijke operatie. 
 
 #### Beschrijving van de Begrippen
 
@@ -198,7 +205,7 @@ Geen structuur opgezet tussen de opgenomen groepen
 
 -   Korte toelichting per opgenomen Groep in begrippencatalogus
 
-#### Beschrijving van de Hiërarchie
+
 
 
 

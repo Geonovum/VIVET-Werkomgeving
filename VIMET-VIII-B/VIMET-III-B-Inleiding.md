@@ -12,7 +12,7 @@ De structuur en basisclassificaties uit dit model zijn gebruikt als input voor s
 In Vimet 2019 is ook de relatie met het model voor gebouwen uit de Samenhangende Objecten Registratie (SOR) gelegd. De SOR-gebouwdecompositie van o.a. gebouwblok, gebouw, bouwlaag, ruimte en installaties/voorzieningen, kan voor een gestandaardiseerde koppeling zorgen met installaties, voorzieningen, aansluitingen en energiegegevens uit het energiedomein. 
 
 ### Metamodel
-Deze kenmerken van het 'universe of discourse' bepalen de wijze waarop een betere informatievoorziening het beste aangepakt kan worden. De informatielaag van het [gelaagde metamodel van NORA](https://www.noraonline.nl/wiki/Vijflaagsmodel), de Nederlandse Overheid Referentie Architectuur (https://www.noraonline.nl/wiki/Modellering_van_gegevens) biedt hiervoor mogelijke aangrijpingspunten, zoals in onderstaande afbeelding weergegeven. 
+Deze kenmerken van het 'universe of discourse' bepalen de wijze waarop een betere informatievoorziening het beste aangepakt kan worden. De informatielaag van het [gelaagde metamodel van NORA](https://www.noraonline.nl/wiki/Vijflaagsmodel), de Nederlandse Overheid Referentie Architectuur (https://www.noraonline.nl/wiki/Modellering_van_gegevens) biedt hiervoor aangrijpingspunten, zoals in onderstaande afbeelding weergegeven. 
 
 <figure id="Metamodel">
 <img src="media/Lagen_Nationaal_Metamodel.png" alt="">
@@ -36,21 +36,12 @@ Hoofdstuk *Methodiek en techniek* beschrijft achtergrond van begrippencatalogus,
 MIM, selectie van tooling, en ‘spoorzoeken’ naar warmtebegrippen, opsomming van
 bronnen, opsomming van benaderde partijen.
 
-Hoofdstuk *Begrippencatalogus* geeft een beschrijving van het resultaat: de
+Hoofdstuk *Resultaten landschapsverkenning warmtewereld* presenteert de resultaten van een inventarisatie van het warmtedomein: het ecosysteem van de energiedrager Warmte, een inventarisatie van stakeholders in een schematisch overzicht, de bronnen waar begrippen en hun definities zijn te vinden en welke partijen daar zeggenschap over hebben en tenslotte een beschrijving van enkele (voor Vivet) relevante toepassingensgebieden. 
+
+Hoofdstuk *Begrippencatalogus Warmte* geeft een beschrijving van het resultaat: de
 geïnventariseerde begripen, de linkjes naar de herkomstbronnen van
 begripsdefinities, de gemaakte keuzen bij het bouwen van de hiërachie van
 begrippen.
 
 Hoofdstuk *Bevindingen, Conclusies en Aanbevelingen* doet in grote lijnen verslag van wat we tijdens dit
 project zijn tegengekomen, en zet deze in Vivet-perspectief van Vivet.
-
-Hoofdstuk Samenvatting
-----------------------
-
-Dit schrijven wanneer hoofdstuk bevindingen, conclusies, aanbevelingen gereed is.
-Of deze samenvatting weglaten als deze beperkt blijft. 
-
-Hoofdstuk Aanleiding en opdracht
---------------------------------
-
-Dit hoofdstuk opnemen? Of weglaten? 

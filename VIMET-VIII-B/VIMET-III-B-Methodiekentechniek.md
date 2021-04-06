@@ -18,13 +18,17 @@ De begrippencatalogus is het woordenboek, waaruit geput kan worden bij de beschr
 We onderkennen twee lagen: het Conceptueel informatiemodel en het Logisch informatie of -gegevensmodel. Het conceptuele niveau is onafhankelijk van de operationele informatiesystemen, de beschrijving van hoe informatie door deze systemen worden vastgelegd en gebruikt gebeurt op het niveau van de logische informatiemodellen. 
 
 ### Conceptueel Informatiemodel Energietransitie 
-Overgenomen uit https://docs.geostandaarden.nl/mim/mim/#wat-is-een-informatiemodel.   
+Overgenomen uit [MIM - Metamodel Informatie Modellering](https://docs.geostandaarden.nl/mim/mim/#wat-is-een-informatiemodel).    
 Wanneer we informatie over bepaalde onderwerpen willen inwinnen, registreren of uitwisselen, dan is het van belang om deze informatie eerst goed te beschrijven. We doen dit zodat het voor eenieder die met de informatie aan de slag gaat helder en eenduidig is:
 * waarover de informatie gaat, bv. informatie over een persoon of een gebouw, we noemen dit de objecten, de onderwerpen van gesprek
 * de eigenschappen/kenmerken zelf, waarvan we informatie bijhouden, bv. de naam van een persoon of het bouwjaar van een gebouw
 * wat de betekenis is van die informatie, de semantiek
 * hoe deze informatie qua structuur in elkaar zit, qua onderlinge relaties en qua interne structuur van de data. 
-We doen dit door een model te maken van de informatie. Een Informatiemodel beschrijft daarom de structuur, semantiek en de eigenschappen van informatie over dingen in de werkelijkheid. De beschrijving van de informatie heeft de vorm van een model dat een gestructureerde weergave is van die werkelijkheid. Een dergelijk model is noodzakelijk om deze informatie te kunnen beheren en gebruiken (door mensen en machines) bij het communiceren over deze werkelijkheid, in registraties of anderszins, zoals het specificeren van de tussen registraties uit te wisselen gegevens of van de te bevragen informatie uit een registratie.
+
+We doen dit door een model te maken van de informatie. Een Informatiemodel beschrijft daarom de structuur, semantiek en de eigenschappen van informatie over dingen in de werkelijkheid. De beschrijving van de informatie heeft de vorm van een model dat een gestructureerde weergave is van die werkelijkheid. 
+
+Een dergelijk model is noodzakelijk om deze informatie te kunnen beheren en gebruiken (door mensen en machines) bij het communiceren over deze werkelijkheid, in registraties of anderszins, zoals het specificeren van de tussen registraties uit te wisselen gegevens of van de te bevragen informatie uit een registratie.
+
 Het beschrijven vindt plaats door de informatie van de objecten die we beschouwden te modelleren, met hun kenmerken en hun onderlinge relaties. We gebruiken daarvoor termen als objecten, objecttype, attribuut, attribuutsoort, relatie, relatiesoort. Hiermee kunnen we de werkelijke data beschrijven. 
 
 <figure id="Vivet Conceptueel Informatiemodel Framework">
@@ -52,7 +56,7 @@ Datastandaarden zorgen voor de consistentie en uitwisselbaarheid van data. Met d
 
 Om de taal uit een domein consistent en uitwisselbaar te maken, zijn taalstandaarden noodzakelijk. Veelvoorkomende keuzes voor standaarden zijn UML, zoals beschreven in het [Metamodel Informastie Modellering](https://docs.geostandaarden.nl/mim/mim/), of het gebruik van Linked Data standaarden zoals SKOS, Simple Knowledge Organization System, hier beschreven in de [NORA Standaarden](https://www.noraonline.nl/wiki/SKOS_(Simple_Knowledge_Organization_System). De samenhang tussen deze standaarden valt terug te vinden op het niveau van begrippen, zoals beschreven in de [Handreiking Gegevensbeschrijvingen van NORA](https://www.noraonline.nl/wiki/Gegevensbeschrijvingen/Handreiking). 
 
-MIM maakt onderscheid in 4 verschillende niveaus van informatiemodellen, waarbij niveau 1 een model van begrippen is. Een model van begrippen beschrijft de werkelijkheid binnen het beschouwde domein  door middel van de daarin gehanteerde begrippen en hun relaties tot elkaar. Wanneer de taal die deze werkelijkheid omschrijft niet is gedefinieerd, dan is het ook lastig om een informatiemodel van een hoger niveau te maken, dat dichter bij een digitale registratie staat. MIM kan niet worden toegepast op een model van niveau 1 volgens [IM 1.1 specificatie](https://docs.geostandaarden.nl/mim/mim/#typen-informatiemodellen), maar Linked Data wel.
+MIM maakt onderscheid in 4 verschillende niveaus van informatiemodellen, waarbij niveau 1 een model van begrippen is. Een model van begrippen beschrijft de werkelijkheid binnen het beschouwde domein  door middel van de daarin gehanteerde begrippen en hun relaties tot elkaar. Wanneer de taal die deze werkelijkheid omschrijft niet is gedefinieerd, dan is het ook lastig om een informatiemodel van een hoger niveau te maken, dat dichter bij een digitale registratie staat. MIM kan niet worden toegepast op een model van niveau 1 volgens [MIM 1.6 specificatie](https://docs.geostandaarden.nl/mim/mim/#typen-informatiemodellen), maar Linked Data wel.
 
 <figure id="informatiemodel_plaatje_MIM">
 <img src="media/informatiemodel%20plaatje%20MIM.png" alt="">
@@ -68,8 +72,6 @@ Het idee is dat de verschillende domeinen op basis van de FAIR principes eigen s
 <img src="media/FAIR.jpg" alt="">
 <figcaption> Visualisatie van de FAIR principes</figcaption>
 </figure>
-
-PMPMPM DiSGeo en visie architectuur zie ppt Ruud van Rossem (op U-schijf)  
 
 ### Onderzoekmethode
 
@@ -107,10 +109,10 @@ Aangezien de warmtesector naar voren kwam als het meest onontgonnen gebied, werd
 <figcaption>Analyse van de meest basale basisconditie voor standaardisatie binnen de warmtesector.</figcaption>
 </figure>
 
-Uit gesprekken met verschillende partijen die opereren binnen de warmtesector is gebleken dat het ontbreken van een eenduidige taalstandaard kan worden aangewezen als de meest basale basisconditie om op een efficiënte manier en zonder exponentiële kostenstijging, gemeenschappelijk data te kunnen delen. De bevindingen worden verder toegelicht in [hoofdstuk 2](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#hoofdstuk-resultaten-landschapsverkenning-warmtewereld). Binnen het warmtedomein bleek er een grote bereidheid tot medewerking, Het probleem werd door alle partijen erkend en gezien als een grote taak.
+Uit gesprekken met verschillende partijen die opereren binnen de warmtesector is gebleken dat het ontbreken van een eenduidige taalstandaard kan worden aangewezen als de meest basale basisconditie om op een efficiënte manier en zonder exponentiële kostenstijging, gemeenschappelijk data te kunnen delen. De bevindingen worden verder toegelicht in [hoofdstuk 3](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#hoofdstuk-resultaten-landschapsverkenning-warmtewereld). Binnen het warmtedomein bleek er een grote bereidheid tot medewerking, Het probleem werd door alle partijen erkend en gezien als een grote taak.
 
 Aan de verschillende partijen binnen de warmtesector heeft Geonovum gevraagd wat de reeds bestaande taalstandaarden zijn binnen het Warmtedomein, zodat deze konden worden geanalyseerd. Het doel van de analyse was om verschillen tussen verschillende taalstandaarden zichtbaar te maken. 
-Om dit doel te bereiken moest een passende methodiek worden gekozen. Deze methodiek moet aansluiten op het methodologische framework van Geonovum, zodat gebruik kon worden gemaakt van de bestaande infrastructuur om begrippen iteratief met het werkveld te kunnen delen. Het Geonovum VIVET team koos daarom om aan te sluiten bij de methodiek van Doorontwikkeling in Samenhang van de GeoBasisregistraties (DiS Geo). Op basis van deze methodiek werd besloten een Begrippencatalogus voor de warmtesector te ontwikkelen, waarin alle verschillen tussen bestaande taalstandaarden zichtbaar worden. Een aantal voorbeelden van bestaande taalstandaarden zijn: de Warmtewet, de Europese regelgeving en de NEN7125.
+Om dit doel te bereiken moest een passende methodiek worden gekozen. Deze methodiek moet aansluiten op het methodologische framework van Geonovum, zodat gebruik kon worden gemaakt van de bestaande infrastructuur om begrippen iteratief met het werkveld te kunnen delen. Het Geonovum VIVET team koos daarom om aan te sluiten bij de methodiek van Doorontwikkeling in Samenhang van de GeoBasisregistraties (DiSGeo). Op basis van deze methodiek werd besloten een Begrippencatalogus voor de warmtesector te ontwikkelen, waarin alle verschillen tussen bestaande taalstandaarden zichtbaar worden. Een aantal voorbeelden van bestaande taalstandaarden zijn: de Warmtewet, de Europese regelgeving en de NEN7125.
 
 #### Iteratief en samen met het werkveld werken naar een oplossing
 
@@ -131,9 +133,9 @@ Er zijn allerlei tools beschikbaar voor het werken met SKOS. Voor het Begrippenm
 
 Voor het ontwikkelen en beheren van de begrippencatalogus in Linked Data, is het handig om goede ondersteunende tooling te hebben. Voor de begrippencatalogus warmte, wordt gebruik gemaakt van de open-source software [VocBench](https://www.pldn.nl/wiki/VocBench). Hierbij wordt het voorbeeld van DiS Geo gevolgd, die in de zomer van 2020 een onderzoek hebben laten uitvoeren welke tooling het gunstigste is voor de toepassingen van Geonovum.
 
-VocBench is een flexibel programma en bavat een hoop opties om het werken met een begrippencatalogus makkelijker te maken. Zo kunnen meerdere eigenschappen tegelijkertijd worden aangepast, kan een graaf visualisatie gemaakt worden en kan er gemakkelijk worden samengewerkt. VocBench wordt ook gebruikt door de Europese unie om de [Eurovoc thesaurus](https://op.europa.eu/nl/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/eurovoc) te beheren.
+VocBench is een flexibel programma en bavat een hoop opties om het werken met een begrippencatalogus makkelijker te maken. Zo kunnen meerdere eigenschappen tegelijkertijd worden aangepast, kan een graaf visualisatie gemaakt worden en kan er gemakkelijk worden samengewerkt. VocBench wordt ook gebruikt door de Europese Unie om de [Eurovoc thesaurus](https://op.europa.eu/nl/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/eurovoc) te beheren.
 
 #### Publicatieomgeving
 
-Voor het uitwisselen van data is het tegenwoordig logisch om deze via API’s te ontsluiten. Dat geldt ook voor de Begrippencatalogus. Deze begrippencatalogus API kan in allerlei applicaties worden gebruikt om woorden en hun definitie op te halen. Om dit te ondersteunen, wordt voor de begrippencatalogus gebruik gemaakt van een publicatieomgeving. Deze publicatieomgeving wordt ook door DiSGeo gebruikt. Op [begrippen.geostandaarden](https://begrippen.geostandaarden.nl/energie/nl/) wordt de begrippencatalogus ontsloten op een manier die zowel voor mensen als machines leesbaar is. De publicatieomgeving draait op [BegrippenXL[(https://archixl.nl/archixl/product/begrippenxl-thesaurusplatform). Dit is een thesaurusplatform gebouwd op de open source-software [Skosmos](https://skosmos.org/). Om een idee te krijgen van hoe deze publicatieomgeving werkt, verwijzen we door naar de [leeswijzer](https://github.com/Geonovum/VIVET-Werkomgeving/raw/master/VIMET-VIII-B/media/20210111%20Leeswijzer%20Begrippenmodel%20Energie.pdf).
+Voor het uitwisselen van data is het tegenwoordig logisch om deze via API’s te ontsluiten. Dat geldt ook voor de Begrippencatalogus. Deze begrippencatalogus API kan in allerlei applicaties worden gebruikt om woorden en hun definitie op te halen. Om dit te ondersteunen, wordt voor de begrippencatalogus gebruik gemaakt van een publicatieomgeving. Deze publicatieomgeving wordt ook door DiSGeo gebruikt. Op [begrippen.geostandaarden](https://begrippen.geostandaarden.nl/energie/nl/) wordt de begrippencatalogus ontsloten op een manier die zowel voor mensen als machines leesbaar is. De publicatieomgeving draait op [BegrippenXL](https://archixl.nl/archixl/product/begrippenxl-thesaurusplatform). Dit is een thesaurusplatform gebouwd op de open source-software [Skosmos](https://skosmos.org/). Om een idee te krijgen van hoe deze publicatieomgeving werkt, verwijzen we door naar de [leeswijzer](https://github.com/Geonovum/VIVET-Werkomgeving/raw/master/VIMET-VIII-B/media/20210111%20Leeswijzer%20Begrippenmodel%20Energie.pdf).
 

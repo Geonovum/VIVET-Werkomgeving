@@ -4,7 +4,7 @@ Hoofdstuk Begrippencatalogus Warmte
 ### Inleiding
 
 De begrippencatalogus Energiedragers bevat de begrippen uit het Nederlandse energielandschap. Het is een online woordenboek dat zowel voor mensen als
-machines te doorzoeken is. Dit woordenboek brengt begrippen vanuit verschillende begrippenkaders uit de energiewereld samen en biedt een transparant platform voor vergelijking en harmonisatie. De focus van de begrippencatalogus ligt initieel op de energiedrager warmte, maar er is al voorgesorteerd op de andere energiedragers. De begrippen zijn overgenomen uit een groeiende lijst van bronnen zoals:
+machines te doorzoeken is. Dit woordenboek brengt begrippen vanuit verschillende begrippenkaders uit de energiewereld samen en biedt een transparant platform voor vergelijking en harmonisatie. De focus van de begrippencatalogus ligt initieel op de energiedrager warmte, maar er is al voorgesorteerd op de andere energiedragers. De begrippen zijn overgenomen uit een omvangrijke reeks bronnen zoals:
 - Warmtewet
 - Wet Collectieve warmtevoorziening
 - NEN 7125
@@ -18,7 +18,7 @@ De technologie achter de Begrippencatalogus biedt de ruimte om de Begrippen op v
 
 In deze paragraaf zal dieper worden ingegaan op de inrichting van de begrippencatalogus. Hierbij zal ook woorden ingegaan op de technologie dit is
 gebruikt om de Begrippencatalogus te realiseren. 
-De technologieën hierachter zijn Linked Data technologieën. Dit houd in dat deze ontworpen zijn conform de vier [Linked Data Principes](<https://www.w3.org/DesignIssues/LinkedData.html>). Deze 4 principes zijn:
+De technologieën hierachter zijn Linked Data technologieën. Dit houd in dat deze ontworpen zijn conform de vier [Linked Data Principes](https://www.w3.org/DesignIssues/LinkedData.html). Deze vier principes zijn:
 1.  Gebruik URI’s (Unique Resource Identifiers) om dingen te benoemen.
 2.  Gebruik HTTP URI’s zodat mensen deze namen kunnen opzoeken.
 3.  Zorg dmv gebruik van standaarden, voor bruikbare informatie voor wanneer
@@ -51,7 +51,7 @@ begrippenlijsten. Deze begrippenlijsten staan vaak ergens verstopt in een pdf
 bestand of ergens binnen een wetsartikel. Hierdoor vallen deze begrippen vaak
 lastig te vinden en al helemaal lastig te vergelijken. Binnen de
 Begrippencatalogus worden alle relevante begrippen ingevoerd als een [SKOS
-concept](<https://www.w3.org/TR/2009/REC-skos-reference-20090818/#concepts>).
+concept](https://www.w3.org/TR/2009/REC-skos-reference-20090818/#concepts).
 Een SKOS concept wordt gedefinieerd als een idee of een begrip door de SKOS
 specificatie, daarom is dit de geschikte klasse om aan energiebegrippen te
 koppelen.
@@ -62,7 +62,7 @@ eigenschappen op. Naar deze eigenschappen wordt ook wel eens gerefereerd met de
 termen: “Linked Data properties” of “metadata”. Om de begrippen in de
 begrippencatalogus vergelijkbaar te maken met andere Linked Data thesauri, wordt
 gebruik gemaakt van een veelgebruikte vocabulaire. Deze vocabulaire, [Dublin
-Core]( <https://www.dublincore.org/specifications/dublin-core/dcmi-terms/>)
+Core](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/)
 bevat eigenschappen die worden gebruik op veel verschillende websites op het
 internet. Het gebruik van vocabulaires sluit ook aan bij de OWMS 4.0 mantel
 (Overheid.nl Web Metadata Standaard). Welke eigenschappen precies per begrip
@@ -72,14 +72,14 @@ gebruikt worden is te vinden in de onderstaande tabel.
 |--------------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Geprefereerde term | [skos:prefLabel](http://www.w3.org/2004/02/skos/core\#prefLabel)   | Bevat de naam van het begrip in tekst. Deze naam wordt weergegeven in de publicatieomgeving. Achter de geprefereerde term wordt tussen haakjes de Bron herhaald als verschillende bronnen hetzelfde begrip definiëren.   |
 | Bron               | [dct:source]()                                                     | In dit veld wordt de bron van herkomst opgeslagen van het begrip.                                                                                                                                                        |
-| Definitie          | [skos:definition](http://www.w3.org/2004/02/skos/core\#definition) | Binnen het definitie veld wordt de betekenis van het begrip vastgelegd. Uit de definitie komt de semantiek van het begrip voort.                                                                                         |
+| Definitie          | [skos:definition](http://www.w3.org/2004/02/skos/core\#definition) | Binnen het definitieveld wordt de betekenis van het begrip vastgelegd. Uit de definitie komt de semantiek van het begrip voort.                                                                                         |
 | Ingangstermen      | [Skos:altLabel](http://www.w3.org/2004/02/skos/core\#altLabel)     | Een andere naam voor het begrip. Dit kan bijvoorbeeld een synoniem zijn of een afkorting.                                                                                                                                |
 | In schema          | [skos:inScheme]()                                                  | Deze eigenschap maakt het voor machines leesbaar dat een begrip bij de begrippencatalogus hoort.                                                                                                                         |
 | Laatst aangepast   | [dct:modified]()                                                   | Wordt niet weergegeven op de publicatieomgeving, maar wordt gebruikt om het voor het systeem traceerbaar te maken wanneer een begrip voor het laatst is aangepast. Wordt automatisch bijgehouden door de beheeromgeving. |
 | Aangemaakt         | [dct:created]()                                                    | Wordt niet weergegeven op de publicatieomgeving, maar wordt automatisch toegevoegd wanneer het begrip in de begrippencatalogus wordt aangemaakt.                                                                         |
 | Toelichting        | [skos:scopeNote](http://www.w3.org/2004/02/skos/core\#scopeNote)   | Dit is een extra veld waar tekstuele toelichtingen over het begrip kunnen worden opgeslagen.                                                                                                                             |
 
-Naast deze bruikbare informatie over het begrip zelf, bied de begrippencatalogus
+Naast deze bruikbare informatie over het begrip zelf, biedt de begrippencatalogus
 ook mogelijkheden begrippen om begrippen aan elkaar te relateren. Relaties zijn
 binnen Linked Data technisch gezien vergelijkbaar met eigenschappen. Per begrip
 kan worden bijgehouden welke andere interne-, of externe-begrippen gerelateerd
@@ -98,7 +98,7 @@ gebruikt, zullen in de tabel hieronder nader worden toegelicht.
 
 Op de afbeelding hieronder is een voorbeeld te zien van het begrip Afleverset.
 Aan “WarmingUp” tussen haakjes is te zien dat het hier gaat over een begrip dat
-uit WarmingUp komt, maar dat binnen de begrippencatalogus meerdere keren
+uit (het innovatieprogramma) WarmingUp komt, maar dat binnen de begrippencatalogus meerdere keren
 voorkomt. Rechts in beeld vallen de verschillende eigenschappen en relaties
 terug te vinden.
 
@@ -116,23 +116,29 @@ De hiërarchie van begrippen brengt de relaties tussen begrippen in beeld, in he
 </figure>
 
 Bij de opbouw van de hiërarchie van begrippen voor het warmtedomein is het uitgangspunt, dat deze moet passen binnen een groter geheel. Hierbij is gebruik gemaakt van bestaande kennishiërarchieën zoals de ABDL-thesaurus die gehanteerd wordt bij RWS. Het is met name de hogere, abstracte begrippen als Object, Fysiek object, Informatie object, Persoon, die het mogelijk maken om begrippen uit een specifiek domein als Warmte te verbinden met begrippen die elders gedefinieerd zijn. 
-Ook hebben we Warmte geplaatst binnen de bredere energiecontext, door begrippen als Energievoorziening, Energiedrager, Elektriciteit en Gas te definiëren. Daarmee is de basis gelegd om de Begrippencatalogus Warmte uit te breiden met begrippen van andere energiedragers. 
-De hiërarchie-relatie tussen begrippen wordt gekenmerkt door de ‘is breder dan’-relatie (Energiedrager is breder dan Warmte) en de ‘is nauwer dan’-relatie (Geothermie is nauwer dan Warmteproductie). Tevens is het mogelijk om aan te geven dat begrippen aan elkaar gerelateerd zijn (Geothermie is gerelateerd aan Aarwarmte). Op deze manieren zijn begripen aan elkaar verbonden en wordt het mogelijk om met zoekinstructies veel rijkere antwoorden te geven. 
+
+Warmte is geplaatst binnen de bredere energiecontext, door begrippen als Energievoorziening, Energiedrager, Elektriciteit en Gas op te nemen. Daarmee is de basis gelegd om de Begrippencatalogus Warmte uit te breiden met begrippen van andere energiedragers. 
+
+De hiërarchie-relatie tussen begrippen wordt gekenmerkt door de ‘is breder dan’-relatie (Energiedrager is breder dan Warmte) en de ‘is nauwer dan’-relatie (Geothermie is nauwer dan Warmteproductie). 
+Tevens is het mogelijk om aan te geven dat begrippen aan ('close' of  'exact') elkaar gerelateerd zijn (Geothermie is gerelateerd aan Aarwarmte). Op deze manieren zijn begripen aan elkaar verbonden en wordt het mogelijk om met zoekinstructies veel rijkere antwoorden te geven. 
 
 Een schema van de hoogste niveaus is als volgt: 
+
 <figure id="Hoogste niveaus schematisch">
-<img src="media/Hierarchie2.png" alt="">
+<img src="media/hierarchie2.png" alt="">
 <figcaption>Hoogste niveaus schematisch weergegeven.</figcaption>
 </figure>
+
 De vijf warmtefuncties aan de rechterkant van het schema zijn overgenomen van de z.g. Energy Capabilities van ESDL, de Energy System Description Language van TNO. Deze zijn, m.u.v. Warmteopslag, weer verder onderverdeeld in ‘sub-bomen’ met warmtebegrippen. 
 
 Het is ook mogelijk om de relaties in de vorm van een graaf weer  te geven. Deze kan automatisch gegenenereerd worden, en opgebouwd zijn uit begrippen en relaties uit verschillende thesauri. 
+
 <figure id="Hierarchie in graafvorm">
 <img src="media/HierarchieGraaf.png" alt="">
 <figcaption>Graaf visualisatie van de hïerarchie binnen het begrippenmodel.</figcaption>
 </figure>
 
-Een uitgangspunt bij het inrichten van de hïerarchie binnen de begrippencatalogus, is dat er zo veel mogelijk gekeken wordt naar bestaande structuren. Internetzoekmachines zijn gebruikt om te zoeken naar andere begrippencatalogi. Zo is bijvoorbeeld de definitie van het meest algemene beegrip "object", afkomstig uit [MIM](https://docs.geostandaarden.nl/mim/mim/#objecten-en-objecttype).  
+Een uitgangspunt bij het inrichten van de hïerarchie binnen de begrippencatalogus, is dat er zo veel mogelijk gekeken wordt naar bestaande structuren. Internetzoekmachines zijn gebruikt om te zoeken naar andere begrippencatalogi. Zo is bijvoorbeeld de definitie van het meest algemene begrip "object", afkomstig uit [MIM](https://docs.geostandaarden.nl/mim/mim/#objecten-en-objecttype).  
 
 De geconstrueerde hiërarchie is gebaseerd op de wijze waarop de werkelijkheid wordt beschouwd. Deze is uiteraard dynamisch en een goed gekozen hiërarchie maakt het dan ook mogelijk om mee te ontwikkelen. zo is momenteel (2021) de term ‘systeemintegratie’ in zwang, waarbij men doelt op samengaan van elektriciteit, gas, warmte en andere nog te ontwikkelen energiedragers. De inrichting van de Begrippencatalogus moet daarop zijn ingesteld. 
 De energiecapability ‘Energieconversie’ is hier een sleutelbegrip dat daarvoor ingezet kan worden. 
@@ -148,8 +154,8 @@ PMPMPM Opsomming en korte beschrijving van de herkomstbronnen van definities ond
 Bilage 1, ‘*Herkomstbronnen begripsdefinities per energiedrager*’, bevat een lijst van herkomstbronnen en de vindplaatsen daarvan. Bij de keuze van welke herkomstbronnen wel en niet op te nemen in de begrippencatalogus zijn de gesprekken met stakeholders, de analyse van materiaal van Vivet-projecten, desk-research en kennis van de energiesector richtinggevend geweest. 
 De relatie tussen de herkomstbronnen is gevisualiseerd in de plaat in hoofdstuk Landschapsverkenning. 
 
-veel herkomstbronnen bevatten begrippen en definities zonder daar verbindingen
-tussen aan te leggen. Dat is de reden geweest om de herkomstbronnen ook als groep te beschouwen; elke poging tot structurering binnen de herkomstbron zou namelijk in het bestek van dit project (zonder uitgebreide stakeholder-consultaties) niet zorgvuldig genoeg kunnen gebeuren. 
-ESDL heeft echter wel een goed-overwogen structuur tussen alle begrippen aangelegd. Dat is aanleiding geweest om de structuur van de begrippen, zoals vastgelgd in de hiërarchie daarop te baseren. De groep-indeling dient daarbij als bronverwijzing van de opgenomen begrippen. 
-Gelijkluidende begrippen krijgen een onderscheiden aanduiding doordat de groep (dus de herkomstbron) op te nemen achter de naam van het begrip. Beijvoorbeeld Aansluiting (WArmtewet). 
+Vrijwel alle herkomstbronnen bevatten begrippen en definities zonder daar verbindingen tussen aan te leggen. Dat is de reden geweest om de herkomstbronnen ook als groep te beschouwen; elke poging tot structurering binnen de herkomstbron zou namelijk in het bestek van dit project (zonder uitgebreide stakeholder-consultaties) niet zorgvuldig genoeg kunnen gebeuren. 
+
+ESDL heeft echter wel een goed-overwogen structuur tussen alle begrippen aangelegd. Dat is aanleiding geweest om de structuur van de begrippen, zoals vastgelgd in de hiërarchie daarop te baseren. De groep-indeling dient daarbij als bronverwijzing van de opgenomen begrippen. Gelijkluidende begrippen krijgen een onderscheiden aanduiding doordat de groep (dus de herkomstbron) op te nemen achter de naam van het begrip. Bijvoorbeeld Aansluiting(Warmtewet). 
+
 Bij de opzet van de begrippencataloguis bleek de indeling conform de ESDL-uitgangspunten goed werkbaar. Met name de vijf z.g. energie-capabilities die als het ware als fundamentstenen centraal staan, vormden een goed ankerpunt. Daardoor bleken begrippen die buiten de ESDL-scope vallen,  relatief eenvoudig te verbinden  met de zich ontwikkelende structuur van de begrippencatalogus. 

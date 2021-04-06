@@ -44,6 +44,13 @@ De directe warmteketen kent verschillende typen stakehodlers, die ook in deze fi
 Begrippen voor het warmtedomein zijn op veel locaties vastgelegd. De locaties waar de definities zijn vastgelegd noemen we hier 'herkomstbronnen', zoals gebruikelijk in MIM-terminologie. 
 De inventarisatie van herkomstbronnen in bovenstaande plaat is gegroepeerd naar de oogmerken waarvoor de betrokken partijen de begrippen gedefinieerd hebben. 
 
+Veel herkomstbronnen zijn aan elkaar gerelateerd, doordat verwezen wordt naar begrippen die elders zijn gedefinieerd. In onderstaand schema is dat gevisualiseerd. Belangrijke bronnen zijn de Europese richtlijnen, die ook naar elkaar verwijzen. 
+
+<figure id="Schema_Relaties_Begrippencatalogus_Warmte_Herkomstbronnen_begripsdefinities">
+<img src="media/Schema_Relaties_Begrippencatalogus_Warmte_Herkomstbronnen_begripsdefinities.png" alt="">
+<figcaption>Schema Relaties Begrippencatalogus Warmte Herkomstbronnen begripsdefinities</figcaption>
+</figure>
+
 #### Warmtebedrijven, innovatie
 Een samenwerkingskader zoals Netbeheer Nederland, dat al jaren de belangen van de netbeheerders behartigt, kennen de waremtebedrijven (nog) niet. De diversiteit tussen de warmtebedrijven is ook veel groter en dat maakt de sitautie anders. Wel is er belangenbehartiging via Energie Nederland en kennisuitwissleing binnen de actieve Stichting Warmtenetwerk. Samenwerking is er op diverse gebieden. Activiteiten waarvoor begripsdefinities zijn opgesteld en afgestemd zijn de Algemene Leveringsvoorwaarden van de sector en de samenwerking van warmtebedrijven onder leiding van TNO in het het meerjaren-innovatieprogramma WarmingUp. 
 #### Wetgeving
@@ -120,7 +127,19 @@ Door CBS is aangegeven dat het verkrijgen van laagregionale data over warmte al
 jaren een hoofdpijndossier is. Dat is mede aanleiding geweest om het domein
 Warmte medio dit jaar op te gaan pakken. 
 
-PMPMPM Joeri/Sanne: kunnen jullie hier nog iets melden over begripsdefinities van CBS?
+CBS kent specifieke instructies op het gebied van warmte over de onderwerpen waarover zij wel en niet moeten rapporteren. Zo wordt warmte uit warmteketels die niet verkocht wordt, niet meegerekend, en warmte uit warmteketels die wel verkocht wordt wel. De verplichtingen van het CBS komen voort uit verscheidene Europese wetten die te maken hebben met warmte, zoals de Richtlijn Hernieuwbare Energie. Echter, op dit moment zijn er ook elementen op het gebied van warmte die in de internationale statistieken (Eurostat/IEA) wel meegenomen worden, en in de nationale statistieken niet (of omgekeerd). Een voorbeeld hiervan is WKK statistieken. Om deze definities beter af te stemmen wordt er in een werkgroep van Eurostat gewerkt aan een nieuwe richtlijn voor besparing, en dit proces is nog gaande. 
+Voor de begrippencatalogus die ontwikkeld wordt in dit VIVET project heeft CBS een aantal bronnen aangeraden die door hen worden gebruikt voor hun begripsdefinities. Enkele hiervan zijn bij ons al bekend, zoals de Europese [Richtlijn Hernieuwbare Energie (RED)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.328.01.0082.01.ENG&toc=OJ:L:2018:328:TOC) en het [Protocol Monitoring Hernieuwbare Energie](https://www.rvo.nl/sites/default/files/Protocol%20Monitoring%20HE%20Interactief%20V3.pdf) van RVO. Echter, aanvullende begripsdefinities konden worden betrokken uit de Europese [Richtlijn betreffende Energie Efficiëntie, EER](https://eur-lex.europa.eu/legal-content/NL/TXT/PDF/?uri=CELEX:32018L2001&from=EN), de [Nederlandse Energiehuishouding](https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/nederlandse-energiehuishouding--neh--/de-nederlandse-energiehuishouding) en Statline, de publicatie-omgeving van CBS. 
+Statline bevat een aantal tabellen met gegevens die betrekking hebben op zowel warmte als elektriciteit. Ook deze tabellen hebben in de toelichting begripsdefinities. Naast deze geïntegreerde tabellen zijn, vooruitkijkend naar de doorontwikkeling van de begripencatalogus, ook enkele tabellen met statistieken over duurzame energie interessant. 
+Het betreft de volgende tabellen: 
+- [Woningen; hoofdverwarmingsinstallaties, regio](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/84948NED/table?ts=1614679495273)
+- [Aardwarmte en bodemenergie; onttrekking van warmte en koude](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/82379NED)
+- [Warmtepompen; aantallen, thermisch vermogen en energiestromen](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/82380NED/table)
+- [Windenergie op land; productie en capaciteit per provincie](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/70960ned/table?fromstatweb)
+- [Windenergie op land; productie en capaciteit naar ashoogte](https://www.cbs.nl/nl-nl/cijfers/detail/71227ned)
+- [Hernieuwbare energie; eindverbr. en vermeden verbr. foss. energie,1990-2019](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83109NED/table?dl=26C0D)
+- [Zonnestroom; vermogen zonnepanelen woningen, wijken en buurten, 2017](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/84517NED/table?ts=1617351339482)
+- [Zonnestroom; vermogen bedrijven en woningen, regio(indeling 2018),2012-2018](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/84518NED/table?ts=1567511293208)
+
 
 #### Toepassing: Vivet-projecten 2021-2022
 

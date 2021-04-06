@@ -43,14 +43,14 @@ Het Vivet Conceptueel InformatieModel (CIM) Framework heeft een gelaagde structu
 
 ### Methodologisch framework
 
-Datastandaarden zorgen voor de consistentie en uitwisselbaarheid van data. Met datastandaarden kunnen verschillende informatieproducten elkaar begrijpen en tegen elkaar praten. Zoals omschreven in de withrpaper  "Vinden en verbinden met taal" PMPMPM [REFERENTIE Paper Danny], wordt de betekenis van data steeds belangrijker. De betekenis van data komt voort uit taal en taal bestaat uit begrippen met definities. Om taal te kunnen definiëren moet men gebruik maken van een taalinfrastructuur. Centraal binnen een taalinfrastructuur, staat het woordenboek. 
+Datastandaarden zorgen voor de consistentie en uitwisselbaarheid van data. Met datastandaarden kunnen verschillende informatieproducten elkaar begrijpen en tegen elkaar praten. Zoals omschreven in de whitepaper [Vinden en verbinden met taal](https://www.archixl.nl/files/Vinden_en_verbinden_met_taal.pdf), wordt de betekenis van data steeds belangrijker. De betekenis van data komt voort uit taal en taal bestaat uit begrippen met definities. Om taal te kunnen definiëren moet men gebruik maken van een taalinfrastructuur. Centraal binnen een taalinfrastructuur, staat het woordenboek. 
 
 <figure id="Taalinfrastructuur_Vinden_en_verbinden_met_taal">
 <img src="media/Taalinfrastructuur%20Vinden%20en%20verbinden%20met%20taal.png" alt="">
 <figcaption> Taalinfrastructuur zoals omschreven in "Vinden en verbinden met taal"</figcaption>
 </figure>
 
-Om de taal uit een domein consistent en uitwisselbaar te maken, zijn taalstandaarden noodzakelijk. Veelboorkomende keuzes voor standaarden zijn UML, zoals MIM PMPMPM [REFERENTIE], of het gebruik van Linked Data standaarden zoals SKOS PMPMPM [REFERENTIE]. De samenhang tussen deze standaarden valt terug te vinden op het niveau van begrippen. 
+Om de taal uit een domein consistent en uitwisselbaar te maken, zijn taalstandaarden noodzakelijk. Veelvoorkomende keuzes voor standaarden zijn UML, zoals beschreven in het [Metamodel Informastie Modellering](https://docs.geostandaarden.nl/mim/mim/), of het gebruik van Linked Data standaarden zoals SKOS, Simple Knowledge Organization System, hier beschreven in de [NORA Standaarden](https://www.noraonline.nl/wiki/SKOS_(Simple_Knowledge_Organization_System). De samenhang tussen deze standaarden valt terug te vinden op het niveau van begrippen, zoals beschreven in de [Handreiking Gegevensbeschrijvingen van NORA](https://www.noraonline.nl/wiki/Gegevensbeschrijvingen/Handreiking). 
 
 MIM maakt onderscheid in 4 verschillende niveaus van informatiemodellen, waarbij niveau 1 een model van begrippen is. Een model van begrippen beschrijft de werkelijkheid binnen het beschouwde domein  door middel van de daarin gehanteerde begrippen en hun relaties tot elkaar. Wanneer de taal die deze werkelijkheid omschrijft niet is gedefinieerd, dan is het ook lastig om een informatiemodel van een hoger niveau te maken, dat dichter bij een digitale registratie staat. MIM kan niet worden toegepast op een model van niveau 1 volgens [IM 1.1 specificatie](https://docs.geostandaarden.nl/mim/mim/#typen-informatiemodellen), maar Linked Data wel.
 
@@ -70,8 +70,6 @@ Het idee is dat de verschillende domeinen op basis van de FAIR principes eigen s
 </figure>
 
 PMPMPM DiSGeo en visie architectuur zie ppt Ruud van Rossem (op U-schijf)  
-
-PMPMPM Vraag van Jeroen: refereren aan <https://www.noraonline.nl/wiki/Gegevensbeschrijvingen/Handreiking>?
 
 ### Onderzoekmethode
 
@@ -137,5 +135,5 @@ VocBench is een flexibel programma en bavat een hoop opties om het werken met ee
 
 #### Publicatieomgeving
 
-Voor het uitwisselen van data is het tegenwoordig logisch om deze via API’s te ontsluiten. Dat geldt ook voor de Begrippencatalogus. Deze begrippencatalogus API kan in allerlei applicaties worden gebruikt om woorden en hun definitie op te halen. Om dit te ondersteunen, wordt voor de begrippencatalogus gebruik gemaakt van een publicatieomgeving. Deze publicatieomgeving wordt ook door DiS geo gebruikt. Op [begrippen.geostandaarden](https://begrippen.geostandaarden.nl/energie/nl/) wordt de begrippencatalogus ontsloten op een manier die zowel voor mensen als machines leesbaar is. De publicatieomgeving draait op (BegrippenXL)[https://archixl.nl/archixl/product/begrippenxl-thesaurusplatform]. Dit is een thesaurusplatform gebouwd op de open source-software [Skosmos](https://skosmos.org/). Om een idee te krijgen van hoe deze publicatieomgeving werkt, verwijzen we door naar de [leeswijzer](https://github.com/Geonovum/VIVET-Werkomgeving/raw/master/VIMET-VIII-B/media/20210111%20Leeswijzer%20Begrippenmodel%20Energie.pdf).
+Voor het uitwisselen van data is het tegenwoordig logisch om deze via API’s te ontsluiten. Dat geldt ook voor de Begrippencatalogus. Deze begrippencatalogus API kan in allerlei applicaties worden gebruikt om woorden en hun definitie op te halen. Om dit te ondersteunen, wordt voor de begrippencatalogus gebruik gemaakt van een publicatieomgeving. Deze publicatieomgeving wordt ook door DiSGeo gebruikt. Op [begrippen.geostandaarden](https://begrippen.geostandaarden.nl/energie/nl/) wordt de begrippencatalogus ontsloten op een manier die zowel voor mensen als machines leesbaar is. De publicatieomgeving draait op [BegrippenXL[(https://archixl.nl/archixl/product/begrippenxl-thesaurusplatform). Dit is een thesaurusplatform gebouwd op de open source-software [Skosmos](https://skosmos.org/). Om een idee te krijgen van hoe deze publicatieomgeving werkt, verwijzen we door naar de [leeswijzer](https://github.com/Geonovum/VIVET-Werkomgeving/raw/master/VIMET-VIII-B/media/20210111%20Leeswijzer%20Begrippenmodel%20Energie.pdf).
 

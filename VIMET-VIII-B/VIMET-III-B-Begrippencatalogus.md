@@ -107,74 +107,49 @@ terug te vinden.
 <figcaption>Voorbeeld van een Begrip binnen de publicatieomgeving van de Begrippencatalogus.</figcaption>
 </figure>
 
+#### Inrichting van de hiërarchie
+De hiërarchie van begrippen brengt de relaties tussen begrippen in beeld, in het bijzonder de 'broader term',  de 'narrower term' en de 'related term'. De visualisatie van dit verband is als volgt. 
 
+<figure id="Hierarchie in boomvorm">
+<img src="media/Hierarchie_Begrippencatalogus_Warmte.png" alt="">
+<figcaption>Hierarchische visualisatie van de relaties tussen begrippen.</figcaption>
+</figure>
 
+Bij de opbouw van de hiërarchie van begrippen voor het warmtedomein is het uitgangspunt, dat deze moet passen binnen een groter geheel. Hierbij is gebruik gemaakt van bestaande kennishiërarchieën zoals de ABDL-thesaurus die gehanteerd wordt bij RWS. Het is met name de hogere, abstracte begrippen als Object, Fysiek object, Informatie object, Persoon, die het mogelijk maken om begrippen uit een specifiek domein als Warmte te verbinden met begrippen die elders gedefinieerd zijn. 
+Ook hebben we Warmte geplaatst binnen de bredere energiecontext, door begrippen als Energievoorziening, Energiedrager, Elektriciteit en Gas te definiëren. Daarmee is de basis gelegd om de Begrippencatalogus Warmte uit te breiden met begrippen van andere energiedragers. 
+De hiërarchie-relatie tussen begrippen wordt gekenmerkt door de ‘is breder dan’-relatie (Energiedrager is breder dan Warmte) en de ‘is nauwer dan’-relatie (Geothermie is nauwer dan Warmteproductie). Tevens is het mogelijk om aan te geven dat begrippen aan elkaar gerelateerd zijn (Geothermie is gerelateerd aan Aarwarmte). Op deze manieren zijn begripen aan elkaar verbonden en wordt het mogelijk om met zoekinstructies veel rijkere antwoorden te geven. 
 
-#### Inrichting van de hïerarchie
-<figure id="Hierarchie">
+Een schema van de hoogste niveaus is als volgt: 
+<figure id="Hoogste niveaus schematisch">
+<img src="media/Hierarchie2.png" alt="">
+<figcaption>Hoogste niveaus schematisch weergegeven.</figcaption>
+</figure>
+De vijf warmtefuncties aan de rechterkant van het schema zijn overgenomen van de z.g. Energy Capabilities van ESDL, de Energy System Description Language van TNO. Deze zijn, m.u.v. Warmteopslag, weer verder onderverdeeld in ‘sub-bomen’ met warmtebegrippen. 
+
+Het is ook mogelijk om de relaties in de vorm van een graaf weer  te geven. Deze kan automatisch gegenenereerd worden, en opgebouwd zijn uit begrippen en relaties uit verschillende thesauri. 
+<figure id="Hierarchie in graafvorm">
 <img src="media/HierarchieGraaf.png" alt="">
 <figcaption>Graaf visualisatie van de hïerarchie binnen het begrippenmodel.</figcaption>
 </figure>
 
 Een uitgangspunt bij het inrichten van de hïerarchie binnen de begrippencatalogus, is dat er zo veel mogelijk gekeken wordt naar bestaande structuren. Internetzoekmachines zijn gebruikt om te zoeken naar andere begrippencatalogi. Zo is bijvoorbeeld de definitie van het meest algemene beegrip "object", afkomstig uit [MIM](https://docs.geostandaarden.nl/mim/mim/#objecten-en-objecttype).  
--   keuzen bij de opzet van de Begrippencatalogus.
 
--   Uitleg van de hierarchie (zie ook ESDL uitleg document van Edwin Mathijssen,
-    evt in bijlage opnemen)
-
--   met voorbeeld : object - fysiek object - energievoorziening -
-    energietransport - warmtetransport - aansluiting
-
-Bijv. Context van de begrippencatalogus: verbindingen met andere
-begrippencatalogi, zoals die van de basisregistraties?
-
-Bijv. ‘Warmte’ als keuze leidt tot ‘Energiedragers’ als hoger niveau.
-Energietransitie is thema voor Vivet, maar Energievoorziening is universeler
-term.
-
-Bijv. Momenteel (2021) is de term ‘systeemintegratie’ in zwang, waarbij men
-doelt op samengaan van elektriciteit, gas, warmte en andere nog te ontwikkelen
-energiedragers. Met de inrichting van deBegrippencatalogus moet je daarmee
-rekening houden. De energiecapability ‘Energieconversie’ is hier een
-sleutelbegrip.
-
-Zijn er nog meer afwegingen gemaakt die het vermelden waard zijn?
-
--   keuzen bij het bepalen van de Groepen
-
-Inventarisatie op basis van stakeholder-analyse, Vivet-rapportages, kennis van
-energiesector en warmtedomein (literatuur, interviews, ervaring in de sector).
-
-keuze gemaakt om de herkomstbronnen als groepen op te nemen; argumenten daarvoor
-
--   keuzen bij het bepalen van de Hiërarchie (methode v opdeling
-
-veel herkomstbronnen bevatten begrippen en definities zonderdaar verbindingen
-tussen aan te leggen. ESDL heeft dat wel. Daarom deze indeling, met name de vijf
-z.g. energie-capabilities die daar centraal staan, als basis genomen voor de
-verdere opzet en indelling van de begrippencatalogus.
-
-Methode van opdeling (MIM..., koppeling andere (basis)registraties)
+De geconstrueerde hiërarchie is gebaseerd op de wijze waarop de werkelijkheid wordt beschouwd. Deze is uiteraard dynamisch en een goed gekozen hiërarchie maakt het dan ook mogelijk om mee te ontwikkelen. zo is momenteel (2021) de term ‘systeemintegratie’ in zwang, waarbij men doelt op samengaan van elektriciteit, gas, warmte en andere nog te ontwikkelen energiedragers. De inrichting van de Begrippencatalogus moet daarop zijn ingesteld. 
+De energiecapability ‘Energieconversie’ is hier een sleutelbegrip dat daarvoor ingezet kan worden. 
 
 #### Inrichting van Groepen
 
--   Opsomming en korte beschrijving van de bronnen van de definities onder
-    Groepen
+PMPMPM Opsomming en korte beschrijving van de herkomstbronnen van definities onder Groepen
 <figure id="Groepen">
 <img src="media/Groepen_Begrippencatalogus_Warmte.png" alt="">
 <figcaption>Groepen</figcaption>
 </figure>
-Hier verwijzen naar in bijlage op te nemen document ‘*Herkomstbronnen
-begripsdefinities per energiedrager*’. met wat wel en wat niet in aanmerking
-komt voor begrippencatalogus en een beetje toelichting op deze lijst. Ook
-verwijzen naar het bijbehorende (bollen) schema
 
-Geen structuur opgezet tussen de opgenomen groepen
+Bilage 1, ‘*Herkomstbronnen begripsdefinities per energiedrager*’, bevat een lijst van herkomstbronnen en de vindplaatsen daarvan. Bij de keuze van welke herkomstbronnen wel en niet op te nemen in de begrippencatalogus zijn de gesprekken met stakeholders, de analyse van materiaal van Vivet-projecten, desk-research en kennis van de energiesector richtinggevend geweest. 
+De relatie tussen de herkomstbronnen is gevisualiseerd in de plaat in hoofdstuk Landschapsverkenning. 
 
--   Korte toelichting per opgenomen Groep in begrippencatalogus
-
-
-
-
-
-
+veel herkomstbronnen bevatten begrippen en definities zonder daar verbindingen
+tussen aan te leggen. Dat is de reden geweest om de herkomstbronnen ook als groep te beschouwen; elke poging tot structurering binnen de herkomstbron zou namelijk in het bestek van dit project (zonder uitgebreide stakeholder-consultaties) niet zorgvuldig genoeg kunnen gebeuren. 
+ESDL heeft echter wel een goed-overwogen structuur tussen alle begrippen aangelegd. Dat is aanleiding geweest om de structuur van de begrippen, zoals vastgelgd in de hiërarchie daarop te baseren. De groep-indeling dient daarbij als bronverwijzing van de opgenomen begrippen. 
+Gelijkluidende begrippen krijgen een onderscheiden aanduiding doordat de groep (dus de herkomstbron) op te nemen achter de naam van het begrip. Beijvoorbeeld Aansluiting (WArmtewet). 
+Bij de opzet van de begrippencataloguis bleek de indeling conform de ESDL-uitgangspunten goed werkbaar. Met name de vijf z.g. energie-capabilities die als het ware als fundamentstenen centraal staan, vormden een goed ankerpunt. Daardoor bleken begrippen die buiten de ESDL-scope vallen,  relatief eenvoudig te verbinden  met de zich ontwikkelende structuur van de begrippencatalogus. 

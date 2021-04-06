@@ -3,62 +3,30 @@ Hoofdstuk Begrippencatalogus Warmte
 
 ### Inleiding
 
-De begrippencatalogus Energiedragers bevat de begrippen uit het Nederlandse
-
-energielandschap. Het is een online woordenboek dat zowel voor mensen als
-
-machines te doorzoeken is. Dit woordenboek brengt begrippen vanuit verschillende
-
-begrippenkaders uit de energiewereld samen en biedt een transparant platform
-
-voor vergelijking en harmonisatie. De focus van de begrippencatalogus ligt
-initieel op de energiedrager warmte, maar er is al voorgesorteerd op de andere
-energiedragers. De begrippen zijn overgenomen uit een
-
-groeiende lijst van bronnen zoals:
-
+De begrippencatalogus Energiedragers bevat de begrippen uit het Nederlandse energielandschap. Het is een online woordenboek dat zowel voor mensen als
+machines te doorzoeken is. Dit woordenboek brengt begrippen vanuit verschillende begrippenkaders uit de energiewereld samen en biedt een transparant platform voor vergelijking en harmonisatie. De focus van de begrippencatalogus ligt initieel op de energiedrager warmte, maar er is al voorgesorteerd op de andere energiedragers. De begrippen zijn overgenomen uit een groeiende lijst van bronnen zoals:
 - Warmtewet
-
 - Wet Collectieve warmtevoorziening
-
 - NEN 7125
+- Richtlijnen van de Europese Unie
 
-- Richtlijnen van het Europees Parlement en de Raad
+Door de overzichtelijke zoekfunctie op term, definitie en bron helpt de Begrippencatalogus Energie de leesbaarheid en toepassing van deze bronnen te vergroten.
 
-Door de overzichtelijke zoekfunctie op term, definitie en bron helpt de
-
-Begrippencatalogus Energie de leesbaarheid en toepassing van deze bronnen te
-
-vergroten.
-
-De technologie achter de Begrippencatalogus biedt de ruimte om de Begrippen op
-verschillende manier en te bekijken. Er kan voor gekozen worden de begrippen
-alfabetisch weer te geven, binnen een hiërarchie, of vanuit vooraf bepaalde
-groepen. Ook kunnen alle nieuw toegevoegde begrippen worden bekeken. Hoe deze
-mogelijkheden ingericht zijn wordt uitgelegd in de volgende paragraaf.
+De technologie achter de Begrippencatalogus biedt de ruimte om de Begrippen op verschillende manier en te bekijken. Er kan voor gekozen worden de begrippen alfabetisch weer te geven, binnen een hiërarchie, of vanuit vooraf bepaalde groepen. Ook kunnen alle nieuw toegevoegde begrippen worden bekeken. Hoe deze mogelijkheden ingericht zijn wordt uitgelegd in de volgende paragraaf.
 
 ### Verantwoording van de inrichting van de begrippencatalogus
 
-In deze paragraaf zal dieper worden ingegaan op de inrichting van de
-begrippencatalogus. Hierbij zal ook woorden ingegaan op de technologie dit is
-gebruikt om de Begrippencatalogus te realiseren.
-
-De technologieën hierachter zijn Linked Data technologieën. Dit houd in dat ze
-ontworpen zijn conform de 4 [Linked Data Principes](
-<https://www.w3.org/DesignIssues/LinkedData.html>). Deze 4 principes zijn:
-
+In deze paragraaf zal dieper worden ingegaan op de inrichting van de begrippencatalogus. Hierbij zal ook woorden ingegaan op de technologie dit is
+gebruikt om de Begrippencatalogus te realiseren. 
+De technologieën hierachter zijn Linked Data technologieën. Dit houd in dat deze ontworpen zijn conform de vier [Linked Data Principes](<https://www.w3.org/DesignIssues/LinkedData.html>). Deze 4 principes zijn:
 1.  Gebruik URI’s (Unique Resource Identifiers) om dingen te benoemen.
-
 2.  Gebruik HTTP URI’s zodat mensen deze namen kunnen opzoeken.
-
 3.  Zorg dmv gebruik van standaarden, voor bruikbare informatie voor wanneer
     iemand een URI opzoekt.
-
 4.  Voeg links naar andere URI’s toe zodat mensen meer dingen kunnen ontdekken.
 
 Een voorbeeld van een technologie die deze principes toepast is het [Simple
-Knowledge Organization System](
-https://www.w3.org/TR/2009/REC-skos-reference-20090818/), afgekort SKOS. SKOS
+Knowledge Organization System](https://www.w3.org/TR/2009/REC-skos-reference-20090818/), afgekort SKOS. SKOS
 wordt gebruikt in de Begrippencatalogus energiedragers om de begrippen te
 structureren. Daarnaast wordt ook gebruik gemaakt van verschillende
 metadata-[vocabulaires]( https://www.pldn.nl/wiki/Vocabularies). Deze

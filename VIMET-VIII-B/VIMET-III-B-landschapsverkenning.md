@@ -36,7 +36,7 @@ Voor het inrichten van een begrippencatalogus is dit een belangrijk onderwerp: d
 
 De warmteketen kent natuurlijk ook veel leveranciers en dienstverleners, en daar is dan ook een verbinding te vinden naar het in het Vivet CIM (zie heronder) opgenomen domein 'Bouw- en Installatiewereld'. 
 
-De directe warmteketen kent verschillende typen stakehodlers, die ook in deze figuur zijn opgenomen: overheidsorganisaties en - programma's, kennisinstellingen en gegevensgerichte organisaties. En branche-organisaties die vanuit diverse invalshoeken belangenbehartiging voor partijen in de waremteketen verzorgen. 
+De directe warmteketen kent verschillende typen stakehodlers, die ook in deze figuur zijn opgenomen: overheidsorganisaties en - programma's, kennisinstellingen en gegevensgerichte organisaties. En branche-organisaties die vanuit diverse invalshoeken belangenbehartiging voor partijen in de warmteteketen verzorgen. 
 
 ### Herkomstbronnen begripsdefinities
 
@@ -50,6 +50,9 @@ De inventarisatie van herkomstbronnen in bovenstaande plaat is gegroepeerd naar 
 
 Veel herkomstbronnen zijn aan elkaar gerelateerd, doordat verwezen wordt naar begrippen die elders zijn gedefinieerd. In onderstaand schema is dat gevisualiseerd. Belangrijke bronnen zijn de Europese richtlijnen, die ook naar elkaar verwijzen. 
 
+ 
+In [Bijlage 1\: Herkomstbronnen begrippen energie](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#bijlage-1-herkomstbronnen-begrippen-energie) is een uitgebreide tabel opgenomen welk een resultaat is van de inventarisatie enordening naar begrippen van de energiedragers Elektriciteit, Gas en Warmte.
+
 
 <figure id="Schema_Relaties_Begrippencatalogus_Warmte_Herkomstbronnen_begripsdefinities">
 <img src="media/Schema_Relaties_Begrippencatalogus_Warmte_Herkomstbronnen_begripsdefinities.png" alt="">
@@ -59,7 +62,7 @@ Veel herkomstbronnen zijn aan elkaar gerelateerd, doordat verwezen wordt naar be
 #### Warmtebedrijven, innovatie
 Een samenwerkingskader zoals Netbeheer Nederland, dat al jaren de belangen van de netbeheerders behartigt, kennen de waremtebedrijven (nog) niet. De diversiteit tussen de warmtebedrijven is ook veel groter en dat maakt de sitautie anders. Wel is er belangenbehartiging via Energie Nederland en kennisuitwissleing binnen de actieve Stichting Warmtenetwerk. Samenwerking is er op diverse gebieden. Activiteiten waarvoor begripsdefinities zijn opgesteld en afgestemd zijn de Algemene Leveringsvoorwaarden van de sector en de samenwerking van warmtebedrijven onder leiding van TNO in het het meerjaren-innovatieprogramma WarmingUp. 
 #### Wetgeving
-In toenemende mate speelt Europese regelgeving een rol, en in toenemende mate worden begrippen en definities overgenomen. Dat speelt bij vooral bij nieuwe wetgeving.  Overigens is het niet altijd mogelijk om Europese defnities één op één over te nemen. Vanuit de Begrippencatalogus Warmte worden verbindingen gelegd naar de brondefinities van wetgeving zoals www.wetten.overheid.nl. Het is doorgaans niet mogelijk om ee nverbinding te maken naar de afzonderlijke begrippen en dan wordt verwezen naar het artikel waarin de definities zijn opgenoemen.   
+In toenemende mate speelt Europese regelgeving een rol, en in toenemende mate worden begrippen en definities overgenomen. Dat speelt bij vooral bij nieuwe wetgeving.  Overigens is het niet altijd mogelijk om Europese defnities één op één over te nemen. Vanuit de Begrippencatalogus Warmte worden verbindingen gelegd naar de brondefinities van wetgeving zoals www.wetten.overheid.nl. Het is doorgaans niet mogelijk om ee verbinding te maken naar de afzonderlijke begrippen en dan wordt verwezen naar het artikel waarin de definities zijn opgenoemen.   
 #### Subsidie
 Van groot (financieel) belang zijn de definities die zijn opgenomen in de subsidie-regelgeving. Ook in deze bronnen wordt bij de definities mede verwezen naar Europese regelegeving, in het bijzonder de RED, de Renewable Energy Directive. 
 #### Basisregistraties
@@ -80,7 +83,7 @@ In het licht van het beschreven landschap met stakeholders en herkomstbronnen, d
 <figcaption>Vivet Conceptueel Informatiemodel Framework</figcaption>
 </figure>
 
-In hoofdstuk 1 is de functie en opzet van het Vivet Conceptueel InformatieModel (CIM) beschreven. 
+In de [inleiding](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#hoofdstuk-inleiding) is de functie en opzet van het Vivet Conceptueel InformatieModel (CIM) beschreven. 
 
 Een CIM voor de energievoorziening is te groot om in één keer te ontwerpen. In de praktijk bestaan er natuurlijk al tal van informatiemodellen, die stapsgewijze door verbinding en harmonisatie geïntegreerd kunnen worden tot een CIM voor het energiedomein. Omdat op dit moment geen aanzetten bestaan om dit op te pakken, is  gekozen voor een stapsgewijze benadering, op basis van concrete casuïstiek in bepaalde context. 
 In Vivet jaar 1 is voor het onderwerp 'energie-installaties' een informatiekundige inventarisatie gemaakt. zie hiervoor [eindrapport  Vivet-project VIMET-I](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#conceptueel-informatiemodel-energietransitie/). Daar is vooral aandacht gegeven aan het domein Marktfacilitering (vooral productie-eenheden), het domein Bouwwereld en het domein Installatiewereld. Deze laatste twee zijn vanwege de visualisatie samengevoegd. In dit project is het Domein Warmte opgepakt en is een voorschot genomen op het Vivet-jaar 2021-2022 door een pijler voor het Domein Hernieuwbare energie te benoemen. 
@@ -96,18 +99,13 @@ Een andere ontwikkeling is de internationale data-uitwisseling tussen de landeli
 
 ### Toepassingsgebieden ahv Domein Warmte
 
-HIER AFBEELDING VAN JEROEN MET ACCENTUERING VAN KRUISPUNTEN EN DEZE ALS BASIS BEBRUIKEN VOOR BESCHRIJVING
+Zoals blijkt uit de [stakeholders-analyse](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#stakeholders-warmtedomein) en de [inventarisatiebronnen voor begrippen](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#herkomstbronnen-begripsdefinities) is het landschap divers. Op de kruispunten van de toepassingsgebieden (zie onderstaand figuur) is nadere verkenning gedaan van de bestaande begrippenkaders en verwerkt in de online [begrippencatalogus]https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#hoofdstuk-begrippencatalogus-warmte. De sterren geven aan waar concrete usecases gebruik kunnen maken van deze catalogus.
 
-Vervolgens nog domein Warmte beschrijven. Globale aanduiding van de kruispunten tussen
-de benoemde toepassingsgebieden en domein Warmte. Dit blijft globaal, omdat we
-ervoor hebben gekozen om het niveau van begrippen verder uit te werken (en niet op het niveau van informatiemodellen.
 
-Na een stakeholder-analyse – zie de blokkenplaat - is een uitvraag gedaan naar
-het bestaan van informatiemodellen en de bereidheid om de kennis daarover te
-delen. Dit verzoek isgedaan aan de warmtebedrijven, zowel via directe contact
-als via de sectororganisatie Energie Nederland. De response daarop was zodanig,
-dat dat mede aanleiding was om het niveau van informatiemodellering te laten
-rusten en het project verder te richten op begripsniveau.
+<figure id="Toepassingsgebieden, Use case en het Vivet Conceptueel Informatiemodel Framework">
+<img src="media/Vivet_CIM_framework_usecases_warmte.png" alt="">
+<figcaption>Toepassingsgebieden, Use case en het Vivet Conceptueel Informatiemodel Framework</figcaption>
+</figure>
 
 #### Toepasssing: Informatieportalen
 

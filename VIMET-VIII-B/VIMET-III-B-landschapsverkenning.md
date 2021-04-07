@@ -103,7 +103,7 @@ Zoals blijkt uit de [stakeholders-analyse](https://geonovum.github.io/VIVET-Werk
 
 
 <figure id="Toepassingsgebieden, Use case en het Vivet Conceptueel Informatiemodel Framework">
-<img src="media/Vivet_CIM_framework_usecases_warmte.png" alt="">
+<img src="media/Vivet_CIM_framework_usecases_warmte.PNG" alt="">
 <figcaption>Toepassingsgebieden, Use case en het Vivet Conceptueel Informatiemodel Framework</figcaption>
 </figure>
 

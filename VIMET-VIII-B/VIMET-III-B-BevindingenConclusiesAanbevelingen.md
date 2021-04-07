@@ -28,12 +28,20 @@ Ondanks dat systeemintegratie (de verbinding tussen de energiedragers) van groot
 de warmtewereld in dit onderzoek nauwelijks ter sprake gekomen. De warmtewereld zoals hier ervaren is in tal van opzichten – nog – gescheiden van de andere
 energiedomeinen. 
 
+Het opstellen van een begrippenmodel is een goede eerste stap gebleken om te gaan standaardiseren, wat nodig is om zo nodig data te kunnen uitwisselen. Het kader wat het  MIM (Nationaal Model voor InformatieModellering) is hierbij bruikbaar gebleken en wordt in toenemende mate omarmt binnen de overheid. Indien de behoefte groter wordt om meer dat te kunnen uitwisselen en te combineren is dit begrippenkader een goed uitgangspunt dit verder te ontwikkelen als een informatiemodel binnen de energiesector.
+
 ### Aanbevelingen
 
 Vivet moet het initiatief nemen bij opzet en inrichting van de governance over de standaarden voor informatievoorziening; het harmoniseren van begrippen voor het warmtedomein is een goed aangrijpingspunt. 
 
 Nu voor warmte een opzet is gemaakt, die in principe geschikt is voor andere energiedragers, zou de verdere uitwerking van het domein warmte parallel moeten
-gebeuren aan de inrcihting van de *Begrippencatalogus Hernieuwbare Energie*, om deze op elkaar af te stemmen, zodat er een robuuste basis ontstaat voor latere
+gebeuren aan de inrichting van de *Begrippencatalogus Hernieuwbare Energie*, om deze op elkaar af te stemmen, zodat er een robuuste basis ontstaat voor latere
 uitbreiding met andere energiedragers.
 
-Vivet zou bij haar projecten moeten inzetten op een benadering waarbij partijen van verschillende energiedragers gestimuleerd worden om samen te werken.
+Vivet zou bij haar projecten moeten inzetten op een benadering waarbij partijen van verschillende energiedragers gestimuleerd worden om samen te werken. 
+
+Aan te bevelen is met EDSL, als standaardtaal voor uitwisseling van energiegegevens,  verder te ontwikkelen als standaard met MIM als uitgangspunt. Hierdoor zou de standaardisatie en harmonisatie versneld kunnen worden, niet alleen voor energiesysteemstudies, maar ook voor monitoring en informatieportalen.
+
+Er zijn nog veel domeinen, binnen of nou aan de energiewereld verwant, waar de informatieuitwisseling verbeterd kan worden. Idealiter zouden de energiegegevens (electra, gas, warmte, wind, zon, netwerk) geintegreerd moeten kunnen worden met de fysieke leefomgeving en bouw- en installatiewereld om zowel goede ontwikkelingsplannen te kunnen maken als zowel de gewenste flexibilisering en marktwerking van de energiesector mogelijk te maken.
+
+

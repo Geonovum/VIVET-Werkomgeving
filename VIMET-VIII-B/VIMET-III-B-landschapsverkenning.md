@@ -45,7 +45,7 @@ De directe warmteketen kent verschillende typen stakehodlers, die ook in deze fi
 <figcaption>Schema Begrippencatalogus Warmte Herkomstbronnen begripsdefinities</figcaption>
 </figure>
 
-Begrippen voor het warmtedomein zijn op veel locaties vastgelegd. De locaties waar de definities zijn vastgelegd noemen we hier 'herkomstbronnen', zoals gebruikelijk in MIM-terminologie. 
+Begrippen voor het warmtedomein zijn op veel locaties vastgelegd. De locaties waar de definities zijn vastgelegd noemen we hier 'herkomstbronnen', zoals gebruikelijk in [MIM-terminologie](https://docs.geostandaarden.nl/mim/mim/#metagegeven-herkomst-definitie). 
 De inventarisatie van herkomstbronnen in bovenstaande plaat is gegroepeerd naar de oogmerken waarvoor de betrokken partijen de begrippen gedefinieerd hebben. 
 
 Veel herkomstbronnen zijn aan elkaar gerelateerd, doordat verwezen wordt naar begrippen die elders zijn gedefinieerd. In onderstaand schema is dat gevisualiseerd. Belangrijke bronnen zijn de Europese richtlijnen, die ook naar elkaar verwijzen. 
@@ -162,9 +162,3 @@ projectjaar 2021-2022.
 
 PMPMPM De plaat hier nog enigszins toelichten. Het is een eerste aanzet.
 
-### Digital Twin Fysieke Leefomgeving (DTFL)
-
-PMPMPM Wanneer deze paragraaf akkoord is, dan nog een Toepassing DTFL opnemen in Vivet CIM Framework. 
-
-De digitale tweeling van de fysieke leefomgeving is het uitgelezen instrumentarium om de complexe werkelijkheid bij grote maatschappelijke uitdagingen te verbeelden en tot afgewogen besluitvorming te komen. Met de digitale tweeling van de fysieke leefomgeving bedoelen we een digitale representatie van de fysieke wereld op basis van data die betrokkenen verbindt en helpt de gewenste fysieke leefomgeving te modelleren. De aanleiding hiervoor is de druk die op veel plekken (vooral op regionale schaal) gevoeld wordt om de problematiek van een aantal grote maatschappelijke opgaven in samenhang op te pakken: klimaatverandering, woningopgave,  landbouw, infrastructuur en mobiliteit. Het kunnen visualiseren en modelleren van de stand van zaken en mogelijke ontwikkelingen kan zorgen voor een betere besluitvorming. Informatie met betrekking tot alle domeinen is daarvoor noodzakelijk, en het kunnen verbinden van  informatie uit dfe databronnen is daarvoor noodzakelijk. 
-Bovengenoemde toepassingen zullen hier een belangrijke rol in spelen; zo geven de regionale energiestrategieën inzicht in de claims op de fysieke leefomgeving vanuit de energietransaitie. 

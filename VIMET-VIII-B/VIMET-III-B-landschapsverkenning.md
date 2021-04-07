@@ -50,9 +50,10 @@ De inventarisatie van herkomstbronnen in bovenstaande plaat is gegroepeerd naar 
 
 Veel herkomstbronnen zijn aan elkaar gerelateerd, doordat verwezen wordt naar begrippen die elders zijn gedefinieerd. In onderstaand schema is dat gevisualiseerd. Belangrijke bronnen zijn de Europese richtlijnen, die ook naar elkaar verwijzen. 
 
-<figure id="Schema_Relaties_Begrippencatalogus_Warmte_Herkomstbronnen_begripsdefinities">
+
+<figure id="Schema_Begrippencatalogus_Warmte_Herkomstbronnen_begripsdefinities">
 <img src="media/Schema_Relaties_Begrippencatalogus_Warmte_Herkomstbronnen_begripsdefinities.png" alt="">
-<figcaption>Schema Relaties Begrippencatalogus Warmte Herkomstbronnen begripsdefinities</figcaption>
+<figcaption>Schema Begrippencatalogus Warmte Herkomstbronnen begripsdefinities</figcaption>
 </figure>
 
 #### Warmtebedrijven, innovatie

@@ -5,11 +5,15 @@ Hoofdstuk Begrippencatalogus Warmte
 
 De begrippencatalogus Energiedragers bevat de begrippen uit het Nederlandse energielandschap. Het is een online woordenboek dat zowel voor mensen als
 machines te doorzoeken is. Dit woordenboek brengt begrippen vanuit verschillende begrippenkaders uit de energiewereld samen en biedt een transparant platform voor vergelijking en harmonisatie. De focus van de begrippencatalogus ligt initieel op de energiedrager warmte, maar er is al voorgesorteerd op de andere energiedragers. De begrippen zijn overgenomen uit een omvangrijke reeks bronnen zoals:
-- Warmtewet
-- Wet Collectieve warmtevoorziening
+- Warmtewet en het voorstel Wet Collectieve warmtevoorziening
+= Algemene Voorwaarden Warmte 2014
 - NEN 7125
 - Richtlijnen van de Europese Unie
-
+- CBS Statline
+- Energy System Description Language (ESDL)
+- WarmingUp, innovatieprogramma van de warmtesector en TKI Energie
+- WarmteAtlas, informatieportaal van RVO
+- 
 Door de overzichtelijke zoekfunctie op term, definitie en bron helpt de Begrippencatalogus Energie de leesbaarheid en toepassing van deze bronnen te vergroten.
 
 De technologie achter de Begrippencatalogus biedt de ruimte om de Begrippen op verschillende manier en te bekijken. Er kan voor gekozen worden de begrippen alfabetisch weer te geven, binnen een hiërarchie, of vanuit vooraf bepaalde groepen. Ook kunnen alle nieuw toegevoegde begrippen worden bekeken. Hoe deze mogelijkheden ingericht zijn wordt uitgelegd in de volgende paragraaf.
@@ -42,7 +46,7 @@ Ieder begrip in de begrippencatalogus heeft een URI. Deze URI is opgebouwd uit t
 > Namespace: "https://begrippen.geostandaarden.nl/energie/nl/page/" <br>
 > unieke ID-code: "c_aa7eaf64"
 > 
-Concepten in externe bronnen staan vaak niet als Linked Data gepubliceerd. Om toch naar deze externe concepten te kunnen verwijzen, wordt de meest specifieke weblocatie (URL) gebruikt (indien deze bestaat). In het geval van bijvoorbeeld de Warmtewet wordt er verwezen naar een specifiek artikel van de wet waar de definities in te vinden vallen. Deze artikelen staan wel gepubliceerd in Linked data, maar niet met een unieke URI per begrip. Een risico bij het gebruik van URL's is dat deze kunnen wijzigen. Wanneer deze URL's wijzigen, werkt de verwijzing niet meer. Dit heeft als gevolg dat de begrippencatalogus dan zal moeten worden bijgewerkt. Met behulp van de SPARQL querie taal is dit een gemakkelijke operatie. 
+Concepten in externe bronnen staan vaak niet als Linked Data gepubliceerd. Om toch naar deze externe concepten te kunnen verwijzen, wordt de meest specifieke weblocatie (URL) gebruikt (indien deze bestaat). In het geval van bijvoorbeeld de Warmtewet wordt er verwezen naar een specifiek artikel van de wet waar de definities in te vinden vallen. Deze artikelen staan wel gepubliceerd in Linked data, maar niet met een unieke URI per begrip. Een risico bij het gebruik van URL's is dat deze kunnen wijzigen. Wanneer deze URL's wijzigen, werkt de verwijzing niet meer. Dit heeft als gevolg dat de begrippencatalogus dan zal moeten worden bijgewerkt. Met behulp van de SPARQL query taal is dit een gemakkelijke operatie. 
 
 #### Beschrijving van de Begrippen
 
@@ -110,9 +114,9 @@ terug te vinden.
 #### Inrichting van de hiërarchie
 De hiërarchie van begrippen brengt de relaties tussen begrippen in beeld, in het bijzonder de 'broader term',  de 'narrower term' en de 'related term'. De visualisatie van dit verband is als volgt. 
 
-<figure id="Hierarchie in boomvorm">
+<figure id="Hiërarchie in boomvorm">
 <img src="media/Hierarchie_Begrippencatalogus_Warmte.png" alt="">
-<figcaption>Hierarchische visualisatie van de relaties tussen begrippen.</figcaption>
+<figcaption>Hiërarchische visualisatie van de relaties tussen begrippen.</figcaption>
 </figure>
 
 Bij de opbouw van de hiërarchie van begrippen voor het warmtedomein is het uitgangspunt, dat deze moet passen binnen een groter geheel. Hierbij is gebruik gemaakt van bestaande kennishiërarchieën zoals de ABDL-thesaurus die gehanteerd wordt bij RWS. Het is met name de hogere, abstracte begrippen als Object, Fysiek object, Informatie object, Persoon, die het mogelijk maken om begrippen uit een specifiek domein als Warmte te verbinden met begrippen die elders gedefinieerd zijn. 
@@ -120,7 +124,7 @@ Bij de opbouw van de hiërarchie van begrippen voor het warmtedomein is het uitg
 Warmte is geplaatst binnen de bredere energiecontext, door begrippen als Energievoorziening, Energiedrager, Elektriciteit en Gas op te nemen. Daarmee is de basis gelegd om de Begrippencatalogus Warmte uit te breiden met begrippen van andere energiedragers. 
 
 De hiërarchie-relatie tussen begrippen wordt gekenmerkt door de ‘is breder dan’-relatie (Energiedrager is breder dan Warmte) en de ‘is nauwer dan’-relatie (Geothermie is nauwer dan Warmteproductie). 
-Tevens is het mogelijk om aan te geven dat begrippen aan ('close' of  'exact') elkaar gerelateerd zijn (Geothermie is gerelateerd aan Aarwarmte). Op deze manieren zijn begripen aan elkaar verbonden en wordt het mogelijk om met zoekinstructies veel rijkere antwoorden te geven. 
+Tevens is het mogelijk om aan te geven dat begrippen aan ('close' of  'exact') elkaar gerelateerd zijn (Geothermie is gerelateerd aan Aardwarmte). Op deze manieren zijn begrippen aan elkaar verbonden en wordt het mogelijk om met zoekinstructies veel rijkere antwoorden te geven. 
 
 Een schema van de hoogste niveaus is als volgt: 
 
@@ -131,7 +135,7 @@ Een schema van de hoogste niveaus is als volgt:
 
 De vijf warmtefuncties aan de rechterkant van het schema zijn overgenomen van de z.g. Energy Capabilities van ESDL, de Energy System Description Language van TNO. Deze zijn, m.u.v. Warmteopslag, weer verder onderverdeeld in ‘sub-bomen’ met warmtebegrippen. 
 
-Het is ook mogelijk om de relaties in de vorm van een graaf weer  te geven. Deze kan automatisch gegenenereerd worden, en opgebouwd zijn uit begrippen en relaties uit verschillende thesauri. 
+Het is ook mogelijk om de relaties in de vorm van een graaf weer  te geven. Deze kan automatisch gegenereerd worden, en opgebouwd zijn uit begrippen en relaties uit verschillende thesauri. 
 
 <figure id="Hierarchie in graafvorm">
 <img src="media/HierarchieGraaf.png" alt="">
@@ -151,11 +155,11 @@ PMPMPM Opsomming en korte beschrijving van de herkomstbronnen van definities ond
 <figcaption>Groepen</figcaption>
 </figure>
 
-Bilage 1, ‘*Herkomstbronnen begripsdefinities per energiedrager*’, bevat een lijst van herkomstbronnen en de vindplaatsen daarvan. Bij de keuze van welke herkomstbronnen wel en niet op te nemen in de begrippencatalogus zijn de gesprekken met stakeholders, de analyse van materiaal van Vivet-projecten, desk-research en kennis van de energiesector richtinggevend geweest. 
+Bijlage 1, ‘*Herkomstbronnen begripsdefinities per energiedrager*’, bevat een lijst van herkomstbronnen en de vindplaatsen daarvan. Bij de keuze van welke herkomstbronnen wel en niet op te nemen in de begrippencatalogus zijn de gesprekken met stakeholders, de analyse van materiaal van Vivet-projecten, desk-research en kennis van de energiesector richtinggevend geweest. 
 De relatie tussen de herkomstbronnen is gevisualiseerd in de plaat in hoofdstuk Landschapsverkenning. 
 
 Vrijwel alle herkomstbronnen bevatten begrippen en definities zonder daar verbindingen tussen aan te leggen. Dat is de reden geweest om de herkomstbronnen ook als groep te beschouwen; elke poging tot structurering binnen de herkomstbron zou namelijk in het bestek van dit project (zonder uitgebreide stakeholder-consultaties) niet zorgvuldig genoeg kunnen gebeuren. 
 
-ESDL heeft echter wel een goed-overwogen structuur tussen alle begrippen aangelegd. Dat is aanleiding geweest om de structuur van de begrippen, zoals vastgelgd in de hiërarchie daarop te baseren. De groep-indeling dient daarbij als bronverwijzing van de opgenomen begrippen. Gelijkluidende begrippen krijgen een onderscheiden aanduiding doordat de groep (dus de herkomstbron) op te nemen achter de naam van het begrip. Bijvoorbeeld Aansluiting(Warmtewet). 
+ESDL heeft echter wel een goed-overwogen structuur tussen alle begrippen aangelegd. Dat is aanleiding geweest om de structuur van de begrippen, zoals vastgelegd in de hiërarchie daarop te baseren. De groepsindeling dient daarbij als bronverwijzing van de opgenomen begrippen. Gelijkluidende begrippen krijgen een onderscheiden aanduiding doordat de groep (dus de herkomstbron) op te nemen achter de naam van het begrip. Bijvoorbeeld Aansluiting(Warmtewet). 
 
-Bij de opzet van de begrippencataloguis bleek de indeling conform de ESDL-uitgangspunten goed werkbaar. Met name de vijf z.g. energie-capabilities die als het ware als fundamentstenen centraal staan, vormden een goed ankerpunt. Daardoor bleken begrippen die buiten de ESDL-scope vallen,  relatief eenvoudig te verbinden  met de zich ontwikkelende structuur van de begrippencatalogus. 
+Bij de opzet van de begrippencatalogus bleek de indeling conform de ESDL-uitgangspunten goed werkbaar. Met name de vijf z.g. energie-capabilities die als het ware als fundamentstenen centraal staan, vormden een goed ankerpunt. Daardoor bleken begrippen die buiten de ESDL-scope vallen,  relatief eenvoudig te verbinden  met de zich ontwikkelende structuur van de begrippencatalogus. 

@@ -3,23 +3,24 @@ Hoofdstuk Bevindingen, Conclusie en Aanbevelingen
 
 ### Bevindingen
 
-Algemeen wordt door de stakeholders een begrippencatalogus positief onthaald.Termen als ‘nuttig’, ‘verhelderend’ wijzen daarop. Het triggert ook soms het
-positief meedenken en dat heeft meegewerkt aan het spoorzoeken naar andere herkomstbronnen. De praktische toepassing wordt bij een eerste kennismaking, naast een goede basis voor informatiesystemen, vooral gezien als aanvullend communicatiemiddel. 
+Algemeen wordt door de stakeholders een begrippencatalogus positief onthaald. Termen als ‘nuttig’, ‘verhelderend’ wijzen daarop. De dynamiek in de energietransitie is groot; dat geldt ook voor de warmtesector. Begrippen en definities ontwikkelen zich daarom, als gevolg van bijv. nieuwe wetgeving, nieuwe processen in de sector, maar zeker ook in de praktijk. Een toegankelijke begrippencatalogus ('hét woordenboek voor de warmtesector') is daarom welkom, zowel voor specialisten als voor communicatie naar bredere groepen belanghebbenden. 
+De kennismaking met de eerste opzet triggert ook het positief meedenken en dat heeft sterk bijgedragen aan het spoorzoeken naar andere herkomstbronnen. De praktische 
 
 Tijdens dit onderzoek is door stakeholders een grote hoeveelheid bronnen uit heel diverse kanten aangereikt. 
 
 Dit onderzoek begon met het domein warmte vanwege de specifieke problematiek die daar speelt; uit onderzoek is niet gebleken dat er veel contacten zijn of affiniteit met partijen uit domeinene van andere energiedragers. De Begrippencatalogus Warmte konden we dan ook inrelatieve ‘splendid isolation’ opbouwen.
 
 Een veel gestelde vraag (soms zelfs als eerste, tijdens de interviews): wie gaat harmonisatie en governance oppakken? Daar bleken in de sector weinig ideeën over
-te zijn. Vivet werd genoemd als vanzelfsprekende partij om hier het voortouw in te nemen.
+te zijn. DVivet werd genoemd als vanzelfsprekende partij om hier het voortouw in te nemen.
 
 ### Conclusies
 
-Als je op het niveau van begrippen aan de slag gaat, wordt je scope – spoorzoekenderwijs - veel groter dan een eenzijdig informatiekundige invalshoek.
+Definities op het gebied van warmte zijn vastgelegd in heel veel diverse bronnen en ontwikkelen zich door formele en informele processen. Bij de ontwikkeling van de begrippencatalogus is het daarom van groot belang om ontwikkeling met de sector te houden en specialisten te betrekken. 
 
-Er wordt weinig handelingsperspectief gezien in de sector ondanks de positieve feedback (nuttig, verhelderend, stap richting ontsplintering) door de experts.
+Door op het niveau van begrippen aan de slag te gaan, verruimt de scope zich – spoorzoekenderwijs - van vooral informatiekundige invalshoeken tot veel bredere perspectieven. 
 
-De behoefte aan harmonisatie van termen en begrippen is aanwezig, maar dit lijkt geen onderwerp. Ook werden nauwelijks suggesties gedaan voor welke partij
+Er wordt bij een eerste kennismaking weinig concreet handelingsperspectief gezien door experts in de sector, terwijl er wel  positieve feedback (nuttig, verhelderend, stap richting ontsplintering). Het doet denken aan dilemma's bij infrastructuur: nuttig voor het grote geheel, maar lastig om partijen te vinden die dit vrijwililg op gaan zetten. 
+De behoefte aan harmonisatie van termen en begrippen is aanwezig, maar hier lijkt nog weinig over nagedacht. Ook werden nauwelijks suggesties gedaan voor welke partij
 verantwoordelijkheid zou moeten nemen. Men verwacht dat Vivet hier een rol in speelt.
 
 De basis die nu gelegd is, kan ook goed gebruikt worden voor andere energiedragers: er lijkt een mooie kapstok te zijn.

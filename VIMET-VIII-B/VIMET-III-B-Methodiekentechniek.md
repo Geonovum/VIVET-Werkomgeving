@@ -4,7 +4,7 @@ Hoofdstuk Methodiek en techniek
 ### Begrippencatalogus
 
 Een begrippencatalogus is méér dan een opsomming van begrippen: het beschrijft ook – op structurele wijze – de wijze waarop de begrippen met elkaar samenhangen. 
-Zo is een energienet een bredere term van warmtenet, is een kleinverbruiker een smallere term van verbruiker en is consument een geretateerde term aan verbruiker. 
+Zo is een energienet een bredere term van warmtenet, is een kleinverbruiker een smallere term van verbruiker en is consument een gerelateerde term aan verbruiker. 
 Synoniemen voor begrippencatalogus zijn *thesaurus* en *vocabulaire*. 
 
 De begrippencatalogus wordt stapsgewijs opgebouwd, en de bouwstenen krijgen ook deze benaming: Begrippencatalogus Warmte, Begrippencatalogus Hernieuwbare Energie. 
@@ -54,7 +54,7 @@ Datastandaarden zorgen voor de consistentie en uitwisselbaarheid van data. Met d
 <figcaption> Taalinfrastructuur zoals omschreven in "Vinden en verbinden met taal"</figcaption>
 </figure>
 
-Om de taal uit een domein consistent en uitwisselbaar te maken, zijn taalstandaarden noodzakelijk. Veelvoorkomende keuzes voor standaarden zijn UML, zoals beschreven in het [Metamodel Informastie Modellering](https://docs.geostandaarden.nl/mim/mim/), of het gebruik van Linked Data standaarden zoals SKOS, Simple Knowledge Organization System, hier beschreven in de [NORA Standaarden](https://www.noraonline.nl/wiki/SKOS_(Simple_Knowledge_Organization_System). De samenhang tussen deze standaarden valt terug te vinden op het niveau van begrippen, zoals beschreven in de [Handreiking Gegevensbeschrijvingen van NORA](https://www.noraonline.nl/wiki/Gegevensbeschrijvingen/Handreiking). 
+Om de taal uit een domein consistent en uitwisselbaar te maken, zijn taalstandaarden noodzakelijk. Veelvoorkomende keuzes voor standaarden zijn UML, zoals beschreven in het [Metamodel Informatie Modellering](https://docs.geostandaarden.nl/mim/mim/), of het gebruik van Linked Data standaarden zoals SKOS, Simple Knowledge Organization System, hier beschreven in de [NORA Standaarden](https://www.noraonline.nl/wiki/SKOS_(Simple_Knowledge_Organization_System). De samenhang tussen deze standaarden valt terug te vinden op het niveau van begrippen, zoals beschreven in de [Handreiking Gegevensbeschrijvingen van NORA](https://www.noraonline.nl/wiki/Gegevensbeschrijvingen/Handreiking). 
 
 MIM maakt onderscheid in 4 verschillende niveaus van informatiemodellen, waarbij niveau 1 een model van begrippen is. Een model van begrippen beschrijft de werkelijkheid binnen het beschouwde domein  door middel van de daarin gehanteerde begrippen en hun relaties tot elkaar. Wanneer de taal die deze werkelijkheid omschrijft niet is gedefinieerd, dan is het ook lastig om een informatiemodel van een hoger niveau te maken, dat dichter bij een digitale registratie staat. MIM kan niet worden toegepast op een model van niveau 1 volgens [MIM 1.6 specificatie](https://docs.geostandaarden.nl/mim/mim/#typen-informatiemodellen), maar Linked Data wel.
 
@@ -100,7 +100,7 @@ In de eerste fase ging het om het vormen van een zo helder mogelijke schets van 
 <figcaption>Focus werd gelegd op de warmtesector.</figcaption>
 </figure>
 
-Aangezien de warmtesector naar voren kwam als het meest onontgonnen gebied, werd hier de focus op gelegd. De eerste verdiepingsslag binnen de warmtesector, bestond uit het van opvragen van informatiemodellen. Dit leidde tot weinig resultaten er bleek nog weinig materiaal te zijn op het gebied van datastandaarden binnen de warmtesector. Vervolgens heeft Geonovum gesproken met partijen uit het werkveld om de schets te verheldere. Tijdens de ontwikkeling van de begrippencatalogus zijn gesprekken gevoerd met en zijn presentaties gegeven aan experts van ECW, RVO, PBL, het warmte-overleg bij Energie Nederland, CBS, projectleiders Vivet, Min. EZK, ACM, Energie Data Community, Tennet, Stedin. 
+Aangezien de warmtesector naar voren kwam als het meest onontgonnen gebied, werd hier de focus op gelegd. De eerste verdiepingsslag binnen de warmtesector, bestond uit het van opvragen van informatiemodellen. Dit leidde tot weinig resultaten er bleek nog weinig materiaal te zijn op het gebied van datastandaarden binnen de warmtesector. Vervolgens heeft Geonovum gesproken met partijen uit het werkveld om de schets te verhelderen. Tijdens de ontwikkeling van de begrippencatalogus zijn gesprekken gevoerd met en zijn presentaties gegeven aan experts van ECW, RVO, PBL, het warmte-overleg bij Energie Nederland, CBS, projectleiders Vivet, Min. EZK, ACM, Energie Data Community, Tennet, Stedin. 
 
 #### Samenvatting bevindingen uit de verkenning: analyse van het kernprobleem
 
@@ -127,13 +127,13 @@ In de toekomst wil Geonovum dit iteratieve proces voortzetten. Bij dit proces ho
 
 ### Applicatie voor de Begrippencatalogus Warmte
 
-Er zijn allerlei tools beschikbaar voor het werken met SKOS. Voor het Begrippenmodel Warmte heeft het VIVET Team ervoor gekozen om de methodiek van DiS Geo te volgen, zodat gebruik kon worden gemaakt van bestaande infrastructuur. Deze infrastructuur bestaat uit een Beheer- en ontwikkelomgeving en een publicatieomgeving.
+Er zijn allerlei tools beschikbaar voor het werken met SKOS. Voor het Begrippenmodel Warmte heeft het VIVET Team ervoor gekozen om de methodiek van DiSGeo te volgen, zodat gebruik kon worden gemaakt van bestaande infrastructuur. Deze infrastructuur bestaat uit een Beheer- en ontwikkelomgeving en een publicatieomgeving.
 
 #### Beheer- en ontwikkelomgeving
 
-Voor het ontwikkelen en beheren van de begrippencatalogus in Linked Data, is het handig om goede ondersteunende tooling te hebben. Voor de begrippencatalogus warmte, wordt gebruik gemaakt van de open-source software [VocBench](https://www.pldn.nl/wiki/VocBench). Hierbij wordt het voorbeeld van DiS Geo gevolgd, die in de zomer van 2020 een onderzoek hebben laten uitvoeren welke tooling het gunstigste is voor de toepassingen van Geonovum.
+Voor het ontwikkelen en beheren van de begrippencatalogus in Linked Data, is het handig om goede ondersteunende tooling te hebben. Voor de begrippencatalogus warmte, wordt gebruik gemaakt van de open-source software [VocBench](https://www.pldn.nl/wiki/VocBench). Hierbij wordt het voorbeeld van DiSGeo gevolgd, die in de zomer van 2020 een onderzoek hebben laten uitvoeren welke tooling het gunstigste is voor de toepassingen van Geonovum.
 
-VocBench is een flexibel programma en bavat een hoop opties om het werken met een begrippencatalogus makkelijker te maken. Zo kunnen meerdere eigenschappen tegelijkertijd worden aangepast, kan een graaf visualisatie gemaakt worden en kan er gemakkelijk worden samengewerkt. VocBench wordt ook gebruikt door de Europese Unie om de [Eurovoc thesaurus](https://op.europa.eu/nl/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/eurovoc) te beheren.
+VocBench is een flexibel programma en bevat een hoop opties om het werken met een begrippencatalogus makkelijker te maken. Zo kunnen meerdere eigenschappen tegelijkertijd worden aangepast, kan een graaf visualisatie gemaakt worden en kan er gemakkelijk worden samengewerkt. VocBench wordt ook gebruikt door de Europese Unie om de [Eurovoc thesaurus](https://op.europa.eu/nl/web/eu-vocabularies/dataset/-/resource?uri=http://publications.europa.eu/resource/dataset/eurovoc) te beheren.
 
 #### Publicatieomgeving
 

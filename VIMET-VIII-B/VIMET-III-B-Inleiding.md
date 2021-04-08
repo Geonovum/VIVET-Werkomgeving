@@ -19,13 +19,13 @@ Deze kenmerken van het 'universe of discourse' bepalen de wijze waarop een beter
 <figcaption>Metamodel</figcaption>
 </figure>
 
-Verbetering van data-/informatievoorziening heeft doorgaans informatie en informatiesystemen als aangrijpingspunt. Informatiesystemen zijn sterk verbonden aan bedrijfsprocessen en wijzigingen daarin kunnen daarom vaak forse impact hebben op de organisaties. In de warmtecontext is dit een lastige opgave, vanwege de commerciële belangen en de diversiteit van de warmtesector. Een uitvraag in de warmtesector leverde op dat er geen breede gehanteerde informatiemodellen bestaan in het warmtedomein. Daarom is ervoor gekozen, mede gezien de omvang van dit project,  om als insteek het begripsniveau te kiezen. 
+Verbetering van data-/informatievoorziening heeft doorgaans informatie en informatiesystemen als aangrijpingspunt. Informatiesystemen zijn sterk verbonden aan bedrijfsprocessen en wijzigingen daarin kunnen daarom vaak forse impact hebben op de organisaties. In de warmtecontext is dit een lastige opgave, vanwege de commerciële belangen en de diversiteit van de warmtesector. Een uitvraag in de warmtesector leverde op dat er geen brede gehanteerde informatiemodellen bestaan in het warmtedomein. Daarom is ervoor gekozen, mede gezien de omvang van dit project,  om als insteek het begripsniveau te kiezen. 
 
 ### Waarom begrippenkader
 Begrippen zijn minder verankerd in informatiesystemen, begrippen slaan op de taal die men spreekt, en ook op dat gebied is verbetering mogelijk. Het hanteren van één taal is een behoefte die in interviews is uitgesproken en dat maakt het immers mogelijk om te komen tot goede Informatiemodellering, waarin de vertaalslag van begrippen naar informatiesystemen gemaakt wordt. 
 
 Bij het werken aan een gedeeld begrippenkader – we spreken hier over de Begrippencatalogus Warmte - spelen naar verwachting minder grote belangen, waardoor hier gemakkelijker stappen gezet kunnen worden. Het levert ook een breed ecosysteem op, doordat begrippen niet alleen van belang zijn voor de warmteketen, maar ook voor partijen die actief zijn bij wetgeving, subsidies, innovatie, technische normen. 
-Het proces dat gevolgd wordt bij de totstandkomen van een gedragen begrippentaal bestaat globaal uit de volgende stappen: inventariseren en relateren van begrippen / vaststellen van begrippen en hun relaties / harmoniseren van begrippen / beheer en onderhoud van de begrippen. 
+Het proces dat gevolgd wordt bij de totstandkoming van een gedragen begrippentaal bestaat globaal uit de volgende stappen: inventariseren en relateren van begrippen / vaststellen van begrippen en hun relaties / harmoniseren van begrippen / beheer en onderhoud van de begrippen. 
 
 In dit project hebben we ons op de eerste stap gericht, en op het vinden van goede tooling om de begrippen en bijbehorende definities te ontsluiten. Randvoorwaarde hierbij zijn dat dit gereedschap goed genoeg is om het uit te breiden tot een Begrippencatalogus Energievoorziening, faciliteiten heeft om interacties met betrokkenen (het ecosysteem rondom de begrippen) te faciliteren, en machine-leesbaar is. 
 De ambitie is om alle herkomstbronnen van begripsdefinities in het warmtedomein te identificeren via de Begrippencatalogus Warmte toegankelijk te maken. Uiteraard worden hier ook de doelgroepen in geïnventariseerd: beleidsmakers, materiedeskundigen warmtesector, wetgeving, informatiespecialisten.  
@@ -36,11 +36,11 @@ Hoofdstuk *Methodiek en techniek* beschrijft achtergrond van begrippencatalogus,
 MIM, selectie van tooling, en ‘spoorzoeken’ naar warmtebegrippen, opsomming van
 bronnen, opsomming van benaderde partijen.
 
-Hoofdstuk *Resultaten landschapsverkenning warmtewereld* presenteert de resultaten van een inventarisatie van het warmtedomein: het ecosysteem van de energiedrager Warmte, een inventarisatie van stakeholders in een schematisch overzicht, de bronnen waar begrippen en hun definities zijn te vinden en welke partijen daar zeggenschap over hebben en tenslotte een beschrijving van enkele (voor Vivet) relevante toepassingensgebieden. 
+Hoofdstuk *Resultaten landschapsverkenning warmtewereld* presenteert de resultaten van een inventarisatie van het warmtedomein: het ecosysteem van de energiedrager Warmte, een inventarisatie van stakeholders in een schematisch overzicht, de bronnen waar begrippen en hun definities zijn te vinden en welke partijen daar zeggenschap over hebben en tenslotte een beschrijving van enkele (voor Vivet) relevante toepassingsgebieden. 
 
 Hoofdstuk *Begrippencatalogus Warmte* geeft een beschrijving van het resultaat: de
-geïnventariseerde begripen, de linkjes naar de herkomstbronnen van
-begripsdefinities, de gemaakte keuzen bij het bouwen van de hiërachie van
+geïnventariseerde begrippen, de linkjes naar de herkomstbronnen van
+begripsdefinities, de gemaakte keuzen bij het bouwen van de hiërarchie van
 begrippen.
 
 Hoofdstuk *Bevindingen, Conclusies en Aanbevelingen* doet in grote lijnen verslag van wat we tijdens dit

@@ -72,7 +72,7 @@ Het warmtedomein is natuurlijk nauw gelinkt aan de bouw- en installatiewereld. H
 
 #### Informatieportalen
 In het kader van Vivet is in 2019 een analyse gedaan van het informatielandschap met (rijks)portalen voor energie-en klimaatinformatie. Dat betrof tien informatieportalen die elk van specifieke bronorganisaties of voor bepaalde gebruikers de van toepassing zijnde datasets ontsluiten. De mate waarin begrippen zijn gedefinieerd verschilt. Doordat informatie uit bestaande datasets veelal zonder verdere bewerking op de informatieportalen wordt gepresenteerd, is de noodzaak tot beschrijving van de inhoud van de data vaak niet aanwezig. Voor dit onderzoek is de WarmteAtlas nader bestudeerd en zijn de belangrijkste daar gebruikte begrippen geïnventariseerd. 
-### Governance inzake begripen en definities
+### Governance inzake begrippen en definities
 Begrippen en definities komen tot stand vanuit het gebruik ervan, vanuit de toepassing, en ze ontwikkelen zich met de veranderende werkelijkheid. Een nieuw type warmtenet leidt tot een beschijving die werkt in de desbetreffende context. En zo groeien deze met de tijd mee, en voor die specifieke setting werkt dat prima. Maar wanneer informatie verwerkt moet worden vanuit de verschillende toepassingen, en verschillende begripen en definities bij elkaar komen en er kezues moeten worden gemaakt en wellicht afstemming en harmonisatie wenselijk is, dan roept dat vragen verschilende vragen. 
 In het licht van het beschreven landschap met stakeholders en herkomstbronnen, dringt zich de vraag op naar de rollen en verantwoordelijkheden bij de opzet en het beheer van deze definities. Kunnen we spreken van een eigenaar van de begrippen en definities? Wanneer begrippen op elkaar afgestemd worden: wie heeft welke autoriteit? En wie pakt welke rol bij beheer en doorontwikkeling van de bronnen? Vragen die wel een antwoord vereisen, wanneer een stap wordt gemaakt naar de metadata van informatiesystemen die verschillende toepassingen overstijgen. 
 
@@ -97,7 +97,7 @@ een aggregaat zou worden van de informatiemodellen van de onderscheiden netbehee
 
 Een andere ontwikkeling is de internationale data-uitwisseling tussen de landelijke netbeheerders. Het internationale Common Information Model voor elektriciteit dient als basis voor informatiemodellering, tezamen met andere normen zoals van de IEC. 
 
-### Toepassingsgebieden ahv Domein Warmte
+### Toepassingsgebieden binnen het Domein Warmte
 
 Zoals blijkt uit de [stakeholders-analyse](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#stakeholders-warmtedomein) en de [inventarisatiebronnen voor begrippen](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#herkomstbronnen-begripsdefinities) is het landschap divers. Op de kruispunten van de toepassingsgebieden (zie onderstaand figuur) is nadere verkenning gedaan van de bestaande begrippenkaders en verwerkt in de online [begrippencatalogus]https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#hoofdstuk-begrippencatalogus-warmte. De sterren geven aan waar concrete usecases gebruik kunnen maken van deze catalogus.
 

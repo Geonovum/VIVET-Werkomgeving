@@ -128,9 +128,9 @@ Tevens is het mogelijk om aan te geven dat begrippen aan ('close' of  'exact') e
 
 Een schema van de hoogste niveaus is als volgt: 
 
-<figure id="Hoogste niveaus schematisch">
-<img src="media/hierarchie_hoogste_niveaus_schema.png" alt="">
-<figcaption>Hoogste niveaus schematisch weergegeven.</figcaption>
+<figure id="Schema hiërarchie warmtebegrippen">
+<img src="media/Schema_hierarchie_warmtebegrippen.png" alt="">
+<figcaption>Hoogste niveaus in hiërarchie schematisch weergegeven.</figcaption>
 </figure>
 
 De vijf warmtefuncties aan de rechterkant van het schema zijn overgenomen van de z.g. Energy Capabilities van ESDL, de Energy System Description Language van TNO. Deze zijn, m.u.v. Warmteopslag, weer verder onderverdeeld in ‘sub-bomen’ met warmtebegrippen. 

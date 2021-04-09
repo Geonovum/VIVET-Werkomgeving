@@ -6,14 +6,14 @@ Hoofdstuk Begrippencatalogus Warmte
 De begrippencatalogus Energiedragers bevat de begrippen uit het Nederlandse energielandschap. Het is een online woordenboek dat zowel voor mensen als
 machines te doorzoeken is. Dit woordenboek brengt begrippen vanuit verschillende begrippenkaders uit de energiewereld samen en biedt een transparant platform voor vergelijking en harmonisatie. De focus van de begrippencatalogus ligt initieel op de energiedrager warmte, maar er is al voorgesorteerd op de andere energiedragers. De begrippen zijn overgenomen uit een omvangrijke reeks bronnen zoals:
 - Warmtewet en het voorstel Wet Collectieve warmtevoorziening
-= Algemene Voorwaarden Warmte 2014
+- Algemene Voorwaarden Warmte 2014
 - NEN 7125
 - Richtlijnen van de Europese Unie
 - CBS Statline
 - Energy System Description Language (ESDL)
 - WarmingUp, innovatieprogramma van de warmtesector en TKI Energie
 - WarmteAtlas, informatieportaal van RVO
-- 
+
 Door de overzichtelijke zoekfunctie op term, definitie en bron helpt de Begrippencatalogus Energie de leesbaarheid en toepassing van deze bronnen te vergroten.
 
 De technologie achter de Begrippencatalogus biedt de ruimte om de Begrippen op verschillende manier en te bekijken. Er kan voor gekozen worden de begrippen alfabetisch weer te geven, binnen een hiërarchie, of vanuit vooraf bepaalde groepen. Ook kunnen alle nieuw toegevoegde begrippen worden bekeken. Hoe deze mogelijkheden ingericht zijn wordt uitgelegd in de volgende paragraaf.
@@ -139,7 +139,7 @@ Het is ook mogelijk om de relaties in de vorm van een graaf weer  te geven. Deze
 
 <figure id="Hierarchie in graafvorm">
 <img src="media/HierarchieGraaf.png" alt="">
-<figcaption>Graaf visualisatie van de hïerarchie binnen het begrippenmodel.</figcaption>
+<figcaption>Graaf visualisatie van de hiërarchie binnen het begrippenmodel.</figcaption>
 </figure>
 
 Een uitgangspunt bij het inrichten van de hïerarchie binnen de begrippencatalogus, is dat er zo veel mogelijk gekeken wordt naar bestaande structuren. Internetzoekmachines zijn gebruikt om te zoeken naar andere begrippencatalogi. Zo is bijvoorbeeld de definitie van het meest algemene begrip "object", afkomstig uit [MIM](https://docs.geostandaarden.nl/mim/mim/#objecten-en-objecttype).  

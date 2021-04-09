@@ -129,7 +129,7 @@ Tevens is het mogelijk om aan te geven dat begrippen aan ('close' of  'exact') e
 Een schema van de hoogste niveaus is als volgt: 
 
 <figure id="Hoogste niveaus schematisch">
-<img src="media/hierarchie2.png" alt="">
+<img src="media/hierarchie_hoogste_niveaus_schema.png" alt="">
 <figcaption>Hoogste niveaus schematisch weergegeven.</figcaption>
 </figure>
 

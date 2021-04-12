@@ -3,8 +3,7 @@ Hoofdstuk Begrippencatalogus Warmte
 
 ### Inleiding
 
-De begrippencatalogus Energiedragers bevat de begrippen uit het Nederlandse energielandschap. Het is een online woordenboek dat zowel voor mensen als
-machines te doorzoeken is. Dit woordenboek brengt begrippen vanuit verschillende begrippenkaders uit de energiewereld samen en biedt een transparant platform voor vergelijking en harmonisatie. De focus van de begrippencatalogus ligt initieel op de energiedrager warmte, maar er is al voorgesorteerd op de andere energiedragers. De begrippen zijn overgenomen uit een omvangrijke reeks bronnen zoals:
+De doelstelling voor de Energiethesaurus is om alle begrippen uit het Nederlandse energielandschap toegankelijk te maken. Het is een online woordenboek dat zowel voor mensen als machines te doorzoeken is. Dit woordenboek brengt begrippen vanuit verschillende begrippenkaders uit de energiewereld samen en biedt een transparant platform voor vergelijking en harmonisatie. De focus van de begrippencatalogus ligt initieel op de energiedrager warmte, maar er is al voorgesorteerd op de andere energiedragers. De begrippen zijn overgenomen uit een omvangrijke reeks bronnen zoals:
 - Warmtewet en het voorstel Wet Collectieve warmtevoorziening
 - Algemene Voorwaarden Warmte 2014
 - NEN 7125

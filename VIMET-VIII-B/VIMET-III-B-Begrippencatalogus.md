@@ -103,14 +103,17 @@ Aan “WarmingUp” tussen haakjes is te zien dat het hier gaat over een begrip 
 Een gerlateerd voorbeeld is de term 'Aansluiting'. Deze komt voor in verschillende bronnen: de Algemene Levereringsvoorwaarden, de huidige Warmtewet en het innovatieprogramma WarmingUp. De verschillende beschrijvingen die gevonden worden bij het ingeven van 'Aansluiting' als zoekterm zijn als volgt. 
 De verschillen zijn duidelijk. 
 
-Aansluiting (Warmtewet)
--	Een individuele of centrale aansluiting.
-Aansluiting (WarmingUp)
+Aansluiting (bron: Warmtewet)
+-	Een individuele of centrale aansluiting. 
+
+Aansluiting (bron: WarmingUp)
 -	De leidingen van het warmtebedrijf die de binneninstallatie met het distributienet verbinden, inclusief alle apparatuur en het afleverstation of de afleverset, voor zover deze door het warmtebedrijf zijn aangebracht. Dit kan zowel een directe aansluiting of een indirecte aansluiting zijn. In het eerste geval heeft de binneninstallatie een directe verbinding met het distributienet en in het tweede geval is de binneninstallatie door middel van een warmtewisselaar gescheiden van het distributienet.
-Aansluiting (Algemene Leveringsvoorwaarden Warmte 2014)
+
+Aansluiting (bron: Algemene Leveringsvoorwaarden Warmte 2014)
 -	De leiding van het bedrijf die de binneninstallatie met de hoofdleiding verbindt, met inbegrip van de meetinrichting én de warmtewisselaar voor zover deze door het bedrijf zijn aangebracht en alle andere door of vanwege het bedrijf in of aan die leiding aangebrachte apparatuur. 
-Aansluitingsverantwoordelijke (Wet Collectieve Warmtevoorzieningn)
-- Degene op wie de verantwoordelijkheid, bedoeld in artikel 5.17, eerste lid, rust
+
+Aansluitingsverantwoordelijke (bron: Wet Collectieve Warmtevoorzieningn)
+- Degene op wie de verantwoordelijkheid, bedoeld in artikel 5.17, eerste lid, rust. 
 
 #### Inrichting van de hiërarchie
 De hiërarchie van begrippen brengt de relaties tussen begrippen in beeld, in het bijzonder de 'broader term',  de 'narrower term' en de 'related term'. De visualisatie van dit verband is als volgt. 

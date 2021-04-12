@@ -5,8 +5,7 @@ Hoofdstuk Resultaten landschapsverkenning warmtewereld
 ### Inleiding
 
 Dit hoofdstuk bevat een compacte beschrijving van 'de warmtewereld' voor zover deze relevant is voor dit project. 
-Vanuit *informatie* ligt de focus op partijen waar 
-informatie- en datavoorziening van groot belang is, en dat zijn toch vooral de warmtebedrijven. Door het venster *begrippen* te hanteren, verruimt de scope zich echter, en komen ook partijen in beeld in het gebied van bijvoorbeeld warmtewetgeving, toezicht op de sector, monitoring van het energiesysteem en innovatie. 
+Vanuit *informatie* ligt de focus op partijen waar informatie- en datavoorziening van groot belang is, en dat zijn toch vooral de warmtebedrijven. Maar in het kader van de energietransitie ook voor overheden, RES’n, provincies en het RVO. Door het venster *begrippen* te hanteren, verruimt de scope zich echter, en komen ook partijen in beeld in het gebied van bijvoorbeeld warmtewetgeving, beleid, toezicht op de sector, monitoring van energiesysteem en klimaatontwikkelingen en innovatie. 
 
 Allereerst volgt een visualisatie van deze scope in de figuren met het ecosysteem, de stakeholders en de herkomstbronnen van begripsdefinities. 
 Vervolgens wordt de toepassingen in het domein Warmte in het Vivet Conceptueel Informatiemodel toegelicht. 
@@ -18,7 +17,9 @@ Vervolgens wordt de toepassingen in het domein Warmte in het Vivet Conceptueel I
 <figcaption>Ecosysteem</figcaption>
 </figure>
 
-Dit schema beoogt niet om 'het ecosysteem van de energievoorziening' weer te geven. De weergegeven constellatie heeft wel gediend als een nuttig startpunt en kijkvenster naar de actoren en processen waar begrippen een belangrijke rol spelen. Ontwikkeld vanuit een blik op de warmtewereld, is dit gegeneraliseerd, zodat het tevens een nuttig kijkvenster voor de situatie wanneer warmtebegrippen in een groter kader een plek vinden. Later ruimer – zie de bollenplaat met herkomstdefinities. Het schema rechtsboven geeft een mogelijke verdieping aan voor vervolgprojecten. 
+Dit schema beoogt niet om 'het ecosysteem van de energievoorziening' weer te geven. De weergegeven constellatie heeft wel gediend als een nuttig startpunt en kijkvenster naar de actoren en processen waar begrippen een belangrijke rol spelen. Ontwikkeld vanuit een blik op de warmtewereld, is dit gegeneraliseerd, zodat het tevens een nuttig kijkvenster is voor de situatie wanneer warmtebegrippen in een groter kader een plek vinden. Dit is uitgewerkt en de resultaten daarvan zijn verderop in dit hoofdstuk weergegeven in schema's met herkomstbronnen. 
+
+Het schema rechtsboven geeft een mogelijke verdieping aan voor vervolgprojecten. 
 
 ### Stakeholders Warmtedomein
 
@@ -27,16 +28,16 @@ Dit schema beoogt niet om 'het ecosysteem van de energievoorziening' weer te gev
 <figcaption>Stakeholders</figcaption>
 </figure>
 
-In de warmtewereld zijn veel diverse partijen actief. Om hier een overzicht van te maken is dankbaar gebruik gemaakt van de ledenlijst van Stichting Warmtenetwerk: 'het platform voor de warmtesector waar spelers informatief met elkaar netwerken en zich inzetten voor de energietransitie'.  
-De warmteketen kent vooral geïntegreerde bedrijven die zowel productie, distributie als levering van warmte verzorgen. Dit in tegenstelling tot de wereld van gas- en elektriciteit waar het beheer van de netten wettelijk afgescheiden moet zijn. Het wetsvoorstel Wet Collectieve warmtevoorziening verandert dit niet, maar geeft wel een zware rol aan gemeenten. Die zijn als eigenaar van warmtefaciliteiten daarom ook in het schema opgenomen. 
+In de warmtewereld zijn veel verschillende partijen actief. Om hier een overzicht van te maken is dankbaar gebruik gemaakt van de ledenlijst van Stichting Warmtenetwerk: 'het platform voor de warmtesector waar spelers informatief met elkaar netwerken en zich inzetten voor de energietransitie'.  
+De warmteketen kent vooral geïntegreerde bedrijven die zowel productie, distributie als levering van warmte verzorgen. Dit in tegenstelling tot de wereld van gas- en elektriciteit waar het beheer van de netten wettelijk afgescheiden os van productie en levering. Het wetsvoorstel Wet Collectieve warmtevoorziening verandert dit niet, maar geeft wel een grote rol aan gemeenten. Die zijn als eigenaar van warmtefaciliteiten daarom ook in het schema opgenomen. 
 
-Overigens is over het al dan niet opknippen van de warmteketen al jaren discussie, al dan niet gecombineerd met open toegang tot de warmtenetten, zoals ook bij de andere energiedragers het geval is. In dit kader kan ook genoemd worden dat er in de consultatie van de nieuwe energiewet door veel partijen een pleidooi wordt gehouden om warmte hier deel van uit te laten maken. 
+Overigens is over het al dan niet opknippen van de warmteketen al jaren discussie, al dan niet gecombineerd met open toegang tot de warmtenetten, zoals ook bij de andere energiedragers het geval is. In dit kader kan ook genoemd worden dat er in de consultatie van de nieuwe energiewet door veel partijen een pleidooi wordt gehouden om warmte hier deel van uit te laten maken. Warmte maakt integraal onderdeel uit van het energiesysteem. 
 
-Voor het inrichten van een begrippencatalogus is dit een belangrijk onderwerp: de energiedragers zullen immers steeds sterker samenkomen: energieconversie is dan ook een centraal begrip en om dat te verbinden met andere begrippen komen definitief uit bijvoorbeeld verschillende wetten en toezichtkaders samen. 
+Voor het inrichten van een begrippencatalogus is dit een belangrijk onderwerp: de energiedragers zullen immers steeds sterker samenkomen: energieconversie is dan ook een centraal begrip en om dat te verbinden met andere begrippen komen definities uit bijvoorbeeld verschillende wetten en toezichtkaders samen. 
 
-De warmteketen kent natuurlijk ook veel leveranciers en dienstverleners, en daar is dan ook een verbinding te vinden naar het in het Vivet CIM (zie hieronder) opgenomen domein 'Bouw- en Installatiewereld'. 
+De warmteketen kent natuurlijk ook  leveranciers en dienstverleners, en daar is dan ook een verbinding te vinden naar het in het Vivet CIM (zie hieronder) opgenomen domein 'Bouw- en Installatiewereld'. 
 
-De directe warmteketen kent verschillende typen stakeholders, die ook in deze figuur zijn opgenomen: overheidsorganisaties en - programma's, kennisinstellingen en gegevensgerichte organisaties. En branche-organisaties die vanuit diverse invalshoeken belangenbehartiging voor partijen in de warmteketen verzorgen. 
+De directe warmteketen kent verschillende typen stakeholders, die ook in deze figuur zijn weergegeven: overheidsorganisaties en -programma's, kennisinstellingen en gegevensgerichte organisaties. En brancheorganisaties die vanuit diverse invalshoeken belangenbehartiging voor partijen in de warmteketen verzorgen. 
 
 ### Herkomstbronnen begripsdefinities
 
@@ -51,7 +52,7 @@ De inventarisatie van herkomstbronnen in bovenstaande plaat is gegroepeerd naar 
 Veel herkomstbronnen zijn aan elkaar gerelateerd, doordat verwezen wordt naar begrippen die elders zijn gedefinieerd. In onderstaand schema is dat gevisualiseerd. Belangrijke bronnen zijn de Europese richtlijnen, die ook naar elkaar verwijzen. 
 
  
-In [Bijlage 1\: Herkomstbronnen begrippen energie](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#bijlage-1-herkomstbronnen-begrippen-energie) is een uitgebreide tabel opgenomen welk een resultaat is van de inventarisatie en ordening naar begrippen van de energiedragers Elektriciteit, Gas en Warmte.
+In [Bijlage 1\: Herkomstbronnen begrippen energie](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#bijlage-1-herkomstbronnen-begrippen-energie) is een uitgebreide tabel opgenomen die een resultaat is van de inventarisatie en ordening naar begrippen van de energiedragers Elektriciteit, Gas en Warmte.
 
 
 <figure id="Schema_Relaties_Begrippencatalogus_Warmte_Herkomstbronnen_begripsdefinities">
@@ -60,20 +61,21 @@ In [Bijlage 1\: Herkomstbronnen begrippen energie](https://geonovum.github.io/VI
 </figure>
 
 #### Warmtebedrijven, innovatie
-Een samenwerkingskader zoals Netbeheer Nederland, dat al jaren de belangen van de netbeheerders behartigt, kennen de warmtebedrijven (nog) niet. De diversiteit tussen de warmtebedrijven is ook veel groter en dat maakt de situatie anders. Wel is er belangenbehartiging via Energie Nederland en kennisuitwisseling binnen de actieve Stichting Warmtenetwerk. Samenwerking is er op diverse gebieden. Activiteiten waarvoor begripsdefinities zijn opgesteld en afgestemd zijn de Algemene Leveringsvoorwaarden van de sector en de samenwerking van warmtebedrijven onder leiding van TNO in het meerjaren-innovatieprogramma WarmingUp. 
+Een samenwerkingskader of brancheorganisatie zoals Netbeheer Nederland, dat al jaren de belangen van de netbeheerders behartigt, kennen de warmtebedrijven (nog) niet. De diversiteit tussen de warmtebedrijven is groot en dat maakt de situatie anders. Wel is er belangenbehartiging via Energie Nederland en kennisuitwisseling binnen de actieve Stichting Warmtenetwerk. Samenwerking is er op diverse gebieden. Activiteiten waarvoor begripsdefinities zijn opgesteld en afgestemd zijn de Algemene Leveringsvoorwaarden van de sector en de samenwerking van warmtebedrijven onder leiding van TNO in het meerjarig innovatieprogramma WarmingUp. 
 #### Wetgeving
-In toenemende mate speelt Europese regelgeving een rol, en in toenemende mate worden begrippen en definities overgenomen. Dat speelt bij vooral bij nieuwe wetgeving.  Overigens is het niet altijd mogelijk om Europese definities één op één over te nemen. Vanuit de Begrippencatalogus Warmte worden verbindingen gelegd naar de brondefinities van wetgeving zoals www.wetten.overheid.nl. Het is doorgaans niet mogelijk om een verbinding te maken naar de afzonderlijke begrippen en dan wordt verwezen naar het artikel waarin de definities zijn opgenomen.   
+In toenemende mate speelt Europese regelgeving een rol, en in toenemende mate worden begrippen en definities overgenomen. Dat speelt dan vooral bij nieuwe wetgeving of aanpassing van bestaande wetten en regelingen.  Overigens is het niet altijd mogelijk om Europese definities één op één over te nemen. Vanuit de Begrippencatalogus Warmte worden verbindingen gelegd naar de brondefinities van wetgeving zoals www.wetten.overheid.nl. Het is doorgaans niet mogelijk om een verbinding te maken naar de afzonderlijke begrippen en in dat geval wordt verwezen naar het artikel waarin de definities zijn opgenomen.   
 #### Subsidie
-Van groot (financieel) belang zijn de definities die zijn opgenomen in de subsidie-regelgeving. Ook in deze bronnen wordt bij de definities mede verwezen naar Europese regelgeving, in het bijzonder de RED, de Renewable Energy Directive. 
+Van groot (financieel) belang zijn de definities die zijn opgenomen in de subsidie-regelgeving. Ook in deze bronnen wordt bij de definities mede verwezen naar Europese regelgeving, in het bijzonder de Renewable Energy Directive (RED). 
 #### Basisregistraties
-In toenemende mate worden de basisregistraties gebruikt voor informatiesystemen in het warmtedomein. Registraties van gebouwen, ruimte en ondergrond zijn onmisbaar in vrijwel alle fasen van ontwikkeling en beheer van warmtevoorzieningen, die nu eenmaal fysiek verbonden zijn met gebouwen en vaak ook gerealiseerd zijn in de openbare ruimte. De verwachting is dat de SOR, de [Samenhangende ObjectenRegistratie](https://docs.geostandaarden.nl/disgeo/hiso/) zal zorgen voor kwalitatief hoogwaardiger en gemakkelijker te realiseren verbindingen. 
+In toenemende mate worden de basisregistraties gebruikt voor informatiesystemen in het warmtedomein. Registraties van gebouwen, ruimte en ondergrond zijn onmisbaar in vrijwel alle fasen van ontwikkeling en beheer van warmtevoorzieningen, die nu eenmaal fysiek verbonden zijn met gebouwen en vaak ook gerealiseerd zijn in de openbare ruimte door installaties en buisleidingen. De verwachting is dat de SOR, de [Samenhangende ObjectenRegistratie](https://docs.geostandaarden.nl/disgeo/hiso/) zal zorgen voor kwalitatief hoogwaardiger en gemakkelijker te realiseren verbindingen. 
 #### Bouw- en installatiewereld
 Het warmtedomein is natuurlijk nauw gelinkt aan de bouw- en installatiewereld. Hiervoor is in het Vivet-project inzake energie-installaties een inventarisatie gemaakt van classificatieschema's en taxonomieën. Daaronder bijvoorbeeld www.ketenstandaard.nl, NL-SfB (de classificatie van bouwdelen en installaties), CB-NL (conceptbibliotheek voor de gebouwde omgeving) en UOB (de Uniforme ObjectenBibliotheek). Een overzicht is te vinden in het [eindrapport  Vivet-project VIMET-I](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-I/#relevante-taxonomieen-en-informatiemodellen). Ook NEN-normen bevatten veel beschrijvingen/definities van begrippen.  
 
 #### Informatieportalen
 In het kader van Vivet is in 2019 een analyse gedaan van het informatielandschap met (rijks)portalen voor energie-en klimaatinformatie. Dat betrof tien informatieportalen die elk van specifieke bronorganisaties of voor bepaalde gebruikers de van toepassing zijnde datasets ontsluiten. De mate waarin begrippen zijn gedefinieerd verschilt. Doordat informatie uit bestaande datasets veelal zonder verdere bewerking op de informatieportalen wordt gepresenteerd, is de noodzaak tot beschrijving van de inhoud van de data vaak niet aanwezig. Voor dit onderzoek is de WarmteAtlas nader bestudeerd en zijn de belangrijkste daar gebruikte begrippen geïnventariseerd. 
+
 ### Governance inzake begrippen en definities
-Begrippen en definities komen tot stand vanuit het gebruik ervan, vanuit de toepassing, en ze ontwikkelen zich met de veranderende werkelijkheid. Een nieuw type warmtenet leidt tot een beschrijving die werkt in de desbetreffende context. En zo groeien deze met de tijd mee, en voor die specifieke setting werkt dat prima. Maar wanneer informatie verwerkt moet worden vanuit de verschillende toepassingen, en verschillende begrippen en definities bij elkaar komen en er keuzes moeten worden gemaakt en wellicht afstemming en harmonisatie wenselijk is, dan roept dat vragen verschillende vragen. 
+Begrippen en definities komen tot stand vanuit het gebruik ervan, vanuit de toepassing, en ze ontwikkelen zich met de veranderende werkelijkheid. Een nieuw type warmtenet leidt tot een beschrijving die werkt in de desbetreffende context. En zo groeien deze met de tijd mee. Voor die specifieke setting werkt dat prima. Maar dat roept vragen op wanneer informatie verwerkt moet worden vanuit de verschillende toepassingen, verschillende begrippen en definities bij elkaar komen en er keuzes moeten worden gemaakt en wellicht afstemming en harmonisatie wenselijk is.
 In het licht van het beschreven landschap met stakeholders en herkomstbronnen, dringt zich de vraag op naar de rollen en verantwoordelijkheden bij de opzet en het beheer van deze definities. Kunnen we spreken van een eigenaar van de begrippen en definities? Wanneer begrippen op elkaar afgestemd worden: wie heeft welke autoriteit? En wie pakt welke rol bij beheer en doorontwikkeling van de bronnen? Vragen die wel een antwoord vereisen, wanneer een stap wordt gemaakt naar de metadata van informatiesystemen die verschillende toepassingen overstijgen. 
 
 ### Vivet CIM Framework 
@@ -89,11 +91,9 @@ Een CIM voor de energievoorziening is te groot om in één keer te ontwerpen. In
 In Vivet jaar 1 is voor het onderwerp 'energie-installaties' een informatiekundige inventarisatie gemaakt. zie hiervoor [eindrapport  Vivet-project VIMET-I](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#conceptueel-informatiemodel-energietransitie/). Daar is vooral aandacht gegeven aan het domein Marktfacilitering (vooral productie-eenheden), het domein Bouwwereld en het domein Installatiewereld. Deze laatste twee zijn vanwege de visualisatie samengevoegd. In dit project is het Domein Warmte opgepakt en is een voorschot genomen op het Vivet-jaar 2021-2022 door een pijler voor het Domein Hernieuwbare energie te benoemen. 
 
 De overkoepelende bouwblokken van dit framework hebben tijdens dit project enige aandacht gekregen, maar dat leidt niet tot uitgebreide verslaglegging. Bij het Informatiemodel Basisregistraties is DisGeo een belangrijke ontwikkeling. De Samenhangende Object Registratie zorgt voor verbinding tussen de basisregistraties door onderliggende afstemming en begripsdefinities. Dit zal het mogelijk maken om de informatiesystemen in het energiedomein robuuster te verbinden met de basisregistaties. 
-In de energiewereld zijn geen grote ontwikkelingen op het gebied van sectorbrede informatiemodellen. Bij Netbeheer Nederland wordt gewerkt aan betere voorzieningen om data te delen met anderen en er zijn interessante aanzetten tot een gedeeld begrippenmodel. Op begripsniveau hebben we van Stedin wel een model ontvangen. Dat is mede de basis voor een model voor de gezamenlijke netbeheerders. Maar dat is op dit moment nog niet zover uitgewerkt dat we dat in ons begrippenmodel hebben kunnen opnemen. In het project 2020-2021 wordt dat verder opgepakt in het kader van de
-uitwerking van Hernieuwbare energie. 
+In de energiewereld zijn geen grote ontwikkelingen op het gebied van sectorbrede informatiemodellen. Bij Netbeheer Nederland wordt gewerkt aan betere voorzieningen om data te delen met andere partijen en er zijn interessante aanzetten tot een gedeeld begrippenmodel. Op begripsniveau hebben we van Stedin  een model ontvangen. Dat is mede de basis voor een model voor de gezamenlijke netbeheerders, maar is op dit moment nog niet zover uitgewerkt dat we dat in ons begrippenmodel hebben kunnen opnemen. In het project 2020-2021 kan dat verder opgepakt worden in het kader van de uitwerking van Hernieuwbare energie. 
 
-Ook zijn bij Netbeheer Nederland de eerste aanzetten tot inventarisatie en harmonisatie van metadata van de informatiemodellen. De bedoeling was om ons voor de verdere uitwerking van dit framework mede te baseren op de door Netbeheer Nederland te ontwikkelen informatiemodellen, die
-een aggregaat zou worden van de informatiemodellen van de onderscheiden netbeheerders. Deze ontwikkeling is echter niet zo ver ontwikkeld dat dat voor ons in dit jaar gebruikt kon worden. 
+Ook zijn bij Netbeheer Nederland de eerste aanzetten tot inventarisatie en harmonisatie van metadata van de informatiemodellen op het gebied van assetdata. De bedoeling was om ons voor de verdere uitwerking van dit framework mede hierop te baseren. Deze ontwikkeling is echter niet zo ver ontwikkeld dat dat voor ons in dit jaar gebruikt kon worden. 
 
 Een andere ontwikkeling is de internationale data-uitwisseling tussen de landelijke netbeheerders. Het internationale Common Information Model voor elektriciteit dient als basis voor informatiemodellering, tezamen met andere normen zoals van de IEC. 
 
@@ -104,13 +104,13 @@ Zoals blijkt uit de [stakeholders-analyse](https://geonovum.github.io/VIVET-Werk
 
 <figure id="Toepassingsgebieden, Use case en het Vivet Conceptueel Informatiemodel Framework">
 <img src="media/Vivet_CIM_framework_usecases_warmte.PNG" alt="">
-<figcaption>Toepassingsgebieden, Use case en het Vivet Conceptueel Informatiemodel Framework</figcaption>
+<figcaption>Toepassingsgebieden, use case en het Vivet Conceptueel Informatiemodel Framework</figcaption>
 </figure>
 
 #### Toepassing: Informatieportalen
 
 Informatieportalen zijn in Vivet-jaar 2019-2020 uitgebreid in beeld gebracht in
-project Vivet-D. Dit jaar zou een keuze voor herordening plaatsvinden, en dat
+het project Vivet-D. Dit jaar zou een keuze voor herordening plaatsvinden en dat
 zou het juiste moment zijn om vanuit toepassingsperspectief de informatiekant
 van het Warmtedomein te gaan onderzoeken. Zover is het echter niet gekomen, maar
 wel is de indruk ontstaan dat de WarmteAtlas, één van de informatieportalen ook
@@ -121,9 +121,9 @@ begripsniveau, omdat dat het niveau was waar we aspecten van de WarmteAtlas
 kunnen relateren aan andere domeinen.
 
 #### Toepassing: Informatiebehoefte NPRES, TVW, IPO, RVO
-Tijdens een overleg met vooral vragende partijen is aangegeven dat het lastig is om monitoring van de energietransitie uit te voeren. Daardoor is het bijvoorbeeld lastig om de gegevens die door RES'sen worden aangeleverd te consolideren en te vergelijken met gegevens van gemeenten en provincies. Een begrippencatalogus zal daarbij helpen, en dient zich uit te strekken tot alle domeinen die worden geraakt, zoals Hernieuwbare energie en netwerken. 
+Tijdens een overleg met vooral vragende partijen is aangegeven dat het lastig is om monitoring van de energietransitie in het behalen van de klimaatdoelstellingen uit te voeren. Daardoor is het bijvoorbeeld lastig om de gegevens die door RES'sen worden aangeleverd te consolideren en te vergelijken met gegevens van gemeenten en provincies en deze op te tellen tot op landelijk niveau. Een begrippencatalogus zal daarbij helpen, en dient zich uit te strekken tot alle domeinen die worden geraakt, zoals Hernieuwbare energie en netwerken naast warmte. 
 
-PMPMPM Jeroen*: hier nog aanvullingen met enkele zinnen n.a.v. het gesprek dat op 17 maart plaatsvond?
+
 
 #### Toepassing: CBS
 

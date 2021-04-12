@@ -93,15 +93,24 @@ gebruikt, zullen in de tabel hieronder nader worden toegelicht.
 | Gerelateerd concept         | [skos:related](http://www.w3.org/2004/02/skos/core\#related)       | Deze relatie zegt dat er een relatie bestaat met een ander concept. Deze relatie wordt niet verder geduid en is minder sterk dan de andere relaties dit in deze tabel genoemd staan.                                                                                           |
 
 Op de afbeelding hieronder is een voorbeeld te zien van het begrip Afleverset.
-Aan “WarmingUp” tussen haakjes is te zien dat het hier gaat over een begrip dat
-uit (het innovatieprogramma) WarmingUp komt, maar dat binnen de begrippencatalogus meerdere keren
-voorkomt. Rechts in beeld vallen de verschillende eigenschappen en relaties
-terug te vinden.
+Aan “WarmingUp” tussen haakjes is te zien dat het hier gaat over een begrip dat uit het innovatieprogramma WarmingUp komt, maar dat binnen de begrippencatalogus meerdere keren voorkomt. Rechts in beeld vallen de verschillende eigenschappen en relaties terug te vinden.
 
 <figure id="voorbeeldBegrip">
 <img src="media/voorbeeldBegrip.png" alt="">
 <figcaption>Voorbeeld van een Begrip binnen de publicatieomgeving van de Begrippencatalogus.</figcaption>
 </figure>
+
+Een gerlateerd voorbeeld is de term 'Aansluiting'. Deze komt voor in verschillende bronnen: de Algemene Levereringsvoorwaarden, de huidige Warmtewet en het innovatieprogramma WarmingUp. De verschillende beschrijvingen die gevonden worden bij het ingeven van 'Aansluiting' als zoekterm zijn als volgt. 
+De verschillen zijn duidelijk. 
+
+Aansluiting (Warmtewet)
+-	Een individuele of centrale aansluiting.
+Aansluiting (WarmingUp)
+-	De leidingen van het warmtebedrijf die de binneninstallatie met het distributienet verbinden, inclusief alle apparatuur en het afleverstation of de afleverset, voor zover deze door het warmtebedrijf zijn aangebracht. Dit kan zowel een directe aansluiting of een indirecte aansluiting zijn. In het eerste geval heeft de binneninstallatie een directe verbinding met het distributienet en in het tweede geval is de binneninstallatie door middel van een warmtewisselaar gescheiden van het distributienet.
+Aansluiting (Algemene Leveringsvoorwaarden Warmte 2014)
+-	De leiding van het bedrijf die de binneninstallatie met de hoofdleiding verbindt, met inbegrip van de meetinrichting én de warmtewisselaar voor zover deze door het bedrijf zijn aangebracht en alle andere door of vanwege het bedrijf in of aan die leiding aangebrachte apparatuur. 
+Aansluitingsverantwoordelijke (Wet Collectieve Warmtevoorzieningn)
+- Degene op wie de verantwoordelijkheid, bedoeld in artikel 5.17, eerste lid, rust
 
 #### Inrichting van de hiërarchie
 De hiërarchie van begrippen brengt de relaties tussen begrippen in beeld, in het bijzonder de 'broader term',  de 'narrower term' en de 'related term'. De visualisatie van dit verband is als volgt. 

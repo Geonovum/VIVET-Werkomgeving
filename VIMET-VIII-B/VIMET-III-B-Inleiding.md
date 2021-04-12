@@ -7,6 +7,8 @@ Het programma Vivet is gestart om de versnippering van het datalandschap in het 
 ### Terugblik op Vimet 2019
 De verkenning van een Informatiemodel Energie-Installaties in Vimet 2019 heeft een informatiemodel opgeleverd waarin de informatiekundige relaties tussen een aantal top concepten uit het energiedomein zijn weergegeven. De energiedragers gas, elektriciteit en warmte zijn in relatie gebracht met het transport- en distributienet; met de energie opwek, consumptie, conversie en productie-voorzieningen; met bijbehorende meetwaarden; met locatie; en met gerelateerde informatie uit basisregistraties waaronder BAG en BGT.
 
+NB: Omdat informatiemodellering het doel was, hebben we het project de afkorting VIMET gegeven: Verbetering InformatieModellering EnergieTransitie. Deze afkorting komt ook terug in de naamgeving van het vervolgproject in Vivet-programmajaar 2. 
+
 De structuur en basisclassificaties uit dit model zijn gebruikt als input voor structuur en classificaties van de Begrippencatalogus Warmte 2020. Deze catalogus is daarmee voorbereid op een uitbreiding richting andere energiedragers.
 
 In Vimet 2019 is ook de relatie met het model voor gebouwen uit de Samenhangende Objecten Registratie (SOR) gelegd. De SOR-gebouwdecompositie van o.a. gebouwblok, gebouw, bouwlaag, ruimte en installaties/voorzieningen, kan voor een gestandaardiseerde koppeling zorgen met installaties, voorzieningen, aansluitingen en energiegegevens uit het energiedomein. 
@@ -30,6 +32,8 @@ Het proces dat gevolgd wordt bij de totstandkoming van een gedragen begrippentaa
 
 In dit project hebben we ons op de eerste stap gericht, en op het vinden van goede tooling om de begrippen en bijbehorende definities te ontsluiten. Randvoorwaarden hierbij zijn dat dit gereedschap goed genoeg is om het uit te breiden tot een Begrippencatalogus Energievoorziening, faciliteiten heeft om interacties met betrokkenen (het ecosysteem rondom de begrippen) te faciliteren, en machine-leesbaar is. 
 De ambitie is om alle herkomstbronnen van begripsdefinities in het warmtedomein te identificeren en via de Begrippencatalogus Warmte toegankelijk te maken. Uiteraard worden hier ook de doelgroepen in geïnventariseerd: beleidsmakers, materiedeskundigen warmtesector, wetgeving en -informatiespecialisten.  
+
+De Begrippencatalogus Warmte bevindt zich hier: https://begrippen.geostandaarden.nl/energie
 
 ### Leeswijzer
 

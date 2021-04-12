@@ -16,18 +16,17 @@ machines te doorzoeken is. Dit woordenboek brengt begrippen vanuit verschillende
 
 Door de overzichtelijke zoekfunctie op term, definitie en bron helpt de Begrippencatalogus Energie de leesbaarheid en toepassing van deze bronnen te vergroten.
 
-De technologie achter de Begrippencatalogus biedt de ruimte om de Begrippen op verschillende manier en te bekijken. Er kan voor gekozen worden de begrippen alfabetisch weer te geven, binnen een hiërarchie, of vanuit vooraf bepaalde groepen. Ook kunnen alle nieuw toegevoegde begrippen worden bekeken. Hoe deze mogelijkheden ingericht zijn wordt uitgelegd in de volgende paragraaf.
+De technologie achter de begrippencatalogus biedt de ruimte om de Begrippen op verschillende manier en te bekijken. Er kan  gekozen worden de begrippen alfabetisch weer te geven, binnen een hiërarchie, of vanuit vooraf bepaalde groepen. Ook kunnen alle nieuw toegevoegde begrippen worden bekeken. Hoe deze mogelijkheden ingericht zijn wordt uitgelegd in de volgende paragraaf.
 
 ### Verantwoording van de inrichting van de begrippencatalogus
 
 In deze paragraaf zal dieper worden ingegaan op de inrichting van de begrippencatalogus. Hierbij zal ook woorden ingegaan op de technologie dit is
 gebruikt om de Begrippencatalogus te realiseren. 
 De technologieën hierachter zijn Linked Data technologieën. Dit houd in dat deze ontworpen zijn conform de vier [Linked Data Principes](https://www.w3.org/DesignIssues/LinkedData.html). Deze vier principes zijn:
-1.  Gebruik URI’s (Unique Resource Identifiers) om dingen te benoemen.
+1.  Gebruik URI’s (Unique Resource Identifiers) om zaken te benoemen.
 2.  Gebruik HTTP URI’s zodat mensen deze namen kunnen opzoeken.
-3.  Zorg dmv gebruik van standaarden, voor bruikbare informatie voor wanneer
-    iemand een URI opzoekt.
-4.  Voeg links naar andere URI’s toe zodat mensen meer dingen kunnen ontdekken.
+3.  Zorg door het gebruik van standaarden voor bruikbare informatie wanneer iemand een URI opzoekt.
+4.  Voeg links naar andere URI’s toe, zodat mensen meer zaken kunnen ontdekken.
 
 Een voorbeeld van een technologie die deze principes toepast is het [Simple
 Knowledge Organization System](https://www.w3.org/TR/2009/REC-skos-reference-20090818/), afgekort SKOS. SKOS
@@ -35,42 +34,35 @@ wordt gebruikt in de Begrippencatalogus energiedragers om de begrippen te
 structureren. Daarnaast wordt ook gebruik gemaakt van verschillende
 metadata-[vocabulaires]( https://www.pldn.nl/wiki/Vocabularies). Deze
 vocabulaires bevatten een aantal gestandaardiseerde constructies die kunnen
-worden gebruikt, om meer bruikbare informatie toe te voegen aan dingen. Door het
+worden gebruikt, om meer bruikbare informatie toe te voegen. Door het
 gebruik van deze Linked Data technologieën wordt de data kwaliteit beter en
 worden dingen beter vindbaar voor zowel mensen als machines.
 
 #### URI's en verwijzingen
-Ieder begrip in de begrippencatalogus heeft een URI. Deze URI is opgebouwd uit twee onderdelen. De namespace en een lokale unieke identificerende code voor het begrip binnen de namespace. De namespace is voor alle begrippen hetzelfde. Deze komt overeen met de HTTP weblocatie van de begrippencatalogus. Dit komt overeen met het 2e principe van linked data. Deze namespace staat nog niet vast aangezien het nog onzeker is of de begrippencatalogus op de ontwikkel weblocatie gaat worden beheerd. De lokale unieke identificerende code wordt gegenereerd door de ontwikkelomgeving VocBench. Hieronder volgt een voorbeeld van de opbouw van een URI.
+Ieder begrip in de begrippencatalogus heeft een URI. Deze URI is opgebouwd uit twee onderdelen. De namespace en een lokale unieke identificerende code voor het begrip binnen de namespace. De namespace is voor alle begrippen hetzelfde. Deze komt overeen met de HTTP-weblocatie van de begrippencatalogus en komt daarmee overeen met het 2e principe van linked data. Deze namespace staat nog niet vast aangezien het nog onzeker is of de begrippencatalogus op de ontwikkel weblocatie gaat worden beheerd. De lokale unieke identificerende code wordt gegenereerd door de ontwikkelomgeving VocBench. Hieronder volgt een voorbeeld van de opbouw van een URI.
 
 > URI van een begrip: "https://begrippen.geostandaarden.nl/energie/nl/page/c_aa7eaf64" <br>
 > Namespace: "https://begrippen.geostandaarden.nl/energie/nl/page/" <br>
 > unieke ID-code: "c_aa7eaf64"
 > 
-Concepten in externe bronnen staan vaak niet als Linked Data gepubliceerd. Om toch naar deze externe concepten te kunnen verwijzen, wordt de meest specifieke weblocatie (URL) gebruikt (indien deze bestaat). In het geval van bijvoorbeeld de Warmtewet wordt er verwezen naar een specifiek artikel van de wet waar de definities in te vinden vallen. Deze artikelen staan wel gepubliceerd in Linked data, maar niet met een unieke URI per begrip. Een risico bij het gebruik van URL's is dat deze kunnen wijzigen. Wanneer deze URL's wijzigen, werkt de verwijzing niet meer. Dit heeft als gevolg dat de begrippencatalogus dan zal moeten worden bijgewerkt. Met behulp van de SPARQL query taal is dit een gemakkelijke operatie. 
+Concepten in externe bronnen staan vaak niet als Linked Data gepubliceerd. Om toch naar deze externe concepten te kunnen verwijzen, wordt de meest specifieke weblocatie (URL) gebruikt (indien deze bestaat). In het geval van bijvoorbeeld de Warmtewet wordt er verwezen naar een specifiek artikel van de wet waar de definities in te vinden zijn. Deze artikelen staan wel gepubliceerd in Linked data, maar niet met een unieke URI per begrip. Een risico bij het gebruik van URL's is dat deze kunnen wijzigen. Wanneer deze URL's wijzigen, werkt de verwijzing niet meer. Dit heeft als gevolg dat de begrippencatalogus dan zal moeten worden bijgewerkt. Met behulp van de SPARQL query taal is dit een relatief eenvoudige operatie. 
 
 #### Beschrijving van de Begrippen
 
-De begrippen in de Begrippencatalogus zijn afkomstig uit verschillende bestaande
-begrippenlijsten. Deze begrippenlijsten staan vaak ergens verstopt in een pdf
-bestand of ergens binnen een wetsartikel. Hierdoor vallen deze begrippen vaak
-lastig te vinden en al helemaal lastig te vergelijken. Binnen de
-Begrippencatalogus worden alle relevante begrippen ingevoerd als een [SKOS
-concept](https://www.w3.org/TR/2009/REC-skos-reference-20090818/#concepts).
-Een SKOS concept wordt gedefinieerd als een idee of een begrip door de SKOS
-specificatie, daarom is dit de geschikte klasse om aan energiebegrippen te
-koppelen.
+De begrippen in de Begrippencatalogus zijn afkomstig uit verschillende bestaande begrippenlijsten. Deze begrippenlijsten staan vaak ergens verstopt in een pdf-bestand of wetsartikel. Hierdoor zijn deze begrippen vaak lastig te vinden en al helemaal lastig te vergelijken. Binnen de begrippencatalogus worden alle relevante begrippen ingevoerd als een [SKOS concept](https://www.w3.org/TR/2009/REC-skos-reference-20090818/#concepts).
+Een SKOS-concept wordt gedefinieerd als een idee of een begrip door de SKOS specificatie en daarom is dit de geschikte klasse om aan energiebegrippen tekoppelen.
 
 Begrippen kunnen verschillende eigenschappen hebben. Om te voldoen aan het derde
 Linked Data principe, nemen we per begrip in de begrippencatalogus een aantal
-eigenschappen op. Naar deze eigenschappen wordt ook wel eens gerefereerd met de
+eigenschappen op. Naar deze eigenschappen wordt ook wel gerefereerd met de
 termen: “Linked Data properties” of “metadata”. Om de begrippen in de
 begrippencatalogus vergelijkbaar te maken met andere Linked Data thesauri, wordt
 gebruik gemaakt van een veelgebruikte vocabulaire. Deze vocabulaire, [Dublin
 Core](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/)
-bevat eigenschappen die worden gebruik op veel verschillende websites op het
+bevat eigenschappen die worden toegepast op veel verschillende websites op het
 internet. Het gebruik van vocabulaires sluit ook aan bij de OWMS 4.0 mantel
-(Overheid.nl Web Metadata Standaard). Welke eigenschappen precies per begrip
-gebruikt worden is te vinden in de onderstaande tabel.
+(Overheid.nl Web Metadata Standaard). Welke eigenschappen per begrip
+gebruikt worden is te zien in onderstaande tabel.
 
 | Eigenschap         | Linked Data Property                                               | Omschrijving                                                                                                                                                                                                             |
 |--------------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -84,7 +76,7 @@ gebruikt worden is te vinden in de onderstaande tabel.
 | Toelichting        | [skos:scopeNote](http://www.w3.org/2004/02/skos/core\#scopeNote)   | Dit is een extra veld waar tekstuele toelichtingen over het begrip kunnen worden opgeslagen.                                                                                                                             |
 
 Naast deze bruikbare informatie over het begrip zelf, biedt de begrippencatalogus
-ook mogelijkheden begrippen om begrippen aan elkaar te relateren. Relaties zijn
+ook mogelijkheden om begrippen aan elkaar te relateren. Relaties zijn
 binnen Linked Data technisch gezien vergelijkbaar met eigenschappen. Per begrip
 kan worden bijgehouden welke andere interne-, of externe-begrippen gerelateerd
 zijn. Een relatie kan worden gebruikt om begrippen op elkaar te mappen of om de
@@ -124,7 +116,7 @@ Bij de opbouw van de hiërarchie van begrippen voor het warmtedomein is het uitg
 Warmte is geplaatst binnen de bredere energiecontext, door begrippen als Energievoorziening, Energiedrager, Elektriciteit en Gas op te nemen. Daarmee is de basis gelegd om de Begrippencatalogus Warmte uit te breiden met begrippen van andere energiedragers. 
 
 De hiërarchie-relatie tussen begrippen wordt gekenmerkt door de ‘is breder dan’-relatie (Energiedrager is breder dan Warmte) en de ‘is nauwer dan’-relatie (Geothermie is nauwer dan Warmteproductie). 
-Tevens is het mogelijk om aan te geven dat begrippen aan ('close' of  'exact') elkaar gerelateerd zijn (Geothermie is gerelateerd aan Aardwarmte). Op deze manieren zijn begrippen aan elkaar verbonden en wordt het mogelijk om met zoekinstructies veel rijkere antwoorden te geven. 
+Tevens is het mogelijk om aan te geven dat begrippen  ('close' of  'exact') aan elkaar gerelateerd zijn (Geothermie is gerelateerd aan Aardwarmte). Op deze manieren zijn begrippen aan elkaar verbonden en wordt het mogelijk om met zoekinstructies veel rijkere antwoorden te geven. 
 
 Een schema van de hoogste niveaus is als volgt: 
 
@@ -133,7 +125,7 @@ Een schema van de hoogste niveaus is als volgt:
 <figcaption>Hoogste niveaus in hiërarchie schematisch weergegeven.</figcaption>
 </figure>
 
-De vijf warmtefuncties aan de rechterkant van het schema zijn overgenomen van de z.g. Energy Capabilities van ESDL, de Energy System Description Language van TNO. Deze zijn, m.u.v. Warmteopslag, weer verder onderverdeeld in ‘sub-bomen’ met warmtebegrippen. 
+De vijf warmtefuncties aan de rechterkant van het schema zijn overgenomen van de z.g. Energy Capabilities van ESDL, de Energy System Description Language van TNO. Deze zijn, met uitzondering van de capability Warmteopslag, weer verder onderverdeeld in ‘sub-bomen’ met warmtebegrippen. 
 
 Het is ook mogelijk om de relaties in de vorm van een graaf weer  te geven. Deze kan automatisch gegenereerd worden, en opgebouwd zijn uit begrippen en relaties uit verschillende thesauri. 
 
@@ -158,7 +150,7 @@ PMPMPM Opsomming en korte beschrijving van de herkomstbronnen van definities ond
 Bijlage 1, ‘*Herkomstbronnen begripsdefinities per energiedrager*’, bevat een lijst van herkomstbronnen en de vindplaatsen daarvan. Bij de keuze van welke herkomstbronnen wel en niet op te nemen in de begrippencatalogus zijn de gesprekken met stakeholders, de analyse van materiaal van Vivet-projecten, desk-research en kennis van de energiesector richtinggevend geweest. 
 De relatie tussen de herkomstbronnen is gevisualiseerd in de plaat in hoofdstuk Landschapsverkenning. 
 
-Vrijwel alle herkomstbronnen bevatten begrippen en definities zonder daar verbindingen tussen aan te leggen. Dat is de reden geweest om de herkomstbronnen ook als groep te beschouwen; elke poging tot structurering binnen de herkomstbron zou namelijk in het bestek van dit project (zonder uitgebreide stakeholder-consultaties) niet zorgvuldig genoeg kunnen gebeuren. 
+Vrijwel alle herkomstbronnen bevatten begrippen en definities zonder daar verbindingen tussen te leggen. Dat is de reden geweest om de herkomstbronnen ook als groep te beschouwen; elke poging tot structurering binnen de herkomstbron zou namelijk in het bestek van dit project (zonder uitgebreide stakeholder-consultaties) niet zorgvuldig genoeg kunnen gebeuren. 
 
 ESDL heeft echter wel een goed-overwogen structuur tussen alle begrippen aangelegd. Dat is aanleiding geweest om de structuur van de begrippen, zoals vastgelegd in de hiërarchie daarop te baseren. De groepsindeling dient daarbij als bronverwijzing van de opgenomen begrippen. Gelijkluidende begrippen krijgen een onderscheiden aanduiding doordat de groep (dus de herkomstbron) op te nemen achter de naam van het begrip. Bijvoorbeeld Aansluiting(Warmtewet). 
 

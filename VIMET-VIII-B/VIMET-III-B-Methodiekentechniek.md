@@ -100,7 +100,7 @@ In de eerste fase ging het om het vormen van een zo helder mogelijke schets van 
 <figcaption>Focus werd gelegd op de warmtesector.</figcaption>
 </figure>
 
-Aangezien de warmtesector naar voren kwam als het meest onontgonnen gebied, werd hier de focus op gelegd. De eerste verdiepingsslag binnen de warmtesector, bestond uit het van opvragen van informatiemodellen. Dit leidde tot weinig resultaten. Er bleek nog weinig materiaal te zijn op het gebied van datastandaarden binnen de warmtesector. Vervolgens heeft Geonovum gesproken met partijen uit het werkveld om de schets te verhelderen. Tijdens de ontwikkeling van de begrippencatalogus zijn gesprekken gevoerd met en zijn presentaties gegeven aan experts van ECW, RVO, PBL, het warmte-overleg bij Energie Nederland, CBS, projectleiders Vivet, Min. EZK, ACM, Energie Data Community, Tennet en Stedin. 
+Aangezien de warmtesector naar voren kwam als het meest onontgonnen gebied, werd hier de focus op gelegd. De eerste verdiepingsslag binnen de warmtesector, bestond uit het van opvragen van informatiemodellen. Dit leidde tot weinig resultaten. Er bleek nog weinig materiaal te zijn op het gebied van datastandaarden binnen de warmtesector. Vervolgens heeft Geonovum gesproken met partijen uit het werkveld om de schets te verhelderen. Tijdens de ontwikkeling van de begrippencatalogus zijn gesprekken gevoerd met en zijn presentaties gegeven aan experts van ECW, RVO, PBL, het warmte-overleg bij Energie Nederland, CBS, projectleiders Vivet, Min. EZK, ACM, Energie Data Community, TNO/ESDL, de Expertgroep EnergieTransitieRekenmModellen, Tennet en Stedin. 
 
 #### Samenvatting bevindingen uit de verkenning: analyse van het kernprobleem
 

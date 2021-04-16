@@ -99,7 +99,7 @@ Een andere ontwikkeling is de internationale data-uitwisseling tussen de landeli
 
 ### Toepassingsgebieden binnen het Domein Warmte
 
-Zoals blijkt uit de [stakeholders-analyse](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#stakeholders-warmtedomein) en de [inventarisatiebronnen voor begrippen](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#herkomstbronnen-begripsdefinities) is het landschap divers. Op de kruispunten van de toepassingsgebieden (zie onderstaand figuur) is nadere verkenning gedaan van de bestaande begrippenkaders en verwerkt in de online [begrippencatalogus]https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#hoofdstuk-begrippencatalogus-warmte. De sterren geven aan waar concrete usecases gebruik kunnen maken van deze catalogus.
+Zoals blijkt uit de [stakeholders-analyse](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#stakeholders-warmtedomein) en de [inventarisatiebronnen voor begrippen](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#herkomstbronnen-begripsdefinities) is het landschap divers. Op de kruispunten van de toepassingsgebieden (zie onderstaand figuur) is nadere verkenning gedaan van de bestaande begrippenkaders en verwerkt in de online [begrippencatalogus](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-VIII-B/#hoofdstuk-begrippencatalogus-warmte). De sterren geven aan waar concrete usecases gebruik kunnen maken van deze catalogus.
 
 
 <figure id="Toepassingsgebieden, Use case en het Vivet Conceptueel Informatiemodel Framework">
@@ -118,12 +118,12 @@ de komende jaren een belangrijke rol zou blijven spelen. Daarom is ervoor
 gekozen om de data die beschikbaar wordt gemaakt in de WarmteAtlas met de
 ontwikkelaars verder te gaan onderzoeken. Daarbij zijn we begonnen op
 begripsniveau, omdat dat het niveau was waar we aspecten van de WarmteAtlas
-kunnen relateren aan andere domeinen.
+kunnen relateren aan andere domeinen. In de begrippencatalogus is een groep Warmteatlas opgenomen met een lijst van begrippen die in de data gebruikt worden.
 
 #### Toepassing: Informatiebehoefte NPRES, TVW, IPO, RVO
 Tijdens een overleg met vooral vragende partijen is aangegeven dat het lastig is om monitoring van de energietransitie in het behalen van de klimaatdoelstellingen uit te voeren. Daardoor is het bijvoorbeeld lastig om de gegevens die door RES'sen worden aangeleverd te consolideren en te vergelijken met gegevens van gemeenten en provincies en deze op te tellen tot op landelijk niveau. Een begrippencatalogus zal daarbij helpen en dient zich uit te strekken tot alle domeinen die worden geraakt, zoals Hernieuwbare energie en netwerken naast warmte. 
 
-De volgende bouwstenen bestaan: 
+De volgende bouwstenen voor monitoring van de energietransitie bestaan: 
 -	PBL/RVO monitoringsystematiek Klimaatakkoord
 -	IPO-project Stroomlijnen monitoringsystematiek i.s.m. NP RES, gericht op op provinciale/regionale bijdrage aan Klimaatafspraken
 -	Monitoring-opzet Provincie Zuid-Holland (door DCMR opgesteld)

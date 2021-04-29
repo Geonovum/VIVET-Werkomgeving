@@ -13,6 +13,16 @@ De structuur en basisclassificaties uit dit model zijn gebruikt als input voor s
 
 In Vimet 2019 is ook de relatie met het model voor gebouwen uit de Samenhangende Objecten Registratie (SOR) gelegd. De SOR-gebouwdecompositie van o.a. gebouwblok, gebouw, bouwlaag, ruimte en installaties/voorzieningen, kan voor een gestandaardiseerde koppeling zorgen met installaties, voorzieningen, aansluitingen en energiegegevens uit het energiedomein. 
 
+### Aanpak project Datastandarden
+Vanwege de omvange van het energiedomein is besloten tot een use case-aanpak. Er is een methodiek ontworpen om use cases te selecteren. Vervolgens zijn deelgebieden binnen het energiedomeine geïdentificeerd, o.a. gebaseerd op de ervaringen en opgedane kennis in Vimet 2019. 
+Met de ontwikkelde methode zijn use cases geselecteerd, resp. "Infoportalen" en "Gebouw en Energie". Voor deze laatste is een verkenning uitgevoerd. De beschrijving van de methode en het resultaat van de verkenning zijn opgenomen in Bijlage 2 resp. Biljage 3. 
+
+Besprekingen binnen Vivet over de vervolgstap leidde er toe dat niet gekozen is om de verkenning van de use case Gebouw en Energie verder uit te werken, maar om het onderwerp 'Warmte' op te pakken. De reden hiervoor was het gebrek aan samenhang in dit domein, zowel informatiekundig als organisatorisch, en de warmtetransitie van de gebouwde omgeving is een dermate grote taak, dat ervoor gekozen is om het onerwerp Warmte opp te pakken. Omdat de warmtevoorziening - uiteraard - ook verbonden is met de gebowude omgeving, levert dit ook input op voor de later op te pakken use case Gebouw en Energie. 
+
+Uit een eerste oriëntatie in 'de warmtewereld' bleek dat informatievoorziening een onderwerp is, dat zich uitsluitend op bedrijfsniveau afspeelt en dat er geen of nauwelijks afstemming plaatsvindt tussen bedrijven/organisaties. Ook de kleinste stapejs richting datastandaarden zou daarom impact hebben op informatiesystemen en bedrijfsprocessen en bij gebrek aan een overleg-structuur tussen verschillende organisaties (laat staan op branche-niveau) zou dat binnen deze projectcontext weinig resultaat opleveren. Dat was de aanleiding om in te zetten op de ontwikkeling van een begrippencatalogus voor het warmtedomein. Begrippen zijn minder direct verbonden aan informasitesystemen en aan processen, maar zijn tegelijkertijd wel hét middel om te komen tot één taal. En daarmee kan de basis gelegd zijn voor vervolgstappen. 
+
+In de volgende paragrafen is nader beschreven hoe begripenkader en informatiesystemen zich tot elkaar verhouden. 
+
 ### Metamodel
 Deze kenmerken van het 'universe of discourse' bepalen de wijze waarop een betere informatievoorziening het beste aangepakt kan worden. De informatielaag van het [gelaagde metamodel van NORA](https://www.noraonline.nl/wiki/Vijflaagsmodel), de Nederlandse Overheid Referentie Architectuur (https://www.noraonline.nl/wiki/Modellering_van_gegevens) biedt hiervoor aangrijpingspunten, zoals in onderstaande afbeelding weergegeven. 
 

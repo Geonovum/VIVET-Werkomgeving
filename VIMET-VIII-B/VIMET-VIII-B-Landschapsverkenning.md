@@ -162,12 +162,10 @@ Het betreft de volgende tabellen:
 
 Er is een aanzet gemaakt tot de bijdrage die een verdere uitwerking van Domein Warmte
 en Domein Hernieuwbare energie in de begrippencatalogus kan bieden aan de voorziene Vivet-projecten in
-projectjaar 2021-2022. 
+projectjaar 2021-2022. In onderstaande matrix is de bijdrage beknopt benoemd per Vivet-project.  
 
 <figure id="Vivet-projecten 2021-22 en modellering van begrippen en informatie">
 <img src="media/Ontwikkeling_Vivet_Projecten_2021-2022_Begrippen_en_informatiemodellen.png" alt="">
 <figcaption>Vivet-projecten 2021-22 en modellering van begrippen en informatie</figcaption>
 </figure>
-
-PMPMPM De plaat hier nog enigszins toelichten. Het is een eerste aanzet.
 

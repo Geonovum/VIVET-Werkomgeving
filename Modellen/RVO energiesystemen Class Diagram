@@ -1,1 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T15:44:30.219Z" agent="5.0 (Windows)" etag="3RagPjAI4eRKQA_epo0s" version="14.7.6" type="github"><diagram id="5ZJuvu8cb_ZzH2LdxPZz" name="Page-1">ddGxDoMgEADQr2FXSCqdrW0XJ4fORK5Cgp5BGm2/vhqwltguBB53wB2E5e10saJXJUowhCZyIuxEKOXpcR4XeHrIOPfQWC09pRtU+gUBk6APLWGIAh2icbqPscaug9pFJqzFMQ67o4lv7UUDO6hqYfZ609KpUBbNNr+CbtR6c3oIBbdiDQ6VDEpIHL+IFYTlFtH5WTvlYJberX3xeec/u5+HWejcj4R5sp09L6IPYsUb</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-04T15:53:40.345Z" agent="5.0 (Windows)" etag="JDQ0mCKUaeT4nLtV5oFw" version="14.7.6" type="github">
+  <diagram id="5ZJuvu8cb_ZzH2LdxPZz" name="Page-1">
+    <mxGraphModel dx="819" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <object label="" dddd="asdfasdf" id="0">
+          <mxCell />
+        </object>
+        <mxCell id="1" parent="0" />
+        <mxCell id="7HxDOT-5lLOFNX9M1Zne-2" value="ProductieNu" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="7HxDOT-5lLOFNX9M1Zne-3" value="+ Vermogen" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7HxDOT-5lLOFNX9M1Zne-2">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7HxDOT-5lLOFNX9M1Zne-4" value="+ Soort" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7HxDOT-5lLOFNX9M1Zne-2">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7HxDOT-5lLOFNX9M1Zne-5" value="+ Subsoort" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7HxDOT-5lLOFNX9M1Zne-2">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

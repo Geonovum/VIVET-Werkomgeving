@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T15:32:06.879Z" agent="5.0 (Windows)" etag="OHsCdcwWg5-vJgjSq_nv" version="14.7.6" type="github"><diagram id="PcCnlyiM5x8Xzzrl0rx4" name="Page-1">7VZNa+MwEP01PhZsK6TtMU3azULKLqSkbG6qpdgissbISmP31+8olhx/EEhhl156CZo3M/qY915wQOZ59UPTInsGxmUQh6wKyCKI4+kdwV8L1B4IGyDVgjVQdAbW4oM70JcdBONlr9AASCOKPpiAUjwxPYxqDcd+2Q5k/9SCpnwErBMqx+irYCZr0Lv49owvuUgzf3I0vW8yOfXF7iVlRhkcOxB5DMhcA5hmlVdzLu3s/FyavqcL2fZimitzTUMBmxe6/JnfPm3rP9XmeTbZshu3yzuVB/fgV6FYDpIrd2tT+1GUR5FLqjB6SDIh2YrWcLBHl4Ymex89ZKDFByhDJaYiBDCtjWOWhL2Kte1E2KIaDopx5pp2mHc90cTH7i7haVMN+5aS2PbzEut/+3mELbSipfFX8RzYLKNldjrPBlSKVOE6wW6uEXCD4drw6uLEo5ZH1D+HnBtdY4lr8FJ30o+mLj6ehdRiWVdEXjLUiTdttz7ziwtH8Sfojkd032C44TqH1DI+DWJSzfD1Fl4CpIYPwC1HJLS3iMMVVWyQXkFCjeg2jWTkJy35zrREzkECTn2h4KSvnZByAJUFTYRKV6euxWQgESsAy5VA587cAQYKrwH61gpHg6GmEyOdXh1XUX7ZRmMdOOLJlbzf/y/ayYj2rf27xGftv33+z31O4i/3+eQzPn+pi6HLZwxHOsB+FQXX75LuTd/e3/53BvsK/2N4/oI45TqfYeTxLw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-04T15:39:41.426Z" agent="5.0 (Windows)" etag="tEeJL_OpusO1QnDCWDgf" version="14.7.6" type="github">
+  <diagram id="PcCnlyiM5x8Xzzrl0rx4" name="Page-1">
+    <mxGraphModel dx="819" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="poVTaHIm7FZyYxVMA4Zd-1" value="Windmolen" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="80" y="160" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="poVTaHIm7FZyYxVMA4Zd-2" value="- Vermogen&#xa;- Locatie&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="poVTaHIm7FZyYxVMA4Zd-1" vertex="1">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="poVTaHIm7FZyYxVMA4Zd-3" value="Zonneparken" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="80" y="320" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="poVTaHIm7FZyYxVMA4Zd-4" value="- Vermogen&#xa;- Locatie&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="poVTaHIm7FZyYxVMA4Zd-3" vertex="1">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hnJoUxkJ4wyLzc6gGA6t-2" value="ProductieNu" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="240" height="570" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

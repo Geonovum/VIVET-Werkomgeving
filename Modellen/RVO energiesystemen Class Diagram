@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T15:53:40.345Z" agent="5.0 (Windows)" etag="JDQ0mCKUaeT4nLtV5oFw" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-04T16:01:16.505Z" agent="5.0 (Windows)" etag="zlezIYg_WeJWcpBVe2px" version="14.7.6" type="github">
   <diagram id="5ZJuvu8cb_ZzH2LdxPZz" name="Page-1">
-    <mxGraphModel dx="819" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="504" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" dddd="asdfasdf" id="0">
           <mxCell />
@@ -17,6 +17,30 @@
         </mxCell>
         <mxCell id="7HxDOT-5lLOFNX9M1Zne-5" value="+ Subsoort" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7HxDOT-5lLOFNX9M1Zne-2">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7HxDOT-5lLOFNX9M1Zne-6" value="WindStroom" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="7HxDOT-5lLOFNX9M1Zne-7" value="+ Hoogte" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7HxDOT-5lLOFNX9M1Zne-6">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7HxDOT-5lLOFNX9M1Zne-11" value="" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=0.436;exitY=1.038;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.436;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7HxDOT-5lLOFNX9M1Zne-5" target="7HxDOT-5lLOFNX9M1Zne-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="90" y="360" as="sourcePoint" />
+            <mxPoint x="250" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7HxDOT-5lLOFNX9M1Zne-12" value="ZonneStroom" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="7HxDOT-5lLOFNX9M1Zne-13" value="+ Oppervlakte" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7HxDOT-5lLOFNX9M1Zne-12">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7HxDOT-5lLOFNX9M1Zne-15" value="" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=0.429;exitY=1.077;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7HxDOT-5lLOFNX9M1Zne-5" target="7HxDOT-5lLOFNX9M1Zne-12">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="111.03999999999996" y="234.98800000000006" as="sourcePoint" />
+            <mxPoint x="111.03999999999996" y="291.976" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

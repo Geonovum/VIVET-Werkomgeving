@@ -137,12 +137,13 @@ Ook is er een grote variëteit van de wijze waarop begrippen zijn opgenomen in d
 ### Bijlage 3: Verkenning Use case – Gebouw en energie
 ------------------------------
 
-**Introductie**
-Aspecten van de use case “Gebouw en Energie” zijn al eerder beschreven in de [Verkenning Informatiemodel Energie-Installaties](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-I/#inleiding), dat is uitgevoerd als onderdeel van Viviet 2019-2020. De informatievoorziening rondom energie-installaties is daar beschreven door het informatielandschap te beschrijven en door een inventarisatie van informatiemodellen. 
+#### Introductie
+
+Aspecten van de use case “Gebouw en Energie” zijn al eerder beschreven in de [Verkenning Informatiemodel Energie-Installaties](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-I/#inleiding), dat is uitgevoerd als onderdeel van Vivet 2019-2020. De informatievoorziening rondom energie-installaties is daar beschreven door het informatielandschap te beschrijven en door een inventarisatie van informatiemodellen. 
 
 Om de stap te maken naar datastandaarden voor het thema (de use case) "Gebouw en Energie" is ook hier een verkenning uitgevoerd in de vorm van een omgevingsanalyse waarin stakeholders zijn benoemd, die met Vivet-projecten zijn verbonden. Vervolgens is kort beschreven welke relevante ontwikkelingen plaats vinden op het gebied van modellering van gebouwinformatie in relevante overheidsregistraties en welke projecten op dat gebied lopen. 
 
-**Omgevingsanalyse / stakeholders**
+#### Omgevingsanalyse / stakeholders
 
 Aan de use case ‘Gebouw en Energie’ direct gerelateerde initiatieven en partijen
 (stakeholders, bestuurlijke organisaties):
@@ -442,6 +443,6 @@ Het stelsel faciliteert het opvragen van verbruiksgegevens door zakelijke energi
 (tbv handhaving), ODA’s en beleidsmakers.
 
 **Datasharing-initiatieven**
-Recentelijk zijn verschillende initiatieven ontwikkeld om - met resepect voor waarden als privacy, security en wdata-souvereiniteit - partijen binnen en tussen sectoren hun data te delen. De EU heeft hiervoor het concept van een [Common European dataspace](https://digital-strategy.ec.europa.eu/en/news/communication-towards-common-european-data-space) beschreven. De Europese Green Deal zal een belangrijke kracht zijn om deze verder te ontwikkelen. Er is o.a. voorzien dat er een Common Energy Data Space zal worden ontwikkeld. 
+Recentelijk zijn verschillende initiatieven ontwikkeld om - met resepect voor waarden als privacy, security en wdata-souvereiniteit - partijen binnen en tussen sectoren hun data te delen. De EU heeft hiervoor het concept van een [Common European dataspace](https://digital-strategy.ec.europa.eu/en/news/communication-towards-common-european-data-space) beschreven (zie ook hierboven). De Europese Green Deal zal een belangrijke kracht zijn om deze verder te ontwikkelen. Er is o.a. voorzien dat er een Common Energy Data Space zal worden ontwikkeld. 
 Verschillende initiatieven kunnen metrhoden en technologie bieden om invulling te geven hieraan. Internationaal zijn hier te noemen [IDSA, de International Data Spaces Organisation Association](https://internationaldataspaces.org/) en [GAIA-X](https://nl.wikipedia.org/wiki/GAIA-X); TNO speelt hier een belangrijke rol in als host van de Nederlandse IDSA-hub. Ook in Nederland zijn dergelijke initiatieven zoals het afsprakenstelsel [IShare](https://www.ishareworks.org/) voor de logistieke sector en de [Data Sharing Coalition](https://datasharingcoalition.eu/), een open en groeiend internationaal initiatief voor een afsprakenstelsel waarin een grote verscheidenheid aan organisaties samenwerkt om de waarde van cross-sectoraal datadelen te ontgrendelen. De Nederlandse energiemarkt wordt gefaciliteerd door het berichtenverkeer door NEDU en EDSN, wat vervangen zal worden door een [afsprakenstelsel](https://www.energie-nederland.nl/app/uploads/2020/09/Verhaallijn-datagov-traject_versie-1.1-def.pdf). 
 

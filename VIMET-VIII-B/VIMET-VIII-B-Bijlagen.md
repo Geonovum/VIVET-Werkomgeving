@@ -189,7 +189,7 @@ energie-installaties lijkt dat een goed uitgangspunt omdat er een relatie met de
 
 ![](media/49cbb2ace8eb950a5e57ce06b7731633.png)
 
-Figuur X: Model voor gebouw in ontwikkeling bij SOR (bron: Eindrapport werkgroep
+Figuur: Model voor gebouw in ontwikkeling bij SOR (bron: Eindrapport werkgroep
 bouwwerken, SOR 25-02-2020)
 
 Een uitgangspunt van het model is dat op elk niveau behalve het kleinste het
@@ -226,14 +226,14 @@ Common ground is gebaseerd op de volgende
 
 ![](media/36257c4a5d6a451b4ef495b0776031be.png)
 
-Figuur X: Een opsomming van de Informatiearchitectuurprincipes die ten grondslag
+Figuur: Een opsomming van de Informatiearchitectuurprincipes die ten grondslag
 liggen aan Common Ground
 
 Daarnaast hanteert Common Ground een aantal realisatiepricipes:
 
 ![](media/860f888bf56ae37e9628164d004725a3.png)
 
-Figuur X: Een opsomming van de Realisatieprincipes die ten grondslag liggen aan
+Figuur: Een opsomming van de Realisatieprincipes die ten grondslag liggen aan
 de Common-Groundbenadering
 
 Van deze principes zijn de implicaties beschreven in document
@@ -257,7 +257,7 @@ sloop).'*
 
 ![](media/abc18e7e2beb8d1460aad0a11c304b4c.png)
 
-Figuur X: Het virtuele bouwwerk (middelste laag) draagt de informatie over het
+Figuur: Het virtuele bouwwerk (middelste laag) draagt de informatie over het
 fysieke bouwwerk gedurende zijn levenscyclus. Verschillende dossiers waaronder
 energie zijn gekoppeld aan het virtuele bouwwerk. (bron: Digitaal Stelsel
 Gebouwde Omgeving, versie 0.9 - Concept)
@@ -270,7 +270,7 @@ verduurzaming.
 
 ![](media/26ee3bf72783cea92f1cfd6e2d720e71.png)
 
-Figuur X: Data-gedreven verduurzamingsprojecten kenmerken zich veelal door
+Figuur: Data-gedreven verduurzamingsprojecten kenmerken zich veelal door
 realistische business-cases en lagere integrale kosten. (bron: Project
 Datastelsel Energieverbruik Utiliteit)
 
@@ -346,7 +346,7 @@ vergroten.
 
 ![](media/cc9ba7f88b00325e0e49a118b5967731.png)
 
-Figuur X: Het energiedomein (a Common European energy data space) is een
+Figuur: Het energiedomein (a Common European energy data space) is een
 onderdeel van de gedeelde Europese dataspace. (bron: Quick scan Europa en
 data-infrastructuur fysieke leefomgeving)
 
@@ -391,7 +391,7 @@ gegevens over alle vastgoedobjecten in Nederland.
 
 ![](media/daec1e680023dd5cd1223e825a814020.png)
 
-Figuur X: De achterliggende databronnen waaruit LIV is opgebouwd.
+Figuur: De achterliggende databronnen waaruit LIV is opgebouwd.
 
 Er is onderzocht of deze voorziening tegemoet komt aan de behoefte bij
 belangrijke maatschappelijke thema’s, zoals de energietransitie. Dit
@@ -430,7 +430,7 @@ IM Smart grids.
 
 ![](media/bd6a161dd1ba3f6a7eda865eff8a40ea.png)
 
-Figuur X: De mapping van het IMEnergie op CIM-CERES.
+Figuur: De mapping van het IMEnergie op CIM-CERES.
 
 **Data voor de TVW en WUP**
 
@@ -444,5 +444,5 @@ Het stelsel faciliteert het opvragen van verbruiksgegevens door zakelijke energi
 
 **Datasharing-initiatieven**
 Recentelijk zijn verschillende initiatieven ontwikkeld om - met resepect voor waarden als privacy, security en wdata-souvereiniteit - partijen binnen en tussen sectoren hun data te delen. De EU heeft hiervoor het concept van een [Common European dataspace](https://digital-strategy.ec.europa.eu/en/news/communication-towards-common-european-data-space) beschreven (zie ook hierboven). De Europese Green Deal zal een belangrijke kracht zijn om deze verder te ontwikkelen. Er is o.a. voorzien dat er een Common Energy Data Space zal worden ontwikkeld. 
-Verschillende initiatieven kunnen metrhoden en technologie bieden om invulling te geven hieraan. Internationaal zijn hier te noemen [IDSA, de International Data Spaces Organisation Association](https://internationaldataspaces.org/) en [GAIA-X](https://nl.wikipedia.org/wiki/GAIA-X); TNO speelt hier een belangrijke rol in als host van de Nederlandse IDSA-hub. Ook in Nederland zijn dergelijke initiatieven zoals het afsprakenstelsel [IShare](https://www.ishareworks.org/) voor de logistieke sector en de [Data Sharing Coalition](https://datasharingcoalition.eu/), een open en groeiend internationaal initiatief voor een afsprakenstelsel waarin een grote verscheidenheid aan organisaties samenwerkt om de waarde van cross-sectoraal datadelen te ontgrendelen. De Nederlandse energiemarkt wordt gefaciliteerd door het berichtenverkeer door NEDU en EDSN, wat vervangen zal worden door een [afsprakenstelsel](https://www.energie-nederland.nl/app/uploads/2020/09/Verhaallijn-datagov-traject_versie-1.1-def.pdf). 
+Verschillende initiatieven kunnen metrhoden en technologie bieden om invulling te geven hieraan. Internationaal zijn hier te noemen [IDSA, de International Data Spaces Organisation Association](https://internationaldataspaces.org/) en [GAIA-X](https://nl.wikipedia.org/wiki/GAIA-X); TNO speelt hier een belangrijke rol in als host van de Nederlandse IDSA-hub. Ook in Nederland zijn dergelijke initiatieven zoals het afsprakenstelsel [IShare](https://www.ishareworks.org/) voor de logistieke sector en de [Data Sharing Coalition](https://datasharingcoalition.eu/), een open en groeiend internationaal initiatief voor een afsprakenstelsel waarin een grote verscheidenheid aan organisaties samenwerkt om de waarde van cross-sectoraal datadelen te ontgrendelen. De Nederlandse energiemarkt wordt gefaciliteerd door het berichtenverkeer door NEDU en EDSN, wat vervangen zal worden door een [afsprakenstelsel voor de energiemarkt](https://www.energie-nederland.nl/app/uploads/2020/09/Verhaallijn-datagov-traject_versie-1.1-def.pdf). 
 

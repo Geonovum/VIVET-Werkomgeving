@@ -322,9 +322,6 @@ gebouwdossier is een volgende stap in het invulling geven aan de regierol.
 Er zijn verschillende ontwikkelingen waarbij het bouwdossier groot nut kan
 bieden: de energietransitie, circulair bouwen, de bouwopgave.
 
-NB: hier nog verwijzen naar de notitie ‘Rapport Digitaal Gebouwdossier’ van Dirk
-van Barneveld c.s. dd 2401-2020?
-
 **Europa en data-infrastructuur voor fysieke leefomgeving**
 
 “In 2024 is de Nederlandse INSPIRE-infrastructuur de basis voor het beantwoorden
@@ -446,8 +443,5 @@ Het stelsel faciliteert het opvragen van verbruiksgegevens door zakelijke energi
 
 **Datasharing-initiatieven**
 Recentelijk zijn verschillende initiatieven ontwikkeld om - met resepect voor waarden als privacy, security en wdata-souvereiniteit - partijen binnen en tussen sectoren hun data te delen. De EU heeft hiervoor het concept van een [Common European dataspace](https://digital-strategy.ec.europa.eu/en/news/communication-towards-common-european-data-space) beschreven. De Europese Green Deal zal een belangrijke kracht zijn om deze verder te ontwikkelen. Er is o.a. voorzien dat er een Common Energy Data Space zal worden ontwikkeld. 
-Verschillende initiatieven kunnen techno
-De Data Sharing Coalition is een open en groeiend internationaal initiatief waarin een grote verscheidenheid aan organisaties samenwerkt om de waarde van cross-sectoraal datadelen te ontgrendelen. 
-<https://datasharingcoalition.eu/>
+Verschillende initiatieven kunnen metrhoden en technologie bieden om invulling te geven hieraan. Internationaal zijn hier te noemen [IDSA, de International Data Spaces Organisation Association](https://internationaldataspaces.org/) en [GAIA-X](https://nl.wikipedia.org/wiki/GAIA-X); TNO speelt hier een belangrijke rol in als host van de Nederlandse IDSA-hub. Ook in Nederland zijn dergelijke initiatieven zoals het afsprakenstelsel [IShare](https://www.ishareworks.org/) voor de logistieke sector en de [Data Sharing Coalition](https://datasharingcoalition.eu/), een open en groeiend internationaal initiatief voor een afsprakenstelsel waarin een grote verscheidenheid aan organisaties samenwerkt om de waarde van cross-sectoraal datadelen te ontgrendelen. De Nederlandse energiemarkt wordt gefaciliteerd door het berichtenverkeer door NEDU en EDSN, wat vervangen zal worden door een [afsprakenstelsel](https://www.energie-nederland.nl/app/uploads/2020/09/Verhaallijn-datagov-traject_versie-1.1-def.pdf). 
 
-Gerelateerd aan Data Deel Afsprakenstelsel?

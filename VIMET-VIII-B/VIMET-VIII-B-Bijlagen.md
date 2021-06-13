@@ -137,13 +137,10 @@ Ook is er een grote variëteit van de wijze waarop begrippen zijn opgenomen in d
 ### Bijlage 3: Verkenning Use case – Gebouw en energie
 ------------------------------
 
-**Mogelijke scope**
+**Introductie**
+Aspecten van de use case “Gebouw en Energie” zijn al eerder beschreven in de [Verkenning Informatiemodel Energie-Installaties](https://geonovum.github.io/VIVET-Werkomgeving/VIMET-I/#inleiding), dat is uitgevoerd als onderdeel van Viviet 2019-2020. De informatievoorziening rondom energie-installaties is daar beschreven door het informatielandschap te beschrijven en door een inventarisatie van informatiemodellen. 
 
--   gebouwen: link met gebouw decompositie, datastelsel utiliteitsbouw,
-    installatieregister, EAN \<\> BAG, DiSGeo, WKB, en andere projecten in de
-    kolom ‘Bouw’ (schema hierboven)  
-    leidt tot bijv. IM-Gebouw, als verbinding tussen Energie / Installatie /
-    DiSgeo / BIM
+Om de stap te maken naar datastandaarden voor het thema (de use case) "Gebouw en Energie" is ook hier een verkenning uitgevoerd in de vorm van een omgevingsanalyse waarin stakeholders zijn benoemd, die met Vivet-projecten zijn verbonden. Vervolgens is kort beschreven welke relevante ontwikkelingen plaats vinden op het gebied van modellering van gebouwinformatie in relevante overheidsregistraties en welke projecten op dat gebied lopen. 
 
 **Omgevingsanalyse / stakeholders**
 
@@ -206,6 +203,10 @@ de fysieke deelobjecten uit de WOZ, de GebouwInstallatie uit NEN’.
 
 Het is de vraag of in, op of aan het gebouw aanwezige energie-installaties hier
 ook onder vallen.
+
+**Unique Object Identifier**
+Het [Unieke Object Identificator (UOI) systeem](https://www.geobasisregistraties.nl/actueel/nieuws/2021/04/12/informatiesessie-consultatie-uoi-code?mc_cid=08ad5542c7&mc_eid=882c4cbc1b ) is een digitale sleutel waarmee een gebruiker (mens/machine) op basis van rol en toegangsrechten informatie over gebouwen en objecten in de gebouwde omgeving kan raadplegen. Het ‘systeem’ als gedachte is ontwikkeld binnen de bouw- en vastgoedsector.
+
 
 **Common ground architectuurprincipes**
 
@@ -324,10 +325,6 @@ bieden: de energietransitie, circulair bouwen, de bouwopgave.
 NB: hier nog verwijzen naar de notitie ‘Rapport Digitaal Gebouwdossier’ van Dirk
 van Barneveld c.s. dd 2401-2020?
 
-**DiSGeo**
-
-PM
-
 **Europa en data-infrastructuur voor fysieke leefomgeving**
 
 “In 2024 is de Nederlandse INSPIRE-infrastructuur de basis voor het beantwoorden
@@ -437,31 +434,20 @@ IM Smart grids.
 
 Figuur X: De mapping van het IMEnergie op CIM-CERES.
 
-**Referentiemodel Stelsel Basisregistraties**
+**Data voor de TVW en WUP**
 
-PM
+TNO heeft in opdracht van het Kennis-en Leerprogramma, onderdeel van het Programma Aardgasvrije Wijken, een [inventarisatie](https://aardgasvrijewijken.nl/documenten/handlerdownloadfiles.ashx?idnv=1701562) gedaan naar beschikbare data voor het opstellen van Transitievisie Warmte en WijkUitvoeringsPlannen door gemeenten.
 
-**TNO Data voor TVW en WUP**
+**Datastelsel Werkelijke Energieverbruik Utiliteitsgebouwen (WEU)**
 
-Inventarisatie van beschikbare data voor het opstellen van Transitievisie Warmte
-en WijkUitvoeringsPlannen door gemeenten.
-
-**Unieke Object Identifier**
-
-Verkenning in het kader van:
-
-1.regie op bouwgegevens
-
-2.samenhangende objectenregistratie
-
-**Werkelijke Energieverbruik Utiliteitsgebouwen (WEU)**
-
-Het opvragen van verbruiksgegevens door zakelijke energiecontractanten,
-vastgoedeigenaren en gebouweigenaren. Andere gebruikers zijn Omgevingsdiensten
+Het beoogde [datastelsel](https://www.digigo.nu/projecten/overzicht+projecten/1744762.aspx) bestaat uit onderling samenhangende afspraken tussen eigenaren van utiliteitsgebouwen en energieaansluitingen, verwerkers van gebouwdata en energieverbruiksdata en gemachtigde derden. Afspraken gaan over regie, rollen, rechten en plichten en standaarden.
+Het stelsel faciliteert het opvragen van verbruiksgegevens door zakelijke energiecontractanten, vastgoedeigenaren en gebouweigenaren. Andere gebruikers zijn Omgevingsdiensten
 (tbv handhaving), ODA’s en beleidsmakers.
 
-**Data Sharing Coalition**
-
+**Datasharing-initiatieven**
+Recentelijk zijn verschillende initiatieven ontwikkeld om - met resepect voor waarden als privacy, security en wdata-souvereiniteit - partijen binnen en tussen sectoren hun data te delen. De EU heeft hiervoor het concept van een [Common European dataspace](https://digital-strategy.ec.europa.eu/en/news/communication-towards-common-european-data-space) beschreven. De Europese Green Deal zal een belangrijke kracht zijn om deze verder te ontwikkelen. Er is o.a. voorzien dat er een Common Energy Data Space zal worden ontwikkeld. 
+Verschillende initiatieven kunnen techno
+De Data Sharing Coalition is een open en groeiend internationaal initiatief waarin een grote verscheidenheid aan organisaties samenwerkt om de waarde van cross-sectoraal datadelen te ontgrendelen. 
 <https://datasharingcoalition.eu/>
 
 Gerelateerd aan Data Deel Afsprakenstelsel?
